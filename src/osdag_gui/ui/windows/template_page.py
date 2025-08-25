@@ -1517,3 +1517,11 @@ if __name__ == "__main__":
     window.showMaximized()
     window.show()
     sys.exit(app.exec())
+    
+# if __name__ == "__main__":
+#     sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+#     app = QApplication(sys.argv)
+#     window = CustomWindow("Fin Plate Connection", "FinPlateConnection")
+#     window.showMaximized()
+#     window.show()
+#     sys.exit(app.exec())
