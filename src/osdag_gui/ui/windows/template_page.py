@@ -1506,7 +1506,6 @@ class CadComponentCheckbox(QWidget):
     def component_connect(self, backend, check_box, f):
         check_box.clicked.connect(lambda: f(self.parent, "gradient_bg"))
 
-
 # Standalone testing
 # python -m osdag_gui.ui.windows.template_page
 from osdag_core.design_type.connection.fin_plate_connection import FinPlateConnection
@@ -1517,11 +1516,3 @@ if __name__ == "__main__":
     window.showMaximized()
     window.show()
     sys.exit(app.exec())
-    
-# if __name__ == "__main__":
-#     sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-#     app = QApplication(sys.argv)
-#     window = CustomWindow("Fin Plate Connection", "FinPlateConnection")
-#     window.showMaximized()
-#     window.show()
-#     sys.exit(app.exec())
