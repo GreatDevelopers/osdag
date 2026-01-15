@@ -13576,9 +13576,9 @@ s\xa9{\x15\x92\x22#L\x1f\x08Bz\xce\x18vG\
 ,\xfd\x7fb\x1f\xc9KL\xech\x5c\xfd\xdf\xd3\xa2\xfb\
 \xe3\xedR\xa8\xaefk\xa2o\xa8\xf1\x1bt\xb9\xb1\xb3\
 ?\x9d%\
-\x00\x00\x16\x06\
+\x00\x00\x16\x09\
 (\
-\xb5/\xfd`\x10\xa8\xe5\xaf\x00\xfav\xf4\x15-\xc0\xac\
+\xb5/\xfd`\x10\xa8\xfd\xaf\x00\xeav\xf4\x15-\xc0\xac\
 \xaa\x1e(\xf3\x14\x9c\x10)\x00J!\x0d\xb7P>\xc9\
 Q\xb9\xa9\xebXSEQ\xabbS\xd7u\xbd*\x85\
 W\x8d\xba\xe0\xba\x8a\x05\xbb\xaes\x01^\x01U\x01G\
@@ -13603,334 +13603,334 @@ i\x09\x1d\xe0\x01\xca\x8c\x84o/\x9d\xb1\xbf\xc5\xa1-\
 X\xa4\xc2\x12\xd1\x8fGaAa\x01\x22@/\xc0H\
 H$*\x12\x12\x8a\xc5\xa5\x17DzBa A\x81\
 E\x5cT\xb4\xa31\x14J\x81\x0b\xc5\xb2\x00si\x09\
-\x04\x11\x1d\x81M.\x15\xdd\xad\xb00\xa0\x03@\x04\xb1\
-r\x1d\xbf\x9b\xc4\x16J\x04\xb3\xf4\xc3\x8a@$\xca4\
-\xe1\x1e O\xf5tC\x92\x9e<;\xcf||\xb8\xbc\
-\x8c\xf5\xd0\xdf\x8f\xfe\x1a*-\x11\xca\x04vQ\xe9G\
-\xd5Uf\x89\xab\x95\xb7:\xb4\x0e?l\x1b\xfc\x98\x10\
-\xf8\xd6\x0c\x7f\x03q9\xcc\xdb\xf5\xf5\x9bs\xd2q=\
-\x0f%U\xae\x0bk\x9e3*\x9dk\xb8\x1e\xb9\xc0\x22\
-\x1d\xc10\xfd\xa0h\x85r\xdb\x5c\xe6\xdf8\xa5FR\
-'0\x94\x88\x89\x84\x82\x9eP0\x17\x0aE?\xa6\xd7\
-\xa8\xa7\xe2$\x9a$\x91\xe8\xa5\xcc\xa3\xde\x04-\xa9\x8a\
-\x22d\xb3\x9b\xe1?\xa8\xd7\xa2\xf3\xec\xf0_\xf4\xa5\xc0\
-\xc3[3\x0d\xa0\xe7\x95gh\xf7&\xac\x82\x01_\x03\
-\xdfK\x95\xe5=\x15$V\xef\x81\x19W3\xee$\x8d\
-\x01\xeb\xa4\xbb\x99a@\xfc\x0c\x7f>\x04Y\x13\x05\xd2\
-d\xa9\xa3?aQV\xac\x1e\xcb3\x90\x8c\xb5\xf9\x98\
-\xdd\xcf\x1c0\xfc\x86a\xc0g\xcf\xb8A\xe6'Ws\
-\xae\x9a\xady:w+\xb5\xe8um\xe3\x14\x0f\xef=\
-\xdd\x98&\xc8\xc1\xb5\xedB\xf9\xe7\xb6UL?\xf7\x1a\
-\x0cV\xbd\xea\xa9D\xd0\xf3X\x94\x0c\xacb\x15!\xf1\
-q\x9d\xb0\xa1e0\xe34\xe0\x9e\xf5fZ%~\x9f\
-~D\x7f\x94\xb7\xe2!I\xe8\xf8\x18\xff\xb5\x9a\x0b\xf6\
-\x953>?\xdd\x02\xe2\xac\xcf\x99\xdag\xa9\xe1\xd0\x9a\
-s\x17\xd1\xe0O\xaa~\xb2\x9edA\x8az,M\xb2\
-\xf2f\x9c\xe5\x07A\xef\xba}\x1c\xbd\x0aeQ\xdeD\
-\xb3\xcd\xf2on\xe1\xf8\xec\xd3r\x8f\xb95;\x94\x91\
-\xca,\xcb\x06(,p^n:\xfa\x80\xe8\xf1\xea\xcc\
-\xfe\xf6\xef\xc3f\x1f<6-\xc3\x10x\xfa\xcd\xf4%\
-\x19\xfd\xbf\xf0\xa2\xc1>\xed\xa5\x93-\xf7\x19\x04Y\xf2\
->v`\xea\xb8\x1b\x0c\xf2jr\xba\xc4\xea\xc6Dw\
-wwwGPf\xdd\xd0:\x0a\xaa\xb9\xcf\x12\x96\x85\
-\xbbi)\x8a\x8a1N\xb3\xa1\x1b\x9d7\x90;\x98o\
-\xd5\xe4\xae^\x122R \xcc\x9aX\x92\x0eJ\x90\x9f\
-\xfe\x91DQt]\x1d}\xae)\xa7F[\xef\xc4\x02\
-\x8b\xa0\x08fi\x1a\xd8\x8ay\xdc\x13\xcd\xc6\xa9\x1a\xdc\
-9\xff\xec\xc6c\xf8\x84\xf7\xcd\x0e\xdd\xaf\xc9\xbdu\xf2\
-\x03\xe6\xd4{\xddA\xeb\xd6:\x0c\x11\xa3\xf7o*\xf7\
-\x17\x9d\xbf[\xdf\xc7\xb8\x1e\x9b\xfe\x86\xd2\x02\x9e\xd5\xf4\
-5\x9c\xa6Uz\x05\xac\x97\x99\x8f\xb3\xc4\x99>\xfc\xbb\
-\xb9\xed\x06\x95\xd3\x11\xa3?H\xf3S\xd4\xa0\xe5P\xe6\
-\xebz\xc4b\xa9\xb8\x90\x5c\xfa\x01\xa1\xe0\xfb\xf3\xcf\x1e\
-#\xad\xf0!\xf4 \x7fr\xc6c:\x92\x82<\xeb\xa9\
-p\xa50\xe3\x99\xaa\x00\xb6\xb8+z\x82&\xd7\xaa~\
-[\xa3,\xf3\x9b\xa8\x0c\x1fg?\xbbS\xc5\x92\x5c\x1a\
+\x04\x11\x1d\x81M.\x15\xdd\xad\xb00\xa0\x03@\x04\x1d\
+\xbf\x9b\xc4\x16J\x04\xb3\xf4\xc3\x8a@$\xca4\xe1>\
+\xcb\x07\xc8S=\xdd\x90\xa4'\xcf\xce3\x1f\x1f./\
+c=\xf4\xf7\xa3\xbf\x86JK\x842\x81]T\xfaQ\
+u\x95Y\xe2j\xe5\xad\x0e\xad\xc3\x0f\xdb\x06?&\x04\
+\xbe5\xc3\xdf@\x5c\x0e\xf3v}\xfd\xe6\x9ct\x5c\xcf\
+CI\x95\xeb\xc2\x9a\xe7\x8cJ\xe7\x1a\xaeG.\xb0H\
+G0L?(Z\xa1\xdc6\x97\xf97N\xa9\x91\xd4\
+\x09\x0c%b\x22\xa1\xa0'\x14\xcc\x85B\xd1\x8f\xe95\
+\xea\xa98\x89&I$z)\xf3\xa87AK\xaa\xa2\
+\x08\xd9\xecf\xf8\x0f\xea\xb5\xe8<;\xfc\x17})\xf0\
+\xf0\xd6L\x03\xe8y\xe5\x19\xda\xbd\x09\xab`\xc0\xd7\xc0\
+\xf7ReyO\x05\x89\xd5{`\xc6\xd5\x8c;Ic\
+\xc0:\xe9nf\x18\x10?\xc3\x9f\x0fA\xd6D\x814\
+Y\xea\xe8OX\x94\x15\xab\xc7\xf2\x0c$cm>f\
+\xf73\x07\x0c\xbfa\x18\xf0\xd93n\x90\xf9\xc9\xd5\x9c\
+\xabfk\x9e\xce\xddJ-z]\xdb8\xc5\xc3{O\
+7\xa6\x09rpm\xbbP\xfe\xb9m\x15\xd3\xcf\xbd\x06\
+\x83U\xafz*\x11\xf4<\x16%\x03\xabXEH|\
+\x5c'lh\x19\xcc8\x0d\xb8g\xbd\x99V\x89\xdf\xa7\
+\x1f\xd1\x1f\xe5\xadxH\x12:>\xc6\x7f\xad\xe6\x82}\
+\xe5\x8c\xcfO\xb7\x808\xebs\xa6\xf6Yj8\xb4\xe6\
+\xdcE48?YO\xb2 E=\x96&Yy3\
+\xce\xf2\x83\xa0w\xdd>\x8e^\x85\xb2(o\xa2\xd9f\
+\xf97\xb7p|\xf6i\xb9\xc7\xdc\x9a\x1d\xcaHe\x96\
+e\x03\x14\x168/7\x1d}@\xf4xuf\x7f\xfb\
+\xf7a\xb3\x0f\x1e\x9b\x96a\x08<\xfdf\xfa\x92\x8c\xfe\
+_x\xd1`\x9f\xf6\xd2\xc9\x96\xfb\x0c\x82,y\x1f;\
+0u\xdc\x0d\x06y59]buc\xa2\xbb\xbb\xbb\
+\xbb#(\xb3nh\x1d\x05\xd5\xdcg\x09\xcb\xc2\xdd\xb4\
+\x14E\xc5\x18\xa7\xd9\xd0\x8d\xce\x1b\xc8\x1d\xcc\xb7jr\
+W/\x09\x19)\x10fM,I\x07%\xc8O\xffH\
+\xa2(\xba\xae\x8e>\xd7\x94S\xa3\xadwb\x81EP\
+\x04\xb34\x0dl\xc5<\xee\x89f\xe3T\x0d\xee\x9c\x7f\
+v\xe31|\xc2\xfbf\x87\xee\xd7\xe4\xde:\xf9\x01s\
+\xea\xbd\xee\xa0uk\x1d\x86\x88\xd1\xfb7\x95\xfb\x8b\xce\
+\xdf\xad\xefc\x5c\x8fM\x7fCi\x01\xcfj\xfa\x1aN\
+\xd3*\xbd\x02\xd6\xcb\xcc\xc7Y\xe2L\x1f\xfe\xdd\xdcv\
+\x83\xca\xe9\x88\xd1\x1f\xa4\xf9)j\xd0r(\xf3u=\
+b\xb1T\x5cH.\xfd\x80P\xf0\xfd\xf9g\x8f\x91V\
+\xf8\x10z\x90?9\xe31\x1dIA\x9e\xf5T\xb8R\
+\x98\xf1LU\x00[\xdc\x15=A\x93kU\xbf\xadQ\
+\x96\xf9MT\x86\x8f\xb3\x9f]\xac\x5cS\xc5\x92\x5c\x1a\
 GZFt7\x01\x8c\x84c\x92\xa2I\x8a&)\x92\
 &)\x822\xfbL\x10K\x93\xde\x8a\x16\x942\xd6W\
 \xd0\x8bX~\xae4\xca&vP\xd4#Q?e\xbe\
 \x82\x90\x87DH;n\x85\x1f\x1d\xd4\xffu\x0a\xebF\
 W\xdedE\xa8\xe7\xa1 \x98\xb5\x00`\xef~D\xa2\
 A\x90\xe8A\x18A\xa9z\x5c\xa7\xe4\xd6\x8c\xff\x22\xc3\
-)\xa7$\x95\x13u\x82\xa4gj3\xfb\xcd1\xfe\x8e\
-`\xb2\xd8\xc8\xb7\xda\xbf\x19\xdd$\xfe\xf8\xd9\xa3E\xb0\
-y\xc4\x15\x1a\xfe\xee\x00\x06\xc6p\xcd\x1d\x06k\xa2L\
-k\x04y\xabF\xa3y^e&\xe8q\x88W\x9dI\
-+\x1aD<\xa5\xe7\x8fY';l\xd8\xceV\x9b\xdd\
-\xcf\xce5lu\xba\x9c\xcc\xa7n\xbb\x82P\xc6{\xdd\
-U[\x89\xe91b\x0d\x07\xf7\xd6\xc3F\xbcn\xce\xcb\
-\x04~3\xd6\xb0\x03=M\xd4f\xb8m\xcd\x12\x1c\xb6\
-\xdex]\x12\xaa\xc6\xd5HR\xa146\x19\xa6\xff\x9c\
-\xfc\x1a\x84\xed\xf0GY`\xf2\xaa\x17q\xff\xb0\x08_\
-\xcb\x83nq\xa5\x95\xeb\x06\x00\xceS\xf4}y\xbb*\
-\x01`E\xd0t\xe0\xadZ\x9c\x8a\x0e\xaf3C\xd1\xee\
-A\xd6\xd3\x8d\x07=\xaf\x01=\xd7\xd3\xe9\xc6\xf4x\xd7\
-\x93\xd1\x8d\xe8\xf6\x8a\xfe\xd7b\x07\x08\xd0EM\xcd\xb1\
-\x8c\xd7\x95Q#\x92\x03}k\x15\x86\xe3\xa8#\x1b\xae\
-R\xca!\x11\x11\x91$I2\x1c\x13A8\x0c\x0c\x0e\
-\xcb\xaab\xa1d\x9d\xe6\x03\x93 \xe1@p\x0c\x83\xc2\
-A0\x19\x0c\x0c\x83\x82`P\x12\x84B\x10\x1aB\x10\
-\x84i\x901\xc6\x12C!\x89\x1b\x9b,\x85\xecsl\
-(*\xc0\x5c\x9dt\x09\xabc?\xd3\xc8\x10\xb34\xa6\
-\xf7j\x88\x01/\x06\x0f\xb69!\x80H\xc4T\xb6\xf6\
-\x07\x0e\xb1\x10\xfe\x5c\xdc\x84\xa9#\x93x:\xca\xf6V\
-\xde\x91;\x90\x1a\xad\xe0\xa9\x9d\x1b\x8b.V?p\xdf\
-\x7f^\xea\xb9}\xcay\xcc\xca\xf6\xe3\xf3iS\xab}\
-m|g\x22\xed;\xe9%\xbc\xb3O\x93\xc7<\xcb>\
-\xd1x\xe2\xc3\xeb\x07\xfb\xd4\xf4\xf3kr\xa7\x1b\xc7N\
-\x049\xbd \xcdz;\xf9P\x89\xa5\x9e\x13|M\xf1\
-7MW\xc8\xc3\xf7\x90\x11\xf59\x04\x03\xfa\xb1(\xd9\
-\xb7F\xc2X\xd4H\xaa\x7fE\xa0\xf5u\x80\x87@\x17\
-\xe1\x92@W\xe0\x02]\xf5n\x06z\xf0\xf9\xb7\xa6!\
-\x97\xec\xc1\xbb<Y\x97\x8f2\xe2\xe9{H\xb1\xc0\x03\
-<jzz\xc5\x0e\xc0y}\xb7\xb6\x00\xc4!\xbe\x84\
-8\x081\xb8\xb5@\x0d\x11=6\xd2\x90c!u\x80\
-\x90\x8d\xc5Y\xb9\x898\x07\xe8oR\x86\x17VQ\xd4\
-\x0e\xf4\x92\x05\xc0\xfd\x86\x99\x7f\xf4\x93\x02\xf8\x00\xdc\xa3\
-\x98\x07\x1e\x00\xecQ\xf7\x90\xdd\xb7\xbf6m\x7fm\x83\
-\x0f'\x9f\x0b\xaf\xf3F\xb1\xc2\x06\x16\xa8\xa0\x02N\x1a\
-\xb61.\x12\xd5T\xfb\x81\x17\xbb\xc2\xf2-\x85\x02\xb7\
-\xf0\x08i\x8b\x94\xe51\x22\xdcb\x19\xd4\xf9\xfd\xd8s\
-xD\x13n\x9aO\x9e\x99.\xed\x08\xed\xa4\x99\x80\x08\
-\xb6\x84\xff}\xb2\xf1\xb2h\xfb\x0ab\x19\xd3o\x9fR\
-\xaf\xe8\x9c\xb5\xb3\x13\xcc\xea\x87p^\x1f7\x96Gb\
-\xbestbQ\x86Y\xd3\x0b\x918\x07\xf4)\xc4\x07\
-g\xc3\xa3V\xc7\xec\xe8\xd0O\xb9\x9f\xc3\xe4#\xf9\xcc\
-\xc2D\xbd\xb8\xf1\x9b\xd1\xf6wiI=\xbb\x04\x9cl\
-Wdv\xb8\x8a\x95\x94\x87$\xe7\xa4\x147V\x9fA\
-%n\x16\xc4\xb6\xb6j\xc7\xfe\x88\xfe\x5ch\xdd\x97\x13\
-\xdeDK+\x0b*&\x5c2_\xd3\x1d\xb8\x0dk\x8f\
-\xae\xc5\x95YT\xdeR*MP\x9b\x0ca\xe2\xda\xa6\
-E\x01@\xc5\x08\xcc\x98\x1dC/\x8c8)\x1a\x09-\
-p\x03+\x11\xdf\x91\x95`\xf1\x8f\xa5\x1cu\xb9\xabS\
-`v\xd2\x0a\x89\xb6\xa9LeB\xa3\xd2fzu\x92\
-\xa7V\xf6\x01\xd0\xb9\x96\xa0G\xf8+\x9d\x8a\x11\xf3\x90\
-\x1a\xd8\xf9\xf0\xa0\x01}J\x88\xf9)\xbc\xc6\x90r\x9a\
-\xa2L\xe2\x0d?\xd1\x95S\xb9\xeb~>\xd3\xfdz\x96\
-\x9e\x9d\xf1\xa1\xfa\xc7\xb7\xad7L\x84T>\x93\xa7\xfa\
-\xcd\xd0\xb4\xa3``\x09\xd2r\xf4\x03\xf9\xc7$\xa04\
-x\x98\xc8\xfeA\xca\xb6\x03\xb8\xb4\xa7#\x97\xd2\xcc\x18\
-\x1e]U\xc4\xefF\x93\x12\x8f{\xa8\x00\x12U\xe1\xff\
-\xd3\xf8\xe3\xc9\xb5\xdf\xde\x16n\x16\xec\x81\xe1\xac\x00^\
-\xd9U\xf8\xbd}\xb0\xf2\xec\xcd\xa2\x053 \xa4\xa6\x10\
-!\x1d\xa7\x01\xad\x8f;\x18\x9d\xef\x01S\xf51\xcf\xfb\
-bo\xbe\xa2\x02\xf4\xc3A\x01\xbaE\x91G\x97\x88'\
-)\xf1\x1c\xc3\x90o\xce|\x9a\xcf\xe5\x96\x83\xb0\xe4\xfc\
-\x15\x1a\xda\x1e\xa7\xc6(>\xd1\x19\xc2\x92\x08\xc7\x93\xe5\
-.\x22\x8f=/\xab\x1b\x22\x06\xf2\xac\xb3\x0cxD\x09\
-~;IP[\x1a\x84\xc8\xc9\xaf\xa7\xa2;\x95Q\xf5\
-\x1d2R\xa4'\x12G\x0f\x8b\xbd&\x812\xd0\x13S\
-M\x89\x93\x03\x99D\x9b|\x8b\x9d\xdcJ\xa7oo\x93\
-\x96\xb8\x97\xa0\xbbk\x8d\xf1+3\xc2\xf4\xcc\xc5{A\
-\x88\x1f\x08\x19\x9eU\x0a>\xa6s\xdd\xb1\xec\x8a\xf3\x08\
-\xfd\xef\xe3vK/E`\xfe\xc3Iy6\x92e\xd5\
-\xa8\x1c\xbb\xa3\x03\x03\xa4\xba\xc52\xfd\xb2\x19Y\x19`\
-\x0e\x1f\x16\xbc\xab\xf6\xa8\x9e\xf4_\x15\x18K\xb0\xd1X\
-\xd2\x96\x8e\xc6\xdeV\x22\xf1\xf0\xb1>7\xd3\x1aZ\x84\
-(\xc2\x85Q\x19\x09\xa2\xad\x86\x10\xb9x\xa9ta\xb9\
-\xf5\x06B(\x1b\xc2\xf4\xc0!=\x90\xdf\xbb!\x8a\xd4\
-\xad\x96>\x83\x98\x83A\x1c\xa0\xaf>\xbe\x03\x5cUd\
-,2\xfa'r\xed\xba\xb8\xd3\xbfV}\x83\x05b\xb3\
-5\x01\xd9\x1fCu=\x22\x99\x09\xafc\x9f\xcd\xc3\x9b\
-i\xb5\x9e\x10\x9d\xf1M\x08-\xe1I\x83\xa0\x9d\x0f}\
-\xca6\xae\x17h\x0c\x0e\xa20\x8a\xcf\x1a\xa7-\x8f}\
-\xb6\xf2\xcb\x22F\x14\xe5\xb3\x16f\xf36\xdb\xb2\x0b2\
-C\x8dL\xa9Jz\x167\xe2i\xd15\xa9\xa6\xacU\
-\xeb\xa2\x08\x11i\xab{9\xe81\x1e\xf3\xf2\xae\xe7N\
-\x22\x08\x07L\xae2+=\xa1\x94\xa68\x9c!\xb69\
-9\x02\x06\x5c\xa1\x0d\xf8\xe5\x1eS{\x90\xab6\xb6\xfa\
-\xd8K\xaai\xb9\xfd2\xa3\x05\xe0\x9c\x13\xa0\x8a\x9a\xc2\
-\x00\x99H\xc3\xb0\x14\x90\xd38l\xbe5\xeek\xc8\x80\
-\xc8\x05\x1b\xe7~\x81[\x0d,?\x9e\x84\xc8\xca\x9f\xfb\
-u?O\xbc\xf4.\x96\x9c\xa7}\xbf\x1f\xbc\xbc+E\
-\x13\x13\xf2]\xd2X\x91\xe9\xcd\xd2^\x19\x95\xe8TD\
-\x16\x09\xcdQC\x05\x09H\x8f\xf8\xe6\xa6\xe0\x93\x05t\
-\xf59\xc290\xb9\xe3\xd3\x97\x91*'\xda\xb1\xd5T\
-\x8fF\xa4\xa3\x07\x11r,\xe9HW\xca\xcd+.\xd6\
-\x06\x80\xad\x18(\xd9i\xb5D\xd3\x7f\xe9\x94\xc7\x0e\xd1\
-\xa2\xa7\x8dVC\xaa\xc9\xe2\xf9\x8e\xe5\xdeu\x1a\x13\xc2\
-\x07\x89\x94\x94Z\x9e\x17x\x1e\x0eX\x880\xff\x0a\xad\
-\xe9\xb3\xea\xc7R5\x86R\x80W\x88\xf16\x10[E\
-\x1f\x91\xd2O\xbe\x85\x15{\x83U7\x1c<\x13\xe6E\
-\x01r\x8bo\xa41\x93\xa9\xa1(T\x13w8\xa8\x93\
-#\xe0c\x92\xdey\xbdK\x8bgb%4\xc8\x9f\xf9\
-+\x00\xb4\xa1*\x8em\x1e3\xc4\xe0\x89\xf1=\xe7h\
-Qz\xff(\xd2\x81x/W\x00\x0c'\x80C\x81\xe4\
-i\x9b)\xd4\xcal\xff'8jc\xa7\xf4\xb9|U\
-g\xa3\x07\x9d\xa1^Ls\x89\x8eG\x1ctj\x7fS\
-I\xfd{\xba\xfd>\x00\xc9\xc6\x944d\xceRjR\
-\xa0 D\x80Qf\xe1\xad\xe1\xcf\xca4\x9c\xc5\xd4[\
-\xa3\xaf\xdf6t~\x10\x1dHW\x17\xd7\xd0\x9dm\x00\
-\x88\xd7\xab\x0a\x1d\xe2:\xc1\xd1W\x07\xba\xde4\x82v\
-y\xf3\xd0\xc9(\x9aD\xee~u\xfe\xa4\xfa-\x88\x86\
-\x80\xa5\xef\xea'\xe7_\xdfD+\xe8\xc1\x8e\xa9\xbf\x93\
-%\xa2\xd8A+kr.\xdb\xc6|\x99\xae\x16\xfeF\
-\x1eL\x9a\xde\xb9CJ\x95\x88S9\x83Hz\xc2\x89\
-\xbd\x83\x0c\x99q\x8e\x92\xe1L)\xf6P\xe8\xf7\x060\
-\xa9\xe9\x15\x0ce\xc6z \xb2I\x90\xc45bS\xa9\
-`\xa2\x7f(\xee\x04\xb2\xb5\xc0\xc7\xc7\x85\xcc\xec\xbe\xbc\
-\x1b4}\x0a_\x16\xd8\xbd\xc5\x8a\xbf\xcf\xf8\x98\x0c\x7f\
-\x07\x9b\x8c\xc7\xca\x99\x95\x0cN\xc9\xb0\x16|M9\xc4\
-\xc3W\xe2`\xc9P@C\xb0\xe3\xda\xcb\x86T\x89\x00\
-Bi1V\x13w*\xe0Q\x90\xd9J\x81\x10\x87E\
-\xd8\xc0A,\xb2\xab!<\xbd\xfdp\x84\xc9\x06w\xc5\
-\xc3\xad\xcaZ\xd6\xd7\xf6p >\x16\x0a\xe1\xe1\xdfC\
-\x04BM\xdd\x0b\x01\x8d\xa5c\xc3#\x12\xbc\x0c\xb4\xb4\
-\x0b=\xa94\xa3iN\x89\x91\x5c\xd4 \x09r\xa7\x99\
-\x1dJ\xe2\x85A\xfa\xed\x00$\x95\xcc\xb3?\x9fk\xac\
-\xb3\x98\xaf\x0ex7Z\x87\xc8\xf0nB$^\x0b\xb2\
-\xa50e\x96/\x84\xa7\xceo\x04N0>\xcb7\xe2\
-\xe5\xfe\xaaOF\x82O\xe8\xc5&\x89\xf0\xe4\xfbO\x87\
-\x88(7\xd1m-\x1a\xbe\x98\x86\xeb\xf8\x8d\x09\x84\x0e\
-\x5c\xe8D\x17(\x95#\x8d\x8cW\x5c\xcd\xa4\xa9G\xb9\
-\xe0A\xd1x\xa3\xb6g\x12\xf2\xb4{\xa5m\xf49\xb5\
-\x07\xfe\xf4V\xcc\xa1\x0a\xba\x11S#\xb1\x81\xb6&\xd9\
-\x0c\x8a\x95\x16\x96w\x99@\x17\x8f0}\x024\xbc$\
-\xa3\x12\xcd\xed\xc3\x8cEG\x0d\xdb[\xba#\x80\x93\xa9\
-\xaaC\xdb\xbb\xc4J\xc3\xdf&0\xca\x99\xe1*F\x06\
-\x89[\x87\xda\xe4\xab\x1d{c\xa4\x86\xdb\xf4\x94\xd5\xbb\
-P^\xb2\xb5\xb2K\xd7<\xc5\xa2\x053\xe16\xc7\x84\
-\xe0(aRB\x99wL\xa2%22\x94\x9d\xf1f\
-\xa7\xf1\xceo\xef2\xe7\xd2\xdfD\xee\x9b\x0b\x17l*\
-R\xfe\x5c\xab\xbd\xc2!\xd1\xa2\x11\x07$\xf3R\xa4\xfb\
-qa\xc4p\x07\x0c\x14/\xfa8Ce\xb9~\x1d\xd5\
-\xb4\xc1\xfaM\xee8\xfd\xc0x\xd7\x00\x15\x8a\xf9\xeff\
-\xcc\xf7\x9fzH\x0bS\x1c\xb5\x95\x1d\x1e\xfc\xa1R\xf8\
-X\x14#\xddaw\x0f\xf8M\x98\xbbz*, J\
-g\xbe\xd6H\xc4\xd8r0\x9aq\x85\x8dw\x7f\xfeg\
-\xb2\x22\x11\xfd`\xe3Gb\xd7\xb6\xd0\xda\xc6\xab)\xe9\
-x?Z&\xd4c\xdf\xbf\xe5\xfd\x8d\xf7:\xa9\x15\x82\
-\xe4\xc4\x83\x11\x02\x04\xff#H&a\xd1U\xb8\x7f\xfa\
-\xce\xa4\x86\xd23\xd0p\xbd>\xb3\x1f\xeb'Onr\
-\xa3}\xf6`\xed\xba\xdb\x87\x80k\x0e\xacK\xfe\x1bc\
-O,\xbe\x94O\xc1I\x94\x1ah\x1b\x11\xde\x81\x88~\
-\x82\xf8\x80\xb0\x8c\xbf\x1f\xbd\x86H\x8d\x1b\xb4>p{\
-\xd8\xe7\xcf\x1fQ\xcc\x01\xe6,\x22\xfbi\xd7\x8a\xc0v\
-8]\xc6H\xc4\xf3\xdb=\x1fd\x19\xc5\x87\xf6=\x83\
--\xa2$\x87V\xdc\x0d\x94\xce\x13\xf7\xa6'dw\xe0\
-\xc3\xd7\xea %\x1fyI8\xa1$\xad\x0cg,\xdc\
-;\xf6\xefMb}-\xd6\xe2VI\x88;\x1bmF\
-\x17)\x08U\x0fo\xdaM\xf7\xdf\x1b\xb2\x19.[\xb0\
-\xde\x99o\xa61#\xcb\x96\x87&\x1d\x9au\xf6\xda{\
-\x0a\x8d\xb04y\x0cm\xb4~\x8a\xd6\xdf@\xcb\x10\xcc\
-\xfe\x07Nw\x5c\x1e\x07\x09\xd0p\xdb\xae\x8c\xc1.\xa4\
-\xd9u\x86R\x89(F?\xbc\xe6g\xc6i\xf2\x07\xd2\
-\xf3\xe3\xa0\x0b_ :*AU0T\xe4\x80\xf6\xc9\
-,\x065\x16&`\xf3\xb9\xd5q\xc0X\xdfn\x8a\xfe\
-{@\xd5g\xde\xfcSb,\xc5t\x8d\xc9C\xc1\xbe\
-\xeb\x02\x01\x9c\x96y\xf1\xefd\xbf\xc4\xcd\xa4\x01\xa4.\
-\xc0\x9f\xe8\xc1R<\xb0y4&\x8fr\xc4\xc2+\xcc\
-L\x95\xea\xd9f\x9e\xd5J\xab\xcaK\x0a\xd0\xd3\xe9\xed\
-\x00\xfc\x96~\x93\xe6;=\x22\xb9\xe9\xf1D\xe9\xa1\xa7\
-\x90\x9ex\x8f\x9e\xa6A\xcc\xa2X\x07)\x03\x11\xbcp\
-7\x164Z\xe2_\x8f\xeb\xab\xd1\x8c1\xb5[\xcc\xb6\
-GF\xdf\xdc\x8b\xb1E^$\xebP\x11\xa5\xca \xe4\
-\x13_r \xfa\xf7\x91\x0c\xa1\x84\xbc:\xe6D\xcc\xd3\
-\x1a\x88j\xea\xe9\x8d,D\xe7\xd3\xb1\xdf\x92\x1cb\x8f\
-\xf6\xfc\xc5P\xd3\xf8\x0b3V\x02\x03\xbf\xd0hLc\
-\x1a\x9d\xe4H\x90\x9c3%\x8d\x99\xa1%\x19(}!\
-4\xdc\xe9\x0c:5q\xce\x07\xdb>|\x11\xb4\x1bB\
-\xed\xe9\xdc\xd2\xaf\xc8\xfd\xcb\xb1\xbbG\xfc\xb8\x81\x05\xb8\
-\xa5\xffp\x0d\xabn\x19\x0aNk\xb2~N\x89\x97~\
-\x9a\x88E\xdc\xc8l\xba=\x07\xde\x1a\x1f\x86'\x07\xcf\
-\xb8\x14!\xf0\xc5\xd3\xd2\x80B\xf5\x90\x8d\x94\x1b\xbe\x1e\
-)\xca\xe8\xc8\xa9S9vu)5$\xa5\x9c\xea\x22\
-\xect\x94\xd9\x9e\xb0\x91\xe3\xde\x97I\x08\x7f|\x86\xd8\
-\xdb9\xde@=\xb1\x971\xc4(\xb1b\xf16[7\
-\x92\xdf\xea\x03=\xb5\xcf\x9f\xaf\x7f&\x0e\x14\xb5-\xbc\
-\x1bf&\x8fT\x86\x22Z\x19@ZO\xfa\xaa\x1f\x12\
-\xdf \xbc\xe0\xa6\x92\x83\x1f \x98`)z*\x1e\x91\
-\xcc\x1b\xcc\x04\xe4\x11\x02 uW\xa6\x1a\x8ep\x1e}\
-\xdf\x0bn]\x91*_\x0e\xc2\xc0\x22\xcc\x87B\x8ao\
-T\x5c+(\xa4b\xd43\xc1b\x13\xdd:\xa0jZ\
-\x5c\x12<\x80\xf66\xda\xea\x81H\xa7\x17U(\xdd\x82\
-O\x14U\x8eV @@C\x07#g\x83 K\x1b\
-\xf1:\x01\x95\xa0\x1a\xc2\x05\xf9\xae\xfc*Aa\x11\xb0\
- \xdc\x99\xaa\x94>\x80\xe5T\xe7\x0f\x0a\x18^\xb5\xf9\
-S\x80\x93\x1fS%\xc7\x98KmU\xb0\xec,i\x03\
-NX(\xfdNH\x84*\xe7\x0f\xc0\x1a\xc4\xb9\x88\xf5\
-J1\xa0\x07h\xbe\x15\xbd/\x8c\xd6\xf8Re?\x10\
-D\x03\x84MO\x0904J\x91\xa8\xee(\xbd\x09o\
-\xb6mK\xbe\xbd`\x03\xcb\x0e^\xa2;\x86\xb6\xa4\xc2\
-I\xcbF\xb6\x9e\xa4\x93_\x07\xaf]\x83(\xfb\xb3;\
-\xf6\xab\x1aA\xf2\x96W\x93\xe6\xc7J\xa9V\x913*\
-$P<\xc9:\x80\xb8d\xe2\x85\xa8\xe8\xb4\x1f\x13(\
-BEFK=\xa3/\x96\x02\xd4\x85\xd5\x92\x1egB\
-\x94\x11i\x84\xb3\xa4_i\xeet\xd4\x8a\x1d\xa0\xb6\xe1\
-k\xffF\x08@\xd2\x98\x8ew0\xc3f)\x19\xfea\
-\xb2}\xe9\xa9\xfd\xb4\xd5\x16>\xe0d\x22\x0c\x01x\xb2\
-3D\xce\x93\xb8zr\xa7l\x85\xc1\x05\xcc\x94.\xe7\
-2Ci${x\xef\x1a\x88\xf6\x01/\x08\xeb\xa7\xd3\
-\xb9\xd9\xe4\xf0\x9a#\xad\xael\x94C\xde,\xf9\xc8e\
-\xa1P\x9cs @\xee\x9d\xd4\x04\xbe\x99nq8\xe6\
-\x9a\x22 \x90\xb1.\xfdP\x10 ))0@i\xb7\
-P\xb8\x10\xa4\x16\xfe\xdf\xdb\xe2T\xc8+\x01\x91\xe2\x07\
-\x12*/\xac\xc3\xe2\xd5K*\xeb\x9d\x09\x9d/\xcbU\
-Q/0]Qz#0\xdc(\xff\xd7\x80)\x0c\xdb\
-\xc9\x97\x97i\x8b\xbe\xabL\xa7\xec]FoD\x97\x94\
-\x80\x85\xa9C\xc0\xffFr&\xb7\x94\xf9\x0b/~w\
-\x9aFV\xb3,\x8dZ\x94\xc4#,\xb4?\xa0e\xf4\
-FG\xd7\x1eko`\xbb\xe1\xcf\xa2\x04\x95T\x05\x03\
-\x0c\xa5\xb4\x84\xad>\x05\x18\x8b\xcf\xd9H\x84\x12\x0a\xb1\
-o3,\xc6\xf5'u\xdc@\x22\xfe+s\x90C\xc8\
-\x9a\xbbD\xb4=\xe9\xdf\x9d\xfc\xed4\x83\x14\xa4\xfb\x0b\
-8\xb2\x18V\xd5\xe2\x1e\xd6\xb3e\xf0\xc4\xac\xa0\x9d\xa6\
-\xb43&P\x90B\xfd'\xd3\x97\x1c\x85[zx\x97\
-6yW(\x0cD04\x0c\x8a@\xb3\xa3!\xea,\
-\x09\xd5\xba'\xaa\xc1I\xbcN\xd6z\xb7\x9cJ\xdeL\
-\xf4h\xa5-C\xefl\x1a\xa1Ol\xed\x88\x110\x8e\
-N~\x86K\x92pQ]D\x13\x01\x04\x89\x08\x9cN\
-k\x87\xa9\xe8B\x02\x04\x00\xe3_\x00\xeb\xd4,\x93\xf1\
-A\xd0\x5c \xd5\x9c\xe1\xc4`\xf9\xb2\xebEe\x7f\x9b\
-\xbc\x96\x9e\x8bS\x8a\x95}^\xafU;\x91\x0c\xd9D\
-\x91\x94S\xddL\xa8\x04Sl\x98MXL\x04Xe\
-\xa7\xe9\x02\x90\x11\x9c\xec\xe7fd\xdf\xfa\x9c\xfe\xbe\xab\
-0\x0d\xc9'\xf3\xf4u\x95\xc3K\xde\xaa\xa9\x14\xdb\x95\
-\x80\xa2\x92\x8e\xde1\x043\x9a|\xd2\x8c{\xff\x8e\x87\
-:c\x05V\xe8\x5cA\xff\xfb\x93S`\x02?\xe1,\
-82\x81\xc26l~(b\xcf\xe4\x80\xcfR\xc1\xc8\
-\xeb\xbb\x00\xf6\x84\x02\xb6\x95E\xb6\x8d\xa9\xc1a1\x1c\
-\x95\x05\xee\x94C\x96\x81\x92\x92\xed\x0c-\x87\xd1.\x22\
-\x11\x17\xef\x17\x9b\xe8\xd7\xe9M\xa6\xa5[\xd7*X\x88\
-&r\xfad\xacp0\x998\x22\x07\xc6;,C{\
-H\xbeMK\x87\xc9\xae\x80\xe8|6\xc1\x02\x1dA\xbe\
-\x1c\x90\x0b]\x0a\x7fDo8?-\x09@h\x14\x81\
-@\x93\xc4\xb20[\xe1\xd7\xe4%\x84r\x17\x0cI\xe3\
-:\xac}\x9ce&\xe7\xf7?5\xad+wPa5\
-!A\xe5<\x885\xc7\xc1<\xd0\xb06l\xa0d0\
-SN]c\xbb\xe1\xd8\xf1e\x19MB\xf4\xddM\xe6\
-j\x9bS\xac\x13G\xf1R\xf9X\xe0\xb9lO\x9f\x88\
-}T\xbc2\x05E\x0e8?\xeb\x87\xed?@\xe7v\
-+\x02\x90\x82\xeb\x9c\x96\x84\xd4\x13\xc9\x95M%\x9bC\
-\x139\x7f]!)\xc9:J\xf3\xcb:\xfc\xf2\x01\x08\
-&\xf0\x0a\xe9K>w\x7f)\x8d\xe6\xc6\xb0\xd7+U\
-I\xde\x0f\xda\x08\xd5\x86}\x03\xb3\x8f#!\xfe\xda\xf8\
-\xcdCf\x8a\x15\xf0x\x85\x8e\x8e=.O3\x86\xbd\
-\xab\x9c%\x97\x8c\xb7\xd6\x96j\x8d\xc1\x1dq\xd8\xf58\
-\xc31\xd4\xfa\xf9\xe0O\xd9\x0fo\x0c\x81{\xe4\xddO\
-\xa8\xad^\x9a\xeb\xf8v\xf1d\x04\xf7sSC0q\
-f\x05\xc1\x9c\x0agZ\xb5\xa0\x5c\x85\xa4\x08\x93\x9c\xee\
-&&M\x17\xf7\x83\x8fw[Q\xdc\x14\x18\xc6\x01\xc7\
-\xe2g\xe5q\xf2\xa4\xf9\xd8\xaf\x06jKd\xab\x0b\x09\
-\x08\xb6\x0f\x0fww\x98\xca\xc71k\x0c\x9ax1'\
-\xddpg\x90Dq-A\xbe'\xdc \xa8;\x90\xe4\
-8T6\xe6\xdf\x07\xc9\x03\xfc\x87\xe7T\x12\x83\x8f>\
-\xa8\xe9'\x1e$SG\x0fq\x0c\xdc\xcdC\xb8LP\
-C9\xad\x02[+\xc1hR\xc2\xc4,sa[\xf8\
-\x96\xc8s+\xecy\x83\x00\xc9J/\x99\xb8\xe2\x01\xa1\
-\xaf\xd3\xaf\x0e\x0a\x06\x7f\xd4\xe7`\xa6dme\xd6\x9e\
-\x11='r!\x17\x81\xc4G~\xe1\xa5\x9d\xe9\x03\x9c\
->\xd3n\x0dn\xe0\x03\x1du\xe4ZE\xc5\xc8\xce\xb9\
-\x86\x0c\xc6i\xef#\x94a\x8e\xb9d\xa2\x8d\xc2\xed\xc9\
-%\xf35\xa4=3bH\xdf\xb1\xfe\x83\x96\xd5\xc2\xf5\
-Jv\x5cF(\xb6+\x1c$K\xd8Ay\x9c+7\
-\xafD\xe4\xb4'^\x0a\x82#FpU\x98Q\x179\
-2\x08z\xf2\xc2-\xbc\x01\xd1\x03[\x88vI+\xdd\
-\xd9\xaefX|\x22IAd\x9ea\xeaWO+\xbc\
-\xd5_xfcV\xc45\xddD\xbb\xdc\xb1\xe4\xc5\xba\
-\xeb\xddn\x9d\x97^.A\x0e\xb9\x85\xfb\xecB\xfbA\
-\xf7\xd5\xb8\xa5\x90\xa3{\xce\x13\xbd\x12\x15\xf8\x8b.\x0b\
-t&\xa6\x83\x06\
+)\xa7$\x95\x13u\x82\xa4gj\x13\xe3\xef\x08&\x8b\
+\x8d|\xab\xfd\x9b\xd1M\xe2\x8f\x9f=Z\x04\x9bG\x5c\
+\xa1\xe1\xef\x0e``\x0c\xd7\xdca\xb0&\xca\xb4F\x90\
+\xb7j4\x9a\xe7Uf\x82\x1e\x87x\xd5\x99\xb4\xa2A\
+\xc4Sz\xfe\x98u\xb2\xc3\x86\xedl\xb5\xd9\xfd\xec\x5c\
+\xc3V\xa7\xcb\xc9|\xea\xb6+\x08e\xbc\xd7]\xb5\x95\
+\x98\x1e#\xd6ppo=l\xc4\xeb\xe6\xbcL\xe07\
+c\x0d;\xd0\xd3Dm\x86\xdb\xd6,\xc1a\xeb\x8d\xd7\
+%\xa1j\x5c\x8d$\x15Jc\x93a\xfa\xcf\xc9\xafA\
+\xd8\x0e\x7f\x94\x05&\xafz\x11\xf7\x0f\x8b\xf0\xb5<\xe8\
+\x16WZ\xb9n\x00\xe0<E\xdf\x97\xb7\xab\x12\x00V\
+\x04M\x07\xde\xaa\xc5\xa9\xe8\xf0:3\x14\xed\x1ed=\
+\xddx\xd0\xf3\x1a\xd0s=\x9dnL\x8fw=\x19\xdd\
+\x88n\xaf\xe8\x7f-v\x80\x00]\xd4\xd4\x1c\xcbx]\
+\x195\x229\xd0\xb7VO\xaa\x02\x86\xe3\xa8\x13\x1b.\
+S\xca!\x11\x11\x91$I2\x1c\x03A8\x0c\x0c\x8e\
+\xcb\xaab\x99d\x9e\xe6\x03\x93 \xe18l\x0c\x03\xc3\
+AP\x19\x08\x06\x86\x81`p\x12\x84B\x10\x98B\x10\
+\x84\x89\x101\xc6\x12c\x1d\x89\x1b\x9b,\x85lpu\
+\x08*\xc0\x5c\x9dt\x93\xe5j?\xc3\xc8\xf8\xb0\xccL\
+o>\x88\x914\x06@\xb6\x81Y\xbaH(\x95=\xf7\
+W\x83X\x1e\xfe\x5c>\x04\xc3F&g\x9a\xc2\xf6\x09\
+kG\x1c\xf0\xa2]\x9b\xa9]\x04\x16\xddU\x7f\xe0n\
+\xffT\xd2s\xfb\x89c\xac\x95\xed\x8f\xe7iR\xab\xfd\
+\xda`g\x22\xedw\x12%\xbc\xb3\x9f&\xc48\xcb~\
+Qx\xff\xc0\xeb\x07}\xaa\xef\xb3\xc5\xe4\xde6\x9ew\
+\x049R\xf8\x8b\xf5v{\xe8\x1dK=\x0a\xfe}\xf1\
+7C+\x9c\xe9{\xd2EF\x15\xda\x02\xb5[\xb8\xd8\
+\xc7\x22m\xd4\xe0\x91T~E\xa0\xf2u\xf0\x87@\x97\
+\xe4\x92@Wp\x81.on\x06z\xf8\xfc\xb7\xa7!\
+\x17\xf6\xe0\xad\x84\xb8+Dr\xea\xe1?\xa4\x9a\x08\xbb\
+\x1e55zE\x16\xc0\xf0\xfa<\xb6\x00<!\xbe\xfc\
+9\x08%\x97\xb9\xc0\x08\x11\xbd\x1d\x90\x86\xd8M\xea \
+\xd4\xc6\xca\xbc\x0c\xc4,\x17\x80\xd0\xa4F\x17\x22\xa8(\
+H\xe9%\xb0\x02\x95\x0b`\xff\x89M\x92\xfa\xc0\xf2G\
+\x0d\x1ax\xb4\x8e\xbf\xe4\xc7\xee\xb1\x7f\x15\xb6\xaf\xdb\x02\
+\x0d\xe7:\x97\xa5\xf2\xee\xafp:\x04*D\x09@\x86\
+\xa8\x8d\x9b\xd8z\x8d\xfd`\xc2\xae\x98\xff\x96 \xe0\xee\
+y\xc4s\x91\xde\xfe1\x22ia\x00\xf5\xc3\xfc\xd8U\
+<bx\xdc\xb4GFe)\xdaq\x89\x94\x15\x01A\
+\xb2\xf8\xff\xdd:\xa5oq\xf8\xcak\x19\xb47aP\
+\xef$9\xcf\xb2\xd3d\xf5^\xf8?\x1f\x9b'\x8f\x14\
+\xbf\x83\xd0\x89\x89\x18f\xb7\x17\x02~\x0e\xa8Zp\x0d\
+\xce\x84G\xa5\x0f\xe3\xed\xd0k\xbe\xb2\x87\x09[\xf29\
+\x86\xd9{Q\xc7o\xb2\xed\xefx\x93Z\xed\x92Y\xdf\
+\xae\x00w\x18\x1c+\x9dE\x9a\xcaIEm\xacu\x81\
+\x0a:\xcb\xcd\xda\xda\xa6\x1d\x9c#j\x88\xa1e\xcfI\
+z\xf3\x97\xd6\x19\xa8\x90\xf0\xa1<^w\xc0+k>\
+\xbaC)\xb3({Ki`\x82Z^\xcf\x17\xdf6\
+-z\x05*&a\xc6`1\x5cadI\xd1Rh\
+\x9f\x1bX\x89\xf8\x09Y\x09\x14\xff[\xcaW\x97K\x9b\
+\xa2j\xd1\xce\x9fh\x074*\x87;*V\xe9\x1b\x8c\
+\xbc\x82\xb2\xcf\x88\xceT\x02w\xe1\xefG\xd4\x17F\x83\
+T\xb0\xf3\xa1\x0b\xad\xc9S:\xfe\xa7\x18]\x83\xb7i\
+*\x1a\x89\xc7,\x0b]Y*\xb3\x10\xf2(\xdd\x17\xb0\
+t$\x8dG\xa9\x9f\xbe\x1d7\xc3\x90I\xe8\x99\xac\xda\
+\xef\xe5\xa6\x1d\xd5l\x86\x90\x16\x86_\x885&\x01\x8d\
+\xc1\x93\x89\xc0\x0f\xdel;\x80\xab=\x1drM3\xf2\
+\xf0H\xd5\xf7\xfb6\x11)1[_\x05\x99X\x15\xfe\
+\x9f\x86?\xb2\xf0\xbd\xfa\xb6\x08p\xc1\x18\x0c\xeb\x0a\xe0\
+\xd5\xae\xc2\xef\xd9\x07\x99g\xda,\xfa\xcf\x00#5e\
+\x08\xe9\x98\x06\xb8z\xdc\xd9u\xbe\x08\x18\xaf\xc7q\xde\
+\xf3\xfd\x868\x15\xb0\x1e\x02\x0a\xd4!\x0a:^\x22\xab\
+\xa4\x00r\xb5\x85\xfc\xfa3\xc09\xac\xb7\xb6\x87%w\
+\xae\xd0i{\x1c5F\xf1Ig\x11N3\x1c\x9f|\
+\xef8&\xf6x]\x9d\x1dq\x177=K\xc6\xd3\xc6\
+\xe0K%\xb1\xb6\x1a\x18\x22'\xe9=\xc5\xe6\xac\x1e%\
+\xeeF\xdd@z\xc2\x9c\xd6])\x9aD\x9aaN,\
+8%B\x8e\x1f\xe4C\xc87\xec\xe4N:}\xeb\xa6\
+Pi\xbdR\xbb\x8b\x891^:\x13M\xcf*\x1e\x09\
+\x8c\xfe\x81\x10!\xd0S\x904\x9d\x8c\x8e\x05\xac\xb0E\
+\xba\xd5\x1d\xb7\xfbX\xc8\x81\xf9\x0f'\xe5\xd9\x88e\xd5\
+\xf0\xfe\xec\xb5r\xec|\xeaL\x96\xea\xe2\xca\xf5\xcbI\
+d\xa5\xa78l\xb1\x18U\xadC%\xd7o/@\x93\
+\xa0\xab\xb1\x84\xb8t\x08\xbb-\x8c\x88\x97\x17\xeb\xe3\xf0\
+\xcd\xd0\xf6\x9b\x1c.\xbcp\xb3\xc5V\x8b\x8b\xfc\x97\xae\
+\x8aZn\x9d\x84@\x0a\x1d\x09z\xe01<\xc8\xdf\xab\
+L\x14\xe9\xad6\x96\x19\xdc\x83\xc7s\xc0\xb5z\x93\x03\
+\xafU\x142y\xf4\xd9r-1\xe3\x96|-\xe5\x06\
+\xdb\x8cMhb2lx\xda5\x06\xc9\xbe\xbc\x0eA\
+l\x82l\xe2\xaa\xd5$\x94_\x8c'\xb4\x14\xaa\xcf\x82\
+\xb6\xc3\xf3Y\xdb8q\xa0u\x1e\xb2\xe1\xed0[9\
+m\x85\xf6\x99\xeb/w\x8c\x884\x9fa\xdb\xb6(\xb7\
+\xc5\x9d\xacL\x19\x19\xd0J\xda\xe3P\xe5i\xea5\xc1\
+\xad\xacy\xd5E7\x89\xe4N\xf7\xf2\xf4^\x1bS\xea\
+]l\xa7\xae\xc2\x92M.1\xab\x08B\xa9K\x1c\x18\
+!as\xb2\x03\x06\x9cB\x1b\x7f\xfd\x1e3K\x9c\x5c\
+5\xd4\xea\x81\xaf\xaf\xa6\x9d\xf9%\xac\x16\x00\x9f'\xd0\
+\x02\xb5\xbc\x814I\x16\x86\xe9+\x14l\xb6m\xd6\x88\
+\xd7\x90\x01\x913.\xc7\xea\x02C\xed&?\xd5\xab\x22\
++\xaf\xc5\xcbH\x9c\xb8\xd1\x5c09\x8f\xfbv7|\
+\xf9P\x8a,L\xe8g\x99\xb6\xa2e\xcdRtcT\
+\xd6T\x95Y\x17\x1a\xecB\x05\x06\x18>\xbc\xe6\xa6\x9b\
+O\xdc\xb8\xfa\x14\xa5M\xa2a\xc7\xe7\x7f)Wz3\
+9\x8bF\x04\x8d\x19\x1d}'\xe4\xb0I\xe7])i\
+\x1e\xb6\x80(\x00\x9e`\xa0\xca9\x98\x8f\xa6\x8fJ'\
+\x1e\x84\xbbE\x1f\x1b5\x87\xa5O\x8b\xe7=\xcb\xd1u\
+6M\xc9\x07\x11S\x04\xb4<?qa\x18]\x88\x84\
+\x93\xeb\x10\xd3\x91\xd5\x9e\xe5\xd2\x81\x9a\x8f\xa9\x10\x12n\
+\x10[e,\x22\xa9\x7f\xf2\xde\x15%\xc127\x1c \
+&\x90E\xb1\xa2\xc5\x1b\x93\xd1\xc9\xd4\xf0\x1cT\xb3<\
+E\xa8\x0b\x94\xebc\xee\xcc\xf3\xd6\x96\x16\xce\x88e4\
+HQ\xf3\x8f\x01h\xa0\xea\x85Mug\x94\xea=\xed\
+;\xe5h\x8fz7I$-\xf1\x9eK\x00s\xa7\xa1\
+\x86z\xeai[RL\x94\xd9\x9a?9hcw\xf7\
+\xa1\xf4\xaa\xc9\xa2\xc75S\xa8\x18})\x8a\x8f|f\
+j\xc5\xa9\xd4\xff=k\xfb\x1d\x80Dc\xf2\x1e\xd2r\
+R\xeaEP\x10k@,\xb3\xf0\x10\xe2\xcfe5\x14\
+b\x8a7\xa0\xaf\x077??\xf1\x85\xcei\x0d30\
+m\x80\x04\xa0\x90uX\xe8\xb82\x92\xa3\xdf\x1f\xeez\
+\xd3\xb0\xeb\xf2\xb0\x87\x83!g\x12\x89\xfc\xc0\xc9\x93\xda\
+\x07A4n3}\x91\x8f\x87\x7f\xfd\x11-+\x07\xfb\
+\xab\xff\x1d@\x81\x16;\x18D\x83\xe0\xbd\x0b\xac/\xf9\
+\xaa\xe9\xdfH\xcd\xe9\xebZ:\xec\xa2K\x9cz38\
+\xa6'\x16\x81\x1c\xc4\x93\xcbs41\xc0J\xa1\x09\xca\
+\xf4\xde\xb8\x90\x92\xaf@o\x99\x91\x07\xef\x9bDd\x5c\
+.\xd6\x86\xcaL\xf4?E\x9d [\xa3\xec\xf8GH\
+\x03\xd5\xcf\xbb+\xd6'\xc7l\x5c\xbb\xb7a\xc1\xf4\x19\
+z\xa4Vo\xb0\xb5y\x0c\x8fY)\xe7)c\xd6\xa2\
+e\xb6\xda=\xc29\xcb`\x19Vh\x88t\xe4}\xd9\
+P\x92\xc8\xa3P\xea\xcajBp\x02w\x8a\xa4\xc3+\
+0~X\x04\x0a\xa0\x1b\xe3wg\x86'\x9d\x85#+\
+\x99Y\x8b\x13nk\xd1e\x19\xb5\x87S\xc4\xd7\xd0q\
+\x0f\xa9&\xa4\x095\xda]\xd5h,\xf51$\x0b\xc1\
+W\xa1%$\xd0\x8fJ\xf3t\xcd\x89\x18\xc9%\x1a\x12\
+ w&\xbf\x93\x14/ ,\x9d\x1dH\xa9\x14xf\
+\xf0y\x0d\xda\x8b\x89\xea\x80\x00\xd1:\x8dH\xcf\xc6O\
+\xe2\x1f!\x1b\xc5$\xb2\xe8\x10\xce|~\xc8s\x02\xfc\
+\xad>\x11\xf9\xfb\xbb\x9e\x8c\xa6\x9b,\x17\x95$\xea.\
+\xf7\x1f\x1cD\xd8o\xa2\x935\xcb\xff\x02\xfa\xd4\xf1[\
+$\x10::\xe8\xc49\xa0i\x07,\x9a\xae8\x99q\
+\xa1\x1e\xb4\x12\x06a\xc6\xdb6<\x93\xff\xd3\xce\x85\xb6\
+\x91\xed4\x09<\xc5[Y\xa0\x0a\xdd\xa5\xa0FhS\
+l\xc1\xb2\xd9\x12\xd6',7eZ/\x1eD\xf9\x04\
+\x04xI|%j\xdaG\x07\x16\xd1\x18$\xb1\xb4\xb8\
+ +S\xe5\xb3\xb6[\x83\x95\xc8\x7f\xdb,\x0a\xf4\x02\
+[\x17\x08\x12\xb7\xce\xb4\x1dw&VFH\x0d7\xeb\
+RV_\x045b,\x94\x108[@,\xde \x81\
+\x85\x7f\xcc\x92\x1c\x19&\x0d\x97a\x7f\x80|B\x12C\
+\xc9\x19\x0fvb\xef\xfc\xb6.{\x06t\x8b\xc8\xadO\
+!/\xf3\xc5\xca)\xda\xc3\x16\x8e\xff\x8a\x828 \x9f\
+\x97:\xdc\x09*#\xd6\x1f0Z2\xa2\x8f \x14\x80\
+\xeb\x93w}\x0b\xac\xfb\xb5>\x95\x0f\x18w\xcd\xf4P\
+L\x85\x95\x95\xd5\xff4!-l\x8dC*!\xeb\xf2\
+g*\xa9\xc5B0RZ\xbb\xa1\xe4\xbei\xf3\xd5\xa1\
+\x829\xa1\xf4\xcf\xd7\x1a\xac\x8c\xad'\xa3yVp\xd3\
+\xf8SD&\xeb\xc0\xe8\x07\xbd\x1f\x89\xbaR\x0bml\
+\xb4\x9d\x92\xd1\xf7#\xc2C\x0dv\xde[~\xc8\x7f/\
+\x92[!\xf7Wv\x18\x04\xe0\xc2\x1f\x11\xb6\x86\x05 \
+\xc2-\xe8q\x8d\x86\x0b\xcf\x80\xe4\x9a\xf4\x0c+\xac\x1f\
+Y\xb9}n*\xb3\xaak/\xda>:\xae\xebu\x89\
+hL\xfc5\x11}\x89_\xc1\xd5+\x89\xfe6b{\
+\x07\xa4\xbe\x9b\xb82\xb0\xdcvz\xbd\x06O\x8dUi\
+-sO\xd8\xe7\xc4\x1f\xb1\x98K\xe4\xac\x09\xfb\x93\xd7\
+\x98\xc0\xf62UoH\xc4\xc5\xda=I\xd2\x1d\xc5\x87\
+\xdc<s\xea\xfc\x93\xb3\x16\xea\xe2\x13\xe7%z\x01\x10\
+\xe1=\xf0\xc1\xbd:\xa0\x907l\x92uF\x12%\xe8\
+3|\xf7^\xff3\x94X\xff\x8b\xb5\xbbU2?:\
+\x9b5\xa3\x5c)\xc0\xd6\xc3\xdb\xd9m\xa8\x04#\x92\xc6\
+\x5c&\xc0\xba\x80\x9c\xa6\x91C\xc6,\x8c\xf3:4\xe7\
+\xc2\xda\xfb\x144\xd2RSG\xe7\xc8\xf8\xf4\x0e\x7fS\
+\xc2\x80\xb9\x91=\x9c\x06By\x08\x09\xe2\xfe\xbe\xaf\x8c\
+\xa5.\x88\xdau\xbfR\xe1U\x8c\xb9\xad\xe4y\x06[\
+\xc7/M\xe0\xc7\xfe\x13\xd6\x84w\x14sU\xf0\x848\
+\x04-4\xb3p\xdc\xb81\x01\xf5\xb9\xdb\xe3\x80m5\
+\xbc)\xcf\xf7\xe0I\x9f\xd6\xfc\xb3\x89\xe18s{,\
+\x0b\x0a\x0b\xbd.,\x81l\x99\xcbz\xd1+\x12oA\
+h\xa8N\x00@Do\x96\xe2\xa1\xcd\xd6\x98\xb0\x9c\xc3\
+\x17^\x1fliW\x0f\x9dy\xfa6\x1d\xb5^\x8a\x80\
+\x9e\x19\xefM\xb0\x5c\xe9m%\xfd\xf4T\xb3\xa6'\xe9\
+\xd2\xe3\x1eCz\xf8\x1c=\x91\x06\x1d\x8ab\x13P\x06\
++\xbc\xc5\xee\x1f\xd4i\x09m\x1aW\xa4\xf1\x13c:\
+\xb7p\xb6G\x89\xfe\xdc\x8b\x81\x8a\xb0\x94\xac\x93\x11U\
+\xc4AH\x12^0 \x1a\xfc(\x83P\x0f\xbbT\xcd\
+\xc9\x9d\xa7\xe4\x8c\xd7\xd4\x14\x8d[\xa2\xbb\xd6yd9\
+\x0d\x9bF\xff\x7f\xb1\xafiD72T\x04f\xbeP\
+,\x98&\x03HrT\xf8\x9cw&\x0d\xb2\xd4\x92M\
+K\x0fm\x0d';\xc5uM\x1c\xee\xa0\xb7-_\x04\
+_\xe6]{:\xef\xf4+\xea?1w\xf7\x08_^\
+\xe0\x01\x1e\xecG_\xc3\x1b\xb7T8\xa7e(\x1e\x08\
+\xf1\xf2\xe7F`\x11\xb76\x9b\x02\xcf\x81\xb7\xd6\xc7\xe1\
+)\x19\x0f\xd0\x8a\x80\x87\x8b\x03j@\xfe{\x0eN\xb6\
+\x9b \x1ei\x1ej\x12\xd4i\x0b\xbbf\x94\x1c\x92\xa2\
+R]mw:1\x11V\xd8\xf4\x8a\xf7 \x12\x93\x1f\
+\xe7\x05{C\xc7\x16P/\xf6F\x87x%V\xc0\xde\
+\xa6w\x0f\xf2F|\xf0\xa7\x8d9\xfbuN\xe2[B\
+\x9d\x8ew\xf0\xcc\xeaH\x05*\xf2j2\xd1z\x0e\xb1\
+\xfa\xc3\xfa\x0a\xc2;nJ4\xf8a\x03\x13\xefLT\
+\xe3\x11\xb4\xbc\x19I@\x1c!\x0cG\x15\xa1j8\x04\
+\xf6\xc8}i|\xebV\x5cyy\xf0J\x89\xaa\x9fe\
+\xe9\xfdQ)\xafP\xb6\x15\xdb\x9e\xf9\x16\x9b\xa0\xae\xc3\
+Y3\xf4\x12z\xa3O\xeeIV'\x161\xb1P\xc0\
+\xd2yp\x02V9\x10\x0a\x84U4\x0c\x03r\x04\x10\
+d\x91p\xd73\xa1\xdc_C$B\xfe*TA\xf8\
+,\x17\x16\xf4SS\x8dY\xbf`\x7f\xaa3\x80\x22\xea\
+^}\xfchA]\x01k/\xc6\x98H\xd1%\xd8k\
+\xa6Q\xa7IXP\xd4(&U\x95\xc3\x0f\x10\xe5\xc9\
+\xb9d\xf4\x98\x18@\x05\xe8\x12\x1a\xbd/\x8dV\xfav\
+\x85\x10\x02\xa2\x02\x84\xa9\x87\x0a0\xfaB\x91@\x96(\
+.\xaf\xaf\x9c\xb6\x0c\xbf\xc5w\x03<\x84\x97\x92\x1e\x83\
+\xb0\x18\xc0I*\x03\xb6\x9e\xe4\xe4\xaf\xc3k\xd7r\xc8\
+\xde\xea\x0e\x91\xaa\x1a\x1e\xe5\xa1V\x93\xe6\xc7QR\x8d\
+\x913)\xe4\x8b9\x91;\x80\x10\xa99\x0b\x91\x11\xd9\
+~\x0cl\x84\x8a&-\xc1Fk,\x05@w\xabe\
+\x1a\xb5\x84p/\xd3\x98e\xc9\x8b\xd2\xe5\xb4\xd6\x0eS\
+@\xdd\xf0\x17\xeeX\x1f\x80\xf2\xfa:\xde\xe1\x0c\x1b\xa6\
+d\xb8\x8d\xc9DK\x87\x90\xa9\xad6\xe1s\x9eL\x14\
+\x12\x80,\xab\x90H\x0a$nF\xee\xbb\xad\x9e\x81\x80\
+\xdf\xe9j]\x06\x0d\x8d\xc0\x1d\x1e\xa3\xc6M\xfb\xb0\x0b\
+\x02\xa4\xe9DK6!\xbc\xe5(\xb8\x95\xa7qH|\
+\x96L\xe6\xb2}\x14\x1c\x1cl\xc8#MjB\xc7L\
+\xcd\x0e\xc2\xaa|r\x042\xae\xab_\x05\x81\xe4\x92B\
+\x172\x90\xe5\x00\x17\x88*\xca\x7f\xa5-:\x0b%^\
+(6~\x8f\xd09`}l\xbc\xfavX\x89L_\
+\xf9Rk\x15M\x02\x09\x8av7S\xc9\x8d\xcf\xff=\
+\xc0t\xc2\xb6\xa7\xe7e\xaf\xa2\xe7*\xfb\x06{\x17\xc4\
+\x1b\xe1\x93p`\xa1.\x0f\xe0\xbbA:gQ~\xfb\
++&\xce\x9cj\x9a\xa1\xe6\xba4\x0f\xf5\x11\x8f[h\
+\x7f\xe8\x99\xd1\x0a:\x1a\xee\xd4\xbd1\xbc\x06}\x8bJ\
+T\xca\x06f\x18\xfa\x01KTq,\x9dg\xa3\x22\xca\
+5D\xdc\xb6g\x88\xab\xc87\xf8\x8e\x13y\xa9\xcc=\
+\x1cB\x1ewQ\xa0\xed\xbd\x7f\xf7\xe0o\x05?J\x90\
+\xc4/\xb8\xc8<\xbb\xaa\xda\x0dR\xcf\xc3\x0a\x93Y\x1f\
+;5ig)@7\x03\xea\xcf\x99\xee\xe4h\x87\xc6\
+\xc3\xcd\x8d\xc9\xcb\xc80\xf0`\x16p,\x02\xe5\x8e\x86\
+\xdfZ\xd2O\xab\x97HH\xa7\x15\xea\x1a\x83\xdc\xc2d\
+\x84ab?SZf\xf6\x0e\x8c\x09\x9fb\x85F\x0c\
+\x5c\xe3\xe8X\xc1p\x81\x86\x0b\xf2\xe5\x22e\x0e\xe8\x83\
+\x00SZ\x97MeV\x98#\xf00\xfe\x03Y\xa7\xd4\
+2\x9d\x0f\x0b\xcc\xc5\xbb\x86\x08'\xb1\xcb\xb21\xbd\xb8\
+\xed\xfb\x93\xd7/$\xb6JQ\xb44\xd75\xaa/*\
+\xef\x9aHy\x1a\xa9[\x1c\xf43\x85%\xb3\xba\xc5,\
+\x06\xab)\xa9$\x00\x81f\xcbrn\xce\xef\x1b5\xea\
+\x0f\x97\x0a\x05\x92|d^\xc3\xae\x0a\xbd\x9eV\xc5\xae\
+\xd8\xe8\x07\xf4*9\xea\xdd\x13\x86Fk!\xcd\xbe\xc1\
+\xbf\xe3,YX\x01\x04\x9d+\xdc\xff\xfd\xe4\x16\xf8\xc0\
+O\xa8\x1b\x1c\x12\xa0\xcc\x1a.\xde(\xbagr\xd4\xb3\
+T\xd7\xf3\xca\xdc\xe0\x00B\x81\xb2\x95\xaam#\x03\x8a\
+\xb00\x1d6\x00\xbf\xcaa\xb4\x86\x12};\xc3\x92\x83\
+\x91\x97\xebh\x1f\xef\xc5KT\xfd\xfc&\xe3\xd2\xad\xc4\
+\x95-\x04\x03\x01i5\xf43\x98L\x1dBAVA\
+\x96\x1d\xfdQ\xdf\xa8\xd3\x81\xaa+\xe0;\x9f[\xb0\xfc\
+L O\x07\xe3B\x97\xc2\x9f\xe8\xf6\xe8\xa7\xf4\x01h\
+\x8d\x02\x11\xd8\x93\xd8*#.|\xde\xc1\x84\x8cu\xc1\
+2iH\xc7U\x92\xb3\xbc\xe4\xca>\x5c\xcca\xe5j\
+*,$*\xa8\xe2#\xea\xecx{\x044ac*\
+J\xf6\xb7\xd0)\x19\xdb\x9c\xe4^\x13\x96:M\x88\xf6\
+=X[\xcf9\xcd\x00\x82P\xfc\x22\x9f5x\x96\xa6\
+\xd2\xb7g_+\xf6\xa6\xa0\xf8\x81\xfa\x97\xfbn\xfeG\
+\x7fn\xb7\xda\xc4\x19\xbe\x8e\xd3\x86L=\xad\xb8\x22S\
+Am\xc8\x15\xffct\x85\x96\xad{I\x1el\x87\x89\
+\x18\x80\xc3\x09V\x91\x92\xca_I*%\x11\xd4\x18\xf0\
+\xbc\xba\x95\x97\xecY\x8d\xfa\xb5\xc9\xda\x00\xf1#_\xc8\
+g`<M\xc8\x8c\xb3\x0a<\xb5PGdO\xf9E\
+\x84`\xaf\xc4Y\x97\x94\xcb\xfdLmAl\xcc6\xd1\
+\x00\xbb\x82;4\x06Z>\x1c\x8c(\xcd\x81\xc7\xd0\xb8\
+\x9a\xd9M\x87\xdaz\xd0\xee\x9ej\x08+#8\x97\x9b\
+\x9a\xcd\x89\xd1Vr\xe6\x1c8\xc5\xa5\x8c\x05\xaa\x98\x22\
+\xd3\xe6\x04\xb1\x985\x9d\xcd\x0f\x17\xde\x5cE\xbf\xa9#\
+\x8f\x83^\x98_\x87\xc7U%\x15\xe5\x91\xd2@[\x0e\
+\x06]\xc0\x81\x00\xfd4\x81w\xc7|>8\xbdF\xe6\
+\x8b\x17\x18\xa4\x1b\xe4\x0c\x18Q\xca&\x08g\x86w\x04\
+b\x03\xfd\x8d\x13C\xa0\xfa=\x92\xe4\xa7\x7f \xc1I\
+\xc2d\xef\xc3\x01M\xc6\xa36]\xf4\x90\x8da/{\
+\x88\xc0\xc4\xcfPzU\xd0H&\x04 J\x90B\xe2\
+\x5cn\x0b\xdfBbn\x85L\xde`k\xb2\xf2.\x93\
+\x98\xf1L\xe8S\xfa\x81\xce\x82\xe4\xef\xfdy\x91\xd1\xb4\
+-\x9b\xb5Y\xe4\xee$Ph)\x10\xc7\xc8_\xbe\x0c\
+X}\x00\x0e\x9f5\xb6\x01\xf5~`\x17\x8cGT\xd4\
+)\x18\x97\x7f\xad\x80\xbbv=\x92\x0c\x9f\xb0e\x92\xdb\
+\x11n\x9bD0G\xabU\x98\xbaB\xe7\xcd\xba\xae\xe7\
+K3\xae\xd7\xecq=\x96\xb0]\xd9H\xd6_\xdf\xfd\
+{\xac\xdc\x89\x12\x11\xd2B;\xe2\x16|\x0e\x09r\xbd\
+]\xbd\xc8\x91/\xe8\xc9\x16\xb7\xf0\x06D\x0f\x0cPg\
+\xd2\xc7\xddk\xba\xceb\x9f\x8a\xe0\x82\xb8A\xda\xd4G\
+\x9fnxf\x98\xe81F\x9e \xd5\xc2\xf3G}\xf7\
+\x92\x17\xd6\x89}s\xf0\xbc\x82\xb9\x189\x9e,\x9c \
+.\xb4\xe9\xba?\xd0ZJ\x14\xfd1O4\xad\xa8\xca\
+at_\xa03q\x144\
 \x00\x00\x03\x97\
 (\
 \xb5/\xfd`\xf9\x7fm\x1c\x00\xa4.\xff\xd8\xff\xe0\x00\
@@ -129434,250 +129434,239 @@ q0-27 19.83-46.8\
 66-76.67v466-586\
 .66 120.66Z\x22/></\
 svg>\
-\x00\x00\x0f\x0a\
+\x00\x00\x0eR\
 (\
-\xb5/\xfd`as\x05x\x00\xaa\x19\xb9$&\x10\x8f\
-\xa6Pl\xc3\xaa[\xe3z\xe8\x07\xaa\x81\xad\x04\x04\xd7\
-It\xaa\x80\x8fW\xf6N\x99\x22\xfb\x15\xae\xd0\xa9\xaa\
-\xf2m\x00@\x86\x02\x17\x02\x16\x02Ay\x189\x16\xb2\
-\xa8\xb4\xc2\x1aR\x9a}\x9f\xde\x90c\x92\xb10\x1d\xef\
-\xec\x96\xb5\xda\xc3\x8c$\x1f\xe7\xa1\xd0\x12]\x15l\x5c\
-\x9eQ\xe5;r\x8fD\xc4\x1b\x83\xca$\xf6\xa8\x1b\xfc\
-4\x1b\xa6G\xfe(\x8f\xc5\x8fz8\xfe\xb2\xc8n\xa4\
-\x83q%K\xe1\x80v)x>\x22!\x8c'Iq\
-0\xfd\x84\x8e\xe6d^4\xc9\xa1lWWr\x8c$\
-\xb4<\x8aa\xe0\x95\xd9\xe4\xa2\xb3\xa0\xc3\x9c\xf9#1\
-\xc7\x19\x8dLF\x11Q\xea\xc8\xb4\xb4\xf3\x82x\xe4\xb0\
-\x1f\xf6\xf1t\xa0\x1b<\x93[i\xa4\x91l\xa4\xddP\
-eEVY\xee\xcb\x95\xf7\xfd#\xd80\xf6h0#\
-\x9b\xd5\xdbp\xce4\xdf\x18v$1\xec\xf0\xc6\x86\xfe\
-\xecH\x10\xc3\xa6\xca,\x16\xe1p\xf5\xd6\xe40\xcc\x9a\
-\xe2\x86\x8d\xa5\x1c\x83\xcaS\xab\x8aq\xb8;\xc9\x9dt\
-\xb98\x22\x94\xac\xd3&\x85\xe1_\xeb\x96_\xe4\xb9n\
-CU}\x84Z$\x19\x8b\xfcq*\xf9\x01\xaf5\x15\
-\xf9\x15'\xcc\x1b\xc1\x0f9\xf4O\xca=p&kH\
-\xfe\xa0\xc9\xceT\xea\x03\xe2\xdd\xa5%\x1du\xf6\x8e\x89\
-9jw\xceI=\xd8*\xc78\xd9\xd7f\x1f\x8a\x95\
-}b9K\xb0\x02MIu\x93\xa9\xc1v\x9f\x91R\
-d\x0e\xcd\xa4\xe9\xf2\xb2CR\x8e\xa7\xcf\xae\x869\xb5\
-\xdd\xdd9B\x8e\xc4>\xeba'<2<+\xbc\xd9\
-H\xc6\x91v\xd0\xed\xa8C\xaf$\xd98\x92\xa5\x91\xe5\
-\x1av\x81C'o\xd4\xd5\xa5hp\xa3\xeeJ\xd1\x82\
-\x85\x07\x12T\xb0\xe0\x80\x03\x09\x12p\xa0\x01\x84\x08\xf4\
-P\xa1U`p\x81P\xb0\x02\x83\x09\x0f\x98`\x01\x0e\
-\x1ch@A\x03$8\x980a\xe1\xc1\x04\x0f\x08\x05\
-b\xc0\xc1\x03\x0f&,P \x02\x03\xc5\xc0\x83\x90\xc0\
-\x84\x06\x13X\x00\xa1\xc1\x83\x07\x1aH\x80\xc0,L\xf0\
-\xa0\x01\x05\x0d\xc4\xe7\xc6\xb2[Ue+F\xc3\xc4\xc7\
-f\xe6(/id&\xa7\xf2\xaa\x9e\x8f\xe7@\xf4\x0c\
-OXR\x0a5L\x98\x87\x88\xbf\x0c\xa3\xbaH&\x90\
-f\xe4~(\xcea\xa2.q\x06\xa6\xb5\xccL\xf0\x22\
-\x8f#\xb5\xe1\xfc#\x8dL\x5c\xce\x0aP`\xf0@\x10\
-\xa0\xcc \xd0\x99\x82\xc0\x08`\x00\x10$P\xa0\x01\x05\
-\x0cP\xf0\x00\x82\x03\x11\x81\x01\x00\x10\x80\x03(,\x98\
-\x99Z\x10\x81\x84\x08\xd2\x0a\xa4\x82\x0a*X\xb0\xa0\x00\
-\x14,,H\xa0\xc0`\xc2\x04\x10&`\x81Pp0\
-A\x84\x09\x14\x18@\x80\xf0\x00\x82x\xc6\xc4(0\xb0\
-@\x04\x04T\xe0\xe0A\x05\x16$\x88\xe0\x81\x03\x09B\
-\xe1\xa9\xc0@\x82\x85\x07\x1eT\x10\x11T`\x82\x01\x02\
-Q\xae\x12S@\x03\xee\xd5\xe7\x224U\xde\xce\x8f\xa4\
-{\xdb\xc1\xc6\xb1\x16\xc9P\xd4\xccQ2\xc8(\x93\xf0\
-\x92CR\x89\xa8\x92qu\xac\xb1\x14\x0c\xacK\x1b\xb2\
-\x92(\xaf\x04\xc3\xf0U6\x92\x8b\xaa\x22*\x1c\xb1!\
-\x8f\x157\x1e\xd9\xc0\xe2\x91<\x8cp\xc4\x8e:\xbd\xf2\
-\xc1\x5c\x97[\xddL.(\xcb'9\xd0\x1d\x05\x8b\x8c\
-\x92\x8eZ\x9e\xcc`S(\xf4,\x89):Y1\xb2\
-_\x1eN\x97\xe4\x89l\x82\xf4\x99\x8bQVYL\x81\
-\x96i'Ga?:$i\x15\xed\xc6s\xc4\x0c\xc9\
-Gx\xcdG\xa6}I6\x95[|\xaa\x90\xb2\xc2\xf3\
-\x93Z\xe0\x91\x91\xb3\xc4*^X\x1a\x1b\x19\x8b\x9b\xeb\
-(m\x8aS\xf1\xc3|\xd8\x9c\x0az^\xea\xaeT\xa9\
-\xfa\x16\xd7\xc5\xcar\x8c\xe6\x17,W\x9ek\xc1B\x17\
-\xa5\xfa!\xb9\x0e\xe7\x9f\xd4Q\xb5\x11\xf3\xd15mi\
-\xf9\x8f\xb4s\xde\xd5<\xef\x88\x86\xf0\xea\x85yWv\
-r\x8fO{u2^\xcd\xa5z\xd4\xd1\xb6\x01_\xbc\
-\xa6\x8b\x81e8\xd4\xae7\x88\x93XaFK\x12t\
-\xd9G\xcc\x86\x97R\xe7L\x0a\xd9X9W\x1e\xa5^\
-\xe3\x0a\x1e\x07[%H\x82\xbd\xa5\xfc\x91Y(\xfd\x9d\
-\x96\xa7J\xdd\x15\xa2\xddm\xc0\x7f\x84,\x8exH\x93\
-7w\xf5>\xb2\xedplVf\xeb\x8a\xa7\xfbzs\
-sk\xf7'z\xb8cY\x1d!\x11\x86\xa5+6\x9c\
-\x10\xd3\xa6\xe4\x0f\x8cS\x9f6\xdc\x8ev\x1c\xd3\x1bd\
->\x9d\xd3P\x88F\xfc\xb8\xc3\x11{\xd1$\x87\xdeH\
-\xf0\xef\x99\x90\x05\xde\xc8\x0dK'\xe9\xb0\xea\xc9\x0cV\
-\xb4\xa0Q\x19\xca\x5c|\x8e\xa4y\xb6\xc4J\x1fG\xd9\
-\x14?jh\x8e\xb9\xe6\xae\x8fZ\xa5\x0d.\x1c\xca\x1b\
-\x93\xbbpK\x88\x98x\xab\xa9y\xc5\x09{\x1d\xb0|\
-\x92\x8f;\xe7\xeaA\x997\xf4\xaa\x98e\x87B\x13\xcf\
-1Uy*\xbf \x1c\xab\x91\xf4\x02\xe9&\x8f#T\
-\x92\xbaN>\xd8Y\x9c\x91\xb4\xa0\xa3\x91\xb3(\xa5\xc5\
-\x17\x96\x96f)y\xc3iP\xcc\xe2g;\xd1r\x0b\
-B\x0c\xa3\x12[x\xda\xc1\xeaF\x8aQ\xd7\x94\xc1\xe1\
-\xe5L\x9a\xfb\x91\x94\x054\xd9\xb4\x0a:\xee\x8eur\
-wh\xc3)\xd9Y-&Q\xe5\xaf\xc1\x81\x9a\x9d\xa7\
-\x94\xc3\xd2\xea\xca|\xcd\x0f\xe6\xfa)\xa5\xf1\xa1\xb2\x16\
-\x0dgI\xbf\xaa\xd8\xd11\xfe\xe4\x0eS\x0dI\xce\x03\
-\x1a&\x19^5\xc7\xd9\xa9\x19\x12\x1b\x1eO\xca\xc2\xe5\
-8\x9d\x85,\x9eC\xddI\xc6\xc2\xeeFK>\xce\x02\
-\x890?P\x96\x04\x1fd,\xb4\xdc\xa3*\xcc\x0a?\
-\xed\x1c\x89=\xb0\x94\x16\xaeY\x87+9\x8dF\xf2\x07\
-at\x9auC+\xcd\xee\x8e\xcc\xaa\x9a\x11?j\xee\
-\xfd\xaf2\x9b\xa4\x03\x19\x9d\xd4\x83\xccug\xda\xc9Y\
-\xadU\x92\xca\x92V\x1e9\x07\xb9'\xf6p\xcd\xcb\xfc\
-\xae\x199S\xc9\x97\xa5\xac\x80\x06\xc2\xb0\x8c?\xa5\x5c\
-X\xa9\x9d1\xc9\xc1\xe6\x957\xf2Ya\x95H\x97\xc5\
-\xab\x05\xdb\xa2\x91\x89\x8f/4\xe0\x9c\x85\xa8X#\xd6\
-x\x0d%?\x18\xdaH_w2\x0e\xfb\x82\x83O=\
-L\x93\x06R\xb58b8\xb8\x8al\xea\xf9\x14k\xdc\
-\xd2dyr\x0d\x0f\xfe5\xcc\x0a\x1cD\xc1\xc6a\x87\
-\xf2\x99\x8a\xea\xa7i\xb0B3\xb4\xf0]J6\xf2\x06\
-\x9b\x15%\xda=Q\xc6\xe1\x22r\xd8{\x9f\x08?y\
-\xa9^\xdcj\x9exVf\xe9\xa7\xcc'\x0e\xcc\x9aL\
-\x1c^\xea\x9d\x82\x18\x95\xa6\xd7\xe5\x18\xcfkzH\x0a\
-\x07\xb33\xda\xdd\xfbH\x9cK\xac\xe0\x0dd\x97\xe0\x05\
-VUJ-\x0c\xcb9&\xe9\x81\x8c\xb2\xe4\x0d;_\
-\xd2F\x0e]\x95P\xd3I\x92\x15yS\x15\xeb\xcd\x96\
-\xd6\x80\xad\xfb\xe1\xb1d*,3\xb1\xe8\xe2\xbd\xf4`\
-\xc3\x92\xa4\xa0\xaa\xa9 E\x15\xa9r4\x98\xdd\x8aQ\
-\xd0\xbd\xe4\x94\xd2\xf0\xaa}Ix%)\x8a\x12\xd1p\
-\x955\xab\xaa\x1a\x94\x1c\xf28.\xc9k\x9b\x82\x03&\
-\xd5l\xf6Z0\x92\x88\xee\x12\x1cZv\x7f\x04\xe3\xd4\
-W\x9e\xdc\x80i\xefoJ\xed\x95\x5c\xf8\x8564r\
-\xc3mn\x88\xbe@\xa3\xca\xd1@\xf94\x8e}y}\
-\xd8\xd8p\xa6G\xe7\xb9\xcc\xb2N\x18'\x12s\xd0\x11\
-\x0do\xf3\xea\xf3\xb2\xba\xc4x\xbd\xaer\xb8V\xe5\x8e\
-\xde\xd0Q\xaee\x1c\xafl\xc5\x06\xab/o\x00\x08\xc0\
-\x01\x22\xa8\xc0\x84\x05\x0c\xb8,<\x88@\x0b$D\x80\
-\x10\xc1\x01\x06B\xc1\x0b\x0e&@\x00A\x84\xa0 \xc2\
-\xc2\x04\x08\x0d\x1c\x98\x10\x04\x98\x5c\x88 !\x08\x10\x97\
-\xf3\x00\x1c,4\x80\xb0\xa0\xc0`\x02\x12\x22@0a\
-\x82\x06\x12\x1c\x10A(\x90\x02\x03\x09\x17p \x14\x16\
-&p\x90\x80\x09\x108x \x82\x05v2\x0c8\x90\
-@\x04\x09\x0b\x13bA\x03\xf4A9\x8a>/U>\
-6^WI\xc7\xe96\x5c\x92\xe5\x15\xe5J\xcbh\x13\
-z\xe0Y\xb4\xe6\xa4\x1eE\x83Y\x93\xacqS\x13?\
-\xec\xe1\xce\xfa{\xce\xe5\x1e\x0e2\x13b\x0d?\xb6v\
-GK)\xaa\xa8{B\x22\xa1z\xe2\x08UbI+\
-]\x96\xd7\xcb\xc2.u\xecrQiy\x96\x16VV\
-\x92\x82\x92\xc6\x17w=\x1cA[\xd6\x88\x91\xb9LL\
-I%%\x93/\xa5\x1aJ\xc9H\xcd\xa6\xe5\xc5\x14W\
-\xbfC\x8a\xbe\xe8wr\x1a\xec\xacby\xb5\x1c\xc5\xd9\
-Y\x90N\x92\x8f\xdf\x03\xe7\xd5I\x934]\xe5\xe8\xa6\
-HN\xed\x8c\xcc\xa3\xa6\x96\xcc4\x94\xa2\xc3C\xb1\x1b\
-\xaaLR\x18E2\xd8\x1a\xaa\xc7\x0d\xa9d\xe9#\xe7\
-\xb0\x0a\xc5}x~\xf2\x87\xcbx\xd31\xb9\xc7\xa7\x12\
-\xaf\x82\x0f*\x8a\xd6\xc9\x9d\xb1WJ>\xb0\x95T\x19\
-Yt\xdbp\x1b\x94\xb1\xc0BO\xeb\x18\xe5\x9b\x90\x0f\
-o\x0c\xa9\xd0\x02[\xfa@fn\xad\x85(eq|\
-\x1cf\x19z\xa8\xe9|\x95\xbf\x11-\xb0.\xa5\x16\x1d\
-\xc2\x93\xb3zJ\x1e\xe2Ha[uD\x85Y1F\
-kB\x98\x84(x>\x22\xb13;\xcb\x0f_\x14\xdf\
-\x93\xc4\x97'\x94\xba3\xbbO\xf3*s4'sY\
-5y\xe8Z\xe8\xf0\x86Rg\xcd\x12\x1f]\x9d\xfch\
-\x9c\xf2C3a\xfe\xa42\x9ed!\x0b\xb4\x81\xf2F\
-\xc6\x22\xdf\xac\xe4\xc3\x917\xd7\x0e\xad\x1aA2\xf5\x95\
-{<\x03\x8b\x86\xc3M#\xf6\xa0\x0b\xbf\x0c\x07\xb2K\
-\xfe\xb0\xb9\x99\x7f\xd4\xfc<\xa4\xcd\x0b\xad\xc2\xac#\x1e\
->h\xbd\xbbJ\x1fX\xa5\xf1P\xad\xbfo\x9da\x16\
-\x85\xa76\xe7\xc1X\x17\xcb4\x89\xcfd\x14\xba!\xab\
-\x974\x054\x10G3\xddI\xfalI\x87MM\xa4\
-i\xa4\x7f\xe6\xf1o\xd6&\xf9\xc0\xbb\x81\xa6P\xe6\xc6\
-R\xea\x81\xbf\x11\xc5\xe5y\x06\xac-'K\xee\xd1\xa3\
-^\xfc\xb01\xf3\x9d\xd0\x87\xd2i\x02\x83\xc6\xa8\x22a\
-\x1aFb\xd0*\xa4 I\x92$\xe9\xb2\xe3\x02B\x9d\
-Bf%\xe9\x82\xd8h\xd0\xe1\xc8\x12\x11\x09\x92$)\
-T\xf6\xd9\xbf\x03\x82\x0c\x10PT\xc6\xb1t\x0e1>\
-\xf6j\xd0\x8d\x8f\x8b\xb5\x93'\xe7\x03\x19w\x13\xa5d\
-\xc3Y\xa9U\xdd\x1b\x88\xadq%\x9bk\x8a\x8a\xbf]\
-\xd4\x15C\x8f\x01\xa1;\xac\xc9\xaaY\xdd;\xf8\xe5\x03\
-\xcb\xcbV\xd4\x18\x1e^\xfeD\x18\x0b\x1f\xc3\x17\x80\x1b\
-\xdc\xbc^\x1c]n\x18`\xc3\x9a%\x0b\x1f^\xbd\xcf\
-\x17n\x91=\x96\xbcL\x13n\x0b\xc7\xc1\x9aq\x09\x1f\
-f\x09n\x1c\xe8Wu\xa9A\x07*t\x05\x96R\xa7\
-h-\x5c\x95\x83]*E\xa7\xd0\xa2\xddBsb\x8a\
-\xa7\xac{ml_,N\x03=\xa4\xf8 8ni\
-\xa42\x9bv\xa2\xb2\x94\x13\xf2\xfe\xb8\xc4\xeab\xdeu\
-a\xaf\xc4u\xce\xdd\x8c\x8f\xea\x09{\xe0\xfc}|\x1a\
-\x10\xba\x80\x00\x97\x82Ve\xea\xca\x10dR\x990\x22\
-\xe4\xf7\x09BV\xa6\xd2\xdb\x15\xc0(}E3\xcc\x86\
-w\xc6\xd0wF\xf4\xf7\x82\xe0uB\xbd\x0bu%\xa4\
-k\xb2\xd9\xc9\xf6(\xf5\xd0A\xea*\x8a\xf4\x93\xb1k\
-\x05\xbe\xaf\xbbN\x08i\xc7\xe7\x00\x01\xc9\xe7$\x13o\
-\x059\xf4\xd39l\x22\x9d\xc8\x92\xe8\x88@\x5c\xbf\xad\
-\xe66\x86\xfe\xd40[\x19\xfd\x83cB\x12[4\xc1\
-D\xb2\x86\xad\xcb&D\xc5\xdenz\xdc_Y\xbb\x17\
-\xf2\x8d\xe4\x88\xb2@\x88\x010\xa2w\xee\xe4 |z\
-_G\xecd\x8bQ\xfeK\xcd\xc3\x07\xc4\xf2]\xe34\
-\xc4\xb8\x13\x04\x09)b\xa9\xfd\x0c\xbd\xebD!\xe5'\
-h(J\x01(g\x8c\x948\x01t\x86\xba\x10\xe4\xe6\
-\xe4\x04\xd1\x0e\xec2(5\x1e\xcf\x8b\x86\xd8\xad\xafj\
-\xc4\xa2$w\xee\x80a\x89\xb9Cj\x1d\xd6\xa78\x05\
-RaAL\xa6H\x8bA\xd8\x11/\x19u=\xc0\x16\
-sT\x15g\x81\xa84i\x08\xef\xb8\xc1Z\xcdr\x1b\
-\xa0\x1bQH9\x13[$\x86\xa2\x03\x1c\x9dk\x02\xa1\
-\xe5\xact~&\xe8K\x03\x81\x8c\xf0\x88-$\xfbb\
-\x96\x81n6OA\x87\xcf\xa5X\xa9\xa4\x12^\xfd\x99\
-\x02\x08' \x96\x10;\xf99\xe9\xd5\xba_\xe4{\xc1\
-F\xae\xac\xb1\xa90YdHf\x00\xd8\xdf\x97\xd3\x89\
-C\x1a \x9e\xb4\xa57\xd7\x85\xbdE\x96\x1a#a\x88\
-D\x8f\x16\x97\x7fgD\xe1,\x1a\xc6\x8f\xc9\xd9\xb9r\
-\x8eG\x043\x02Na\xf2\x8b\x1b!\x11\xc9.\xbb1\
-Z8X2KV\xc0!\x9e\x80\xaa\x22eY\xde\xf1\
-6z\x13\xf2\xc6\x99Y\xaf\x9d\xcaF\x0co\xc4\xbdc\
-d\xfbn\xfe{\x16\xd4\xf7\x09P\x5c\x18\x8e1+)\
-\xfe\x93\x92\xafJX\x1c\xab\xc1V\x9bI\x01-\xc1\xf2\
-;<\xb2\xa6,u\x12*\x7f\x0b$\xf2b\x8fd\x08\
-\x94:Q\xe9\x9e\xa3\xd7\x91\xbb\xbdx\x80eX89\
-hy6\x90\x81\x02 \xa9\x05\x97G\xea7\xd8\xad\xec\
-\xb6m\x22iq\x0b]X\x13\xa0'\x05l\xbeE\xdc\
-\xc8\xbbY@\xf0\xb2p\xa5\xf6\xfd\x10\xe2-]|\x0c\
-LMM\x11\x9e\xbc\xe3R\xb0n\x85\x93\x19\x89\xea?\
-Eo\x89\xb3\x97\xbe\x1c\xd0\x8f\xa7\xb2\x18\xbd*\xe6)\
-\x0b}e{J\xf59\x09\xecG\xdd\xc9\xb5\x93p\x18\
-\xe7\xc5\xa2\xecP\xbb&\xe1Tu\xe0K\x0f\x9c\xa2\xcb\
-\xe4&\x1e\xa2\x93\xbe\xa0.a*\xf1\xbd\x01'>\xd2\
-\xa2\xe3\xb8\xdc\xfd,\x94\xb1\x1a=\xa1\xb3\x00\x16\x89=\
-\xf8\xed\x8e\xab\x82\x03\x89T%r\x18\x89\x14\xb9\xb0#\
-\x9f\xb03\xed\x8e\xb7\x8f\x12\xda~\xd5& \xa3&\xd2\
-J\xafS\xea\xda\x957\xba@2\x0f\xc9o\xe1\xed^\
-w\x09\x1f\x8f\xc6\x84\x15\xf2\xf1`\xf3W\xa5D\xbf\xab\
-.3\xe3\x18\x08C-&\xf69\xb7V)\xd8jl\
-\xbe\x1c2\x045#\x99I\x02Be\x1d;W$\xb8\
-\xc0\xe2)C'\xc4\xd3\x07G\x8b^\x88M\xab\xd6\xa2\
-\x99\xdb\xd4jD3N{\x01\xdb\x05\x05\xd2h9\xf6\
-\x92\xaa\x07\xaa9\xef\x1c$\x1b^rtO\x17q\xc6\
-\xe9+bQO\xc8e\xdf\x03\xa9$\x15LC\x14X\
-u\xf0\xe8\xf911B\x9f\x1d\x95K\xb2O\x80W\xe2\
-\xa1\xf2j\x81\xc5\xd3nI-P\x0d\x19)\xc0\xda\x95\
-\xbe%\xb25E!\xabY\x80\xb60\xc1N\xdb\x89\xa4\
-*q-W\x9f\xc4SB\xaf\x02\xc3\x15_\xe6\xe1(\
-Ya\xcd1\xe9\xebb\x92\x89\x94\xaf\xd2\x1e\xa0c\x19\
-\xb1\xf1D\xc3J`%\x02\xc3\xa2\x0b\x86\xf4\x18\xb0\xd3\
-\xf0\xb7\xc6\xac\x94\x7fhAM\xac\x89L\x05\x02g\xd8\
-\x18q#\xb2i%\xb1]:\xdaVC\xad\x07[#\
-\xbc{\x99\xe7\x8ft\xa1I\x0c\x9e\x22\xed\xb8\xaemF\
-\x8b&\xe6\x88\x16\xb4\x17\x03\x87|\x05t\xa71\xa5\xdb\
-\x99\xb1a2\xb5\xc7\xa1j\x9c^\xd3\xe2\x9bL\xa5\xc8\
-g\xcc\xf22\x91R\xb8\x12P\xaf\xe4\xae\xd2\xbb\xa1B\
-\xbb\x06\x86)\x0f0\xf6\xca\xca\x02\xafL\x8e\xb7\xa0i\
-\xcdE\xf4\x9cJD\xda \xff\x8c\x03\xd0 rn\x04\
-\xc8\x8d\x1dH\xbei\xbd\x8c\x00\xc0\xf9\x03\x8bB\x7f\x04\
-I3bg\x8an\xe2\x15dw\xd0\xcaoc\xc0\xf8\
-\x00\xfa\x8c]X\xb5\x88\x95\x96\xfb\xe8\x81\x91\xc4\xa3\x11\
-\x02\x92\xbc\xd1!\x7fL\xdb\xa72#_e\xdc\x95\x9f\
-_P\xf5~\xcaQ\xc8\x0a\xe8H\x1a\x1f\xd1\xb9\xeb&\
-twke\x9e\x12\x81\xc1\xcf\xfe\x14\xd5\x9ek7\x83\
-\x90\xc1\x95\xf2\xad\xee\x8f\xb2\xd6yo\x14(\xa3'`\
-\xe9t\x9c\xfd\x84,?\xf5L^x\xf2\x89hb`\
-$^\xc7\xa6\xe1~\x05h\x14y\xf05J\xd4i8\
-YN\xdd~B\x16\xd2X\xb5q\xc3\xd2G\xbd\xd2\xe1\
-* o\x84K\x5c\x03Z\xac\xca\xad^d>\x9f\xee\
-\x8d\xc6\x8f\xde\xc3\x9a_:\xa2b\xe5[\xf9!\x99Q\
-#b\x9b\xb5\xba^B{\xf5'\x03\xebE\x9e\xa5\x7f\
-\xed\x9e\x08&}K\x96W\xa28\xf1S\x86\x07\xec\x17\
--&\x81\xb3vm)\xf2\x96\xda\x18w\xc1\xc4.\x14\
-\x87k\xb9\xd3\xd0\xcex\x84\x03\
-\x00\x00\x18\xca\
+\xb5/\xfd`tqEr\x00\x8a\x11\x95#& \x8d\
+\xa6Pl\xa3N\xb3\xc1\x95'\x0d\xa8\x06\xec \x11\x87\
+J\x05\x81\xfa\xcd[\xd9;e\x8a\xec\xb7\x19\xc1\xa6\x80\
+P+\x000r\x02\x05\x02\x06\x02\x83\x9d\xc5\x19I\x0b\
+:\x1a9\x8bRZ|aii\x96\x927\x9c\x06\xc5\
+,~\xb6\x13-\xb7 \xc4\x1a\x95\xd8\xc2\xd3\x0eV7\
+R\x8c\xba\xa6\x0c\x0e/g\xd2\xdc\x8f\xa4,(\x0fs\
+,dQi\x855\xa44\xfb>\xbd!\xc7$ca\
+:\xde\xd9-k\xb5\x87\x19I>\xceC\xa1%\xba*\
+\xd8\xb8<\xa3\xcaw\xe4\x1e\x89\x887\x06\x95I\xecQ\
+7\xf8i6L\x8f\xfcQ\x1e\x8b\x1f\xf5p\xfce\x91\
+\xddH\x07\xe3J\x96\xc2\x01\xedR\xf0|DB\x18O\
+\x92\xe2`\xfa\x09\x1d\xcd\xc9\xbch\x92C\xd9\xae\xae\xe4\
+\x18Ihy\x14\xc3\xc0+\xb3\xc9EgA\x879\xf3\
+Gb\x8e3\x1a\x99\x8c\x22\xa2\xd4\x91ii\xe7\x05\xf1\
+\xc8a?\xec\xe3\xe9@7x&\xb7\xd2H#\xd9H\
+\xbb\xa1\xca\x8a\xac\xb2\xdc\x97+\xef\xfbG\xb0a\xec\xd1\
+\xc85\x0c3\xb2Y\xbd\x0d\xe74\xdfXbG\x12\xc3\
+\x0eol\xe8\xcf\x8e\x041l\xaa\xccb\x11\x0eWo\
+M\x0e\xc3\xac)n\xd8X\xca1\xa8<\xb5\xaa\x18\x87\
+\xbb\x93\xdcI\x97\x8b#B\xc9:mR\x18\xfe\xb5n\
+\xf9E\x9e\xeb6T\xd5G\xa8\x8a$c\x91?N%\
+?\xe0\xb5\xa6\x22\xbf\xe2\x84y#\xf8!\x87\xfeI\xb9\
+\x07\xced\x0d\xc9\x1f4\xd9\x99J}@\xbc\xbb\xb4\xa4\
+\xa3\xce\xde11G\xed\xce9\xa9\x07[\xe5\x18'\xfb\
+\xda\xecr\x1d\x8a\x95\xf2F\x9fX\xce\x12\xac@SR\
+\xdddj\xb0\xddg\xa4\x14\x99C3i\xba\xbc\xec\x90\
+\x94\xe3\xe9\xb3\xabaNmww\x8e\x90#\xb1\xcfz\
+\xd8\x09\x8f\x0c\xcf\x0ao6\x92q\xa4\x1dt;\xea\xd0\
++I6\x8edid\xb9\x86]\xe0\xd0\xc9\x1buu\
+)\x1a\xdc\xa8\xbbR\xc4@,<\x90\xa0\x02\x088\xd0\
+\x00\xc2\x03z\xa8\xd0*0\xa8@(X\x81\xc1\x84\x06\
+L\xa0\x00\x07\x0e4\xa0`\x01\x12\x1cL\x98\xb0\xf0`\
+\x82\x06\x84\x02-\xe0\xe0\x81\x07\x13\x16$\x10a\x81Z\
+@\x82\x85\x06\x14(0x\xe0A@`B\x83\x08,\
+P \xc0K\x0e0M9\x00B\x83\x07\x0f4\x90\xe0\
+\x80Y\x98\xe0A\x03\x0a\x040\x00\x08\x12$0%a\
+\xc1\x01\x07\x12\x0c\x00\x80\x00\x1c@a\xc1\xcc\xd4\x82\x08\
+$D\x90V \x15TP\xc1\x82\x05\x05\xa0`aA\
+\x02\x05\x06\x13&\x80\x10\x01\x0a\x84\x82\x83\x09\x22L\xa0\
+\xc0\x00\x02\x84\x07\x10\xc43&F\x81\x01\x05\x22 \xa0\
+\x02\x07\x0f&\xb0 A\x04\x0f\x1cH\x10\x0aO\x05\x06\
+\x12,<\xf0\xa0\x82\x88`\x02\x13\x0c\x104\xbc\xcd\xab\
+\xcf\xcb\xea\x12\xe3\xf5\xba\xca\x01[\x95;zCG\xb9\
+\x96q\xbc\xb2\x15\x1b\xac\xbe\xbcQ\xae\x12c\xa0\x01\xf7\
+\xea\x8b\xba\x08MB4T\xde\xce\x8f\xa4{\xdb\xc1\xc6\
+\xb1\x16\xc9P\xd4\xccQ2\xc8(\x93\xf0\x92CR\x89\
+\xa8\x92qu\xac\xb1\x14\x0c\xacK\x1b\xb2\x92(\xaf\x04\
+\xc3\xf0U6\x92\x8b\xaa\x22*\x1c\xb1!\x8f\x157\x1e\
+\xd9\xc0\xe2\x91<\x8cp\xc4\x8e:\xbd\xf2\xc1\x5c\x97[\
+\xddL.(\xcb'9\xd0\x1d\x05\x8b\x8c\x92\x8eZ\x9e\
+\xcc`S(\xf4,\x89):Y1\xb2_\x1eN\x97\
+\xe4\x89l\x82\xf4\x99\x8bQVYL\x81\x96i'G\
+a?:$i\x15\xed\xc6s\xc4\x0c\xc9Gx\xcdG\
+\xa6}I6\x95[|\xaa\x90\xb2\xc2\xf3\x93Z\xe0\x91\
+\x91\xb3\xc4*^X\x1a\x1b\x19\x8b\x9b\xeb(m\x8aS\
+\xf1\xc3|\xd8\x9c\x0az^\xea\xaeT\xa9\xfa\x16\xd7\xc5\
+\xcar\x8c\xe6\x17,W\x9ek\xc1B\x17\xa5\xfa!\xb9\
+\x0e\xe7\x9f\xd4Q\xb5\x11\xf3\xd15mi\xf9\x8f\xb4s\
+\xde\xd5<\xef\x88\x86\xf0\xea\x85yWvr\x8fO{\
+u2^\xcd\xa5z\xd4\xd1\xb6\x01_\xbc\xa6\x8b\x81e\
+8\xd4\xae7\x88\x93XaFK\x12t\xd9G\xcc\x86\
+\x97R\xe7L\x0a\xd9X9W\x1e\xa5^\xe3\x0a\x1e\x07\
+[%H\x82\xbd\xa5\xfc\x91Y(\xfd\x9d\x96\xa7\xfe\xae\
+\x10\xcdn\x03\xfe#dq\xc4C\x9a\xbc\xb9\xab\xf7\x91\
+m\x87c\xb32[W<\xdd\xd7\x9b\x9b[\xbb?\xd1\
+\xc3\x1d\xcb\xea\x08\x890,]\xb1\xe1\x84\x986%\x7f\
+`\x9c\xfa\xb4\xe1v\xb4\xe3\x98\xde \xf3\xe9\x9c\x86B\
+4\xe2\xc7\x1d\x8e\xd8\x8b&9\xf4F\x82\x7f\xcf\x84,\
+\xf0FnX:I\x87UO\xc6\x8a\x16\xb42\x94\xb9\
+\xf8\x1cI\xf3l\x89\x95>\x8e\xb2)~\xd4\xd0\x1cs\
+\xcd]\x1f\xb5J\x1b\x5c8\x947&w\xe1\x96\x10q\
+H\xbc\x09>\xa8\xa6\xe6\x15'\xecu\xc0\xf2I>\xee\
+\x9c\xab\x07e\xde\xd0\xabb\x96\x1d\x0aM<\xc7T\xe5\
+\xa9\xfc\x82p^#\xe9\x05\xd2M\x1eG\xa8$u\x9d\
+<%\xf7\xe8Q/~\xd8\x98\xf9N\xe8C\xe944\
+\xd9\xb4\x0a:\xee\x8eurwh\xc3)\xd9Y-&\
+Q\xe5\xaf\xc1\x81\x9a\x9d\xa7\x94\xc3\xd2\xea\xca|\xcd\x0f\
+\xe6\xfa)\xa5\xf1\xa1\xb2\x16\x0dgI\xbf\xaa\xd8\xd11\
+\xfe\xe4\x0eS\x0dI\xce\x03\x1a&\x19^5\xc7\xd9\xa9\
+\x19\x12[\x1eO\xca\xc2\xe58\x9d\x85,\x9eC\xddI\
+\xc6\xc2\xeeFK>\xce\x02\x890?P\x96\x04\x1fd\
+,\xb4\xdc\xa3*\xcc\x0a?\xed\x1c\x89=\xb0\x94\x16\xae\
+Y\x87+9\x8dF\xf2\x07at\x9auC+\xcd\xee\
+\x8e\xcc\xaa\x9a\x11?j\xee\xfd\xaf2\x9b\xa4\x03\x19\x9d\
+\xd4\x83\xccug\xda\xc9Y\xadU\x92\xca\x92V\x1e9\
+\x07\xb9'\xf6p\xcd\xcb\xfc\xae\x199S\xc9\x97\xa5\xcc\
+@\x03aX\xc6\x9fR.\xac\xd4\xce\x98\xe4`\xf3\xca\
+\x1b\xf9\xac\xb0J\xa4\xcb\xe2\xd5\x82m\xd1\xc8\xc4\xc7\x17\
+\x1ap\xceBT\xac\x11k\xbc\x86\x92\x1f\x0cm\xa4\xaf\
+;\x19\xdb\x17\x1c|\xeaa\x9a\xb4\x02\xa9Z\x1c1\x1c\
+\x5cE6\xf5|\x8a5ni\xb2<\xb9\x86\x07\xff\x1a\
+f\x05\x0e\xa2`\xe3\xb0C\xf9LE\xf5\xd34X\xa1\
+\x19Z\xf8.%\x1by\x83\xcd\x8a\x12\xed\x9e(\xe3p\
+\x119\xec\xbdO\x84\x9f\xbcT\xefnu<\xf1L\xfa\
+)\xf3\x89\x1dW\x8f\xcc\x9aL\x1c^\xea\x9d\x82\x18\x95\
+\xa6\xd7\xe5\x18\xcfkzH\x0a\x07\xb33\xda\xdd\xfbH\
+\x9cK\xac\xe0\x0dd\xdb%x\x81u\x95R\x0b\xc3r\
+\x8eIz \xa3,y\xc3\xce\x97\xb4\x91CW%\xd4\
+t\x92dE\xdeT\xc5z\xb3\xa55`\xeb~x,\
+\x99\x0a\xcbL,\xba\xb8\xb4$\x0dN\x0a\x9a\x0aR\x14\
+R\xe5h0\xbb\x15\xa3\xa0\xde)ZrJix\xed\
+\xc3+IQ\x94\x88\x86\xab\xacYU\xd5\xa0\xe4\x90\xc7\
+qI\xc6\xafmbR\xcdf\xaf\x05#\x89\xe8.\xc1\
+\xa1e\xf7G0N}\xe5\xc9\x0d\x98\xf6\xfe\xa6\xd4^\
+\xc9\x85_hC#7\xdc\xe6\x86\xe8\x0b4\xaa\x1c\x0d\
+\x94O\xe3\xd8\x97\xd7\x87\x8d\x0dgzE\xe7\xb9\xcc\xb2\
+N\x18'\x12s\xd0Q\x00\x08\xc0\x01\x22\x98\xc0\x84\x05\
+\x0b.\x0b\x0f\x22\xd0\x02\x09\x11 Dp`\x81P\xf0\
+\x82\x83\x09\x10@\x10!(\x88\xb00\x01B\x03\x07&\
+\x04\x01&\x17\x22H\x08\x02\xc4\xe5<\x00\x07\x0b\x0d \
+,(0\x88\x80\x84\x08\x10L\x98\xa0\x81\x04\x06D\x10\
+\x0a\xa4\xc0@B\x05\x1c\x08\x85\x85\x09\x1c$`\x02\x04\
+\x0e\x1e\xb0\x93Y\xc0\x01\x04\x22HX\x98\x10\x0b\x1a\xa0\
+\x0f\xcaQ\xf4y\xa9\xf2\xb1\xf1\xbaJ:N\xb7\xe1\x92\
+,\xaf(WZF\x9b\xd0\x03\xcf\xa25'\xf5(\x1a\
+\xcc\x9ad\x8d\x9b\x9a\xf8a\x0fw\xd6\xdfs.\xf7p\
+\x90\x99\x10k\xf8\xb1\xb5;ZJQE\xdd\x13\x12\x09\
+\xd5\x13G\xa8\x12KZ\xe9\xb2\xbc^\x16v\xa9c\x97\
+\x8bJ\xcb\xb3\xb4\xb0\xb2\x92\x14\x944\xbe\xb8\xeb\xe1\x08\
+\xda\xb2F\x8c\xccebJ*)\x99|)\xd5PJ\
+Fj6-/\xae\xdf!E_\xf4;;\xabX^\
+-Gqv\x16\xa4\x9f$\x1f\xbf\x07\xce\xab\x93&I\
+\xa6\xab\x1c\xdd\x14\xc9\xa9\x9d\x91y\xd4\xd4\x92\x99\x86R\
+tx(vC\x95I\x0a\xa3H\x06[C\xf5\xb8!\
+\x95,}\xe4\x1cV\xa1\xb8\x0f\xcfO\xfep\x19o:\
+&\xf7\xf8T\xe2U\xf0AE\xd1:\xb93\xf6J\xc9\
+\x07\xb6\x92*#\x8bn\x1bn\x832\x16X\xe8i\x1d\
+\xa3|\x13\xf2\xe1\x8d!\x15Z`K\x1f\xc8\xcc\xad\xb5\
+\x10\xa5,\x8e\x8f\xc3,C\x0f5\x9d\xaf\xf27\xa2\x05\
+\xd6\xa5\xd4\xa2Cxrg\xf5\x94<\xc4\x91\xc2\xb6\xea\
+\x88\x0a\xb3b\x8c\xd6\x840\x09Q\xf0|Dbgv\
+\x96\x1f\xbe(\xbe'\x89/O(ugv\x9f\xe6U\
+\xe6hN\xe6\xb2jrZ\xe8Z\xe8\xf0\x86Rg\xcd\
+\x12\x1f]\x9d\xfch\x9c\xf2\xa3\xf7\x98?\xa9|\x92\x85\
+,\xd0(od,\xf2\xcdJ>\xc8\x917\xd7\x0e\xad\
+\x1aA2\xf5\x95{<\xb1h8\xdc4b\x0f\xba\xf0\
+\xcb\xd0\xc8.\xf9\xc3\xe6f\xfe5?\xa7\xcd\x0b\xad\xc2\
+\xac#\x1e>h\xbd\xbbJ\x1fX\x8d\xce\x93\xc6\xad\xd6\
+\xa5\x1e\xef[g\x98E\xe1i\x9d\xc5\x8cu\xb1\xcb4\
+\x89\xcfd\x14\xba!\x8d\x81\x06\xe2h\xa6;I\x9f-\
+\xe9\xb0\xa9\x894\x8d\xf4\xcf<\xfe\xcd\xa0\xda$\x1fx\
+7\xd0\x14\xca\xdcXJ=\xf07\xa2\xb8<\xcf\x80\xb5\
+\xe5d\x83\x96\xa8\x12Y\x9afb\x0e+\xc4\x1cI\x92\
+$\xe9\xd2\xeb\x02B\x1d\xaa\xaa\x92\x1c\x92\xd8dQ\x92\
+j\x89\x04\x09\x92$)T\xf6\xd9\xbf\x03#\x03\x0c\xd8\
+\x80\x00\xf9]j$\xd1\x19\xb1f3\x0a\x95hf\x86\
+\xa0qXq\xb5/u\xb1\x02\xb4\xa2\xe0\xcf\x14\xe8\x0f\
+\x84\xd1H\x8b?\xa6`\xb8C\xf8{\xbd&Dh\xc5\
+-\xb2\xd2pk\xb3\xc2-P\x08\x80\x0b\xb7\xe4\x90Z\
+\x13n]\x8f\x83[\x7f\x09\xb7\xfe\x12\xdcb@\xbf\x0d\
+\x13P\x02\xa8\x1c\xf7\xb2\x94:\xa5m\xddUi%\xaf\
+Rt\xca\xa1\xdb-\x07/\xa6t\xe2T\x0e\x06\xd0\x8b\
+\xb35\xf1\x0bd\x1e\xa4\xbf\x7f\xb0j2\x13A\xf1z\
+\xc1\x9ax\x1f\xee\xcc\xcc\xe9\xe9.?/|t\xe0\xde\
+4\xefo\xa6\x0c\x9c\x80\xe8\x0c-\xef\x0e\xe0$\xc4\x0d\
+^Yo0\xa4\x1f\x11z8B\xe6\x95|\x153\xd5\
+\xbd\x84\x00^\xe6{<\xf7\xf3\x1f>\xc7\x05\xc4\xe3\x83\
+8\x95\x82Xe\xd1a\x0e\xb00MB|\xd3\x94\x8b\
+`\x12iz\xf3\x01\xd3$\xd5\xbb\x03\x1bz8\x96N\
+C1\x02\xcb\x1d\x0b\xdfq>A\x87\x07\x93!\x15\x82\
+1.u\xfc\xecOg\x9f\xbdt\xf8\xba\x8d`;b\
+V\x19\x80W\xf3\xf0]t\xcc\x06\x0b\x94\xc1\x0eX\x8a\
+\xf2<\xfc\xa8\xcd~4\xeba\xd0\x13+%&\xa7g\
+/\xa6CZg\xc82?\x92\xe2|\xebi@\x81\xd4\
+\xb49\xe9\xc8\xd5\xd1\xc7\xea\xce%\x8e\xa7\xab\x01\x083\
+6\x81\xa4!\x0e\x89\xc2\xb8Z\xf1\xd1\x0e\x91)\xa9T\
+$\xe2bY\xaaBHB\x86P\xf4C6\x94}P\
+hz\xcb\x95\x87T\xfd 2(\x7f\xcc\xac\x06\xe7\xd1\
+\xc2,\xe3\xdf\x18n\xa4\x9d\x11\x0b\x84\x90\x1d\x92\x00\x04\
+b\x1f7\xf4d'\x05\x5cy\x1c\xfc\xedY\xd5\xc40\
+4.Q\xca\x90w\x96\xa1\xe8g\xbe\x01\x0aC00\
+\xa4\xa4F\x8a\xdf\x7f\xd6\x11\xa7\xe50\xa7`\xb9\xa5\x09\
+\xe3\x95y\xc8,\x22\x8a\x16d\xe2\xe1\x80qH\x1a\x9c\
+En\x099\xde\x9b\xc3f\x0d_i\x0a\x84\x0b\xb7Q\
+\x8a\x84\x10.\x98\xf5+\x84b\x01\x92\xac\x10]A\x94\
+\x81\xd0f\xdc\x92\xe8\x8e\xa9C\x8b\xe9\xdb\xe5\x8c0\x12\
+\x0dC\xf9\x0b\xc4\xe9]t\xfb$\x0c\xd1\x05g\x89\xb1\
+o\xe8\xa8\x1c\xdd$p\xd2 \x0d^\x86^\xf3\x00\x11\
+\xcd\xb3\xa5\x19u\xb2\xe0\xbfI\xf1\xb9\xf3\xe2U\xe3U\
+\x1a\x93\x07|(\xa9^\xdb\xa4R\xff\xdb(\x0d'\x5c\
+\x96\x7fy\x1dT\x10\x117G\xfe\xbbE6,\xa7\x05\
+\xb3\xc7}Q\xce,\xc4)\x84\x0e#J\x84\x0el\xb7\
+\x80\x1d\xe6(\x82r\x7f\x9a\xac u\xe8vC\xd4\x22\
+\x99T\x14\x98\xbd\xeb\x12\x03\x8bI\x08Mg\x9d\xb53\
+\xa2\xa9\xa7\xe5\x0c\x05 \xe7B\xb6\x1c\x90JK<\x0e\
+&\x86\xcdH\xaf\x17\x85\xab|\x01\xdb\x88\x19B\xfe\xa3\
+ \x91'D\xce\xb3uo\x02N\xcd\xa6\xc1\x96#4\
+\x90\xd7% \x22M\xe0M\x8d\xe3b}i\xf6\xa2L\
+o\xd2\xdc\x17I\xd2\xdf\x022T`J\x1ee\xf8q\
+\x95\xc8U\x0a^\xf4\xed;\xd1\xe4P.\xd0\x91\xc6\xaf\
+\xdb\x94\x9f\xb5\x86\xb3W\xd2\xd2\x96\x18ib\xff\xa1e\
+\x01G\xf8\xa4Y.\x1c\x95\x0e\xe4\x16\xcc\xcb\x8d\x13\xc8\
+\xe5\xdf\x9cHJ\x0c\x15\xdc\x96\x88O\xbfc-`\xee\
+~\x0eb8\xe7\x9e\x18\xb0c!R=z\xdc\x1d\xe6\
+]#\x11[\xbb9\xe3\xc7\x10E\x1e\xc3H\x110\x1d\
+*o\x97_\xb5\xfd\xeeMm\xc4\xcf#;\x0b\x03\xe5\
+xfovY\x8a\xbb(?!\xe2\x1b\x03?\xb8V\
+uF\x07C>/6\x1f\xcfL\xc7o\xf4\xb2\xb8B\
+\x04\xb9\x02E\xc2\x1e($P\x07\xb5<OHSP\
+\x98\xba/&\xcb\xd4\xd5\xae\xa3\xb9X\x1d.\xc4X\x90\
+\x99\x1b\xe2\x0b\x999\x0b\x85\xd5\x04\xf6\x09\xfep;\x01\
+/\x18\xa8#,\x01\x81\xb4\x9d\x94v\xce\xd3\xfcJH\
+\xc1\x85w\x8e\xc4l\xa9\x1c\xfd\xd2}0)\x00\xd8Q\
+k\xe2v\x95\xb7\xe5\xf2\x10\x82\x8f9\xa4o:h%\
+s<\xe3d\xd5\x91\xe4\xb2\x08\x8f\x8d\x13\xc4\x92De\
+\x03x\xd6zs\xd2j\x85F\xc4\xa2\x81\x9f\xae\xaf\xeb\
+-\xfb\xec\xf6\xd7|\xe4j\x91 n\xadg\x8d\x5c[\
+w\xef\xc8\xfb\x0a\xc1\x9b\xc4\xc3\x1d \xfa\x22\x13\x13J\
+\x90c\x00;\xa2\x9c\x11\xa9\x93y\xe9\x9b\xa3~\x84\xd2\
+\x1dj\x0e\xde3\x84Xx\x11>I\xfe\x85\x10(\xaa\
+\xe1/aa\x09&HV\xe2{\x11d\x18\x9e\xe7\xcb\
+\x01)\xde\xe7H\xa0}Y\xafD\xb6\xe0\x8do\x86\xc2\
+\xd3\xf7S\xb53!\x18\xd5\xdb9\xae\xb6\xd3U\xdaG\
+\xcf\x91\xa3\x18~H\xb6\xb7\xf3\xc8\x91\xc4\xb6\x07>+\
+\x01,'\xc1\x13b\xbc\x18\xc1y\xb3\xe8A>i\xeb\
+\xc4\x8ae3\xb4\xeeO\xac\x8d\xc44Bl\xe5m\xb5\
++\xef,X\xa7\xca\xe1\x22\xefoV\x98f>\x97\xec\
+\xb3]\xe8[I\xe2\xcc\xb6\xd5\xb0\xdbo\x5c\xc8\xb1z\
+\xd6&\xd0SF\xe6r\xf3\x07+\xf3Q\x87\xabl\xe8\
+\xa4\x8b\xdaBO(T\x11d5\xfe\xb5\x8c.\x06\x01\
+\x0e\xa9\x1e\x07\x1c\xf42\x1c/\x1a!\xca\x06e\x02\xf8\
+\xf7P\xec\x10(\xfa\xfb\x16c\xc7\xf1S5x\x83\xde\
+$#\xed]\x9a\xca3\xc4\xae\xe9\x94k\xe0\xa15\xe5\
+F\x00\x8e~\x99S\x07\x0d\x0f\xb4\xfc\x04$\xc5\xfd\x5c\
+\xd3[\x15\x16\xa4\xd6\x80\x04\xe7\xe2\x95O&\x1c\xb3\xe1\
+\xaf\xd8O\xca\x84)\x0f'\xae\xc6\x86\x13\xc6\x97L\xbe\
+\x1d\xb3(\x15M\x9dQ>\x1d\xb1;f@\xf3Y\xf4\
+\x0c\xcb\x80\x9e|\x97\x8b~\xe2\xb0\x96;\x19\xedfD\
+8\
+\x00\x00\x16\xe2\
 <\
 svg width=\x2295\x22 h\
 eight=\x2295\x22 viewB\
@@ -129685,2158 +129674,358 @@ ox=\x220 0 95 95\x22 f\
 ill=\x22none\x22 xmlns\
 =\x22http://www.w3.\
 org/2000/svg\x22>\x0d\x0a\
-<g clip-path=\x22ur\
-l(#clip0_2003_51\
-)\x22>\x0d\x0a<path d=\x22M4\
-7.5 0.0185547C63\
-.0859 0.0185547 \
-78.6669 0.012369\
-8 94.243 0C94.87\
-57 0 95.0018 0.1\
-24316 95 0.75888\
-7C94.9814 31.919\
-6 94.9814 63.080\
-4 95 94.2411C95 \
-94.8757 94.8757 \
-95 94.243 95C63.\
-0822 94.979 31.9\
-209 94.979 0.758\
-887 95C0.124316 \
-95 0 94.8757 0 9\
-4.2411C0.0197917\
- 63.0804 0.01979\
-17 31.9196 0 0.7\
-58887C0 0.124316\
- 0.120605 0 0.75\
-8887 0C16.3399 0\
-.0222656 31.9202\
- 0.0284505 47.5 \
-0.0185547Z\x22 fill\
-=\x22url(#paint0_ra\
-dial_2003_51)\x22/>\
-\x0d\x0a<path d=\x22M48.4\
-891 10C49.3553 1\
-0 49.6276 10.194\
-3 49.6238 11.294\
-C49.5846 21.2591\
- 49.6241 31.2242\
- 49.5867 41.1914\
-C49.5867 42.1503\
- 49.7735 42.4014\
- 50.5984 42.4014\
-C59.8468 42.4014\
- 69.0972 42.4517\
- 78.3455 42.4912\
-C80.1022 42.4912\
- 80.3359 42.8103\
- 80.1492 44.8555\
-C80.1349 45.075 \
-80.1302 45.2956 \
-80.1346 45.5157C\
-80.0823 55.2236 \
-80.0423 64.9337 \
-79.9471 74.6416C\
-79.9471 75.6137 \
-80.151 75.9278 8\
-0.9705 75.8662C8\
-1.8646 75.7981 8\
-2.7681 75.8933 8\
-3.6678 75.9043C8\
-4.254 75.9043 84\
-.7095 76.1835 84\
-.9149 76.8389C85\
-.1202 77.4942 84\
-.9398 78.0331 84\
-.5106 78.5147C83\
-.594 79.5395 83.\
-1419 80.9338 82.\
-4568 82.1543C81.\
-88 83.1946 81.36\
-44 84.2835 80.80\
-25 85.337C80.668\
-2 85.5898 80.558\
-2 86.1107 80.243\
- 85.9024C79.9276\
- 85.6935 80.2424\
- 85.3155 80.3787\
- 85.0625C81.286 \
-83.2723 82.2119 \
-81.4949 83.1248 \
-79.709C83.2461 7\
-9.4694 83.4479 7\
-9.2692 83.4051 7\
-8.7725C82.0591 7\
-8.7725 80.707 78\
-.7835 79.3572 78\
-.7725C78.9188 78\
-.7727 78.7978 79\
-.1399 78.6111 79\
-.4786C77.6274 81\
-.3853 76.6526 83\
-.2984 75.6502 85\
-.1963C75.4953 85\
-.4888 75.4095 86\
-.1592 75.0008 85\
-.8692C74.6797 85\
-.6492 75.0865 85\
-.2274 75.2303 84\
-.9414C76.0872 83\
-.2435 76.9647 81\
-.5583 77.8328 79\
-.8692C77.9895 79\
-.5614 78.1312 79\
-.2422 78.3924 78\
-.6905H74.4383C74\
-.009 78.6906 73.\
-9059 79.1304 73.\
-7342 79.4668C72.\
-713 81.4331 71.7\
-033 83.4064 70.6\
-766 85.3682C70.5\
-479 85.6167 70.4\
-507 86.1461 70.1\
-17 85.8985C69.78\
-28 85.6499 70.14\
-65 85.3059 70.27\
-72 85.0508C71.23\
-67 83.1683 72.20\
-41 81.2918 73.17\
-85 79.4209C73.39\
-13 79.0164 73.55\
-17 78.728 73.035\
- 78.4092C72.5178\
- 78.0903 72.3602\
- 77.4499 72.5506\
- 76.7901C72.6257\
- 76.4793 72.7902\
- 76.2088 73.0154\
- 76.0245C73.2407\
- 75.84 73.5134 7\
-5.7528 73.7869 7\
-5.7784C74.81 75.\
-7784 75.8408 75.\
-7612 76.8582 75.\
-8096C77.3918 75.\
-8337 77.5409 75.\
-6138 77.5428 74.\
-9961C77.5751 65.\
-3967 77.6217 55.\
-7968 77.6815 46.\
-1973C77.6814 45.\
-5551 77.4945 45.\
-3965 76.9774 45.\
-3965C68.1323 45.\
-3789 59.2872 45.\
-3443 50.4422 45.\
-293C49.6321 45.2\
-93 49.7359 45.85\
-19 49.7322 46.43\
-46C49.6924 54.20\
-57 49.6529 61.97\
-36 49.6131 69.73\
-73C49.6131 71.34\
-92 49.6711 72.96\
-77 49.576 74.575\
-2C49.5106 75.685\
-9 49.8502 75.965\
-2 50.7127 75.883\
-8C51.4594 75.813\
-5 52.2063 75.906\
-3 52.9529 75.915\
-1C53.5372 75.915\
-1 53.9909 76.192\
-4 54.2 76.8477C5\
-4.409 77.503 54.\
-2002 78.0225 53.\
-8025 78.5284C52.\
-7926 79.7886 52.\
-2171 81.3871 51.\
-4256 82.8321C50.\
-9515 83.6919 50.\
-5242 84.5914 50.\
-0613 85.4512C49.\
-9419 85.6711 49.\
-8349 86.1115 49.\
-5457 85.9161C49.\
-2563 85.7203 49.\
-5266 85.3897 49.\
-6424 85.1631C50.\
-5758 83.3113 51.\
-5415 81.4708 52.\
-4861 79.6211C52.\
-5925 79.4144 52.\
-7806 79.234 52.6\
-873 78.7832C51.3\
-62 78.7832 50.01\
-04 78.7942 48.65\
-7 78.7832C48.218\
-4 78.7833 48.097\
-2 79.1636 47.923\
-6 79.5C46.9062 8\
-1.4794 45.8958 8\
-3.4433 44.8709 8\
-5.4073C44.744 85\
-.6536 44.6375 86\
-.1482 44.2996 85\
-.8799C44.0354 85\
-.6601 44.3332 85\
-.3507 44.449 85.\
-1221C45.3433 83.\
-3626 46.2524 81.\
-6179 47.1541 79.\
-8672C47.3109 79.\
-5616 47.4548 79.\
-2516 47.7254 78.\
-6954H43.742C43.3\
-556 78.6954 43.2\
-503 79.0884 43.0\
-936 79.3897C42.0\
-575 81.3889 41.0\
-289 83.3929 39.9\
-891 85.3877C39.8\
-603 85.6363 39.7\
-655 86.1328 39.4\
-295 85.8799C39.1\
-701 85.6842 39.4\
-478 85.3525 39.5\
-691 85.1172C40.5\
-312 83.2376 41.4\
-978 81.3616 42.4\
-686 79.4893C42.6\
-87 79.0714 42.93\
-32 78.7526 42.33\
-77 78.4073C41.80\
-94 78.1016 41.66\
-97 77.4455 41.86\
-02 76.7901C41.93\
-49 76.487 42.094\
-7 76.2225 42.313\
-3 76.0401C42.531\
-9 75.8577 42.796\
-8 75.7677 43.064\
-3 75.7852C44.184\
-3 75.7852 45.304\
-6 75.7654 46.424\
-6 75.8204C47.006\
-9 75.8489 47.16 \
-75.6002 47.16 74\
-.9405C47.1824 65\
-.3778 47.2172 55\
-.8147 47.2645 46\
-.252C47.2644 45.\
-6519 47.1393 45.\
-4259 46.5945 45.\
-4258C37.6859 45.\
-4434 28.778 45.4\
-434 19.8719 45.4\
-258C19.0394 45.4\
-259 19.1716 45.9\
-907 19.1697 46.5\
-537C19.1374 53.6\
-239 19.1075 60.6\
-95 19.0789 67.76\
-66C19.0789 70.11\
-11 19.1013 72.45\
-81 19.0359 74.80\
-47C19.0117 75.70\
-4 19.2766 75.932\
-9 19.9803 75.904\
-3C20.818 75.8673\
- 21.6568 75.8844\
- 22.493 75.9551C\
-23.6243 76.0387 \
-24.0888 77.1423 \
-23.4988 78.2881C\
-22.2717 80.6634 \
-21.0403 83.0354 \
-19.8045 85.4034C\
-19.6777 85.6454 \
-19.5938 86.1814 \
-19.2449 85.9375C\
-18.8958 85.6934 \
-19.271 85.3589 1\
-9.3924 85.1192C2\
-0.4172 83.0849 2\
-1.4623 81.0636 2\
-2.6141 78.8204H1\
-8.2811C17.8501 7\
-8.8206 17.7527 7\
-9.2779 17.5828 7\
-9.6055C16.5767 8\
-1.5408 15.5896 8\
-3.4873 14.576 85\
-.4161C14.4528 85\
-.6514 14.3701 86\
-.1973 14.0154 85\
-.9268C13.6608 85\
-.6563 14.0563 85\
-.3457 14.1795 85\
-.1016C15.1129 83\
-.2476 16.0602 81\
-.3985 17.0291 79\
-.5664C17.3502 78\
-.9572 17.273 78.\
-7146 16.6551 78.\
-7696C16.6242 78.\
-7717 16.5932 78.\
-7717 16.5623 78.\
-7696C15.4422 78.\
-7696 14.1817 78.\
-3763 13.2576 78.\
-8711C12.3636 79.\
-3506 12.0423 80.\
-9095 11.4656 81.\
-9893C10.8514 83.\
-133 10.2746 84.3\
-058 9.66973 85.4\
-561C9.55031 85.6\
-76 9.43613 86.13\
-77 9.16192 85.95\
-12C8.78856 85.69\
-83 9.16229 85.36\
-82 9.27618 85.12\
-41C10.3142 83.02\
-37 11.3781 80.96\
-67 12.5057 78.77\
-84C11.6525 78.48\
-36 11.0981 77.97\
-12 11.2811 76.94\
-63C11.4641 75.92\
-17 12.1454 75.73\
-22 12.9275 75.77\
-84C13.8273 75.82\
-01 14.7326 75.74\
-14 15.6268 75.82\
-72C16.3735 75.89\
-98 16.5603 75.56\
-76 16.5604 74.72\
-76C16.5604 68.34\
-94 16.6241 61.97\
-1 16.6297 55.592\
-8C16.6446 40.864\
-6 16.6446 26.136\
-4 16.6297 11.408\
-2C16.6297 10.363\
-5 16.7656 9.9956\
-4 17.7625 10C28.\
-0041 10.0528 38.\
-2463 10.0528 48.\
-4891 10ZM46.1424\
- 12.8702C37.4578\
- 12.8965 28.7732\
- 12.8965 20.0887\
- 12.8702C19.4074\
- 12.868 19.1962 \
-13.0529 19.1961 \
-13.8926C19.2247 \
-23.1197 19.2247 \
-32.3472 19.1961 \
-41.5743C19.1942 \
-42.4296 19.4313 \
-42.5859 20.0975 \
-42.586C24.4304 4\
-2.5508 28.7655 4\
-2.5684 33.0984 4\
-2.5684C37.4388 4\
-2.5684 41.7775 4\
-2.5549 46.1141 4\
-2.5879C46.7749 4\
-2.5923 47.0086 4\
-2.4471 47.0086 4\
-1.585C46.985 32.\
-3581 46.985 23.1\
-312 47.0086 13.9\
-043C47.0105 13.0\
-906 46.8462 12.8\
-702 46.1424 12.8\
-702Z\x22 fill=\x22blac\
-k\x22/>\x0d\x0a</g>\x0d\x0a<def\
-s>\x0d\x0a<radialGradi\
-ent id=\x22paint0_r\
-adial_2003_51\x22 c\
-x=\x220\x22 cy=\x220\x22 r=\x22\
-1\x22 gradientUnits\
-=\x22userSpaceOnUse\
-\x22 gradientTransf\
-orm=\x22translate(4\
-7.5 47.5) rotate\
-(90) scale(47.5 \
-47.5)\x22>\x0d\x0a<stop o\
-ffset=\x220.4\x22 stop\
--color=\x22white\x22/>\
-\x0d\x0a<stop offset=\x22\
-1\x22 stop-color=\x22w\
-hite\x22 stop-opaci\
-ty=\x220.5\x22/>\x0d\x0a</ra\
-dialGradient>\x0d\x0a<\
-clipPath id=\x22cli\
-p0_2003_51\x22>\x0d\x0a<r\
-ect width=\x2295\x22 h\
-eight=\x2295\x22 fill=\
-\x22white\x22/>\x0d\x0a</cli\
-pPath>\x0d\x0a</defs>\x0d\
-\x0a</svg>\x0d\x0a\
-\x00\x00-\xa1\
-<\
-svg width=\x2295\x22 h\
-eight=\x2295\x22 viewB\
-ox=\x220 0 95 95\x22 f\
-ill=\x22none\x22 xmlns\
-=\x22http://www.w3.\
-org/2000/svg\x22>\x0d\x0a\
-<g clip-path=\x22ur\
-l(#clip0_2003_13\
-7)\x22>\x0d\x0a<path d=\x22M\
-47.5 0.0185547C6\
-3.0859 0.0185547\
- 78.6669 0.01236\
-98 94.243 0C94.8\
-757 0 95.0018 0.\
-124316 95 0.7588\
-87C94.9814 31.91\
-96 94.9814 63.08\
-04 95 94.2411C95\
- 94.8757 94.8757\
- 95 94.243 95C63\
-.0822 94.979 31.\
-9209 94.979 0.75\
-8887 95C0.124316\
- 95 0 94.8757 0 \
-94.2411C0.019791\
-7 63.0804 0.0197\
-917 31.9196 0 0.\
-758887C0 0.12431\
-6 0.120605 0 0.7\
-58887 0C16.3399 \
-0.0222656 31.920\
-2 0.0284505 47.5\
- 0.0185547Z\x22 fil\
-l=\x22url(#paint0_r\
-adial_2003_137)\x22\
-/>\x0d\x0a<path d=\x22M79\
-.9697 64.9586L79\
-.8113 64.7671C80\
-.7337 62.5324 81\
-.6562 60.2976 82\
-.7196 58.1238L82\
-.8641 58.3257C83\
-.2992 58.6337 83\
-.0607 59.0219 82\
-.9302 59.3369C82\
-.2131 61.0773 81\
-.4421 62.7813 80\
-.6867 64.4991C80\
-.5545 64.7985 80\
-.3804 65.0717 79\
-.9697 64.9586Z\x22 \
-fill=\x22#181818\x22/>\
-\x0d\x0a<path d=\x22M83.3\
-134 66.6888L82.3\
-597 66.6801C82.3\
-083 66.6841 82.2\
-569 66.6713 82.2\
-135 66.6435C81.4\
-059 66.3476 80.5\
-583 66.5983 79.7\
-385 66.4695C79.8\
-273 65.9143 80.2\
-815 65.9473 80.6\
-697 65.9212C81.7\
- 65.8655 82.7339\
- 65.8969 83.766 \
-65.9003C84.6867 \
-66.01 85.7031 65\
-.7037 86.455 66.\
-5304L86.2235 66.\
-6714L85.3167 66.\
-6818L83.3134 66.\
-6888Z\x22 fill=\x22#14\
-1414\x22/>\x0d\x0a<path d\
-=\x22M83.8353 59.36\
-51L83.9868 59.15\
-45C84.4125 60.04\
-4 84.7618 60.968\
- 85.031 61.9167C\
-85.1198 62.1064 \
-85.0188 62.1864 \
-84.857 62.2317C8\
-4.0285 61.7705 8\
-3.4507 60.1309 8\
-3.8353 59.3651Z\x22\
- fill=\x22#1E1E1E\x22/\
->\x0d\x0a<path d=\x22M85.\
-3356 62.6771C85.\
-6837 63.6053 86.\
-0277 64.5336 86.\
-3677 65.4618C86.\
-354 65.5312 86.3\
-16 65.5934 86.26\
-04 65.6371C86.20\
-49 65.6809 86.13\
-55 65.7033 86.06\
-48 65.7003C85.65\
-2 65.353 85.3338\
- 64.9069 85.1396\
- 64.4036C84.9455\
- 63.9003 84.8818\
- 63.3561 84.9544\
- 62.8215C84.9933\
- 62.759 85.0517 \
-62.711 85.1206 6\
-2.6849C85.1895 6\
-2.6588 85.265 62\
-.656 85.3356 62.\
-6771Z\x22 fill=\x22#22\
-2222\x22/>\x0d\x0a<path d\
-=\x22M86.1973 65.65\
-86L86.3714 65.46\
-19C86.3505 65.82\
-04 87.0554 66.12\
-16 86.4584 66.52\
-88C85.5725 66.40\
-87 84.6657 66.62\
-63 83.7903 66.35\
-48C83.9173 65.85\
- 84.3472 65.9458\
- 84.6971 65.911C\
-85.2018 65.8657 \
-85.7292 65.944 8\
-6.1973 65.6586Z\x22\
- fill=\x22#050505\x22/\
->\x0d\x0a<path d=\x22M15.\
-7466 66.6489C15.\
-5924 66.5406 15.\
-4073 66.4853 15.\
-219 66.4913C15.0\
-307 66.4972 14.8\
-494 66.5642 14.7\
-023 66.682L13.83\
-21 66.6402C13.70\
-68 66.5862 13.70\
-85 66.5375 13.83\
-21 66.4957C14.74\
-41 66.1894 15.68\
-57 66.3565 16.61\
-68 66.3217C16.47\
-93 66.8317 16.04\
-08 66.5514 15.74\
-66 66.6489Z\x22 fil\
-l=\x22#5F5F5F\x22/>\x0d\x0a<\
-path d=\x22M10.0608\
- 66.6821C9.66576\
- 66.6577 9.28634\
- 66.6821 9.00264\
- 67.0145C9.00264\
- 66.7848 8.84948\
- 66.5568 9.00264\
- 66.3288C9.05137\
- 66.2522 9.10359\
- 66.2505 9.15928\
- 66.3201C9.88158\
- 66.7326 10.6752\
- 66.3584 11.4219\
- 66.5255C11.4219\
- 66.5637 11.4219\
- 66.602 11.4219 \
-66.6403L10.0608 \
-66.6821Z\x22 fill=\x22\
-#232323\x22/>\x0d\x0a<pat\
-h d=\x22M14.1803 60\
-.4285L13.505 59.\
-0361C13.3936 58.\
-9473 13.4058 58.\
-8812 13.5415 58.\
-8394L13.6947 58.\
-6323C13.9706 59.\
-1422 14.1845 59.\
-6833 14.3317 60.\
-244C14.3231 60.2\
-846 14.3048 60.3\
-226 14.2785 60.3\
-547C14.2521 60.3\
-868 14.2185 60.4\
-121 14.1803 60.4\
-285Z\x22 fill=\x22#282\
-828\x22/>\x0d\x0a<path d=\
-\x22M12.13 59.6243C\
-11.9369 60.1151 \
-11.7437 60.6041 \
-11.5522 61.0949C\
-11.4043 61.1123 \
-11.2877 61.1036 \
-11.3938 60.907C1\
-1.5562 60.3527 1\
-1.7903 59.8221 1\
-2.09 59.3284C12.\
-1127 59.3447 12.\
-1319 59.3654 12.\
-1463 59.3894C12.\
-1607 59.4133 12.\
-17 59.44 12.1738\
- 59.4677C12.1775\
- 59.4954 12.1756\
- 59.5236 12.1681\
- 59.5505C12.1605\
- 59.5774 12.1476\
- 59.6025 12.13 5\
-9.6243Z\x22 fill=\x22#\
-222222\x22/>\x0d\x0a<path\
- d=\x22M10.9063 62.\
-4055C10.8307 62.\
-8997 10.6025 63.\
-3579 10.2537 63.\
-7161V63.7248C10.\
-2537 63.1121 10.\
-6018 62.6248 10.\
-8663 62.1096C10.\
-8897 62.1254 10.\
-9094 62.1459 10.\
-9243 62.1699C10.\
-9391 62.1938 10.\
-9488 62.2207 10.\
-9525 62.2486C10.\
-9563 62.2765 10.\
-9542 62.3049 10.\
-9462 62.332C10.9\
-382 62.359 10.92\
-47 62.3841 10.90\
-63 62.4055Z\x22 fil\
-l=\x22#343434\x22/>\x0d\x0a<\
-path d=\x22M10.2539\
- 63.7248V63.7161\
-C10.2278 64.3148\
- 9.94761 64.8091\
- 9.60474 65.2825\
-H9.61518C9.57863\
- 64.6611 9.8571 \
-64.1686 10.2539 \
-63.7248Z\x22 fill=\x22\
-#3A3A3A\x22/>\x0d\x0a<pat\
-h d=\x22M10.9067 62\
-.4055L10.8667 62\
-.1096C10.9714 61\
-.6821 11.1479 61\
-.2754 11.3888 60\
-.907L11.5472 61.\
-095L10.9067 62.4\
-055Z\x22 fill=\x22#2C2\
-C2C\x22/>\x0d\x0a<path d=\
-\x22M12.1302 59.624\
-4L12.085 59.3285\
-C12.1802 58.9005\
- 12.3576 58.495 \
-12.6071 58.1345C\
-12.6175 58.2268 \
-12.628 58.3208 1\
-2.6402 58.413C12\
-.5707 58.8521 12\
-.3957 59.2678 12\
-.1302 59.6244Z\x22 \
-fill=\x22#212121\x22/>\
-\x0d\x0a<path d=\x22M14.1\
-804 60.4284L14.3\
-318 60.2544L14.7\
-321 61.4066C14.7\
-5 61.429 14.763 \
-61.4549 14.7702 \
-61.4826C14.7774 \
-61.5104 14.7786 \
-61.5393 14.7739 \
-61.5675C14.7691 \
-61.5958 14.7584 \
-61.6227 14.7425 \
-61.6466C14.7266 \
-61.6704 14.7059 \
-61.6907 14.6817 \
-61.7059C14.4399 \
-61.3133 14.2702 \
-60.8807 14.1804 \
-60.4284Z\x22 fill=\x22\
-#171717\x22/>\x0d\x0a<pat\
-h d=\x22M9.61512 65\
-.2827H9.60467C9.\
-54724 65.6691 9.\
-45673 66.0416 9.\
-15737 66.327C9.1\
-0516 66.327 9.05\
-295 66.327 9.000\
-73 66.3357C9.178\
-26 65.9632 9.18 \
-65.4968 9.61512 \
-65.2827Z\x22 fill=\x22\
-#484848\x22/>\x0d\x0a<pat\
-h d=\x22M85.3356 62\
-.6772L85.1477 62\
-.9069C84.7038 62\
-.7956 84.6255 62\
-.5362 84.8466 62\
-.1585L85.0345 61\
-.9236C85.139 62.\
-1731 85.2393 62.\
-4243 85.3356 62.\
-6772Z\x22 fill=\x22#29\
-2929\x22/>\x0d\x0a<path d\
-=\x22M14.6868 61.70\
-24L14.7372 61.40\
-31C14.9226 61.66\
-82 15.0419 61.97\
-37 15.0853 62.29\
-42C15.1051 62.31\
-31 15.1202 62.33\
-64 15.1293 62.36\
-22C15.1384 62.38\
-8 15.1412 62.415\
-6 15.1377 62.442\
-7C15.1341 62.469\
-8 15.1242 62.495\
-7 15.1088 62.518\
-3C15.0933 62.540\
-9 15.0728 62.559\
-5 15.0488 62.572\
-7C14.8448 62.324\
-7 14.7189 62.021\
-9 14.6868 61.702\
-4Z\x22 fill=\x22#1E1E1\
-E\x22/>\x0d\x0a<path d=\x22M\
-15.0505 62.5727L\
-15.0871 62.2942C\
-15.2675 62.5541 \
-15.3866 62.8517 \
-15.4352 63.1644C\
-15.4816 63.2097 \
-15.4955 63.2532 \
-15.477 63.295C15\
-.4578 63.3367 15\
-.4404 63.3559 15\
-.423 63.3559C15.\
-3077 63.2602 15.\
-2147 63.1406 15.\
-1503 63.0054C15.\
-086 62.8701 15.0\
-52 62.7224 15.05\
-05 62.5727Z\x22 fil\
-l=\x22#333333\x22/>\x0d\x0a<\
-path d=\x22M13.8444\
- 66.4956C13.8444\
- 66.5443 13.8444\
- 66.5931 13.8444\
- 66.6401L12.814 \
-66.6801C12.807 6\
-6.6244 12.8018 6\
-6.5664 12.7983 6\
-6.506L13.8444 66\
-.4956Z\x22 fill=\x22#3\
-53535\x22/>\x0d\x0a<path \
-d=\x22M82.7199 58.1\
-241C82.4136 57.8\
-699 82.0498 57.9\
-935 81.7156 57.9\
-935C59.3043 57.9\
-866 36.8929 57.9\
-866 14.4815 57.9\
-935C14.0847 57.9\
-935 13.3641 57.7\
-116 13.7 58.6392\
-C13.7749 58.7715\
- 13.7 58.8533 13\
-.6008 58.9229C13\
-.4666 58.9454 13\
-.3288 58.9318 13\
-.2016 58.8834C13\
-.0743 58.8351 12\
-.9622 58.7538 12\
-.8768 58.6479C12\
-.7758 58.5435 12\
-.6105 58.5017 12\
-.5687 58.3399C12\
-.5612 58.3044 12\
-.5613 58.2677 12\
-.5691 58.2323C12\
-.5769 58.1969 12\
-.5922 58.1635 12\
-.614 58.1345C12.\
-3773 57.8769 12.\
-0675 57.9953 11.\
-7942 57.9935C10.\
-0833 57.9813 8.3\
-742 57.9744 6.66\
-332 57.9935C6.20\
-558 57.9935 5.99\
-672 57.9152 6.00\
-02 57.3861C6.026\
-31 54.5526 6.038\
-49 51.7157 6.000\
-2 48.8822C5.9897\
-6 48.1616 6.3865\
-8 48.2608 6.8217\
- 48.2608H46.7723\
-L41.1263 38.8484\
-C42.1201 38.8484\
- 43.0286 38.8014\
- 43.9301 38.8641\
-C44.6054 38.9111\
- 44.7604 38.6657\
- 44.7534 38.0339\
-C44.7081 33.3468\
- 44.7099 28.6615\
- 44.6577 23.9744\
-C44.6577 23.2782\
- 44.7969 22.9527\
- 45.554 23.0589C\
-46.3111 23.1651 \
-47.3136 22.7491 \
-47.7992 23.2643C\
-48.2395 23.7342 \
-47.9193 24.7002 \
-47.9228 25.4468C\
-47.9332 29.5839 \
-47.9437 33.721 4\
-7.9123 37.8581C4\
-7.9123 38.5543 4\
-8.0464 38.8188 4\
-8.8069 38.7649C4\
-9.9313 38.6865 5\
-1.0695 38.744 52\
-.213 38.744C52.3\
-157 39.0921 52.0\
-39 39.3201 51.90\
-5 39.5777C50.521\
-3 42.2145 49.144\
-6 44.853 47.7122\
- 47.4602C47.3154\
- 48.1825 47.4772\
- 48.273 48.2152 \
-48.273C61.0865 4\
-8.2579 73.9561 4\
-8.2539 86.8239 4\
-8.2608C87.9448 4\
-8.2608 87.9465 4\
-8.2608 87.9465 4\
-9.3834C87.9465 5\
-2.015 87.9308 54\
-.6483 87.9587 57\
-.2799C87.9587 57\
-.8473 87.8055 58\
-.0266 87.2347 57\
-.997C86.3087 57.\
-95 85.3758 58.03\
-36 84.4499 57.97\
-09C83.6423 57.91\
-52 83.5797 58.20\
-24 83.9086 58.81\
-68C83.9492 58.92\
-47 83.9744 59.03\
-77 83.9835 59.15\
-27C84.06 59.2954\
- 83.9835 59.3789\
- 83.8669 59.4451\
-C83.1707 59.4729\
- 83.2542 58.6427\
- 82.7564 58.4582\
-C82.7042 58.3538\
- 82.6398 58.2476\
- 82.7199 58.1241\
-Z\x22 fill=\x22black\x22/\
->\x0d\x0a<path d=\x22M12.\
-647 58.4148L12.9\
-829 58.0093C13.2\
-91 58.2738 13.25\
-97 58.7577 13.61\
-65 58.9909C14.02\
-72 59.3738 14.03\
-42 59.9412 14.26\
-39 60.4059C14.45\
-71 60.8027 14.53\
-19 61.25 14.7704\
- 61.6242C14.8155\
- 61.9411 14.9347\
- 62.2428 15.1185\
- 62.5049C15.1625\
- 62.822 15.2819 \
-63.124 15.4666 6\
-3.3856C15.4919 6\
-3.7016 15.6203 6\
-4.0006 15.8321 6\
-4.2367C16.1693 6\
-4.9019 16.4319 6\
-5.6023 16.6153 6\
-6.3252C16.0583 6\
-6.5898 15.4596 6\
-6.5689 14.8748 6\
-6.5341C14.5363 6\
-6.4968 14.194 66\
-.5121 13.8601 66\
-.5793C13.4964 66\
-.6037 13.1274 66\
-.5463 12.7636 66\
-.6194C12.3042 66\
-.9674 11.8638 66\
-.6194 11.4148 66\
-.5846C10.6681 66\
-.4384 9.91972 66\
-.83 9.17306 66.5\
-846C9.0199 66.08\
-16 9.48112 65.75\
-78 9.549 65.3192\
-C9.76134 64.7727\
- 10.0607 64.261 \
-10.2556 63.7058C\
-10.4419 63.255 1\
-0.6977 62.8356 1\
-0.8091 62.3517C1\
-1.0876 61.948 11\
-.2059 61.4693 11\
-.4322 61.0412C11\
-.6062 60.5469 11\
-.9073 60.1013 12\
-.0239 59.5827C12\
-.3163 59.2311 12\
-.3355 58.7455 12\
-.647 58.4148Z\x22 f\
-ill=\x22#919191\x22/>\x0d\
-\x0a<path d=\x22M82.21\
-33 66.6437C80.91\
-84 66.3948 80.31\
-97 67.0632 79.91\
-24 68.2101C79.50\
-51 69.3571 78.91\
-86 70.4153 78.40\
-51 71.517C78.269\
-4 71.8077 78.118\
- 72.1488 77.709 \
-71.926C77.3713 7\
-1.752 77.5001 71\
-.4387 77.6254 71\
-.1672C78.2067 69\
-.9123 78.7985 68\
-.6609 79.3659 67\
-.3973C79.4686 67\
-.1676 79.9211 66\
-.776 79.1918 66.\
-6785C78.9116 66.\
-642 79.0822 66.3\
-948 79.1361 66.2\
-66C79.3502 65.76\
-3 79.5887 65.270\
-5 79.8184 64.774\
-4C79.8757 64.753\
-5 79.9382 64.751\
-2 79.9969 64.767\
-7C80.0556 64.784\
-3 80.1077 64.818\
-9 80.1456 64.866\
-7C80.438 65.1312\
- 80.0899 65.6168\
- 80.4937 65.8431\
-C80.8644 66.0171\
- 81.2908 65.9684\
- 81.6511 66.1442\
-C81.8704 66.2504\
- 82.2463 66.2243\
- 82.2133 66.6437\
-Z\x22 fill=\x22#040404\
-\x22/>\x0d\x0a<path d=\x22M1\
-1.4183 66.5251L1\
-2.7915 66.5129C1\
-2.9185 66.5582 1\
-2.9238 66.6121 1\
-2.8072 66.687C12\
-.0808 68.2476 11\
-.3539 69.8088 10\
-.6264 71.3706C10\
-.4854 71.6699 10\
-.3757 72.1346 9.\
-93016 71.9554C9.\
-40803 71.7483 9.\
-7039 71.3323 9.8\
-5184 71.0068C10.\
-4227 69.7519 11.\
-0093 68.5058 11.\
-5784 67.2492C11.\
-6793 67.0264 11.\
-9804 66.7061 11.\
-4148 66.647L11.2\
-982 66.5843L11.4\
-183 66.5251Z\x22 fi\
-ll=\x22#040404\x22/>\x0d\x0a\
-<path d=\x22M15.746\
-8 66.6488C15.012\
-3 68.2153 14.283\
- 69.7817 13.5416\
- 71.3481C13.3919\
- 71.6631 13.2979\
- 72.1783 12.788 \
-71.9242C12.3528 \
-71.7084 12.6226 \
-71.3289 12.7601 \
-71.0209C13.4052 \
-69.5717 14.0527 \
-68.1253 14.7025 \
-66.6819C15.0349 \
-66.2329 15.383 6\
-6.2886 15.7468 6\
-6.6488Z\x22 fill=\x22#\
-040404\x22/>\x0d\x0a<path\
- d=\x22M86.2237 66.\
-6697C85.4869 68.\
-2941 84.7501 69.\
-9186 84.0133 71.\
-543C83.8914 71.8\
-11 83.7452 72.11\
-04 83.3815 71.95\
-2C82.969 71.778 \
-83.11 71.4542 83\
-.2509 71.1497C83\
-.9471 69.6633 84\
-.6358 68.1746 85\
-.3169 66.6836C85\
-.6162 66.3773 85\
-.9173 66.3877 86\
-.2237 66.6697Z\x22 \
-fill=\x22#050505\x22/>\
-\x0d\x0a<path d=\x22M10.0\
-607 66.6817C9.33\
-148 68.276 8.610\
-93 69.8685 7.869\
-49 71.4593C7.740\
-7 71.7361 7.6206\
-1 72.1311 7.2011\
-6 71.9571C6.7260\
-1 71.7552 6.9574\
-9 71.388 7.10021\
- 71.0869C7.72852\
- 69.7328 8.36727\
- 68.3822 9.00254\
- 67.0298C9.18006\
- 66.3476 9.63781\
- 66.5617 10.0607\
- 66.6817Z\x22 fill=\
-\x22#040404\x22/>\x0d\x0a<pa\
-th d=\x22M83.3134 6\
-6.6888C82.5877 6\
-8.2917 81.8654 6\
-9.8964 81.1292 7\
-1.4959C81.0004 7\
-1.7761 80.8611 7\
-2.1503 80.433 71\
-.9258C80.0048 71\
-.7013 80.2311 71\
-.3793 80.3599 71\
-.0939C81.0195 69\
-.6214 81.6879 68\
-.1507 82.3527 66\
-.6801C82.6799 66\
-.3877 82.9984 66\
-.3755 83.3134 66\
-.6888Z\x22 fill=\x22#0\
-30303\x22/>\x0d\x0a<path \
-d=\x22M15.4109 63.3\
-648L15.4231 63.1\
-733C15.564 63.52\
-14 15.7033 63.88\
-52 15.8425 64.24\
-02C15.6941 64.15\
-12 15.5745 64.02\
-12 15.498 63.866\
-C15.4214 63.7107\
- 15.3912 63.5368\
- 15.4109 63.3648\
-Z\x22 fill=\x22#515151\
-\x22/>\x0d\x0a<path d=\x22M8\
-4.8433 62.1515C8\
-4.9425 62.4004 8\
-5.0434 62.651 85\
-.1444 62.8999C85\
-.4121 63.8479 85\
-.7615 64.7709 86\
-.1887 65.6585C86\
-.2948 66.038 86.\
-3105 66.3269 85.\
-7588 66.3112C85.\
-0991 66.2921 84.\
-4378 66.3338 83.\
-7781 66.3512C82.\
-4275 66.3373 81.\
-0752 66.2729 79.\
-7298 66.4678C79.\
-1607 65.8656 80.\
-0344 65.4845 79.\
-9613 64.9589C81.\
-0212 62.7885 81.\
-9454 60.5607 82.\
-8557 58.326C83.0\
-175 58.0301 83.1\
-794 57.6855 83.4\
-178 58.272C83.56\
-58 58.6323 83.69\
-11 58.9995 83.82\
-68 59.365L84.843\
-3 62.1515Z\x22 fill\
-=\x22#919191\x22/>\x0d\x0a<p\
-ath d=\x22M13.5467 \
-58.8464L13.5102 \
-59.0431C13.2306 \
-58.7628 13.0477 \
-58.4007 12.988 5\
-8.0093C13.4841 5\
-8.0754 13.3466 5\
-8.5749 13.5467 5\
-8.8464Z\x22 fill=\x22#\
-C6C6C6\x22/>\x0d\x0a</g>\x0d\
+<rect width=\x2295\x22\
+ height=\x2295\x22 rx=\
+\x2220\x22 fill=\x22url(#\
+paint0_radial_20\
+14_111)\x22/>\x0d\x0a<pat\
+h d=\x22M48.4891 10\
+C49.3553 10 49.6\
+276 10.1943 49.6\
+238 11.294C49.58\
+46 21.2591 49.62\
+41 31.2242 49.58\
+67 41.1914C49.58\
+67 42.1503 49.77\
+35 42.4014 50.59\
+84 42.4014C59.84\
+68 42.4014 69.09\
+72 42.4517 78.34\
+55 42.4912C80.10\
+22 42.4912 80.33\
+59 42.8103 80.14\
+92 44.8555C80.13\
+49 45.075 80.130\
+2 45.2956 80.134\
+6 45.5157C80.082\
+3 55.2236 80.042\
+3 64.9337 79.947\
+1 74.6416C79.947\
+1 75.6137 80.151\
+ 75.9278 80.9705\
+ 75.8662C81.8646\
+ 75.7981 82.7681\
+ 75.8933 83.6678\
+ 75.9043C84.254 \
+75.9043 84.7095 \
+76.1835 84.9149 \
+76.8389C85.1202 \
+77.4942 84.9398 \
+78.0331 84.5106 \
+78.5147C83.594 7\
+9.5395 83.1419 8\
+0.9338 82.4568 8\
+2.1543C81.88 83.\
+1946 81.3644 84.\
+2835 80.8025 85.\
+337C80.6682 85.5\
+898 80.5582 86.1\
+107 80.243 85.90\
+24C79.9276 85.69\
+35 80.2424 85.31\
+55 80.3787 85.06\
+25C81.286 83.272\
+3 82.2119 81.494\
+9 83.1248 79.709\
+C83.2461 79.4694\
+ 83.4479 79.2692\
+ 83.4051 78.7725\
+C82.0591 78.7725\
+ 80.707 78.7835 \
+79.3572 78.7725C\
+78.9188 78.7727 \
+78.7978 79.1399 \
+78.6111 79.4786C\
+77.6274 81.3853 \
+76.6526 83.2984 \
+75.6502 85.1963C\
+75.4953 85.4888 \
+75.4095 86.1592 \
+75.0008 85.8692C\
+74.6797 85.6492 \
+75.0865 85.2274 \
+75.2303 84.9414C\
+76.0872 83.2435 \
+76.9647 81.5583 \
+77.8328 79.8692C\
+77.9895 79.5614 \
+78.1312 79.2422 \
+78.3924 78.6905H\
+74.4383C74.009 7\
+8.6906 73.9059 7\
+9.1304 73.7342 7\
+9.4668C72.713 81\
+.4331 71.7033 83\
+.4064 70.6766 85\
+.3682C70.5479 85\
+.6167 70.4507 86\
+.1461 70.117 85.\
+8985C69.7828 85.\
+6499 70.1465 85.\
+3059 70.2772 85.\
+0508C71.2367 83.\
+1683 72.2041 81.\
+2918 73.1785 79.\
+4209C73.3913 79.\
+0164 73.5517 78.\
+728 73.035 78.40\
+92C72.5178 78.09\
+03 72.3602 77.44\
+99 72.5506 76.79\
+01C72.6257 76.47\
+93 72.7902 76.20\
+88 73.0154 76.02\
+45C73.2407 75.84\
+ 73.5134 75.7528\
+ 73.7869 75.7784\
+C74.81 75.7784 7\
+5.8408 75.7612 7\
+6.8582 75.8096C7\
+7.3918 75.8337 7\
+7.5409 75.6137 7\
+7.5428 74.9961C7\
+7.5751 65.3967 7\
+7.6217 55.7968 7\
+7.6815 46.1973C7\
+7.6814 45.5551 7\
+7.4945 45.3965 7\
+6.9774 45.3965C6\
+8.1323 45.3789 5\
+9.2872 45.3443 5\
+0.4422 45.293C49\
+.6321 45.293 49.\
+7359 45.8519 49.\
+7322 46.4346C49.\
+6924 54.2057 49.\
+6529 61.9736 49.\
+6131 69.7373C49.\
+6131 71.3492 49.\
+6711 72.9677 49.\
+576 74.5752C49.5\
+106 75.6859 49.8\
+502 75.9652 50.7\
+127 75.8838C51.4\
+594 75.8135 52.2\
+063 75.9063 52.9\
+529 75.9151C53.5\
+372 75.9151 53.9\
+909 76.1924 54.2\
+ 76.8477C54.409 \
+77.5031 54.2002 \
+78.0225 53.8025 \
+78.5284C52.7926 \
+79.7886 52.2171 \
+81.3871 51.4256 \
+82.8321C50.9515 \
+83.6919 50.5242 \
+84.5914 50.0613 \
+85.4512C49.9419 \
+85.6711 49.8349 \
+86.1115 49.5457 \
+85.9161C49.2563 \
+85.7203 49.5266 \
+85.3897 49.6424 \
+85.1631C50.5758 \
+83.3113 51.5415 \
+81.4708 52.4861 \
+79.6211C52.5925 \
+79.4144 52.7806 \
+79.234 52.6873 7\
+8.7832C51.362 78\
+.7832 50.0104 78\
+.7942 48.657 78.\
+7832C48.2184 78.\
+7833 48.0972 79.\
+1636 47.9236 79.\
+5C46.9062 81.479\
+4 45.8958 83.443\
+3 44.8709 85.407\
+3C44.744 85.6536\
+ 44.6375 86.1482\
+ 44.2996 85.8799\
+C44.0354 85.6601\
+ 44.3332 85.3507\
+ 44.449 85.1221C\
+45.3433 83.3626 \
+46.2524 81.6179 \
+47.1541 79.8672C\
+47.3109 79.5616 \
+47.4548 79.2516 \
+47.7254 78.6954H\
+43.742C43.3556 7\
+8.6954 43.2503 7\
+9.0884 43.0936 7\
+9.3897C42.0575 8\
+1.3889 41.0289 8\
+3.3929 39.9891 8\
+5.3877C39.8603 8\
+5.6363 39.7655 8\
+6.1328 39.4295 8\
+5.8799C39.1701 8\
+5.6842 39.4478 8\
+5.3525 39.5691 8\
+5.1172C40.5312 8\
+3.2376 41.4978 8\
+1.3616 42.4686 7\
+9.4893C42.687 79\
+.0714 42.9332 78\
+.7525 42.3377 78\
+.4073C41.8094 78\
+.1016 41.6697 77\
+.4455 41.8602 76\
+.7901C41.9349 76\
+.487 42.0947 76.\
+2225 42.3133 76.\
+0401C42.5319 75.\
+8577 42.7968 75.\
+7677 43.0643 75.\
+7852C44.1843 75.\
+7852 45.3046 75.\
+7654 46.4246 75.\
+8204C47.0069 75.\
+8489 47.16 75.60\
+02 47.16 74.9405\
+C47.1824 65.3778\
+ 47.2172 55.8147\
+ 47.2645 46.252C\
+47.2644 45.6519 \
+47.1393 45.4259 \
+46.5945 45.4258C\
+37.6859 45.4434 \
+28.778 45.4434 1\
+9.8719 45.4258C1\
+9.0394 45.4259 1\
+9.1716 45.9907 1\
+9.1697 46.5537C1\
+9.1374 53.6239 1\
+9.1075 60.695 19\
+.0789 67.7666C19\
+.0789 70.1111 19\
+.1013 72.4581 19\
+.0359 74.8047C19\
+.0117 75.704 19.\
+2766 75.9329 19.\
+9803 75.9043C20.\
+818 75.8673 21.6\
+568 75.8844 22.4\
+93 75.9551C23.62\
+43 76.0387 24.08\
+88 77.1423 23.49\
+88 78.2881C22.27\
+17 80.6634 21.04\
+03 83.0354 19.80\
+45 85.4034C19.67\
+77 85.6454 19.59\
+38 86.1814 19.24\
+49 85.9375C18.89\
+58 85.6934 19.27\
+1 85.3589 19.392\
+4 85.1192C20.417\
+2 83.0849 21.462\
+3 81.0636 22.614\
+1 78.8204H18.281\
+1C17.8501 78.820\
+6 17.7527 79.277\
+9 17.5828 79.605\
+5C16.5767 81.540\
+8 15.5896 83.487\
+4 14.576 85.4161\
+C14.4528 85.6514\
+ 14.3701 86.1973\
+ 14.0154 85.9268\
+C13.6608 85.6563\
+ 14.0563 85.3457\
+ 14.1795 85.1016\
+C15.1129 83.2476\
+ 16.0602 81.3985\
+ 17.0291 79.5664\
+C17.3502 78.9572\
+ 17.273 78.7146 \
+16.6551 78.7696C\
+16.6242 78.7717 \
+16.5932 78.7717 \
+16.5623 78.7696C\
+15.4422 78.7696 \
+14.1817 78.3763 \
+13.2576 78.8711C\
+12.3636 79.3506 \
+12.0423 80.9095 \
+11.4656 81.9893C\
+10.8514 83.133 1\
+0.2746 84.3058 9\
+.66973 85.4561C9\
+.55031 85.676 9.\
+43613 86.1377 9.\
+16192 85.9512C8.\
+78856 85.6983 9.\
+16229 85.3682 9.\
+27618 85.1241C10\
+.3142 83.0237 11\
+.3781 80.9667 12\
+.5057 78.7784C11\
+.6525 78.4836 11\
+.0981 77.9712 11\
+.2811 76.9463C11\
+.4641 75.9217 12\
+.1454 75.7322 12\
+.9275 75.7784C13\
+.8273 75.8201 14\
+.7326 75.7414 15\
+.6268 75.8272C16\
+.3735 75.8998 16\
+.5603 75.5676 16\
+.5604 74.7276C16\
+.5604 68.3494 16\
+.6241 61.971 16.\
+6297 55.5928C16.\
+6446 40.8646 16.\
+6446 26.1364 16.\
+6297 11.4082C16.\
+6297 10.3635 16.\
+7656 9.99564 17.\
+7625 10C28.0041 \
+10.0528 38.2463 \
+10.0528 48.4891 \
+10ZM46.1424 12.8\
+702C37.4578 12.8\
+965 28.7732 12.8\
+965 20.0887 12.8\
+702C19.4074 12.8\
+68 19.1962 13.05\
+29 19.1961 13.89\
+26C19.2247 23.11\
+97 19.2247 32.34\
+72 19.1961 41.57\
+43C19.1942 42.42\
+96 19.4313 42.58\
+59 20.0975 42.58\
+6C24.4304 42.550\
+8 28.7655 42.568\
+4 33.0984 42.568\
+4C37.4388 42.568\
+4 41.7774 42.554\
+9 46.1141 42.587\
+9C46.7749 42.592\
+3 47.0086 42.447\
+1 47.0086 41.585\
+C46.985 32.3581 \
+46.985 23.1312 4\
+7.0086 13.9043C4\
+7.0105 13.0906 4\
+6.8462 12.8702 4\
+6.1424 12.8702Z\x22\
+ fill=\x22black\x22/>\x0d\
 \x0a<defs>\x0d\x0a<radial\
 Gradient id=\x22pai\
-nt0_radial_2003_\
-137\x22 cx=\x220\x22 cy=\x22\
+nt0_radial_2014_\
+111\x22 cx=\x220\x22 cy=\x22\
 0\x22 r=\x221\x22 gradien\
 tUnits=\x22userSpac\
 eOnUse\x22 gradient\
 Transform=\x22trans\
 late(47.5 47.5) \
 rotate(90) scale\
-(47.5 47.5)\x22>\x0d\x0a<\
-stop offset=\x220.4\
-\x22 stop-color=\x22wh\
-ite\x22/>\x0d\x0a<stop of\
-fset=\x221\x22 stop-co\
-lor=\x22white\x22 stop\
--opacity=\x220.5\x22/>\
-\x0d\x0a</radialGradie\
-nt>\x0d\x0a<clipPath i\
-d=\x22clip0_2003_13\
-7\x22>\x0d\x0a<rect width\
-=\x2295\x22 height=\x2295\
-\x22 fill=\x22white\x22/>\
-\x0d\x0a</clipPath>\x0d\x0a<\
-/defs>\x0d\x0a</svg>\x0d\x0a\
-\
-\x00\x00@\xfc\
-<\
-svg width=\x2295\x22 h\
-eight=\x2295\x22 viewB\
-ox=\x220 0 95 95\x22 f\
-ill=\x22none\x22 xmlns\
-=\x22http://www.w3.\
-org/2000/svg\x22>\x0d\x0a\
-<g clip-path=\x22ur\
-l(#clip0_2003_21\
-2)\x22>\x0d\x0a<path d=\x22M\
-47.5 0.0185547C6\
-3.0859 0.0185547\
- 78.6669 0.01236\
-98 94.243 0C94.8\
-757 0 95.0018 0.\
-124316 95 0.7588\
-87C94.9814 31.91\
-96 94.9814 63.08\
-04 95 94.2411C95\
- 94.8757 94.8757\
- 95 94.243 95C63\
-.0822 94.979 31.\
-9209 94.979 0.75\
-8887 95C0.124316\
- 95 0 94.8757 0 \
-94.2411C0.019791\
-7 63.0804 0.0197\
-917 31.9196 0 0.\
-758887C0 0.12431\
-6 0.120605 0 0.7\
-58887 0C16.3399 \
-0.0222656 31.920\
-2 0.0284505 47.5\
- 0.0185547Z\x22 fil\
-l=\x22url(#paint0_r\
-adial_2003_212)\x22\
-/>\x0d\x0a<path d=\x22M51\
-.5195 78.0284C51\
-.4967 78.614 51.\
-9557 78.3628 52.\
-1956 78.3666C53.\
-7497 78.3892 55.\
-3037 78.3892 56.\
-8578 78.3666C57.\
-311 78.3666 57.5\
-548 78.4893 57.8\
-5 78.8765C59.129\
-8 80.5539 60.489\
-6 82.1707 61.820\
-8 83.8103C61.959\
-8 83.9822 62.104\
-6 84.1503 62.234\
-1 84.3278C62.363\
-6 84.5054 62.449\
-3 84.7472 62.234\
-1 84.9153C62.018\
-9 85.0834 61.817\
- 84.9644 61.6627\
- 84.7755C61.2628\
- 84.2882 60.8641\
- 83.8002 60.4667\
- 83.3116C59.4707\
- 82.0895 58.4708\
- 80.8712 57.4862\
- 79.6397C57.2406\
- 79.3337 57.012 \
-79.107 56.5607 7\
-9.1089C53.1326 7\
-9.1297 49.7046 7\
-9.124 46.2765 79\
-.1297C46.1339 79\
-.1566 45.9942 79\
-.1971 45.8594 79\
-.2505L50.2264 83\
-.5364C50.474 83.\
-7801 50.7216 84.\
-0237 50.9634 84.\
-2731C51.1539 84.\
-4714 51.2796 84.\
-7188 51.0282 84.\
-9247C50.8377 85.\
-0853 50.6149 84.\
-9644 50.4416 84.\
-7925C49.7712 84.\
-1238 49.0951 83.\
-4703 48.421 82.7\
-941L45.1948 79.5\
-962C44.951 79.35\
-44 44.7301 79.11\
-45 44.3187 79.11\
-64C41.7248 79.13\
-15 39.131 79.116\
-4 36.5104 79.116\
-4C36.499 79.5565\
- 36.8285 79.6944\
- 37.0303 79.8984\
-C38.4339 81.3056\
- 39.8547 82.6996\
- 41.264 84.1012C\
-41.4792 84.3165 \
-41.8353 84.5734 \
-41.5001 84.8794C\
-41.1649 85.1854 \
-40.9383 84.8095 \
-40.7269 84.6017C\
-38.9494 82.8514 \
-37.177 81.0972 3\
-5.4096 79.3393C3\
-5.2192 79.1504 3\
-4.903 78.9615 35\
-.0287 78.6423C35\
-.1792 78.2646 35\
-.5677 78.3836 35\
-.8667 78.3817C37\
-.6112 78.3703 39\
-.3557 78.3571 41\
-.1002 78.3817C41\
-.6715 78.3817 41\
-.94 78.2192 41.8\
-829 77.6374C41.8\
-658 77.4486 41.8\
-829 77.2597 41.8\
-829 77.0708V29.5\
-052C41.8829 27.8\
-827 41.8829 27.8\
-827 43.5627 27.8\
-827H46.1908L41.1\
-745 19.5716C41.9\
-896 19.5716 42.6\
-657 19.5244 43.3\
-303 19.5849C44.0\
-654 19.6529 44.3\
-035 19.4338 44.2\
-94 18.6688C44.24\
-45 14.7758 44.27\
-87 10.8809 44.22\
-73 6.98609C44.21\
-78 6.20788 44.41\
-78 5.97555 45.21\
-38 6.00199C47.08\
-02 6.06243 47.08\
-02 6.02088 47.08\
-02 7.90786C47.08\
-02 11.4873 47.09\
-93 15.0686 47.06\
-5 18.648C47.065 \
-19.3525 47.2307 \
-19.5773 47.9658 \
-19.515C48.9009 1\
-9.4356 49.8474 1\
-9.4961 50.8987 1\
-9.4961L46.4365 2\
-7.8827C47.6306 2\
-7.8827 48.6895 2\
-7.9507 49.7369 2\
-7.8638C50.7425 2\
-7.7807 51.5157 2\
-7.9148 51.7633 2\
-9.0349C51.5024 2\
-9.4353 51.7309 2\
-9.8471 51.7404 3\
-0.2513C51.8071 3\
-3.0676 51.6738 3\
-5.8858 51.8623 3\
-8.7021C51.8471 4\
-0.0735 51.5862 4\
-1.4297 51.5843 4\
-2.7972C51.5652 5\
-1.7555 51.5621 6\
-0.715 51.5748 69\
-.6759C51.5443 72\
-.46 51.6376 75.2\
-442 51.5195 78.0\
-284Z\x22 fill=\x22blac\
-k\x22/>\x0d\x0a<path d=\x22M\
-51.4659 38.6287C\
-51.2526 35.6368 \
-51.4126 32.6429 \
-51.3707 29.649C5\
-1.3707 29.3752 5\
-1.3422 29.0578 5\
-1.763 29.0352C51\
-.8012 29.0402 51\
-.8376 29.0541 51\
-.8693 29.0757C51\
-.9011 29.0972 51\
-.9273 29.1259 51\
-.9458 29.1593C51\
-.9643 29.1928 51\
-.9747 29.2301 51\
-.976 29.2682C51.\
-9774 29.3064 51.\
-9696 29.3443 51.\
-9535 29.3789C52.\
-3725 29.7227 52.\
-6639 30.2044 53.\
-1495 30.4801C53.\
-1678 30.4957 53.\
-1817 30.5157 53.\
-1897 30.5383C53.\
-1978 30.5608 53.\
-1996 30.5851 53.\
-1952 30.6086C53.\
-359 31.0657 53.7\
-189 31.3509 54.1\
-036 31.6135C54.1\
-219 31.6302 54.1\
-356 31.6513 54.1\
-433 31.6748C54.1\
-509 31.6983 54.1\
-524 31.7234 54.1\
-474 31.7476C54.2\
-796 32.0981 54.5\
-381 32.3875 54.8\
-73 32.5598C54.88\
-99 32.5785 54.90\
-2 32.601 54.9083\
- 32.6253C54.9146\
- 32.6496 54.9149\
- 32.6751 54.9092\
- 32.6996C55.0121\
- 33.0358 55.2901\
- 33.2417 55.5091\
- 33.4891C55.6291\
- 33.8102 55.89 3\
-4.0293 56.1052 3\
-4.273C56.1986 34\
-.6092 56.5052 34\
-.7868 56.6956 35\
-.0531C56.8165 35\
-.3601 57.0283 35\
-.6235 57.3031 35\
-.8087C57.4117 35\
-.9541 57.5183 36\
-.1014 57.625 36.\
-2469C57.6842 36.\
-5194 57.8265 36.\
-7674 58.0326 36.\
-9571C58.0697 37.\
-0713 58.1306 37.\
-1766 58.2113 37.\
-266C58.292 37.35\
-55 58.3907 37.42\
-72 58.5011 37.47\
-65L58.7467 37.90\
-91C58.8305 38.19\
-24 58.9372 38.46\
-25 59.24 38.5891\
-C59.3371 38.7553\
- 59.4304 38.9215\
- 59.5333 39.0877\
-C59.6571 39.4882\
- 59.7828 39.8867\
- 60.196 40.1021C\
-61.1387 41.6887 \
-62.1557 43.2376 \
-62.7271 45.0131C\
-62.7316 45.1215 \
-62.7619 45.2273 \
-62.8155 45.3218C\
-62.8691 45.4164 \
-62.9445 45.497 6\
-3.0356 45.5571C6\
-3.8284 47.3342 6\
-4.4155 49.1946 6\
-4.7858 51.1028C6\
-4.721 51.3465 64\
-.5954 51.5939 64\
-.8487 51.8074C64\
-.9164 51.8933 64\
-.9632 51.9936 64\
-.9853 52.1004C65\
-.0075 52.2073 65\
-.0043 52.3177 64\
-.9762 52.4232C64\
-.8144 53.0144 64\
-.9515 53.6188 64\
-.8944 54.2138C64\
-.7458 54.7521 64\
-.8144 55.2999 64\
-.8334 55.8439L64\
-.7934 56.3671C64\
-.424 56.9149 64.\
-6373 57.6062 64.\
-3402 58.171C64.3\
-84 58.4449 64.20\
-3 58.6829 64.214\
-5 58.9511C64.214\
-5 59.0361 64.214\
-5 59.1211 64.214\
-5 59.208C64.0692\
- 59.448 63.977 5\
-9.7158 63.944 59\
-.9938C63.786 60.\
-2752 63.7821 60.\
-6171 63.5936 60.\
-8853C63.5574 61.\
-2876 63.3117 61.\
-6409 63.3022 62.\
-0432C63.3115 62.\
-065 63.3155 62.0\
-887 63.3138 62.1\
-123C63.3121 62.1\
-359 63.3049 62.1\
-588 63.2927 62.1\
-792C62.8775 62.7\
-062 62.7214 63.3\
-578 62.4281 63.9\
-453C62.1024 64.6\
-385 61.7748 65.3\
-298 61.3825 65.9\
-89L61.3121 66.21\
-19C61.0457 66.54\
-71 60.8272 66.91\
-7 60.6626 67.311\
-3C60.3617 67.619\
-1 60.2017 68.040\
-4 59.8494 68.304\
-8C59.8704 68.718\
-5 59.6323 68.965\
-9 59.3009 69.156\
-7C59.1905 69.511\
-8 58.92 69.7781 \
-58.7772 70.1181C\
-58.6248 70.3656 \
-58.3011 70.4751 \
-58.2344 70.7906C\
-58.0554 71.1268 \
-57.6631 71.3157 \
-57.5755 71.718C5\
-7.5862 71.734 57\
-.5904 71.7534 57\
-.5873 71.7724C57\
-.5841 71.7913 57\
-.5737 71.8083 57\
-.5583 71.82C57.2\
-453 71.9992 56.9\
-883 72.2606 56.8\
-156 72.5755L56.8\
-27 72.5529C56.54\
-14 73.1006 55.86\
-15 73.3349 55.68\
-43 73.9714C55.58\
-72 74.302 55.244\
-4 74.4191 55.055\
-9 74.6703C54.181\
-7 75.3427 53.484\
-7 76.1984 52.671\
-5 76.9369C52.450\
-6 77.1372 52.315\
-3 77.4658 51.947\
-8 77.4753C52.027\
-8 77.6642 51.947\
-8 77.785 51.7573\
- 77.8417C51.0984\
- 77.8908 51.4069\
- 77.3865 51.4031\
- 77.1485C51.3783\
- 74.8705 51.3898\
- 72.5925 51.3898\
- 70.3146C51.3783\
- 69.7366 51.7307\
- 69.2643 51.8811\
- 68.7317C51.9554\
- 68.6108 52.0182\
- 68.4842 52.0868\
- 68.3539C52.3477\
- 68.012 52.7248 \
-67.774 52.9552 6\
-7.4095C53.1457 6\
-7.1847 53.298 66\
-.9373 53.4733 66\
-.703C53.5171 66.\
-6256 53.5666 66.\
-5538 53.6161 66.\
-482C54.0584 66.1\
-276 54.4025 65.6\
-674 54.6159 65.1\
-447C54.7873 64.8\
-557 54.9187 64.5\
-459 55.0654 64.2\
-437C55.11 64.169\
-6 55.161 64.0995\
- 55.2177 64.0341\
-C55.6862 63.4938\
- 56.0919 62.9234\
- 56.1852 62.1905\
-C56.2103 62.1072\
- 56.2415 62.0257\
- 56.2785 61.9469\
-C56.589 61.5408 \
-56.608 61.0326 5\
-6.7642 60.5736C5\
-6.8413 60.376 56\
-.9049 60.1734 56\
-.9546 59.9673C57\
-.0327 59.6443 57\
-.1451 59.3289 57\
-.2384 59.0097C57\
-.3113 58.7908 57\
-.3698 58.5674 57\
-.4136 58.341C57.\
-6955 57.9972 57.\
-764 57.5855 57.8\
-288 57.1586C58.0\
-878 56.1197 58.1\
-849 55.0808 57.7\
-564 54.0665C57.5\
-66 53.7227 57.74\
-69 53.3109 57.54\
-31 52.9747C57.40\
-2 52.6527 57.281\
-7 52.3221 57.183\
-2 51.9849C57.099\
- 51.4004 56.9717\
- 50.8227 56.8023\
- 50.2566C56.7432\
- 49.9506 56.8213\
- 49.6352 56.7413\
- 49.3311C56.5966\
- 49.0459 56.3166\
- 48.8456 56.2328\
- 48.5245C56.1445\
- 48.0131 55.9393\
- 47.5285 55.6329\
- 47.1079C55.5266\
- 46.589 55.2902 \
-46.105 54.9454 4\
-5.7007C54.7302 4\
-5.2001 54.3931 4\
-4.7562 54.1931 4\
-4.2557C53.9532 4\
-3.5814 53.8027 4\
-2.8749 53.4713 4\
-2.2308C53.1533 4\
-1.8908 53.06 41.\
-3997 52.6791 41.\
-0975C52.5553 40.\
-4968 52.0144 40.\
-1417 51.7649 39.\
-6147C51.7173 39.\
-4523 51.645 39.2\
-974 51.5897 39.1\
-368C51.5376 38.9\
-703 51.4963 38.8\
-005 51.4659 38.6\
-287Z\x22 fill=\x22#B2B\
-2B2\x22/>\x0d\x0a<path d=\
-\x22M51.4891 69.919\
-8C51.2986 72.352\
-6 51.4377 74.787\
-4 51.4072 77.220\
-3C51.4072 77.480\
-9 51.4662 77.720\
-8 51.7519 77.824\
-7L51.5195 78.028\
-7C51.2244 77.684\
-9 51.2739 77.273\
-1 51.2739 76.865\
-1C51.2739 74.488\
-9 51.2739 72.112\
-7 51.2739 69.736\
-5C51.4662 69.664\
-8 51.5348 69.730\
-9 51.4891 69.919\
-8Z\x22 fill=\x22#0F0F0\
-F\x22/>\x0d\x0a<path d=\x22M\
-51.946 77.458L54\
-.4828 74.9099C54\
-.6409 74.7513 54\
-.797 74.5945 55.\
-0541 74.6568C54.\
-26 75.6258 53.32\
-3 76.455 52.4241\
- 77.322C52.2927 \
-77.4486 52.1612 \
-77.6091 51.946 7\
-7.458Z\x22 fill=\x22#3\
-E3E3E\x22/>\x0d\x0a<path \
-d=\x22M61.3826 65.9\
-833C61.5345 65.1\
-921 61.9149 64.4\
-617 62.4776 63.8\
-81V63.8716C62.29\
-48 64.6706 61.98\
-63 65.4035 61.38\
-26 65.9833Z\x22 fil\
-l=\x22#383838\x22/>\x0d\x0a<\
-path d=\x22M62.4739\
- 63.8714V63.8809\
-C62.4967 63.1933\
- 62.6643 62.5776\
- 63.2909 62.1809\
-C63.0966 62.7721\
- 62.95 63.4011 6\
-2.4739 63.8714Z\x22\
- fill=\x22#3F3F3F\x22/\
->\x0d\x0a<path d=\x22M64.\
-7746 54.2494C64.\
-8374 53.6374 64.\
-6298 52.999 64.9\
-65 52.4172C64.96\
-5 53.339 64.9599\
- 54.2614 64.9498\
- 55.1844C64.4489\
- 54.9578 64.7936\
- 54.5687 64.7746\
- 54.2494Z\x22 fill=\
-\x22#252525\x22/>\x0d\x0a<pa\
-th d=\x22M55.6826 7\
-3.9581C55.715 73\
-.2025 56.3378 72\
-.9305 56.8253 72\
-.5396C56.6044 73\
-.1402 56.1359 73\
-.5425 55.6826 73\
-.9581Z\x22 fill=\x22#4\
-04040\x22/>\x0d\x0a<path \
-d=\x22M64.2622 58.2\
-256C64.4527 57.6\
-099 64.2717 56.8\
-883 64.7897 56.3\
-613C64.5993 56.9\
-695 64.7136 57.6\
-363 64.4241 58.2\
-238C64.3708 58.3\
-598 64.3174 58.3\
-616 64.2622 58.2\
-256Z\x22 fill=\x22#1A1\
-A1A\x22/>\x0d\x0a<path d=\
-\x22M53.1457 30.479\
-9C52.4715 30.406\
-2 52.2697 29.828\
-2 51.9497 29.378\
-7C52.5744 29.503\
-3 52.7648 30.092\
-7 53.1457 30.479\
-9Z\x22 fill=\x22#3D3D3\
-D\x22/>\x0d\x0a<path d=\x22M\
-64.7745 54.2495L\
-64.965 55.1845C6\
-5.0077 55.4105 6\
-4.9621 55.6442 6\
-4.8374 55.838C64\
-.4584 55.3205 64\
-.6412 54.7841 64\
-.7745 54.2495Z\x22 \
-fill=\x22#636363\x22/>\
-\x0d\x0a<path d=\x22M60.5\
-886 67.1675C60.7\
-562 66.7897 60.8\
-343 66.3553 61.3\
-066 66.2061C61.2\
-19 66.7047 60.92\
-57 67.0919 60.62\
-29 67.4773C60.57\
-79 67.44 60.5492\
- 67.387 60.5429 \
-67.3292C60.5365 \
-67.2715 60.5529 \
-67.2135 60.5886 \
-67.1675Z\x22 fill=\x22\
-#3F3F3F\x22/>\x0d\x0a<pat\
-h d=\x22M54.0998 31\
-.6133C53.4923 31\
-.5472 53.2771 31\
-.1373 53.1914 30\
-.6084C53.5742 30\
-.871 53.8275 31.\
-2525 54.0998 31.\
-6133Z\x22 fill=\x22#3E\
-3E3E\x22/>\x0d\x0a<path d\
-=\x22M60.1925 40.09\
-61C59.6212 39.97\
-9 59.4612 39.605\
- 59.5298 39.0818\
-L60.1925 40.0961\
-Z\x22 fill=\x22#4D4D4D\
-\x22/>\x0d\x0a<path d=\x22M5\
-6.5169 35.0587L5\
-6.0294 34.3919C5\
-5.9932 34.3492 5\
-5.9751 34.2942 5\
-5.979 34.2385C55\
-.9829 34.1829 56\
-.0085 34.1309 56\
-.0503 34.0935L56\
-.7778 35.0493C56\
-.6959 35.2023 56\
-.6102 35.2061 56\
-.5169 35.0587Z\x22 \
-fill=\x22#4A4A4A\x22/>\
-\x0d\x0a<path d=\x22M63.2\
-966 62.0373C63.0\
-909 61.5953 63.4\
-337 61.2553 63.5\
-214 60.8662C63.5\
-671 60.7907 63.6\
-147 60.7888 63.6\
-642 60.8662C63.6\
-87 61.3007 63.49\
-47 61.669 63.296\
-6 62.0373Z\x22 fill\
-=\x22#161616\x22/>\x0d\x0a<p\
-ath d=\x22M60.5884 \
-67.1677L60.6227 \
-67.4775C60.4322 \
-67.8175 60.3599 \
-68.2652 59.8438 \
-68.2992C60.0939 \
-67.9239 60.3421 \
-67.5468 60.5884 \
-67.1677Z\x22 fill=\x22\
-#3E3E3E\x22/>\x0d\x0a<pat\
-h d=\x22M57.5737 71\
-.712C57.5737 71.\
-1813 57.9337 70.\
-9112 58.3546 70.\
-6921L58.4307 70.\
-6826C58.166 71.0\
-472 57.9641 71.4\
-589 57.5737 71.7\
-12Z\x22 fill=\x22#3B3B\
-3B\x22/>\x0d\x0a<path d=\x22\
-M54.8692 32.5595\
-C54.3435 32.5369\
- 54.1816 32.1969\
- 54.1436 31.7473\
-C54.4673 31.9475\
- 54.6559 32.2649\
- 54.8692 32.5595\
-Z\x22 fill=\x22#3D3D3D\
-\x22/>\x0d\x0a<path d=\x22M5\
-6.0503 34.0933C5\
-6.0503 34.1915 5\
-6.0369 34.2822 5\
-6.0293 34.3917L5\
-5.458 33.6362C55\
-.4249 33.5961 55\
-.4075 33.5455 55\
-.4093 33.4937C55\
-.4111 33.4419 55\
-.4317 33.3925 55\
-.4675 33.3547L56\
-.0503 34.0933Z\x22 \
-fill=\x22#424242\x22/>\
-\x0d\x0a<path d=\x22M63.6\
-68 60.8643H63.52\
-51C63.6356 60.54\
-83 63.7467 60.23\
-35 63.8584 59.91\
-99C63.9137 59.82\
-36 63.9708 59.82\
-36 64.0279 59.91\
-99C63.9651 60.25\
-8 63.9422 60.607\
-5 63.668 60.8643\
-Z\x22 fill=\x22#1F1F1F\
-\x22/>\x0d\x0a<path d=\x22M5\
-8.6096 70.0802L5\
-9.2952 69.1509C5\
-9.4266 69.5834 5\
-9.0876 69.812 58\
-.8762 70.0953C58\
-.8587 70.1136 58\
-.8374 70.1278 58\
-.8138 70.1371C58\
-.7901 70.1463 58\
-.7648 70.1504 58\
-.7394 70.1489C58\
-.714 70.1475 58.\
-6893 70.1406 58.\
-6669 70.1287C58.\
-6445 70.1169 58.\
-6249 70.1003 58.\
-6096 70.0802Z\x22 f\
-ill=\x22#393939\x22/>\x0d\
-\x0a<path d=\x22M56.81\
-2 72.5622C56.886\
-3 72.1447 57.065\
-3 71.8293 57.554\
-8 71.8066C57.331\
-9 72.0881 57.192\
-9 72.4489 56.812\
- 72.5622Z\x22 fill=\
-\x22#393939\x22/>\x0d\x0a<pa\
-th d=\x22M55.4788 3\
-3.3588L55.4674 3\
-3.6402C55.2103 3\
-3.3682 54.8865 3\
-3.134 54.9113 32\
-.6958C55.1599 32\
-.8591 55.3567 33\
-.089 55.4788 33.\
-3588Z\x22 fill=\x22#34\
-3434\x22/>\x0d\x0a<path d\
-=\x22M56.5168 35.05\
-86H56.7778L57.29\
-96 35.8141C56.84\
-44 35.7556 56.73\
-4 35.3533 56.516\
-8 35.0586Z\x22 fill\
-=\x22#363636\x22/>\x0d\x0a<p\
-ath d=\x22M58.4975 \
-37.4706C58.1624 \
-37.5065 58.0271 \
-37.2817 57.9262 \
-37.0267C57.9073 \
-37.005 57.8931 3\
-6.9797 57.8842 3\
-6.9524C57.8754 3\
-6.925 57.8723 36\
-.8962 57.8749 36\
-.8677C57.8776 36\
-.8391 57.8861 36\
-.8114 57.8998 36\
-.7861C57.9135 36\
-.7609 57.9322 36\
-.7386 57.9548 36\
-.7207L58.4975 37\
-.4706Z\x22 fill=\x22#4\
-A4A4A\x22/>\x0d\x0a<path \
-d=\x22M59.2362 38.5\
-833C58.7582 38.5\
-833 58.6858 38.2\
-868 58.743 37.90\
-33L59.2362 38.58\
-33Z\x22 fill=\x22#4343\
-43\x22/>\x0d\x0a<path d=\x22\
-M64.0241 59.9199\
-H63.8584C63.8338\
- 59.7785 63.8548\
- 59.633 63.9184 \
-59.5042C63.982 5\
-9.3753 64.085 59\
-.2696 64.2126 59\
-.2021L64.0241 59\
-.9199Z\x22 fill=\x22#1\
-D1D1D\x22/>\x0d\x0a<path \
-d=\x22M58.6098 70.0\
-803L58.8764 70.0\
-954L58.4251 70.6\
-829L58.347 70.69\
-23C58.1775 70.38\
-07 58.4727 70.26\
-35 58.6098 70.08\
-03Z\x22 fill=\x22#4444\
-44\x22/>\x0d\x0a<path d=\x22\
-M64.8451 51.8017\
-C64.4642 51.5996\
- 64.5861 51.3522\
- 64.7822 51.0972\
-L64.8451 51.8017\
-Z\x22 fill=\x22#1B1B1B\
-\x22/>\x0d\x0a<path d=\x22M6\
-4.2622 58.2256H6\
-4.4298C64.4476 5\
-8.354 64.4378 58\
-.4847 64.401 58.\
-609C64.3643 58.7\
-334 64.3014 58.8\
-486 64.2165 58.9\
-471C64.0089 58.6\
-902 64.2584 58.4\
-655 64.2622 58.2\
-256Z\x22 fill=\x22#151\
-515\x22/>\x0d\x0a<path d=\
-\x22M63.032 45.5511\
-C62.6283 45.5379\
- 62.6035 45.3131\
- 62.7235 45.0071\
-L63.032 45.5511Z\
-\x22 fill=\x22#4B4B4B\x22\
-/>\x0d\x0a<path d=\x22M57\
-.9545 36.7207L57\
-.9259 37.0248C57\
-.726 36.802 57.4\
-803 36.5961 57.6\
-174 36.241L57.95\
-45 36.7207Z\x22 fil\
-l=\x22#444444\x22/>\x0d\x0a<\
-path d=\x22M51.489 \
-69.9195L51.2814 \
-69.7306C51.27 64\
-.7428 51.2598 59\
-.7542 51.251 54.\
-7651C51.251 49.8\
-074 51.251 44.84\
-98 51.251 39.892\
-1C51.251 39.4615\
- 51.1481 39.0062\
- 51.4624 38.6228\
-C51.5957 38.7739\
- 51.7309 38.925 \
-51.8642 39.078C5\
-1.6909 40.0225 5\
-1.9651 40.9404 5\
-1.9613 41.8773C5\
-1.9347 50.2715 5\
-1.9347 58.6656 5\
-1.9613 67.0598C5\
-1.9613 67.6869 5\
-1.7709 68.3971 5\
-2.4279 68.875C52\
-.192 69.2844 51.\
-8722 69.6402 51.\
-489 69.9195Z\x22 fi\
-ll=\x22#3F3F3F\x22/>\x0d\x0a\
-<path d=\x22M57.990\
-9 54.4214V53.886\
-9C58.0461 53.749\
- 58.0975 53.7509\
- 58.147 53.8869C\
-58.4432 54.998 5\
-8.4432 56.1663 5\
-8.147 57.2774C58\
-.0975 57.4191 58\
-.0442 57.421 57.\
-9871 57.2774C57.\
-9871 57.098 57.9\
-871 56.9185 57.9\
-871 56.741C58.08\
-2 55.9707 58.083\
-3 55.192 57.9909\
- 54.4214Z\x22 fill=\
-\x22#333333\x22/>\x0d\x0a<pa\
-th d=\x22M54.7168 4\
-4.1478C54.2883 4\
-3.4697 53.837 42\
-.801 53.6313 42.\
-0115L53.6199 42.\
-0266C54.2731 42.\
-5876 54.6959 43.\
-2657 54.7168 44.\
-1478Z\x22 fill=\x22#3E\
-3E3E\x22/>\x0d\x0a<path d\
-=\x22M55.5608 64.45\
-51C55.8693 63.68\
-26 55.9626 62.78\
-72 56.8158 62.33\
-2C56.3988 63.038\
-5 56.214 63.8828\
- 55.5608 64.4551\
-Z\x22 fill=\x22#3A3A3A\
-\x22/>\x0d\x0a<path d=\x22M5\
-3.9341 66.886C54\
-.1436 66.1928 54\
-.6559 65.6885 55\
-.0558 65.1143C55\
-.0816 65.1268 55\
-.104 65.1453 55.\
-1211 65.1683C55.\
-1382 65.1912 55.\
-1494 65.2179 55.\
-1539 65.246C55.1\
-584 65.2742 55.1\
-56 65.303 55.146\
-9 65.33C55.1377 \
-65.3571 55.1222 \
-65.3815 55.1015 \
-65.4014C54.7511 \
-65.9265 54.5568 \
-66.5706 53.9341 \
-66.886Z\x22 fill=\x22#\
-393939\x22/>\x0d\x0a<path\
- d=\x22M52.8279 40.\
-8838C52.5555 40.\
-353 51.9461 39.9\
-828 52.0394 39.2\
-764C52.5327 39.7\
-221 52.7879 40.3\
-304 53.1288 40.8\
-781C53.0884 40.9\
-162 53.0351 40.9\
-379 52.9794 40.9\
-39C52.9237 40.94\
- 52.8696 40.9203\
- 52.8279 40.8838\
-Z\x22 fill=\x22#313131\
-\x22/>\x0d\x0a<path d=\x22M5\
-6.0005 46.8301C5\
-5.7682 46.3635 5\
-5.3797 45.9537 5\
-5.4596 45.3738C5\
-5.812 45.7969 56\
-.1795 46.2143 56\
-.0005 46.8301Z\x22 \
-fill=\x22#454545\x22/>\
-\x0d\x0a<path d=\x22M52.8\
-279 40.884H53.12\
-88C53.3516 41.24\
-29 53.7001 41.54\
-89 53.6182 42.03\
-25L53.6297 42.01\
-74C53.1821 41.76\
-24 53.0545 41.28\
-83 52.8279 40.88\
-4Z\x22 fill=\x22#42424\
-2\x22/>\x0d\x0a<path d=\x22M\
-56.8119 62.2469C\
-56.5471 61.6311 \
-57.0613 61.2061 \
-57.2061 60.6904C\
-57.4765 61.3119 \
-56.9585 61.7312 \
-56.8119 62.2469Z\
-\x22 fill=\x22#383838\x22\
-/>\x0d\x0a<path d=\x22M57\
-.9833 57.2849C58\
-.0366 57.2849 58\
-.09 57.2849 58.1\
-433 57.2849C58.1\
-851 57.7344 58.1\
-198 58.1873 57.9\
-528 58.6071C57.5\
-358 58.1519 57.8\
-843 57.7212 57.9\
-833 57.2849Z\x22 fi\
-ll=\x22#1F1F1F\x22/>\x0d\x0a\
-<path d=\x22M52.448\
-7 68.5708L53.385\
-7 67.4658C53.419\
-3 67.5066 53.437\
-6 67.5577 53.437\
-6 67.6103C53.437\
-6 67.663 53.4193\
- 67.714 53.3857 \
-67.7548C53.1629 \
-68.1213 53.0029 \
-68.5784 52.4487 \
-68.5708Z\x22 fill=\x22\
-#444444\x22/>\x0d\x0a<pat\
-h d=\x22M57.8175 52\
-.9369L57.5908 51\
-.8433C58.1469 52\
-.0076 57.926 52.\
-4383 57.9241 52.\
-7877C57.9546 52.\
-8916 57.9241 52.\
-9407 57.8175 52.\
-9369Z\x22 fill=\x22#17\
-1717\x22/>\x0d\x0a<path d\
-=\x22M56.9739 49.41\
-03C56.7903 49.12\
-75 56.6852 48.80\
-17 56.6692 48.46\
-58C57.0501 48.56\
-4 57.0501 48.917\
-3 57.1586 49.193\
-C57.1015 49.2648\
- 57.1053 49.397 \
-56.9739 49.4103Z\
-\x22 fill=\x22#555555\x22\
-/>\x0d\x0a<path d=\x22M57\
-.8176 52.9368L57\
-.9242 52.7932C58\
-.2651 53.1068 58\
-.1375 53.511 58.\
-1414 53.8906C58.\
-088 53.8906 58.0\
-366 53.8906 57.9\
-852 53.8906C58.0\
-157 53.5563 57.7\
-052 53.2824 57.8\
-176 52.9368Z\x22 fi\
-ll=\x22#202020\x22/>\x0d\x0a\
-<path d=\x22M57.417\
-6 60.0616C57.397\
-9 59.8905 57.418\
-8 59.7171 57.478\
-7 59.5555C57.538\
-5 59.3938 57.635\
-6 59.2482 57.762\
-3 59.1304C57.815\
-6 59.5006 57.764\
-2 59.8311 57.417\
-6 60.0616Z\x22 fill\
-=\x22#1E1E1E\x22/>\x0d\x0a<p\
-ath d=\x22M56.9739 \
-49.4104L57.1643 \
-49.1951C57.191 4\
-9.5048 57.5605 4\
-9.8033 57.1929 5\
-0.1263C57.1167 4\
-9.8864 57.0443 4\
-9.6427 56.9739 4\
-9.4104Z\x22 fill=\x22#\
-4A4A4A\x22/>\x0d\x0a<path\
- d=\x22M55.098 65.4\
-013L55.0522 65.1\
-142C55.1169 64.8\
-603 55.2577 64.6\
-317 55.456 64.45\
-87C55.5645 64.85\
-73 55.3227 65.13\
-12 55.098 65.401\
-3Z\x22 fill=\x22#39393\
-9\x22/>\x0d\x0a<path d=\x22M\
-53.3933 67.755V6\
-7.466C53.5476 67\
-.2394 53.639 66.\
-9542 53.9513 66.\
-8767C53.9551 67.\
-2847 53.6409 67.\
-5019 53.3933 67.\
-755Z\x22 fill=\x22#313\
-131\x22/>\x0d\x0a<path d=\
-\x22M57.9909 54.421\
-4C58.2166 55.180\
-9 58.2166 55.988\
-9 57.9909 56.748\
-5C57.9884 55.972\
-8 57.9884 55.197\
-1 57.9909 54.421\
-4Z\x22 fill=\x22#B2B2B\
-2\x22/>\x0d\x0a</g>\x0d\x0a<def\
-s>\x0d\x0a<radialGradi\
-ent id=\x22paint0_r\
-adial_2003_212\x22 \
-cx=\x220\x22 cy=\x220\x22 r=\
-\x221\x22 gradientUnit\
-s=\x22userSpaceOnUs\
-e\x22 gradientTrans\
-form=\x22translate(\
-47.5 47.5) rotat\
-e(90) scale(47.5\
- 47.5)\x22>\x0d\x0a<stop \
+(47.5)\x22>\x0d\x0a<stop \
 offset=\x220.4\x22 sto\
 p-color=\x22white\x22/\
 >\x0d\x0a<stop offset=\
@@ -131844,14 +130033,9 @@ p-color=\x22white\x22/\
 white\x22 stop-opac\
 ity=\x220.5\x22/>\x0d\x0a</r\
 adialGradient>\x0d\x0a\
-<clipPath id=\x22cl\
-ip0_2003_212\x22>\x0d\x0a\
-<rect width=\x2295\x22\
- height=\x2295\x22 fil\
-l=\x22white\x22/>\x0d\x0a</c\
-lipPath>\x0d\x0a</defs\
->\x0d\x0a</svg>\x0d\x0a\
-\x00\x00\x0f&\
+</defs>\x0d\x0a</svg>\x0d\
+\x0a\
+\x00\x00+\xb6\
 <\
 svg width=\x2295\x22 h\
 eight=\x2295\x22 viewB\
@@ -131859,1288 +130043,691 @@ ox=\x220 0 95 95\x22 f\
 ill=\x22none\x22 xmlns\
 =\x22http://www.w3.\
 org/2000/svg\x22>\x0d\x0a\
-<g clip-path=\x22ur\
-l(#clip0_2003_11\
-3)\x22>\x0d\x0a<path d=\x22M\
-47.5 0.0185547C6\
-3.0859 0.0185547\
- 78.6669 0.01236\
-98 94.243 0C94.8\
-757 0 95.0018 0.\
-124316 95 0.7588\
-87C94.9814 31.91\
-96 94.9814 63.08\
-04 95 94.2411C95\
- 94.8757 94.8757\
- 95 94.243 95C63\
-.0822 94.979 31.\
-9209 94.979 0.75\
-8887 95C0.124316\
- 95 0 94.8757 0 \
-94.2411C0.019791\
-7 63.0804 0.0197\
-917 31.9196 0 0.\
-758887C0 0.12431\
-6 0.120605 0 0.7\
-58887 0C16.3399 \
-0.0222656 31.920\
-2 0.0284505 47.5\
- 0.0185547Z\x22 fil\
-l=\x22url(#paint0_r\
-adial_2003_113)\x22\
-/>\x0d\x0a<path d=\x22M71\
-.7716 63.9698C72\
-.6307 64.4318 72\
-.4971 64.8622 71\
-.8848 65.5228C69\
-.6582 67.9349 67\
-.452 70.3767 65.\
-3127 72.8686C64.\
-6837 73.5996 64.\
-2959 73.6497 63.\
-8042 72.8445C61.\
-2937 70.1596 59.\
-275 67.0832 56.9\
-835 64.2258C54.2\
-003 60.7598 51.3\
-354 57.3773 48.3\
-333 54.1005C46.0\
-424 51.5944 43.6\
-34 49.2089 41.10\
-81 46.944C37.942\
-7 44.0989 34.671\
-5 41.3813 31.294\
-5 38.7911C28.370\
-3 36.5459 25.279\
-1 34.5235 22.573\
-8 31.9945C21.900\
-3 31.6234 21.998\
-6 31.2783 22.475\
-5 30.7569C24.825\
-7 28.1864 27.149\
-4 25.5956 29.446\
-5 22.9843C29.826\
-9 22.5557 30.114\
-5 22.3813 30.455\
-9 22.9843C32.639\
-7 25.2832 34.430\
-3 27.8957 36.378\
-5 30.3839C39.363\
-3 34.1951 42.490\
-4 37.8837 45.759\
-8 41.4499C47.886\
-1 43.7786 50.147\
-9 45.955 52.4636\
- 48.074C56.3972 \
-51.6711 60.4903 \
-55.0815 64.7431 \
-58.305C67.1366 6\
-0.116 69.5524 61\
-.9213 71.7716 63\
-.9698Z\x22 fill=\x22bl\
-ack\x22/>\x0d\x0a<path d=\
-\x22M22.5664 31.994\
-4C24.7188 33.267\
-2 26.6818 34.811\
- 28.7062 36.262C\
-42.4051 46.1052 \
-53.755 58.2344 6\
-3.3756 72.0428C6\
-3.5463 72.2877 6\
-3.8061 72.4956 6\
-3.8042 72.8388C6\
-3.3941 72.7219 6\
-3.1437 72.3954 6\
-2.8635 72.1152C6\
-0.3512 69.6103 5\
-7.8413 67.1048 5\
-5.334 64.5987C47\
-.2423 56.5571 39\
-.1784 48.4895 31\
-.0366 40.4999C28\
-.4631 37.9746 25\
-.9137 35.4233 23\
-.3364 32.9017C23\
-.0525 32.629 22.\
-726 32.3803 22.5\
-664 31.9944Z\x22 fi\
-ll=\x22#C8C8C8\x22/>\x0d\x0a\
-<path d=\x22M71.771\
-5 63.9697C69.279\
-6 62.4241 67.001\
-1 60.5816 64.659\
-5 58.8282C51.643\
-9 49.1207 40.300\
-1 37.3538 31.075\
-5 23.9917C30.849\
-1 23.6633 30.650\
-6 23.3164 30.440\
-9 22.9768C30.836\
-1 23.1215 31.079\
-2 23.4537 31.368\
-7 23.7357C35.105\
-6 27.4615 38.790\
-5 31.2411 42.585\
- 34.913C48.5948 \
-40.7318 54.4043 \
-46.7491 60.4104 \
-52.5697C63.9804 \
-56.0283 67.4612 \
-59.5815 71.0052 \
-63.0549C71.2891 \
-63.3314 71.6156 \
-63.58 71.7715 63\
-.9697Z\x22 fill=\x22#C\
-8C8C8\x22/>\x0d\x0a<path \
-d=\x22M10.415 20.57\
-22C9.38706 17.19\
-52 8.39068 13.96\
-49 7.42954 10.72\
-52C7.26997 10.18\
-71 6.76343 9.506\
-16 7.13081 9.114\
-66C7.43511 8.789\
-95 8.15318 9.244\
-54 8.68013 9.376\
-28C11.7231 10.13\
-7 14.7654 10.906\
-4 17.8072 11.684\
-5C18.0892 11.758\
-7 18.5197 11.697\
-5 18.6217 11.999\
-9C18.7368 12.332\
- 18.3119 12.4749\
- 18.117 12.6883C\
-17.4806 13.3878 \
-16.2616 13.9482 \
-16.2746 14.7293C\
-16.295 15.4028 1\
-7.4379 16.0523 1\
-8.0985 16.6961C2\
-0.2397 18.7854 2\
-2.3772 20.8783 2\
-4.5425 22.9416C2\
-4.9749 23.3535 2\
-5.0454 23.6151 2\
-4.5518 24.0196C2\
-3.9117 24.5429 2\
-3.3532 25.5281 2\
-2.6963 25.5782C2\
-2.0395 25.6283 2\
-1.481 24.5856 20\
-.8891 24.0122C18\
-.7015 21.8803 16\
-.5084 19.7521 14\
-.356 17.5923C13.\
-9014 17.1358 13.\
-6472 17.1136 13.\
-213 17.6108C12.3\
-447 18.6017 11.4\
-077 19.5294 10.4\
-15 20.5722Z\x22 fil\
-l=\x22black\x22/>\x0d\x0a<pa\
-th d=\x22M85.4518 7\
-6.264L88.8566 87\
-.6918L76.8647 84\
-.5932C77.6904 83\
-.8065 78.3881 83\
-.0884 79.1451 82\
-.439C79.6349 82.\
-016 79.6349 81.7\
-581 79.1562 81.2\
-979C76.5586 78.7\
-986 74.0054 76.2\
-455 71.4041 73.7\
-443C70.879 73.23\
-96 70.699 72.913\
- 71.3707 72.4009\
-C71.9774 71.9389\
- 72.484 70.9945 \
-73.0833 70.9592C\
-73.7698 70.9184 \
-74.2615 71.9074 \
-74.8274 72.4566C\
-76.9965 74.5681 \
-79.1599 76.6722 \
-81.264 78.8413C8\
-1.8838 79.4795 8\
-2.1918 79.3738 8\
-2.7484 78.7875C8\
-3.5778 77.8987 8\
-4.5259 77.1157 8\
-5.4518 76.264Z\x22 \
-fill=\x22black\x22/>\x0d\x0a\
-</g>\x0d\x0a<defs>\x0d\x0a<r\
+<rect width=\x2295\x22\
+ height=\x2295\x22 rx=\
+\x2220\x22 fill=\x22url(#\
+paint0_radial_20\
+13_59)\x22/>\x0d\x0a<path\
+ d=\x22M80.9697 62.\
+9586L80.8113 62.\
+7671C81.7337 60.\
+5324 82.6562 58.\
+2976 83.7196 56.\
+1238L83.8641 56.\
+3257C84.2992 56.\
+6337 84.0607 57.\
+0219 83.9302 57.\
+3369C83.2131 59.\
+0773 82.4421 60.\
+7813 81.6867 62.\
+4991C81.5545 62.\
+7985 81.3804 63.\
+0717 80.9697 62.\
+9586Z\x22 fill=\x22#18\
+1818\x22/>\x0d\x0a<path d\
+=\x22M84.3134 64.68\
+88L83.3597 64.68\
+01C83.3083 64.68\
+41 83.2569 64.67\
+13 83.2135 64.64\
+35C82.4059 64.34\
+76 81.5583 64.59\
+83 80.7385 64.46\
+95C80.8273 63.91\
+43 81.2815 63.94\
+73 81.6697 63.92\
+12C82.7 63.8655 \
+83.7339 63.8969 \
+84.766 63.9003C8\
+5.6867 64.01 86.\
+7031 63.7037 87.\
+455 64.5304L87.2\
+235 64.6714L86.3\
+167 64.6818L84.3\
+134 64.6888Z\x22 fi\
+ll=\x22#141414\x22/>\x0d\x0a\
+<path d=\x22M84.835\
+3 57.3651L84.986\
+8 57.1545C85.412\
+5 58.044 85.7618\
+ 58.968 86.031 5\
+9.9167C86.1198 6\
+0.1064 86.0188 6\
+0.1864 85.857 60\
+.2317C85.0285 59\
+.7705 84.4507 58\
+.1309 84.8353 57\
+.3651Z\x22 fill=\x22#1\
+E1E1E\x22/>\x0d\x0a<path \
+d=\x22M86.3356 60.6\
+771C86.6837 61.6\
+053 87.0277 62.5\
+336 87.3677 63.4\
+618C87.354 63.53\
+12 87.316 63.593\
+4 87.2604 63.637\
+1C87.2049 63.680\
+9 87.1355 63.703\
+3 87.0648 63.700\
+3C86.652 63.353 \
+86.3338 62.9069 \
+86.1396 62.4036C\
+85.9455 61.9003 \
+85.8818 61.3561 \
+85.9544 60.8215C\
+85.9933 60.759 8\
+6.0517 60.711 86\
+.1206 60.6849C86\
+.1895 60.6588 86\
+.265 60.656 86.3\
+356 60.6771Z\x22 fi\
+ll=\x22#222222\x22/>\x0d\x0a\
+<path d=\x22M87.197\
+3 63.6586L87.371\
+4 63.4619C87.350\
+5 63.8204 88.055\
+4 64.1216 87.458\
+4 64.5288C86.572\
+5 64.4087 85.665\
+7 64.6263 84.790\
+3 64.3548C84.917\
+3 63.85 85.3472 \
+63.9458 85.6971 \
+63.911C86.2018 6\
+3.8657 86.7292 6\
+3.944 87.1973 63\
+.6586Z\x22 fill=\x22#0\
+50505\x22/>\x0d\x0a<path \
+d=\x22M16.7466 64.6\
+489C16.5924 64.5\
+406 16.4073 64.4\
+853 16.219 64.49\
+13C16.0307 64.49\
+72 15.8494 64.56\
+42 15.7023 64.68\
+2L14.8321 64.640\
+2C14.7068 64.586\
+2 14.7085 64.537\
+5 14.8321 64.495\
+7C15.7441 64.189\
+4 16.6857 64.356\
+5 17.6168 64.321\
+7C17.4793 64.831\
+7 17.0408 64.551\
+4 16.7466 64.648\
+9Z\x22 fill=\x22#5F5F5\
+F\x22/>\x0d\x0a<path d=\x22M\
+11.0608 64.6821C\
+10.6658 64.6577 \
+10.2863 64.6821 \
+10.0026 65.0145C\
+10.0026 64.7848 \
+9.84948 64.5568 \
+10.0026 64.3288C\
+10.0514 64.2522 \
+10.1036 64.2505 \
+10.1593 64.3201C\
+10.8816 64.7326 \
+11.6752 64.3584 \
+12.4219 64.5255C\
+12.4219 64.5637 \
+12.4219 64.602 1\
+2.4219 64.6403L1\
+1.0608 64.6821Z\x22\
+ fill=\x22#232323\x22/\
+>\x0d\x0a<path d=\x22M15.\
+1803 58.4285L14.\
+505 57.0361C14.3\
+936 56.9473 14.4\
+058 56.8812 14.5\
+415 56.8394L14.6\
+947 56.6323C14.9\
+706 57.1422 15.1\
+845 57.6833 15.3\
+317 58.244C15.32\
+31 58.2846 15.30\
+48 58.3226 15.27\
+85 58.3547C15.25\
+21 58.3868 15.21\
+85 58.4121 15.18\
+03 58.4285Z\x22 fil\
+l=\x22#282828\x22/>\x0d\x0a<\
+path d=\x22M13.13 5\
+7.6243C12.9369 5\
+8.1151 12.7437 5\
+8.6041 12.5522 5\
+9.0949C12.4043 5\
+9.1123 12.2877 5\
+9.1036 12.3938 5\
+8.907C12.5562 58\
+.3527 12.7903 57\
+.8221 13.09 57.3\
+284C13.1127 57.3\
+447 13.1319 57.3\
+654 13.1463 57.3\
+894C13.1607 57.4\
+133 13.17 57.44 \
+13.1738 57.4677C\
+13.1775 57.4954 \
+13.1756 57.5236 \
+13.1681 57.5505C\
+13.1605 57.5774 \
+13.1476 57.6025 \
+13.13 57.6243Z\x22 \
+fill=\x22#222222\x22/>\
+\x0d\x0a<path d=\x22M11.9\
+063 60.4055C11.8\
+307 60.8997 11.6\
+025 61.3579 11.2\
+537 61.7161V61.7\
+248C11.2537 61.1\
+121 11.6018 60.6\
+248 11.8663 60.1\
+096C11.8897 60.1\
+254 11.9094 60.1\
+459 11.9243 60.1\
+699C11.9391 60.1\
+938 11.9488 60.2\
+207 11.9525 60.2\
+486C11.9563 60.2\
+765 11.9542 60.3\
+049 11.9462 60.3\
+32C11.9382 60.35\
+9 11.9247 60.384\
+1 11.9063 60.405\
+5Z\x22 fill=\x22#34343\
+4\x22/>\x0d\x0a<path d=\x22M\
+11.2539 61.7248V\
+61.7161C11.2278 \
+62.3148 10.9476 \
+62.8091 10.6047 \
+63.2825H10.6152C\
+10.5786 62.6611 \
+10.8571 62.1686 \
+11.2539 61.7248Z\
+\x22 fill=\x22#3A3A3A\x22\
+/>\x0d\x0a<path d=\x22M11\
+.9067 60.4055L11\
+.8667 60.1096C11\
+.9714 59.6821 12\
+.1479 59.2754 12\
+.3888 58.907L12.\
+5472 59.095L11.9\
+067 60.4055Z\x22 fi\
+ll=\x22#2C2C2C\x22/>\x0d\x0a\
+<path d=\x22M13.130\
+2 57.6244L13.085\
+ 57.3285C13.1802\
+ 56.9005 13.3576\
+ 56.495 13.6071 \
+56.1345C13.6175 \
+56.2268 13.628 5\
+6.3208 13.6402 5\
+6.413C13.5707 56\
+.8521 13.3957 57\
+.2678 13.1302 57\
+.6244Z\x22 fill=\x22#2\
+12121\x22/>\x0d\x0a<path \
+d=\x22M15.1804 58.4\
+284L15.3318 58.2\
+544L15.7321 59.4\
+066C15.75 59.429\
+ 15.763 59.4549 \
+15.7702 59.4826C\
+15.7774 59.5104 \
+15.7786 59.5393 \
+15.7739 59.5675C\
+15.7691 59.5958 \
+15.7584 59.6227 \
+15.7425 59.6466C\
+15.7266 59.6704 \
+15.7059 59.6907 \
+15.6817 59.7059C\
+15.4399 59.3133 \
+15.2702 58.8807 \
+15.1804 58.4284Z\
+\x22 fill=\x22#171717\x22\
+/>\x0d\x0a<path d=\x22M10\
+.6151 63.2827H10\
+.6047C10.5472 63\
+.6691 10.4567 64\
+.0416 10.1574 64\
+.327C10.1052 64.\
+327 10.0529 64.3\
+27 10.0007 64.33\
+57C10.1783 63.96\
+32 10.18 63.4968\
+ 10.6151 63.2827\
+Z\x22 fill=\x22#484848\
+\x22/>\x0d\x0a<path d=\x22M8\
+6.3356 60.6772L8\
+6.1477 60.9069C8\
+5.7038 60.7956 8\
+5.6255 60.5362 8\
+5.8466 60.1585L8\
+6.0345 59.9236C8\
+6.139 60.1731 86\
+.2393 60.4243 86\
+.3356 60.6772Z\x22 \
+fill=\x22#292929\x22/>\
+\x0d\x0a<path d=\x22M15.6\
+868 59.7024L15.7\
+372 59.4031C15.9\
+226 59.6682 16.0\
+419 59.9737 16.0\
+853 60.2942C16.1\
+051 60.3131 16.1\
+202 60.3364 16.1\
+293 60.3622C16.1\
+384 60.388 16.14\
+12 60.4156 16.13\
+77 60.4427C16.13\
+41 60.4698 16.12\
+42 60.4957 16.10\
+88 60.5183C16.09\
+33 60.5409 16.07\
+28 60.5595 16.04\
+88 60.5727C15.84\
+48 60.3247 15.71\
+89 60.0219 15.68\
+68 59.7024Z\x22 fil\
+l=\x22#1E1E1E\x22/>\x0d\x0a<\
+path d=\x22M16.0505\
+ 60.5727L16.0871\
+ 60.2942C16.2675\
+ 60.5541 16.3866\
+ 60.8517 16.4352\
+ 61.1644C16.4816\
+ 61.2097 16.4955\
+ 61.2532 16.477 \
+61.295C16.4578 6\
+1.3367 16.4404 6\
+1.3559 16.423 61\
+.3559C16.3077 61\
+.2602 16.2147 61\
+.1406 16.1503 61\
+.0054C16.086 60.\
+8701 16.052 60.7\
+224 16.0505 60.5\
+727Z\x22 fill=\x22#333\
+333\x22/>\x0d\x0a<path d=\
+\x22M14.8444 64.495\
+6C14.8444 64.544\
+3 14.8444 64.593\
+1 14.8444 64.640\
+1L13.814 64.6801\
+C13.807 64.6244 \
+13.8018 64.5664 \
+13.7983 64.506L1\
+4.8444 64.4956Z\x22\
+ fill=\x22#353535\x22/\
+>\x0d\x0a<path d=\x22M83.\
+7199 56.1241C83.\
+4136 55.8699 83.\
+0498 55.9935 82.\
+7156 55.9935C60.\
+3043 55.9866 37.\
+8929 55.9866 15.\
+4815 55.9935C15.\
+0847 55.9935 14.\
+3641 55.7116 14.\
+7 56.6392C14.774\
+9 56.7715 14.7 5\
+6.8533 14.6008 5\
+6.9229C14.4666 5\
+6.9454 14.3288 5\
+6.9318 14.2016 5\
+6.8834C14.0743 5\
+6.8351 13.9622 5\
+6.7538 13.8768 5\
+6.6479C13.7758 5\
+6.5435 13.6105 5\
+6.5017 13.5687 5\
+6.3399C13.5612 5\
+6.3044 13.5613 5\
+6.2677 13.5691 5\
+6.2323C13.5769 5\
+6.1969 13.5922 5\
+6.1635 13.614 56\
+.1345C13.3773 55\
+.8769 13.0675 55\
+.9953 12.7942 55\
+.9935C11.0833 55\
+.9813 9.3742 55.\
+9744 7.66332 55.\
+9935C7.20558 55.\
+9935 6.99672 55.\
+9152 7.0002 55.3\
+861C7.02631 52.5\
+526 7.03849 49.7\
+157 7.0002 46.88\
+22C6.98976 46.16\
+16 7.38658 46.26\
+08 7.8217 46.260\
+8H47.7723L42.126\
+3 36.8484C43.120\
+1 36.8484 44.028\
+6 36.8014 44.930\
+1 36.8641C45.605\
+4 36.9111 45.760\
+4 36.6657 45.753\
+4 36.0339C45.708\
+1 31.3468 45.709\
+9 26.6615 45.657\
+7 21.9744C45.657\
+7 21.2782 45.796\
+9 20.9527 46.554\
+ 21.0589C47.3111\
+ 21.1651 48.3136\
+ 20.7491 48.7992\
+ 21.2643C49.2395\
+ 21.7342 48.9193\
+ 22.7002 48.9228\
+ 23.4468C48.9332\
+ 27.5839 48.9437\
+ 31.721 48.9123 \
+35.8581C48.9123 \
+36.5543 49.0464 \
+36.8188 49.8069 \
+36.7649C50.9313 \
+36.6865 52.0695 \
+36.744 53.213 36\
+.744C53.3157 37.\
+0921 53.039 37.3\
+201 52.905 37.57\
+77C51.5213 40.21\
+45 50.1446 42.85\
+3 48.7122 45.460\
+2C48.3154 46.182\
+5 48.4772 46.273\
+ 49.2152 46.273C\
+62.0865 46.2579 \
+74.9561 46.2539 \
+87.8239 46.2608C\
+88.9448 46.2608 \
+88.9465 46.2608 \
+88.9465 47.3834C\
+88.9465 50.015 8\
+8.9308 52.6483 8\
+8.9587 55.2799C8\
+8.9587 55.8473 8\
+8.8055 56.0266 8\
+8.2346 55.997C87\
+.3087 55.95 86.3\
+758 56.0336 85.4\
+499 55.9709C84.6\
+423 55.9152 84.5\
+797 56.2024 84.9\
+086 56.8168C84.9\
+492 56.9247 84.9\
+744 57.0377 84.9\
+835 57.1527C85.0\
+6 57.2954 84.983\
+5 57.3789 84.866\
+9 57.4451C84.170\
+7 57.4729 84.254\
+2 56.6427 83.756\
+4 56.4582C83.704\
+2 56.3538 83.639\
+8 56.2476 83.719\
+9 56.1241Z\x22 fill\
+=\x22black\x22/>\x0d\x0a<pat\
+h d=\x22M13.647 56.\
+4148L13.9829 56.\
+0093C14.291 56.2\
+738 14.2597 56.7\
+577 14.6165 56.9\
+909C15.0272 57.3\
+738 15.0342 57.9\
+412 15.2639 58.4\
+059C15.4571 58.8\
+027 15.5319 59.2\
+5 15.7704 59.624\
+2C15.8155 59.941\
+1 15.9347 60.242\
+8 16.1185 60.504\
+9C16.1625 60.822\
+ 16.2819 61.124 \
+16.4666 61.3856C\
+16.4919 61.7016 \
+16.6203 62.0006 \
+16.8321 62.2367C\
+17.1693 62.9019 \
+17.4319 63.6023 \
+17.6153 64.3252C\
+17.0583 64.5898 \
+16.4596 64.5689 \
+15.8748 64.5341C\
+15.5363 64.4968 \
+15.194 64.5121 1\
+4.8601 64.5793C1\
+4.4964 64.6037 1\
+4.1274 64.5463 1\
+3.7636 64.6194C1\
+3.3042 64.9674 1\
+2.8638 64.6194 1\
+2.4148 64.5846C1\
+1.6681 64.4384 1\
+0.9197 64.83 10.\
+1731 64.5846C10.\
+0199 64.0816 10.\
+4811 63.7578 10.\
+549 63.3192C10.7\
+613 62.7727 11.0\
+607 62.261 11.25\
+56 61.7058C11.44\
+19 61.255 11.697\
+7 60.8356 11.809\
+1 60.3517C12.087\
+6 59.948 12.2059\
+ 59.4693 12.4322\
+ 59.0412C12.6062\
+ 58.5469 12.9073\
+ 58.1013 13.0239\
+ 57.5827C13.3163\
+ 57.2311 13.3355\
+ 56.7455 13.647 \
+56.4148Z\x22 fill=\x22\
+#919191\x22/>\x0d\x0a<pat\
+h d=\x22M83.2133 64\
+.6437C81.9184 64\
+.3948 81.3197 65\
+.0632 80.9124 66\
+.2101C80.5051 67\
+.3571 79.9186 68\
+.4153 79.4051 69\
+.517C79.2694 69.\
+8077 79.118 70.1\
+488 78.709 69.92\
+6C78.3713 69.752\
+ 78.5001 69.4387\
+ 78.6254 69.1672\
+C79.2067 67.9123\
+ 79.7985 66.6609\
+ 80.3659 65.3973\
+C80.4686 65.1676\
+ 80.9211 64.776 \
+80.1918 64.6785C\
+79.9116 64.642 8\
+0.0822 64.3948 8\
+0.1361 64.266C80\
+.3502 63.763 80.\
+5887 63.2705 80.\
+8184 62.7744C80.\
+8757 62.7535 80.\
+9382 62.7512 80.\
+9969 62.7677C81.\
+0556 62.7843 81.\
+1077 62.8189 81.\
+1456 62.8667C81.\
+438 63.1312 81.0\
+899 63.6168 81.4\
+937 63.8431C81.8\
+644 64.0171 82.2\
+908 63.9684 82.6\
+511 64.1442C82.8\
+704 64.2504 83.2\
+463 64.2243 83.2\
+133 64.6437Z\x22 fi\
+ll=\x22#040404\x22/>\x0d\x0a\
+<path d=\x22M12.418\
+3 64.5251L13.791\
+5 64.5129C13.918\
+5 64.5582 13.923\
+8 64.6121 13.807\
+2 64.687C13.0808\
+ 66.2476 12.3539\
+ 67.8088 11.6264\
+ 69.3706C11.4854\
+ 69.6699 11.3757\
+ 70.1346 10.9302\
+ 69.9554C10.408 \
+69.7483 10.7039 \
+69.3323 10.8518 \
+69.0068C11.4227 \
+67.7519 12.0093 \
+66.5058 12.5784 \
+65.2492C12.6793 \
+65.0264 12.9804 \
+64.7061 12.4148 \
+64.647L12.2982 6\
+4.5843L12.4183 6\
+4.5251Z\x22 fill=\x22#\
+040404\x22/>\x0d\x0a<path\
+ d=\x22M16.7468 64.\
+6488C16.0123 66.\
+2153 15.283 67.7\
+817 14.5416 69.3\
+481C14.3919 69.6\
+631 14.2979 70.1\
+783 13.788 69.92\
+42C13.3528 69.70\
+84 13.6226 69.32\
+89 13.7601 69.02\
+09C14.4052 67.57\
+17 15.0527 66.12\
+53 15.7025 64.68\
+19C16.0349 64.23\
+29 16.383 64.288\
+6 16.7468 64.648\
+8Z\x22 fill=\x22#04040\
+4\x22/>\x0d\x0a<path d=\x22M\
+87.2237 64.6697C\
+86.4869 66.2941 \
+85.7501 67.9186 \
+85.0133 69.543C8\
+4.8914 69.811 84\
+.7452 70.1104 84\
+.3815 69.952C83.\
+969 69.778 84.11\
+ 69.4542 84.2509\
+ 69.1497C84.9471\
+ 67.6633 85.6358\
+ 66.1746 86.3169\
+ 64.6836C86.6162\
+ 64.3773 86.9173\
+ 64.3877 87.2237\
+ 64.6697Z\x22 fill=\
+\x22#050505\x22/>\x0d\x0a<pa\
+th d=\x22M11.0607 6\
+4.6817C10.3315 6\
+6.276 9.61093 67\
+.8685 8.86949 69\
+.4593C8.7407 69.\
+7361 8.62061 70.\
+1311 8.20116 69.\
+9571C7.72601 69.\
+7552 7.95749 69.\
+388 8.10021 69.0\
+869C8.72852 67.7\
+328 9.36727 66.3\
+822 10.0025 65.0\
+298C10.1801 64.3\
+476 10.6378 64.5\
+617 11.0607 64.6\
+817Z\x22 fill=\x22#040\
+404\x22/>\x0d\x0a<path d=\
+\x22M84.3134 64.688\
+8C83.5877 66.291\
+7 82.8654 67.896\
+4 82.1292 69.495\
+9C82.0004 69.776\
+1 81.8611 70.150\
+3 81.433 69.9258\
+C81.0048 69.7013\
+ 81.2311 69.3793\
+ 81.3599 69.0939\
+C82.0195 67.6214\
+ 82.6879 66.1507\
+ 83.3527 64.6801\
+C83.6799 64.3877\
+ 83.9984 64.3755\
+ 84.3134 64.6888\
+Z\x22 fill=\x22#030303\
+\x22/>\x0d\x0a<path d=\x22M1\
+6.4109 61.3648L1\
+6.4231 61.1733C1\
+6.564 61.5214 16\
+.7033 61.8852 16\
+.8425 62.2402C16\
+.6941 62.1512 16\
+.5745 62.0212 16\
+.498 61.866C16.4\
+214 61.7107 16.3\
+912 61.5368 16.4\
+109 61.3648Z\x22 fi\
+ll=\x22#515151\x22/>\x0d\x0a\
+<path d=\x22M85.843\
+3 60.1515C85.942\
+5 60.4004 86.043\
+4 60.651 86.1444\
+ 60.8999C86.4121\
+ 61.8479 86.7615\
+ 62.7709 87.1887\
+ 63.6585C87.2948\
+ 64.038 87.3105 \
+64.3269 86.7588 \
+64.3112C86.0991 \
+64.2921 85.4378 \
+64.3338 84.7781 \
+64.3512C83.4275 \
+64.3373 82.0752 \
+64.2729 80.7298 \
+64.4678C80.1607 \
+63.8656 81.0344 \
+63.4845 80.9613 \
+62.9589C82.0212 \
+60.7885 82.9454 \
+58.5607 83.8557 \
+56.326C84.0175 5\
+6.0301 84.1794 5\
+5.6855 84.4178 5\
+6.272C84.5658 56\
+.6323 84.6911 56\
+.9995 84.8268 57\
+.365L85.8433 60.\
+1515Z\x22 fill=\x22#91\
+9191\x22/>\x0d\x0a<path d\
+=\x22M14.5467 56.84\
+64L14.5102 57.04\
+31C14.2306 56.76\
+28 14.0477 56.40\
+07 13.988 56.009\
+3C14.4841 56.075\
+4 14.3466 56.574\
+9 14.5467 56.846\
+4Z\x22 fill=\x22#C6C6C\
+6\x22/>\x0d\x0a<defs>\x0d\x0a<r\
 adialGradient id\
 =\x22paint0_radial_\
-2003_113\x22 cx=\x220\x22\
- cy=\x220\x22 r=\x221\x22 gr\
-adientUnits=\x22use\
-rSpaceOnUse\x22 gra\
-dientTransform=\x22\
-translate(47.5 4\
-7.5) rotate(90) \
-scale(47.5 47.5)\
-\x22>\x0d\x0a<stop offset\
-=\x220.4\x22 stop-colo\
-r=\x22white\x22/>\x0d\x0a<st\
-op offset=\x221\x22 st\
-op-color=\x22white\x22\
- stop-opacity=\x220\
-.5\x22/>\x0d\x0a</radialG\
-radient>\x0d\x0a<clipP\
-ath id=\x22clip0_20\
-03_113\x22>\x0d\x0a<rect \
-width=\x2295\x22 heigh\
-t=\x2295\x22 fill=\x22whi\
-te\x22/>\x0d\x0a</clipPat\
-h>\x0d\x0a</defs>\x0d\x0a</s\
-vg>\x0d\x0a\
-\x00\x0078\
-<\
-svg width=\x2295\x22 h\
-eight=\x2295\x22 viewB\
-ox=\x220 0 95 95\x22 f\
-ill=\x22none\x22 xmlns\
-=\x22http://www.w3.\
-org/2000/svg\x22>\x0d\x0a\
-<g clip-path=\x22ur\
-l(#clip0_2003_46\
-9)\x22>\x0d\x0a<path d=\x22M\
-47.5 0.0185547C6\
-3.0859 0.0185547\
- 78.6669 0.01236\
-98 94.243 0C94.8\
-757 0 95.0018 0.\
-124316 95 0.7588\
-87C94.9814 31.91\
-96 94.9814 63.08\
-04 95 94.2411C95\
- 94.8757 94.8757\
- 95 94.243 95C63\
-.0822 94.979 31.\
-9209 94.979 0.75\
-8887 95C0.124316\
- 95 0 94.8757 0 \
-94.2411C0.019791\
-7 63.0804 0.0197\
-917 31.9196 0 0.\
-758887C0 0.12431\
-6 0.120605 0 0.7\
-58887 0C16.3399 \
-0.0222656 31.920\
-2 0.0284505 47.5\
- 0.0185547Z\x22 fil\
-l=\x22url(#paint0_r\
-adial_2003_469)\x22\
-/>\x0d\x0a<path d=\x22M47\
-.2286 77.1756C47\
-.1377 78.4911 46\
-.8464 79.7899 46\
-.9225 81.1259C46\
-.9522 81.6361 47\
-.0895 81.8235 47\
-.6201 81.8124C49\
-.0711 81.7809 50\
-.5258 81.8328 51\
-.9768 81.7846C52\
-.6169 81.7642 52\
-.9973 81.9182 53\
-.4092 82.4804C54\
-.6116 84.1206 55\
-.9456 85.6644 57\
-.2129 87.2582C57\
-.4244 87.5235 57\
-.9143 87.8575 57\
-.5265 88.1767C57\
-.0571 88.5645 56\
-.8641 87.9429 56\
-.6414 87.6738C55\
-.3853 86.1505 54\
-.1533 84.6067 52\
-.9119 83.0704C52\
-.7041 82.8125 52\
-.5408 82.5138 52\
-.1215 82.5138C48\
-.6685 82.5249 45\
-.2155 82.5138 41\
-.5286 82.5138C41\
-.9109 82.9183 42\
-.1465 83.1762 42\
-.3933 83.423C43.\
-723 84.7552 45.0\
-547 86.0862 46.3\
-881 87.4159C46.5\
-978 87.6256 46.9\
-448 87.8742 46.6\
-275 88.1804C46.3\
-102 88.4865 46.0\
-708 88.121 45.87\
-04 87.915C44.248\
-8 86.3064 42.617\
-8 84.7051 41.025\
-8 83.0686C40.852\
-4 82.8785 40.638\
-4 82.7298 40.399\
-8 82.6334C40.161\
-2 82.5371 39.904\
- 82.4955 39.6472\
- 82.5119C37.5153\
- 82.5416 35.3796\
- 82.5212 33.2514\
- 82.5323C32.9898\
- 82.5323 32.7059\
- 82.4414 32.3571\
- 82.6956L36.7415\
- 87.0634C36.9382\
- 87.2489 37.1386\
- 87.453 37.3204 \
-87.6627C37.3905 \
-87.7249 37.4344 \
-87.8114 37.4433 \
-87.9046C37.4523 \
-87.9979 37.4256 \
-88.0911 37.3687 \
-88.1655C37.1831 \
-88.3752 36.9753 \
-88.3047 36.812 8\
-8.1377C34.9281 8\
-6.2662 33.0485 8\
-4.3909 31.1733 8\
-2.5119C31.0397 8\
-2.3802 30.9358 8\
-2.2188 31.0471 8\
-2.0184C31.1992 8\
-1.7438 31.472 81\
-.805 31.7095 81.\
-8031C33.3479 81.\
-8031 34.9863 81.\
-766 36.6228 81.8\
-031C37.365 81.82\
-35 37.6785 81.59\
-53 37.647 80.817\
-9C37.6117 79.927\
-3 37.7045 79.031\
-1 37.7045 78.138\
-6C37.7045 63.210\
-7 37.7045 48.283\
-5 37.7045 33.356\
-8C37.7045 31.981\
-9 37.5858 32.204\
-6 38.8994 32.187\
-9C39.8457 32.176\
-8 40.7939 32.187\
-9 41.9016 32.187\
-9C40.2484 29.430\
-7 38.6768 26.807\
- 37.0143 24.0238\
-C37.8474 24.0238\
- 38.5413 23.9793\
- 39.226 24.0368C\
-39.9107 24.0943 \
-40.0535 23.8513 \
-40.0461 23.2074C\
-40.0109 19.3536 \
-40.0461 15.498 3\
-9.9867 11.6442C3\
-9.9756 10.8556 4\
-0.2094 10.67 40.\
-9646 10.6942C42.\
-7662 10.7517 42.\
-7662 10.7127 42.\
-7662 12.4884C42.\
-7662 16.036 42.7\
-866 19.5818 42.7\
-495 23.1295C42.7\
-495 23.8439 42.9\
-499 24.022 43.64\
-2 23.9663C44.551\
-2 23.8921 45.469\
-7 23.9478 46.488\
-3 23.9478C45.052\
-2 26.6642 43.632\
-7 29.3435 42.124\
-2 32.1935H46.839\
-C47.0468 32.5052\
- 46.941 32.854 4\
-6.9429 33.1824C4\
-6.9503 37.7593 4\
-6.9503 42.3416 4\
-6.9429 46.9296C4\
-6.9109 47.5736 4\
-7.0145 48.2171 4\
-7.2472 48.8185C4\
-7.3381 49.0393 4\
-7.4754 49.2489 4\
-7.4327 49.5031C4\
-7.3409 50.2982 4\
-7.3 51.0983 47.3\
-103 51.8985C47.3\
-103 58.7019 47.3\
-103 65.5053 47.3\
-103 72.3087C47.3\
-412 73.512 47.28\
-85 74.716 47.152\
-6 75.912C47.084 \
-76.3336 47.1099 \
-76.7652 47.2286 \
-77.1756Z\x22 fill=\x22\
-black\x22/>\x0d\x0a<path \
-d=\x22M47.2287 77.1\
-756C47.1359 77.2\
-183 46.9968 77.4\
-094 46.9597 77.2\
-721C46.9165 76.9\
-991 46.9078 76.7\
-217 46.9337 76.4\
-464C46.9337 68.0\
-177 46.9337 59.5\
-883 46.9337 51.1\
-583C46.9337 50.5\
-775 46.9894 49.9\
-967 47.019 49.41\
-41C46.956 49.267\
-5 47.0302 49.078\
-3 46.8836 48.955\
-8C46.8836 43.775\
-4 46.8836 38.593\
-7 46.8836 33.410\
-7C46.8836 33.011\
-8 46.8576 32.611\
- 46.8428 32.2102\
-C47.2139 32.5646\
- 47.0599 33.0229\
- 47.0617 33.4348\
-C47.0729 38.2405\
- 47.0729 43.0517\
- 47.0617 47.8685\
-C47.405 47.7999 \
-47.3419 47.5104 \
-47.4458 47.3304C\
-47.5979 47.0466 \
-47.6907 46.7347 \
-47.7186 46.4138C\
-47.8299 46.1021 \
-47.9449 45.7923 \
-48.0488 45.4861C\
-48.0608 45.2245 \
-48.1646 44.9755 \
-48.342 44.7829C4\
-8.1323 44.5138 4\
-8.3197 44.2596 4\
-8.3717 43.9999C4\
-8.6314 43.7475 4\
-8.5702 43.3764 4\
-8.7149 43.0833C4\
-8.8059 42.7975 4\
-8.7539 42.4468 4\
-9.086 42.2687C48\
-.8856 41.7622 49\
-.2716 41.3762 49\
-.3588 40.9272C49\
-.4534 40.5153 49\
-.5443 40.0997 49\
-.8282 39.7694C49\
-.6835 38.6691 50\
-.3663 37.784 50.\
-6094 36.784C50.8\
-524 36.5483 50.8\
-302 36.1549 51.1\
-178 35.9471C51.1\
-345 35.7282 51.1\
-53 35.5074 51.16\
-97 35.2866C51.41\
-94 34.8841 51.62\
-12 34.4538 51.77\
-09 34.0045C51.95\
-64 33.5462 52.19\
-58 33.1138 52.41\
-66 32.6741C52.59\
-29 32.509 52.726\
-5 32.2789 53.015\
-9 32.2882C53.943\
-7 32.3976 54.825\
- 32.008 55.7472 \
-32.1026C57.4356 \
-32.2176 59.1278 \
-32.1954 60.8182 \
-32.1991C61.0594 \
-32.1991 61.3748 \
-32.1434 61.4843 \
-32.3995C61.5937 \
-32.6555 61.3247 \
-32.8374 61.1577 \
-33.0044C60.7439 \
-33.4144 60.358 3\
-3.8505 59.9294 3\
-4.2457L59.8162 3\
-4.6279C59.5713 3\
-4.7686 59.3578 3\
-4.9581 59.1891 3\
-5.1845C59.1223 3\
-5.5556 58.6881 3\
-5.6985 58.6139 3\
-6.0696C58.4125 3\
-6.2571 58.2722 3\
-6.5008 58.2112 3\
-6.7691L57.8401 3\
-7.1847C57.5451 3\
-7.4965 57.4208 3\
-7.8935 57.2724 3\
-8.2795L57.0775 3\
-8.3834C56.7213 3\
-9.2295 56.122 39\
-.9661 55.9643 40\
-.8957L55.5523 41\
-.8679C55.1818 42\
-.5686 54.8965 43\
-.3111 54.7025 44\
-.0797C54.6079 44\
-.4025 54.5318 44\
-.7346 54.2906 44\
-.9907C54.5374 45\
-.9852 54.0698 46\
-.8462 53.7674 47\
-.7331C53.5317 48\
-.0671 53.7247 48\
-.555 53.3666 48.\
-8464C53.3666 48.\
-9094 53.3666 48.\
-9744 53.3666 49.\
-0319C53.3766 49.\
-4145 53.3137 49.\
-7955 53.181 50.1\
-545V50.1285C52.9\
-955 50.4773 53.1\
-569 50.9505 52.8\
-1 51.2418C52.910\
-2 51.4273 53.095\
-7 51.5906 52.856\
-3 51.7984C52.591\
- 52.1213 52.8044\
- 52.6241 52.4389\
- 52.9117V53.1325\
-C52.3776 53.5129\
- 52.3925 53.9062\
- 52.2533 54.2717\
-L52.2199 54.8024\
-C51.9546 55.1308\
- 52.0344 55.565 \
-51.86 55.9268L51\
-.8488 56.4723C51\
-.5835 56.8007 51\
-.6633 57.2349 51\
-.4889 57.5967L51\
-.4777 58.1423C51\
-.1938 58.582 51.\
-205 59.096 51.10\
-66 59.5839V59.81\
-22C50.6929 60.21\
-11 50.9935 60.87\
-54 50.563 61.266\
-9C50.897 61.6528\
- 50.55 62.0276 5\
-0.5463 62.408C50\
-.2123 62.716 50.\
-3607 63.1743 50.\
-19 63.5324C50.19\
- 63.7179 50.1808\
- 63.8923 50.1771\
- 64.0723C49.9117\
- 64.4007 49.9915\
- 64.8349 49.8189\
- 65.1856L49.8078\
- 65.7274C49.5443\
- 66.015 49.5295 \
-66.3731 49.5258 \
-66.7349C49.2846 \
-67.0448 49.4441 \
-67.4549 49.2623 \
-67.7814L49.2493 \
-68.3214C48.9098 \
-68.7463 49.1064 \
-69.3697 48.7094 \
-69.7742C49.0434 \
-70.1583 48.6945 \
-70.5331 48.6927 \
-70.9116C48.3587 \
-71.2215 48.5071 \
-71.6816 48.3346 \
-72.0434L48.3234 \
-72.5778C48.0618 \
-72.8654 48.0451 \
-73.2235 48.0414 \
-73.5835C47.8002 \
-73.8933 47.9598 \
-74.3034 47.7779 \
-74.6281L47.7668 \
-75.1699C47.5816 \
-75.4711 47.4846 \
-75.8182 47.4866 \
-76.1718C47.2491 \
-76.4761 47.4031 \
-76.8788 47.225 7\
-7.1979L47.2287 7\
-7.1756Z\x22 fill=\x22#\
-B2B2B2\x22/>\x0d\x0a<path\
- d=\x22M53.7229 31.\
-8576L46.8242 31.\
-377L52.7877 22.8\
-641C53.3295 23.6\
-731 53.5763 24.5\
-174 53.9232 25.3\
-078C54.0902 25.6\
-789 54.2739 25.7\
-958 54.697 25.66\
-78C57.1796 24.92\
-56 59.4581 23.81\
-23 61.436 22.118\
-2C65.0857 18.991\
-8 64.9447 15.191\
-8 61.0297 12.391\
-9C58.4005 10.514\
-1 55.3501 9.7441\
-2 52.2181 9.2579\
-9C50.999 9.07244\
- 49.7633 8.99451\
- 48.535 8.88689C\
-47.6276 8.80525 \
-47.0506 8.24861 \
-47.0506 7.43592C\
-47.0454 7.24083 \
-47.0812 7.04682 \
-47.1555 6.86636C\
-47.2298 6.68591 \
-47.341 6.52299 4\
-7.482 6.38809C47\
-.6231 6.25318 47\
-.7907 6.14927 47\
-.9743 6.08304C48\
-.1579 6.0168 48.\
-3533 5.98971 48.\
-5479 6.0035C53.2\
-497 6.23914 57.8\
-16 7.04256 61.92\
-4 9.5159C63.902 \
-10.7053 65.4494 \
-12.2991 66.3308 \
-14.4811C67.4849 \
-17.3478 67.008 1\
-9.9974 65.1266 2\
-2.3854C62.8592 2\
-5.2688 59.7457 2\
-6.9629 56.4059 2\
-8.245C55.6433 28\
-.5363 55.4392 28\
-.7553 55.8808 29\
-.5067C56.3465 30\
-.2953 56.6638 31\
-.1766 57.046 32.\
-0097C56.8883 32.\
-2046 56.6638 32.\
-1823 56.4485 32.\
-1953C55.5275 32.\
-2364 54.606 32.1\
-222 53.7229 31.8\
-576Z\x22 fill=\x22blac\
-k\x22/>\x0d\x0a<path d=\x22M\
-56.4597 32.0452L\
-57.0386 32.0173H\
-61.9742C62.0076 \
-32.099 62.0391 3\
-2.1806 62.0707 3\
-2.2604C61.3285 3\
-2.9005 60.8331 3\
-3.7763 59.9257 3\
-4.2513C60.2467 3\
-3.5796 60.8999 3\
-3.1714 61.4751 3\
-2.3569H55.7435C5\
-5.7214 32.3254 5\
-5.7111 32.287 55\
-.7145 32.2487C55\
-.7179 32.2103 55\
-.7347 32.1744 55\
-.7621 32.1472C55\
-.9866 32.0544 56\
-.2426 32.1769 56\
-.4597 32.0452Z\x22 \
-fill=\x22#4C4C4C\x22/>\
-\x0d\x0a<path d=\x22M54.2\
-795 45.0019C54.6\
-803 43.9536 54.6\
-952 42.7494 55.5\
-413 41.8792C55.2\
-462 42.8069 54.9\
-475 43.7346 54.6\
-581 44.6716C54.6\
-437 44.7623 54.5\
-979 44.8451 54.5\
-288 44.9055C54.4\
-596 44.9659 54.3\
-713 45 54.2795 4\
-5.0019Z\x22 fill=\x22#\
-3A3A3A\x22/>\x0d\x0a<path\
- d=\x22M56.4597 32.\
-0451L55.7472 32.\
-2306C55.2481 32.\
-3215 54.749 32.4\
-032 54.2628 32.1\
-787L53.7229 31.8\
-577C54.6395 31.7\
-5 55.5394 32.052\
-5 56.4597 32.045\
-1Z\x22 fill=\x22#B9B9B\
-9\x22/>\x0d\x0a<path d=\x22M\
-55.9495 40.9068C\
-55.9495 39.903 5\
-6.5395 39.1627 5\
-7.0627 38.3945C5\
-6.9347 39.339 56\
-.3335 40.0756 55\
-.9495 40.9068Z\x22 \
-fill=\x22#3B3B3B\x22/>\
-\x0d\x0a<path d=\x22M54.2\
-609 32.1658L55.7\
-452 32.2177C55.7\
-452 32.2641 55.7\
-452 32.3086 55.7\
-452 32.3532L52.7\
-95 32.4255C52.74\
-49 32.3791 52.73\
-01 32.3346 52.74\
-87 32.2938C52.76\
-72 32.253 52.787\
-6 32.2307 52.804\
-3 32.2307L54.260\
-9 32.1658Z\x22 fill\
-=\x22#141414\x22/>\x0d\x0a<p\
-ath d=\x22M51.7263 \
-34.0583C51.7412 \
-34.5612 51.6354 \
-35.0102 51.1697 \
-35.2941C51.2717 \
-34.8414 51.3552 \
-34.3775 51.7486 \
-34.0639L51.7263 \
-34.0583Z\x22 fill=\x22\
-#434343\x22/>\x0d\x0a<pat\
-h d=\x22M48.7131 69\
-.7741C48.9284 69\
-.3028 48.7335 68\
-.6794 49.2531 68\
-.3213C49.0842 68\
-.8074 49.2698 69\
-.429 48.7131 69.\
-7741Z\x22 fill=\x22#18\
-1818\x22/>\x0d\x0a<path d\
-=\x22M51.1104 59.58\
-01C50.9824 59.03\
-46 51.038 58.537\
-4 51.4815 58.138\
-4C51.4278 58.634\
-3 51.3028 59.119\
-9 51.1104 59.580\
-1Z\x22 fill=\x22#18181\
-8\x22/>\x0d\x0a<path d=\x22M\
-51.7263 34.0582H\
-51.7449C51.7152 \
-33.5424 52.0399 \
-33.1676 52.2681 \
-32.7594C52.2855 \
-32.7409 52.3064 \
-32.7261 52.3297 \
-32.716C52.353 32\
-.7059 52.3782 32\
-.7007 52.4036 32\
-.7007C52.429 32.\
-7007 52.4541 32.\
-7059 52.4774 32.\
-716C52.5007 32.7\
-261 52.5217 32.7\
-409 52.539 32.75\
-94C52.2718 33.20\
-29 52.1512 33.72\
-61 51.7263 34.05\
-82Z\x22 fill=\x22#3A3A\
-3A\x22/>\x0d\x0a<path d=\x22\
-M49.8265 39.7732\
-L49.4034 40.8995\
-H49.3125C49.3626\
- 40.4727 49.2698\
- 39.9754 49.8265\
- 39.7732Z\x22 fill=\
-\x22#3A3A3A\x22/>\x0d\x0a<pa\
-th d=\x22M50.5686 6\
-1.2577C50.7913 6\
-0.7882 50.602 60\
-.1667 51.1123 59\
-.803C50.7671 60.\
-2297 51.1958 60.\
-9404 50.5686 61.\
-2577Z\x22 fill=\x22#17\
-1717\x22/>\x0d\x0a<path d\
-=\x22M48.1287 45.52\
-52C48.0452 45.84\
-8 48.0526 46.204\
-3 47.7817 46.452\
-9L47.7223 46.605\
-L47.6462 46.4603\
-C47.6547 46.1245\
- 47.7618 45.7986\
- 47.9542 45.5233\
-C48.0099 45.3897\
- 48.0693 45.3897\
- 48.1287 45.5252\
-Z\x22 fill=\x22#3B3B3B\
-\x22/>\x0d\x0a<path d=\x22M5\
-8.5229 35.9917C5\
-8.6677 35.6267 5\
-8.9503 35.3335 5\
-9.3097 35.1753L5\
-8.5396 36.2886C5\
-8.519 36.2702 58\
-.5022 36.248 58.\
-4901 36.2231C58.\
-4781 36.1982 58.\
-4711 36.1712 58.\
-4696 36.1436C58.\
-468 36.116 58.47\
-19 36.0884 58.48\
-11 36.0623C58.49\
-03 36.0363 58.50\
-45 36.0123 58.52\
-29 35.9917Z\x22 fil\
-l=\x22#4F4F4F\x22/>\x0d\x0a<\
-path d=\x22M51.1141\
- 35.9546C50.9879\
- 36.2607 51.0343\
- 36.6689 50.6057\
- 36.7914C50.6818\
- 36.4556 50.6094\
- 36.0307 51.1141\
- 35.9546Z\x22 fill=\
-\x22#525252\x22/>\x0d\x0a<pa\
-th d=\x22M49.3106 4\
-0.9031H49.4015C4\
-9.2957 41.3614 4\
-9.1881 41.8178 4\
-9.0823 42.2761C4\
-8.6908 41.7417 4\
-9.1454 41.3465 4\
-9.3106 40.9031Z\x22\
- fill=\x22#363636\x22/\
->\x0d\x0a<path d=\x22M51.\
-4963 57.5968C51.\
-4963 57.1812 51.\
-4202 56.7452 51.\
-8563 56.4724C51.\
-7728 56.8602 51.\
-7839 57.2777 51.\
-4963 57.5968Z\x22 f\
-ill=\x22#191919\x22/>\x0d\
-\x0a<path d=\x22M57.26\
-13 38.2888C57.19\
-45 37.7916 57.42\
-27 37.4464 57.82\
-9 37.1941C57.743\
-6 37.6041 57.547\
-2 37.9828 57.261\
-3 38.2888Z\x22 fill\
-=\x22#3E3E3E\x22/>\x0d\x0a<p\
-ath d=\x22M49.8264 \
-65.1931C49.8264 \
-64.7793 49.7411 \
-64.3415 50.1845 \
-64.0798C50.0992 \
-64.4509 50.1159 \
-64.8684 49.8264 \
-65.1931Z\x22 fill=\x22\
-#181818\x22/>\x0d\x0a<pat\
-h d=\x22M53.1663 50\
-.1638C53.094 49.\
-7667 53.2368 49.\
-4068 53.3519 49.\
-0413C53.5931 49.\
-4736 53.4094 49.\
-828 53.1663 50.1\
-638Z\x22 fill=\x22#1B1\
-B1B\x22/>\x0d\x0a<path d=\
-\x22M51.8674 55.930\
-6C51.8674 55.514\
-9 51.7913 55.080\
-8 52.2274 54.806\
-2C52.1439 55.193\
-9 52.155 55.6114\
- 51.8674 55.9306\
-Z\x22 fill=\x22#191919\
-\x22/>\x0d\x0a<path d=\x22M5\
-2.4241 52.9265C5\
-2.5651 52.5554 5\
-2.5113 52.1138 5\
-2.8416 51.8132C5\
-2.7098 52.1899 5\
-2.951 52.702 52.\
-4241 52.9265Z\x22 f\
-ill=\x22#181818\x22/>\x0d\
-\x0a<path d=\x22M52.23\
-85 54.2625C52.17\
-36 53.8618 52.30\
-35 53.4925 52.42\
-41 53.1233C52.49\
-1 53.3135 52.509\
-1 53.5175 52.476\
-7 53.7166C52.444\
-3 53.9157 52.362\
-4 54.1034 52.238\
-5 54.2625Z\x22 fill\
-=\x22#191919\x22/>\x0d\x0a<p\
-ath d=\x22M52.7952 \
-51.2603C52.9547 \
-50.9003 52.8935 \
-50.4643 53.1663 \
-50.147C53.1106 5\
-0.5348 53.3258 5\
-1.0265 52.7952 5\
-1.2603Z\x22 fill=\x22#\
-181818\x22/>\x0d\x0a<path\
- d=\x22M47.6461 46.\
-4622C47.6911 46.\
-4687 47.7367 46.\
-4687 47.7816 46.\
-4622C47.8191 46.\
-6246 47.8076 46.\
-7946 47.7485 46.\
-9505C47.6893 47.\
-1064 47.5853 47.\
-2412 47.4495 47.\
-3379L47.6461 46.\
-4622Z\x22 fill=\x22#20\
-2020\x22/>\x0d\x0a<path d\
-=\x22M50.1976 63.52\
-31C50.1976 63.10\
-93 50.1049 62.66\
-96 50.5539 62.39\
-87C50.3832 62.75\
-68 50.4852 63.20\
-4 50.1976 63.523\
-1Z\x22 fill=\x22#17171\
-7\x22/>\x0d\x0a<path d=\x22M\
-49.2698 67.7906C\
-49.2161 67.3963 \
-49.2861 66.995 4\
-9.4702 66.6421C4\
-9.5166 66.5122 4\
-9.5648 66.5122 4\
-9.613 66.6421C49\
-.4739 67.0095 49\
-.5425 67.4474 49\
-.2698 67.7906Z\x22 \
-fill=\x22#171717\x22/>\
-\x0d\x0a<path d=\x22M48.3\
-42 72.0435C48.33\
-08 71.626 48.239\
-9 71.1825 48.700\
-1 70.9116C48.527\
-5 71.2734 48.631\
-4 71.7225 48.342\
- 72.0435Z\x22 fill=\
-\x22#202020\x22/>\x0d\x0a<pa\
-th d=\x22M53.3518 4\
-8.865C53.4965 48\
-.4939 53.4576 48\
-.0653 53.7526 47\
-.7517C53.6524 48\
-.1228 53.8806 48\
-.6275 53.3518 48\
-.865Z\x22 fill=\x22#19\
-1919\x22/>\x0d\x0a<path d\
-=\x22M47.7853 74.62\
-82C47.7337 74.23\
-45 47.8036 73.83\
-44 47.9857 73.48\
-15C48.034 73.353\
-5 48.0804 73.353\
-5 48.1286 73.481\
-5C47.9876 73.858\
-2 48.0618 74.296\
-1 47.7853 74.628\
-2Z\x22 fill=\x22#17171\
-7\x22/>\x0d\x0a<path d=\x22M\
-47.4143 76.0717C\
-47.4143 75.7266 \
-47.3921 75.3722 \
-47.7631 75.1699L\
-47.5628 76.0717C\
-47.5201 76.1645 \
-47.47 76.1645 47\
-.4143 76.0717Z\x22 \
-fill=\x22#171717\x22/>\
-\x0d\x0a<path d=\x22M47.4\
-142 76.0715H47.5\
-626C47.4532 76.4\
-426 47.5181 76.8\
-768 47.2212 77.1\
-978C47.1594 76.8\
-114 47.2273 76.4\
-153 47.4142 76.0\
-715Z\x22 fill=\x22#202\
-020\x22/>\x0d\x0a<path d=\
-\x22M48.7131 43.090\
-6C48.754 43.4617\
- 48.6964 43.7808\
- 48.3699 44.0072\
-C48.4033 43.6695\
- 48.4237 43.3318\
- 48.7131 43.0906\
-Z\x22 fill=\x22#1F1F1F\
-\x22/>\x0d\x0a<path d=\x22M4\
-9.6074 66.6328H4\
-9.4646C49.4646 6\
-6.2839 49.4442 6\
-5.9333 49.8097 6\
-5.7273L49.6074 6\
-6.6328Z\x22 fill=\x22#\
-161616\x22/>\x0d\x0a<path\
- d=\x22M59.317 35.1\
-753C59.215 34.74\
-67 59.4803 34.65\
-58 59.8199 34.63\
-35C59.6789 34.84\
-14 59.5675 35.07\
-14 59.317 35.175\
-3Z\x22 fill=\x22#4E4E4\
-E\x22/>\x0d\x0a<path d=\x22M\
-48.1231 73.4815H\
-47.9802C47.9802 \
-73.1327 47.9598 \
-72.7838 48.3253 \
-72.5779C48.2585 \
-72.8785 48.1899 \
-73.1716 48.1231 \
-73.4815Z\x22 fill=\x22\
-#161616\x22/>\x0d\x0a<pat\
-h d=\x22M52.5392 32\
-.7707H52.2683C52\
-.4038 32.5517 52\
-.4539 32.253 52.\
-799 32.24V32.434\
-8L52.5392 32.770\
-7Z\x22 fill=\x22#47474\
-7\x22/>\x0d\x0a<path d=\x22M\
-48.1288 45.5251H\
-47.9543C47.971 4\
-5.2227 47.9321 4\
-4.8906 48.3384 4\
-4.783C48.2698 45\
-.0353 48.1993 45\
-.2802 48.1288 45\
-.5251Z\x22 fill=\x22#2\
-12121\x22/>\x0d\x0a<path \
-d=\x22M58.523 35.99\
-17L58.5471 36.29\
-23L58.2075 36.78\
-03C58.0851 36.43\
-33 58.3207 36.21\
-62 58.523 35.991\
-7Z\x22 fill=\x22#46464\
-6\x22/>\x0d\x0a<path d=\x22M\
-46.8835 48.9559C\
-47.0097 48.9058 \
-47.0394 48.5848 \
-47.1507 48.7128C\
-47.3511 48.9355 \
-47.1099 49.1841 \
-47.019 49.4142C4\
-6.9745 49.262 46\
-.9281 49.1099 46\
-.8835 48.9559Z\x22 \
-fill=\x22#151515\x22/>\
-\x0d\x0a</g>\x0d\x0a<defs>\x0d\x0a\
-<radialGradient \
-id=\x22paint0_radia\
-l_2003_469\x22 cx=\x22\
-0\x22 cy=\x220\x22 r=\x221\x22 \
-gradientUnits=\x22u\
-serSpaceOnUse\x22 g\
-radientTransform\
-=\x22translate(47.5\
- 47.5) rotate(90\
-) scale(47.5 47.\
-5)\x22>\x0d\x0a<stop offs\
-et=\x220.4\x22 stop-co\
-lor=\x22white\x22/>\x0d\x0a<\
-stop offset=\x221\x22 \
-stop-color=\x22whit\
-e\x22 stop-opacity=\
-\x220.5\x22/>\x0d\x0a</radia\
-lGradient>\x0d\x0a<cli\
-pPath id=\x22clip0_\
-2003_469\x22>\x0d\x0a<rec\
-t width=\x2295\x22 hei\
-ght=\x2295\x22 fill=\x22w\
-hite\x22/>\x0d\x0a</clipP\
-ath>\x0d\x0a</defs>\x0d\x0a<\
-/svg>\x0d\x0a\
-\x00\x00\x0a\xaf\
-<\
-svg width=\x2295\x22 h\
-eight=\x2295\x22 viewB\
-ox=\x220 0 95 95\x22 f\
-ill=\x22none\x22 xmlns\
-=\x22http://www.w3.\
-org/2000/svg\x22>\x0d\x0a\
-<g clip-path=\x22ur\
-l(#clip0_2003_93\
-)\x22>\x0d\x0a<path d=\x22M4\
-7.5 0.0185547C63\
-.0859 0.0185547 \
-78.6669 0.012369\
-8 94.243 0C94.87\
-57 0 95.0018 0.1\
-24316 95 0.75888\
-7C94.9814 31.919\
-6 94.9814 63.080\
-4 95 94.2411C95 \
-94.8757 94.8757 \
-95 94.243 95C63.\
-0822 94.979 31.9\
-209 94.979 0.758\
-887 95C0.124316 \
-95 0 94.8757 0 9\
-4.2411C0.0197917\
- 63.0804 0.01979\
-17 31.9196 0 0.7\
-58887C0 0.124316\
- 0.120605 0 0.75\
-8887 0C16.3399 0\
-.0222656 31.9202\
- 0.0284505 47.5 \
-0.0185547Z\x22 fill\
-=\x22url(#paint0_ra\
-dial_2003_93)\x22/>\
-\x0d\x0a<path d=\x22M47.3\
-965 21.6453C48.2\
-863 20.7729 48.2\
-849 20.7754 49.1\
-748 21.7117C61.5\
-272 34.7026 73.8\
-78 47.6942 86.22\
-66 60.6863C86.80\
-68 61.2898 87.28\
-44 61.9768 87.81\
-25 62.6209C88.09\
-48 62.969 88.093\
-1 63.1738 87.567\
-4 63.201C86.7007\
- 63.2474 85.8354\
- 63.3807 84.9688\
- 63.3787C73.2741\
- 63.3374 61.5807\
- 63.2877 49.8887\
- 63.2283C49.4108\
- 63.2283 48.9207\
- 63.1621 48.499 \
-63.4871C48.3942 \
-63.5663 48.2695 \
-63.6154 48.1387 \
-63.6277C48.0079 \
-63.64 47.8765 63\
-.6147 47.7588 63\
-.5565C46.8612 63\
-.009 45.8815 63.\
-2283 44.9375 63.\
-2244C32.9554 63.\
-1599 20.972 63.1\
-078 8.9873 63.06\
-91C7.98305 63.06\
-42 6.98154 62.95\
-54 6 62.743C6.57\
-049 61.9121 7.21\
-059 61.1307 7.91\
-309 60.408C21.07\
-81 47.4932 34.23\
-92 34.5718 47.39\
-65 21.6453ZM66.9\
-736 44.0516C66.4\
-088 43.4539 66.2\
-136 43.8461 65.8\
-906 44.2039C62.0\
-216 48.514 58.15\
-22 52.8231 54.28\
-32 57.1307C53.25\
-99 58.27 52.2423\
- 59.4151 51.0508\
- 60.7498L82.6885\
- 60.7479C82.7038\
- 60.5352 82.5134\
- 60.4331 82.3877\
- 60.3016C77.2303\
- 54.9043 72.0923\
- 49.4875 66.9736\
- 44.0516ZM29.452\
-1 44.1619C28.908\
-6 43.5758 28.637\
-8 43.5466 28.057\
-6 44.1268C22.763\
-5 49.3435 17.463\
-6 54.5558 12.159\
-2 59.7635C11.958\
- 59.9627 11.7665\
- 60.1739 11.3545\
- 60.6053H44.748C\
-44.485 60.3054 4\
-4.2821 60.0611 4\
-4.0654 59.8309C3\
-9.1751 54.6271 3\
-4.3038 49.4043 2\
-9.4521 44.1619ZM\
-47.002 25.6072C4\
-6.7389 25.8413 4\
-6.5471 26.0103 4\
-6.3672 26.1883C4\
-1.2409 31.214 36\
-.1416 36.2551 30\
-.9883 41.2498C30\
-.3403 41.8785 30\
-.4623 42.1764 31\
-.002 42.7566C36.\
-0613 48.1552 41.\
-1163 53.5597 46.\
-168 58.9686C46.3\
-614 59.1774 46.5\
-321 59.4092 46.7\
-139 59.6316L47.0\
-02 59.5174V25.60\
-72ZM49.9082 26.1\
-453C49.7534 25.9\
-828 49.6481 25.6\
-778 49.2109 25.8\
-055V59.5174C49.3\
-906 59.3686 49.4\
-783 59.3015 49.5\
-479 59.2068C54.5\
-272 53.642 59.52\
-4 48.0916 64.538\
-1 42.5565C65.027\
-4 42.0265 64.776\
-7 41.7705 64.417\
- 41.3953C59.5859\
- 36.3089 54.7496\
- 31.2253 49.9082\
- 26.1453Z\x22 fill=\
-\x22black\x22/>\x0d\x0a</g>\x0d\
-\x0a<defs>\x0d\x0a<radial\
-Gradient id=\x22pai\
-nt0_radial_2003_\
-93\x22 cx=\x220\x22 cy=\x220\
-\x22 r=\x221\x22 gradient\
-Units=\x22userSpace\
-OnUse\x22 gradientT\
-ransform=\x22transl\
-ate(47.5 47.5) r\
-otate(90) scale(\
-47.5 47.5)\x22>\x0d\x0a<s\
+2013_59\x22 cx=\x220\x22 \
+cy=\x220\x22 r=\x221\x22 gra\
+dientUnits=\x22user\
+SpaceOnUse\x22 grad\
+ientTransform=\x22t\
+ranslate(47.5 47\
+.5) rotate(90) s\
+cale(47.5)\x22>\x0d\x0a<s\
 top offset=\x220.4\x22\
  stop-color=\x22whi\
 te\x22/>\x0d\x0a<stop off\
@@ -133148,14 +130735,9 @@ set=\x221\x22 stop-col\
 or=\x22white\x22 stop-\
 opacity=\x220.5\x22/>\x0d\
 \x0a</radialGradien\
-t>\x0d\x0a<clipPath id\
-=\x22clip0_2003_93\x22\
->\x0d\x0a<rect width=\x22\
-95\x22 height=\x2295\x22 \
-fill=\x22white\x22/>\x0d\x0a\
-</clipPath>\x0d\x0a</d\
-efs>\x0d\x0a</svg>\x0d\x0a\
-\x00\x00>\x92\
+t>\x0d\x0a</defs>\x0d\x0a</s\
+vg>\x0d\x0a\
+\x00\x00?\x0d\
 <\
 svg width=\x2295\x22 h\
 eight=\x2295\x22 viewB\
@@ -133163,987 +130745,1214 @@ ox=\x220 0 95 95\x22 f\
 ill=\x22none\x22 xmlns\
 =\x22http://www.w3.\
 org/2000/svg\x22>\x0d\x0a\
-<g clip-path=\x22ur\
-l(#clip0_2002_18\
-)\x22>\x0d\x0a<path d=\x22M4\
-7.5 0.0185547C63\
-.0859 0.0185547 \
-78.6669 0.012369\
-8 94.243 0C94.87\
-57 0 95.0018 0.1\
-24316 95 0.75888\
-7C94.9814 31.919\
-6 94.9814 63.080\
-4 95 94.2411C95 \
-94.8757 94.8757 \
-95 94.243 95C63.\
-0822 94.979 31.9\
-209 94.979 0.758\
-887 95C0.124316 \
-95 0 94.8757 0 9\
-4.2411C0.0197917\
- 63.0804 0.01979\
-17 31.9196 0 0.7\
-58887C0 0.124316\
- 0.120605 0 0.75\
-8887 0C16.3399 0\
-.0222656 31.9202\
- 0.0284505 47.5 \
-0.0185547Z\x22 fill\
-=\x22url(#paint0_ra\
-dial_2002_18)\x22/>\
-\x0d\x0a<path d=\x22M27.7\
-078 64.4257C27.7\
-517 63.9181 28.1\
-562 64.0593 28.4\
-309 64.0574C29.7\
-665 64.0479 31.0\
-849 64.067 32.41\
-09 64.0765C32.45\
-69 64.452 32.364\
- 64.8314 32.1495\
- 65.1431C30.9151\
- 67.2418 29.7054\
- 69.3539 28.4691\
- 71.4508C28.3279\
- 71.6912 28.2287\
- 72.214 27.8528 \
-72.0003C27.4006 \
-71.7446 27.8528 \
-71.3859 27.9959 \
-71.1264C29.1407 \
-69.1212 30.3064 \
-67.1312 31.4646 \
-65.1354C31.6191 \
-64.8683 31.7641 \
-64.5974 32.0007 \
-64.1814C30.4667 \
-64.2959 29.0815 \
-63.9906 27.7078 \
-64.4257Z\x22 fill=\x22\
-#070707\x22/>\x0d\x0a<pat\
-h d=\x22M81.0584 64\
-.2078C82.7336 63\
-.8701 84.4259 64\
-.1048 86.1107 64\
-.0609C86.021 64.\
-0857 85.9199 64.\
-1506 85.8397 64.\
-1334C83.947 63.7\
-365 83.119 64.85\
-65 82.3729 66.36\
-19C81.4876 68.14\
-78 80.3963 69.83\
-06 79.3851 71.55\
-35C79.2534 71.77\
-48 79.1618 72.20\
-22 78.7974 71.99\
-99C78.433 71.797\
-7 78.7592 71.494\
-3 78.8833 71.276\
-8C80.0509 69.242\
-9 81.2339 67.216\
-7 82.4092 65.186\
-6C82.5637 64.917\
-6 82.7049 64.642\
-8 82.9415 64.207\
-8H81.0584Z\x22 fill\
-=\x22#070707\x22/>\x0d\x0a<p\
-ath d=\x22M88.1064 \
-64.5705C88.0396 \
-64.704 87.9671 6\
-4.8777 87.8736 6\
-5.0398C86.6169 6\
-7.2022 85.3564 6\
-9.3646 84.092 71\
-.5269C83.9604 71\
-.7502 83.8593 72\
-.1757 83.5063 72\
-.002C83.1247 71.\
-8112 83.4395 71.\
-4983 83.5635 71.\
-2808C84.8469 69.\
-0561 86.138 66.8\
-365 87.4367 64.6\
-22C87.5416 64.44\
-27 87.6065 64.18\
-32 87.9022 64.22\
-9C88.0568 64.259\
-5 88.0759 64.396\
-9 88.1064 64.570\
-5Z\x22 fill=\x22#06060\
-6\x22/>\x0d\x0a<path d=\x22M\
-25.6835 13.0018C\
-34.343 13.0667 4\
-3.0041 13.1309 5\
-1.6649 13.1932C5\
-2.9599 13.1935 5\
-3.5723 14.0742 5\
-3.1376 15.3026C5\
-3.02 15.6962 52.\
-9752 16.1087 53.\
-0057 16.5184C53.\
-0763 22.7802 53.\
-1698 29.0407 53.\
-2118 35.3026C53.\
-2119 36.092 53.4\
-434 36.3039 54.2\
-176 36.3211C63.5\
-663 36.5291 72.9\
-287 36.7728 82.2\
-831 37.0018C84.1\
-545 37.0476 84.7\
-292 37.6433 84.6\
-835 39.4823C84.5\
-079 46.5989 84.3\
-518 53.7181 84.1\
-61 60.8348C84.14\
-39 61.5042 84.31\
-41 61.7216 84.99\
-5 61.6873C86.330\
-4 61.6225 87.666\
-2 61.6306 88.990\
-1 61.6268C90.014\
-5 61.6269 90.659\
-8 62.1646 90.692\
-3 63.0155C90.724\
-6 63.8986 90.066\
- 64.4942 88.996 \
-64.5096C87.9258 \
-64.5249 86.9066 \
-64.5096 85.8632 \
-64.5096C84.5563 \
-64.666 83.2431 6\
-4.5937 81.9305 6\
-4.5975C81.549 64\
-.5975 81.1671 64\
-.534 80.8104 64.\
-6561C79.7956 64.\
-6809 78.7804 64.\
-7139 77.7675 64.\
-7235C77.5871 64.\
-7042 77.4049 64.\
-7433 77.2489 64.\
-8358C77.0929 64.\
-9282 76.971 65.0\
-688 76.9012 65.2\
-362C75.6573 67.4\
-856 74.3421 69.6\
-95 73.0409 71.91\
-39C72.896 72.16 \
-72.7949 72.6618 \
-72.41 72.4451C72\
-.0251 72.2277 72\
-.4093 71.8837 72\
-.5487 71.6434C73\
-.7646 69.5244 74\
-.9925 67.411 76.\
-2313 65.3035C76.\
-4431 64.943 76.5\
-633 64.6982 76.1\
-19 64.3758C75.56\
-79 63.9752 75.50\
-27 63.3418 75.73\
-72 62.7352C75.84\
-02 62.4648 76.02\
-53 62.2329 76.26\
-65 62.0731C76.50\
-77 61.9133 76.79\
-38 61.833 77.082\
-9 61.8436C78.227\
-3 61.8207 79.372\
-1 61.8016 80.516\
-5 61.8016C80.949\
-4 61.8016 81.226\
-7 61.7405 81.240\
-1 61.1932C81.392\
-7 54.8118 81.557\
-4 48.4287 81.734\
-2 42.0448C81.352\
-8 41.9762 81.270\
-7 42.2763 81.12 \
-42.4461C78.2276 \
-45.6895 75.3482 \
-48.9557 72.4501 \
-52.201C72.0763 5\
-2.5867 71.8661 5\
-3.1024 71.8641 5\
-3.6395C71.7051 6\
-0.662 71.5257 67\
-.6846 71.326 74.\
-7059C71.3013 75.\
-5353 71.4675 75.\
-8499 72.3426 75.\
-7528C73.2309 75.\
-6789 74.1238 75.\
-6583 75.0145 75.\
-6903C75.9167 75.\
-7 76.5308 76.228\
-4 76.6014 77.004\
-7C76.6178 77.194\
-8 76.5964 77.386\
-5 76.538 77.5682\
-C76.4794 77.7499\
- 76.3849 77.9184\
- 76.2606 78.0633\
-C76.1363 78.2082\
- 75.9841 78.3274\
- 75.8133 78.4129\
-C75.6428 78.4982\
- 75.4567 78.5486\
- 75.2665 78.5614\
-C74.7783 78.6148\
- 74.5542 78.8362\
- 74.3348 79.2196\
-C73.2015 81.2012\
- 72.054 83.1773 \
-70.8915 85.1463C\
-70.7542 85.381 7\
-0.6501 85.8806 7\
-0.2421 85.6043C6\
-9.9392 85.3984 7\
-0.2684 85.0832 7\
-0.3983 84.8563C7\
-1.5659 82.8263 7\
-2.7452 80.8034 7\
-3.9891 78.661H70\
-.3202C69.8723 78\
-.6613 69.7634 79\
-.0254 69.5936 79\
-.3172C68.4959 81\
-.1653 67.4055 83\
-.0273 66.3231 84\
-.9022C66.2106 85\
-.0928 66.0966 85\
-.2838 65.9803 85\
-.4744C65.864 85.\
-6651 65.7089 85.\
-7542 65.5106 85.\
-619C65.3431 85.5\
-026 65.4119 85.3\
-401 65.4882 85.1\
-971C65.6101 84.9\
-741 65.7375 84.7\
-542 65.869 84.53\
-5L69.1932 78.796\
-7H63.9344C63.583\
-7 78.797 63.522 \
-79.1548 63.3866 \
-79.3875C62.2934 \
-81.2497 61.2134 \
-83.1182 60.1278 \
-84.9823C60.0261 \
-85.1794 59.9068 \
-85.3671 59.7714 \
-85.5428C59.7273 \
-85.5839 59.674 8\
-5.6141 59.6161 8\
-5.6307C59.5582 8\
-5.6472 59.4965 8\
-5.6501 59.4374 8\
-5.6385C59.2469 8\
-5.5793 59.2603 8\
-5.3879 59.3251 8\
-5.243C59.4319 85\
-.0123 59.5655 84\
-.7962 59.6932 84\
-.577C60.7749 82.\
-7112 61.8592 80.\
-8468 62.9257 79.\
-0096C62.8664 78.\
-6994 62.6164 78.\
-7848 62.4657 78.\
-7147C61.7409 78.\
-3675 61.4045 77.\
-8022 61.5741 77.\
-0145C61.7362 76.\
-2648 62.2594 75.\
-9156 63.0223 75.\
-8983C64.5752 75.\
-862 66.1287 75.7\
-956 67.6835 75.7\
-879C68.2403 75.7\
-879 68.447 75.64\
-42 68.4471 75.04\
-18C68.596 68.402\
-2 68.7679 61.760\
-9 68.9637 55.119\
-9C68.9827 54.418\
-2 68.7288 54.275\
-2 68.0975 54.275\
-2C63.3063 54.275\
-2 58.5161 54.252\
-4 53.7274 54.207\
-8C53.0026 54.207\
-9 52.8192 54.431\
-6 52.8192 55.127\
-8C52.8192 57.001\
-3 52.7654 58.877\
-3 52.6776 60.750\
-8C52.649 61.4011\
- 52.7923 61.6569\
- 53.494 61.6151C\
-54.8867 61.533 5\
-6.2859 61.5407 5\
-7.6805 61.4949C5\
-8.5065 61.4683 5\
-9.2334 61.6385 5\
-9.4852 62.535C59\
-.7139 63.3456 59\
-.4144 63.9756 58\
-.619 64.3114C58.\
-276 64.4583 58.2\
-259 64.7877 58.0\
-887 65.0623C56.9\
-783 67.308 55.88\
-06 69.5617 54.76\
-06 71.8035C54.62\
-34 72.0765 54.56\
-98 72.6482 54.11\
-41 72.4139C53.73\
-33 72.2231 54.11\
-42 71.8414 54.24\
-21 71.5897C55.26\
-28 69.4758 56.28\
-59 67.3614 57.35\
-05 65.2703C57.69\
-55 64.5915 57.58\
-03 64.3927 56.82\
-31 64.4422C55.78\
-15 64.5126 54.53\
-39 64.1741 53.74\
-99 64.6434C53.01\
-37 65.0861 52.76\
-16 66.3447 52.31\
-33 67.2528C51.53\
-68 68.8153 50.78\
-69 70.3865 50.00\
-08 71.9491C49.88\
-65 72.1781 49.82\
-83 72.618 49.449\
-1 72.4295C49.070\
-1 72.2407 49.384\
-1 71.924 49.493 \
-71.6951C50.4889 \
-69.6404 51.5021 \
-67.5927 52.4999 \
-65.5379C52.6467 \
-65.2347 52.9008 \
-64.9654 52.8514 \
-64.6317H47.8124C\
-47.3434 64.6318 \
-47.2726 65.0129 \
-47.1258 65.3143C\
-46.088 67.4206 4\
-5.0549 69.5294 4\
-4.0272 71.6395C4\
-3.9299 71.8302 4\
-3.8226 72.0329 4\
-3.7216 72.2313C4\
-3.6205 72.4293 4\
-3.4847 72.5627 4\
-3.2753 72.4393C4\
-3.0657 72.3153 4\
-3.1438 72.1183 4\
-3.2391 71.9276C4\
-3.6741 71.0443 4\
-4.1029 70.1585 4\
-4.5341 69.2752C4\
-5.2686 67.7699 4\
-6.0054 66.2644 4\
-6.7743 64.6961C4\
-6.4292 64.694 46\
-.0841 64.67 45.7\
-421 64.6239C44.9\
-639 64.4578 44.4\
-89 63.9503 44.51\
-55 63.1551C44.54\
-22 62.3597 44.98\
-46 61.8192 45.80\
-85 61.7694C46.91\
-5 61.695 48.0282\
- 61.6648 49.1366\
- 61.661C49.6189 \
-61.6609 49.7929 \
-61.5137 49.8007 \
-61.0106C49.8293 \
-59.0073 49.8809 \
-57.0033 49.9706 \
-55.0057C49.9991 \
-54.3783 49.8117 \
-54.1857 49.1844 \
-54.1951C47.1228 \
-54.2257 45.0605 \
-54.2202 42.9989 \
-54.1795C42.3427 \
-54.1643 42.1421 \
-54.344 42.1288 5\
-5.0174C42.0353 5\
-9.8787 41.8992 6\
-4.7478 41.7733 6\
-9.6014C41.7313 7\
-1.2536 41.7142 7\
-2.9083 41.6092 7\
-4.5623C41.5616 7\
-5.3348 41.7356 7\
-5.635 42.5633 75\
-.5741C43.7632 75\
-.4882 44.973 75.\
-5146 46.1786 75.\
-5184C47.142 75.5\
-184 47.7546 76.0\
-606 47.7889 76.8\
-944C47.823 77.72\
-78 47.234 78.369\
-1 46.2938 78.382\
-6C45.7445 78.382\
-7 45.5168 78.655\
- 45.2841 79.0594\
-C44.1947 80.9577\
- 43.0899 82.8485\
- 41.9891 84.743C\
-41.8938 84.907 4\
-1.7983 85.0759 4\
-1.701 85.2362C41\
-.5695 85.4403 41\
-.4467 85.7944 41\
-.1571 85.6307C40\
-.7896 85.4191 41\
-.1146 85.131 41.\
-2294 84.9022C41.\
-401 84.5626 41.6\
-118 84.24 41.802\
-6 83.9119L44.937\
-4 78.5155H41.245\
-C40.8026 78.5156\
- 40.6989 78.8975\
- 40.5292 79.1912\
-C39.4226 81.08 3\
-8.3208 82.9726 3\
-7.2245 84.869C37\
-.1138 85.0597 36\
-.9982 85.2515 36\
-.8856 85.4422C36\
-.7731 85.6327 36\
-.6219 85.7466 36\
-.4217 85.6209C36\
-.2217 85.495 36.\
-3166 85.2927 36.\
-412 85.1287L38.1\
-298 82.1619C38.7\
-021 81.1737 39.2\
-593 80.174 39.85\
-83 79.203C40.239\
-8 78.5848 39.947\
-2 78.5353 39.416\
-9 78.5487C38.081\
-5 78.583 36.7456\
- 78.6193 35.4198\
- 78.5907C34.8477\
- 78.5793 34.5786\
- 78.831 34.3192 \
-79.2869C33.2394 \
-81.1948 32.1271 \
-83.078 31.0262 8\
-4.9705C30.9253 8\
-5.1699 30.8088 8\
-5.3612 30.6786 8\
-5.5428C30.5775 8\
-5.6685 30.4019 8\
-5.7469 30.2684 8\
-5.6063C30.2334 8\
-5.5585 30.2101 8\
-5.5025 30.2001 8\
-5.4442C30.1902 8\
-5.3857 30.1935 8\
-5.3251 30.2108 8\
-5.2684C30.2994 8\
-5.0649 30.4054 8\
-4.8687 30.5262 8\
-4.6824C31.5602 8\
-2.9019 32.5959 8\
-1.1178 33.6337 7\
-9.3309C33.8435 7\
-8.9722 34.1009 7\
-8.7013 33.4696 7\
-8.4246C32.8384 7\
-8.1479 32.6021 7\
-7.5192 32.7889 7\
-6.8192C32.976 76\
-.1194 33.4606 75\
-.7593 34.1757 75\
-.7401C35.4443 75\
-.7057 36.7138 75\
-.6709 37.9921 75\
-.6785C38.5642 75\
-.6785 38.7394 75\
-.4876 38.7548 74\
-.9022C38.9023 68\
-.2626 39.0691 61\
-.6221 39.2548 54\
-.9813C39.2719 54\
-.3347 39.0775 54\
-.1797 38.4598 54\
-.1834C35.0027 54\
-.2038 31.5449 54\
-.1983 28.0878 54\
-.1678C27.5155 54\
-.1678 27.3241 54\
-.3119 27.3241 54\
-.909C27.3088 56.\
-9109 27.2562 58.\
-9123 27.1659 60.\
-9129C27.1354 61.\
-5709 27.3018 61.\
-8132 27.996 61.7\
-713C29.3562 61.6\
-874 30.7208 61.6\
-628 32.0848 61.6\
-59C33.0387 61.65\
-91 33.6459 62.23\
-16 33.6688 63.06\
-92C33.6915 63.90\
-64 33.1913 64.42\
-37 32.1786 64.51\
-16C30.8717 64.67\
-18 29.5586 64.51\
-14 28.2499 64.58\
-77C27.9676 64.59\
-71 27.5782 64.37\
-42 27.4598 64.85\
-43C27.5341 65.21\
-48 27.2696 65.44\
-65 27.1132 65.70\
-78C25.9265 67.77\
-21 24.7293 69.82\
-94 23.5223 71.87\
-97C23.3755 72.12\
-96 23.2641 72.62\
-73 22.8925 72.42\
-56C22.5209 72.22\
-35 22.8791 71.86\
-51 23.0204 71.61\
-9C24.1651 69.609\
-9 25.3438 67.611\
-5 26.5057 65.606\
-3C26.6602 65.341\
-1 26.7946 65.064\
-1 26.9491 64.770\
-3C25.2016 64.770\
-3 23.5334 64.779\
-9 21.8661 64.770\
-3C21.4503 64.770\
-4 21.3545 65.061\
-3 21.1962 65.343\
-6C19.9561 67.486\
- 18.716 69.6286 \
-17.455 71.7576C1\
-7.2871 72.0382 1\
-7.1966 72.669 16\
-.7333 72.4041C16\
-.364 72.1904 16.\
-7966 71.7822 16.\
-955 71.5057C18.0\
-894 69.5242 19.2\
-337 67.548 20.38\
-85 65.578C20.655\
-6 65.122 20.8466\
- 64.8322 20.0321\
- 64.8035C19.8405\
- 64.8051 19.6497\
- 64.7682 19.4725\
- 64.6951C19.2955\
- 64.622 19.1346 \
-64.513 18.9999 6\
-4.3768C18.8652 6\
-4.2405 18.7594 6\
-4.0781 18.6883 6\
-3.9002C18.6173 6\
-3.7222 18.582 63\
-.5314 18.5858 63\
-.3397C18.5993 62\
-.5404 19.2179 61\
-.9451 20.1698 61\
-.8992C21.2781 61\
-.8477 22.3906 61\
-.8245 23.5008 61\
-.8416C24.0502 61\
-.8511 24.2753 61\
-.7233 24.2792 61\
-.1092C24.2906 59\
-.0755 24.3572 57\
-.0413 24.4374 55\
-.0037C24.4602 54\
-.4315 24.3741 54\
-.1515 23.6913 54\
-.161C21.3447 54.\
-1991 18.9958 54.\
-1836 16.6493 54.\
-1512C16.0772 54.\
-1513 15.8866 54.\
-3136 15.8866 54.\
-8992C15.7378 61.\
-6036 15.569 68.3\
-075 15.3807 75.0\
-106C15.3636 75.6\
-304 15.572 75.77\
-44 16.1327 75.74\
-4C17.241 75.6906\
- 18.3535 75.6843\
- 19.4618 75.6785\
-C20.49 75.6786 2\
-1.1483 76.2034 2\
-1.1942 77.0408C2\
-1.2399 77.8783 2\
-0.6213 78.5252 1\
-9.6122 78.5672C1\
-9.128 78.5864 18\
-.8869 78.7732 18\
-.6581 79.1717C17\
-.5744 81.0796 16\
-.462 82.9617 15.\
-3592 84.8543C15.\
-2792 84.9915 15.\
-2087 85.1349 15.\
-1229 85.2664C14.\
-9895 85.4668 14.\
-8894 85.8059 14.\
-5712 85.6307C14.\
-2213 85.4401 14.\
-5139 85.1769 14.\
-621 84.9881C15.6\
-474 83.2004 16.6\
-914 81.4197 17.7\
-274 79.6453C17.8\
-991 79.3497 18.0\
-497 79.0444 18.2\
-538 78.6649H14.6\
-805C14.1923 78.6\
-65 14.0579 79.04\
-64 13.871 79.363\
-1C12.8319 81.143\
-6 11.7949 82.924\
-4 10.7596 84.704\
-9C10.649 84.8957\
- 10.5381 85.0874\
- 10.4217 85.2782\
-C10.3055 85.469 \
-10.1717 85.8032 \
-9.86706 85.617C9\
-.62893 85.4702 9\
-.79836 85.2208 9\
-.9071 85.0282C10\
-.0158 84.8355 10\
-.1246 84.6457 10\
-.2352 84.4549C11\
-.2253 82.7552 12\
-.2054 81.0493 13\
-.2089 79.3573C13\
-.4836 78.8917 13\
-.4724 78.6899 12\
-.8544 78.7127C11\
-.4293 78.7623 9.\
-99244 78.7946 8.\
-57311 78.7889C8.\
-10218 78.789 7.9\
-1103 79.0366 7.7\
-1081 79.3817C6.6\
-5638 81.2107 5.5\
-9125 83.0433 4.5\
-1647 84.8787C4.4\
-0585 85.0695 4.2\
-9683 85.2603 4.1\
-7858 85.451C4.06\
-042 85.6415 3.91\
-743 85.7449 3.70\
-983 85.6063C3.54\
-043 85.4919 3.60\
-631 85.3312 3.68\
-249 85.1864C3.78\
-548 84.9956 3.89\
-517 84.8048 4.00\
-768 84.6141C5.01\
-125 82.8836 6.00\
-826 81.1504 7.02\
-136 79.4276C7.23\
-306 79.0709 7.38\
-786 78.8402 6.85\
-436 78.577C6.164\
-02 78.2393 5.989\
-97 77.5659 6.218\
-62 76.8602C6.447\
-54 76.1543 6.981\
-78 75.9058 7.695\
-18 75.8924C9.059\
-26 75.8771 10.42\
-19 75.8044 11.78\
-6 75.7987C12.310\
-5 75.7986 12.486\
-4 75.6323 12.497\
-9 75.0926C12.662\
- 68.2001 12.8387\
- 61.3054 13.0282\
- 54.409C13.0649 \
-54.0615 12.9822 \
-53.7112 12.7938 \
-53.4168C12.6554 \
-53.2374 12.5728 \
-53.0199 12.5575 \
-52.7938C12.5423 \
-52.5678 12.5949 \
-52.3417 12.7079 \
-52.1453C13.1139 \
-51.5255 13.0397 \
-50.8766 13.0301 \
-50.2205C12.9538 \
-44.1152 12.8752 \
-38.0135 12.7938 \
-31.9158C12.8113 \
-31.7253 12.8051 \
-31.5328 12.7762 \
-31.3436C12.1639 \
-29.1725 13.2568 \
-27.6378 14.5331 \
-26.0448C17.7479 \
-22.0382 20.8524 \
-17.9284 23.9833 \
-13.8455C24.1725 \
-13.5731 24.4283 \
-13.3524 24.7255 \
-13.2049C25.0225 \
-13.0576 25.3522 \
-12.9877 25.6835 \
-13.0018ZM43.0653\
- 51.3231C45.3624\
- 51.3231 47.4157\
- 51.3097 49.4686\
- 51.3231C49.8596\
- 51.325 50.0408 \
-51.2104 50.0409 \
-50.7928V42.2967L\
-43.0653 51.3231Z\
-M28.4393 38.5858\
-C27.9223 38.5705\
- 27.7106 38.6872\
- 27.701 39.2596C\
-27.6362 43.0079 \
-27.5508 46.7557 \
-27.4452 50.5028C\
-27.4281 51.0692 \
-27.5768 51.2849 \
-28.1776 51.285C3\
-1.6335 51.2659 3\
-5.0905 51.2754 3\
-8.5477 51.3123C3\
-9.1578 51.318 39\
-.2896 51.0983 39\
-.2801 50.536C39.\
-2496 48.7292 39.\
-2684 46.9139 39.\
-2684 45.1033L39.\
-1219 45.1092C39.\
-1219 43.2624 39.\
-0952 41.419 39.1\
-219 39.576C39.12\
-95 39.0439 38.95\
-95 38.8534 38.42\
-37 38.8533C35.09\
-5 38.7821 31.766\
-7 38.6926 28.439\
-3 38.5858ZM17.18\
-05 51.2586C19.62\
-44 51.2586 21.79\
-56 51.2471 23.96\
-86 51.2567C24.56\
-94 51.268 24.507\
- 50.8745 24.5165\
- 50.493C24.5877 \
-47.7381 24.6571 \
-44.9818 24.7245 \
-42.2244C24.7283 \
-42.0795 24.7621 \
-41.9006 24.4803 \
-41.828L17.1805 5\
-1.2586ZM53.9842 \
-38.7078C53.305 3\
-8.6907 53.2135 3\
-8.9714 53.204 39\
-.5438C53.1448 43\
-.0066 53.0782 46\
-.4696 52.9637 49\
-.9305C52.939 50.\
-64 53.1295 50.83\
-08 53.8446 50.83\
-09C57.9334 50.80\
-42 62.032 50.682\
-6 66.1132 50.894\
-4C68.4197 51.020\
-3 69.9728 50.361\
-7 71.4247 48.539\
-9C73.905 45.4204\
- 76.6756 42.5256\
- 79.4383 39.4061\
-C79.1389 39.3641\
- 79.0185 39.3298\
- 78.9003 39.326C\
-70.5956 39.1352 \
-62.2902 38.9292 \
-53.9842 38.7078Z\
-M16.5526 30.7C15\
-.8144 30.6829 15\
-.6633 30.9121 15\
-.6766 31.6063C15\
-.772 36.8798 15.\
-8277 42.1521 15.\
-8983 47.4256C15.\
-9002 47.5724 15.\
-9192 47.7194 15.\
-9344 47.91C16.33\
-87 47.7382 16.48\
-03 47.4028 16.68\
-25 47.1434C18.72\
-4 44.5155 20.762\
-6 41.8793 22.797\
-7 39.2362C23.360\
-5 38.5038 24.147\
-8 37.8756 23.970\
-6 36.7713C23.966\
- 36.6757 23.9843\
- 36.5804 24.0233\
- 36.493C24.0624 \
-36.4055 24.1217 \
-36.3278 24.1962 \
-36.2674C25.0007 \
-35.7447 24.8105 \
-34.9587 24.8104 \
-34.2186C24.8066 \
-33.3639 24.7468 \
-32.501 24.7831 3\
-1.6463C24.8116 3\
-0.956 24.6054 30\
-.714 23.8749 30.\
-7254C21.4316 30.\
-7661 18.9908 30.\
-7573 16.5526 30.\
-7ZM42.5087 38.93\
-34C42.1519 38.93\
-15 41.9989 39.05\
-16 41.9989 39.42\
-37V47.4559L42.31\
-92 47.5213C44.44\
-72 44.7688 46.57\
-8 42.0167 48.709\
-8 39.2655L48.632\
-7 38.9334H42.508\
-7ZM49.9764 19.59\
-55C49.8832 19.67\
-01 49.7961 19.75\
-25 49.7167 19.84\
-16C47.23 23.0546\
- 44.7427 26.2662\
- 42.2548 29.4754\
-C42.0266 29.7412\
- 41.8997 30.0793\
- 41.8964 30.4295\
-C41.9173 32.1121\
- 41.9454 33.7968\
- 41.955 35.4793C\
-41.9569 35.8741 \
-42.0813 36.0525 \
-42.4989 36.0526C\
-44.9398 36.0984 \
-47.3806 36.1568 \
-49.8202 36.2293C\
-50.2586 36.2406 \
-50.3465 36.0384 \
-50.3466 35.6571V\
-19.659L49.9764 1\
-9.5955ZM28.3895 \
-30.7596C27.8707 \
-30.752 27.6479 3\
-0.8759 27.6688 3\
-1.4481C27.7121 3\
-2.6526 27.7213 3\
-3.8585 27.6971 3\
-5.0643C27.6859 3\
-5.5885 27.9094 3\
-5.6951 28.371 35\
-.6951C31.6944 35\
-.7562 35.0182 35\
-.8274 38.3397 35\
-.9285C38.9538 35\
-.9456 39.093 35.\
-71 39.0682 35.15\
-32C39.0129 33.94\
-95 38.9806 32.74\
-35 38.9921 31.53\
-79C38.9978 30.98\
-29 38.7803 30.84\
-76 38.2655 30.84\
-75C36.619 30.870\
-4 34.9716 30.857\
-3 33.327 30.8573\
-V30.7694C31.6806\
- 30.7694 30.034 \
-30.7844 28.3895 \
-30.7596ZM28.1874\
- 15.9403C27.5541\
- 15.9365 27.4659\
- 16.1982 27.4755\
- 16.7342C27.5346\
- 20.1644 27.5822\
- 23.5873 27.5956\
- 27.0213C27.5994\
- 27.6677 27.7675\
- 27.8815 28.4423\
- 27.8817C31.9592\
- 27.8689 35.4778\
- 27.8864 38.996 \
-27.9334C39.6176 \
-27.9409 39.9781 \
-27.7063 40.3309 \
-27.2391C41.8057 \
-25.2911 43.3156 \
-23.3701 44.8094 \
-21.4393C46.1449 \
-19.7127 47.4762 \
-17.9834 48.8671 \
-16.1805C48.7602 \
-16.1329 48.6484 \
-16.0966 48.5341 \
-16.0721C41.7515 \
-16.0301 34.97 15\
-.9994 28.1874 15\
-.9403ZM17.0048 2\
-7.6473C17.1496 2\
-7.7274 17.2243 2\
-7.8074 17.2967 2\
-7.8074C19.5747 2\
-7.8265 21.8528 2\
-7.823 24.1288 27\
-.8612C24.7314 27\
-.8706 24.6825 27\
-.5177 24.6825 27\
-.1248C24.6596 24\
-.684 24.6377 22.\
-2424 24.6161 19.\
-8016V18.1492L24.\
-3846 18.1073C21.\
-933 21.2801 19.4\
-851 24.4496 17.0\
-048 27.6473Z\x22 fi\
-ll=\x22black\x22/>\x0d\x0a</\
-g>\x0d\x0a<defs>\x0d\x0a<rad\
-ialGradient id=\x22\
+<rect width=\x2295\x22\
+ height=\x2295\x22 rx=\
+\x2220\x22 fill=\x22url(#\
 paint0_radial_20\
-02_18\x22 cx=\x220\x22 cy\
-=\x220\x22 r=\x221\x22 gradi\
-entUnits=\x22userSp\
-aceOnUse\x22 gradie\
-ntTransform=\x22tra\
-nslate(47.5 47.5\
-) rotate(90) sca\
-le(47.5 47.5)\x22>\x0d\
+13_57)\x22/>\x0d\x0a<path\
+ d=\x22M48.5195 80.\
+0284C48.4967 80.\
+614 48.9557 80.3\
+628 49.1956 80.3\
+666C50.7497 80.3\
+892 52.3037 80.3\
+892 53.8578 80.3\
+666C54.311 80.36\
+66 54.5548 80.48\
+93 54.85 80.8765\
+C56.1298 82.5539\
+ 57.4896 84.1707\
+ 58.8208 85.8103\
+C58.9598 85.9822\
+ 59.1046 86.1503\
+ 59.2341 86.3278\
+C59.3636 86.5054\
+ 59.4493 86.7472\
+ 59.2341 86.9153\
+C59.0189 87.0834\
+ 58.817 86.9644 \
+58.6627 86.7755C\
+58.2628 86.2882 \
+57.8641 85.8002 \
+57.4667 85.3116C\
+56.4707 84.0895 \
+55.4708 82.8712 \
+54.4862 81.6396C\
+54.2406 81.3337 \
+54.012 81.107 53\
+.5607 81.1089C50\
+.1326 81.1297 46\
+.7046 81.124 43.\
+2765 81.1297C43.\
+1339 81.1566 42.\
+9942 81.1971 42.\
+8594 81.2505L47.\
+2264 85.5364C47.\
+474 85.7801 47.7\
+216 86.0237 47.9\
+634 86.2731C48.1\
+539 86.4714 48.2\
+796 86.7188 48.0\
+282 86.9247C47.8\
+377 87.0853 47.6\
+149 86.9644 47.4\
+416 86.7925C46.7\
+712 86.1238 46.0\
+951 85.4703 45.4\
+21 84.7941L42.19\
+48 81.5962C41.95\
+1 81.3544 41.730\
+1 81.1145 41.318\
+7 81.1164C38.724\
+8 81.1315 36.131\
+ 81.1164 33.5104\
+ 81.1164C33.499 \
+81.5565 33.8285 \
+81.6944 34.0303 \
+81.8984C35.4339 \
+83.3056 36.8547 \
+84.6996 38.264 8\
+6.1012C38.4792 8\
+6.3165 38.8353 8\
+6.5734 38.5001 8\
+6.8794C38.1649 8\
+7.1854 37.9383 8\
+6.8095 37.7269 8\
+6.6017C35.9494 8\
+4.8514 34.177 83\
+.0972 32.4096 81\
+.3393C32.2192 81\
+.1504 31.903 80.\
+9615 32.0287 80.\
+6423C32.1792 80.\
+2645 32.5677 80.\
+3836 32.8667 80.\
+3817C34.6112 80.\
+3703 36.3557 80.\
+3571 38.1002 80.\
+3817C38.6715 80.\
+3817 38.94 80.21\
+92 38.8829 79.63\
+74C38.8658 79.44\
+86 38.8829 79.25\
+97 38.8829 79.07\
+08V31.5052C38.88\
+29 29.8827 38.88\
+29 29.8827 40.56\
+27 29.8827H43.19\
+08L38.1745 21.57\
+16C38.9896 21.57\
+16 39.6657 21.52\
+44 40.3303 21.58\
+49C41.0654 21.65\
+29 41.3035 21.43\
+38 41.294 20.668\
+8C41.2445 16.775\
+8 41.2787 12.880\
+9 41.2273 8.9860\
+9C41.2178 8.2078\
+8 41.4178 7.9755\
+5 42.2138 8.0019\
+9C44.0802 8.0624\
+3 44.0802 8.0208\
+8 44.0802 9.9078\
+6C44.0802 13.487\
+3 44.0993 17.068\
+6 44.065 20.648C\
+44.065 21.3525 4\
+4.2307 21.5773 4\
+4.9658 21.515C45\
+.9009 21.4356 46\
+.8474 21.4961 47\
+.8987 21.4961L43\
+.4365 29.8827C44\
+.6306 29.8827 45\
+.6895 29.9507 46\
+.7369 29.8638C47\
+.7425 29.7807 48\
+.5157 29.9148 48\
+.7633 31.0349C48\
+.5024 31.4353 48\
+.7309 31.8471 48\
+.7404 32.2513C48\
+.8071 35.0676 48\
+.6738 37.8858 48\
+.8623 40.7021C48\
+.8471 42.0735 48\
+.5862 43.4297 48\
+.5843 44.7972C48\
+.5652 53.7555 48\
+.5621 62.715 48.\
+5748 71.6759C48.\
+5443 74.4601 48.\
+6376 77.2442 48.\
+5195 80.0284Z\x22 f\
+ill=\x22black\x22/>\x0d\x0a<\
+path d=\x22M48.4659\
+ 40.6287C48.2526\
+ 37.6368 48.4126\
+ 34.6429 48.3707\
+ 31.649C48.3707 \
+31.3752 48.3422 \
+31.0578 48.763 3\
+1.0352C48.8012 3\
+1.0402 48.8376 3\
+1.0541 48.8693 3\
+1.0757C48.9011 3\
+1.0972 48.9273 3\
+1.1259 48.9458 3\
+1.1593C48.9643 3\
+1.1928 48.9747 3\
+1.2301 48.976 31\
+.2682C48.9774 31\
+.3064 48.9696 31\
+.3443 48.9535 31\
+.3789C49.3725 31\
+.7227 49.6639 32\
+.2044 50.1495 32\
+.4801C50.1678 32\
+.4957 50.1817 32\
+.5157 50.1897 32\
+.5383C50.1978 32\
+.5608 50.1996 32\
+.5851 50.1952 32\
+.6086C50.359 33.\
+0657 50.7189 33.\
+3509 51.1036 33.\
+6135C51.1219 33.\
+6302 51.1356 33.\
+6513 51.1433 33.\
+6748C51.1509 33.\
+6983 51.1524 33.\
+7234 51.1474 33.\
+7476C51.2796 34.\
+0981 51.5381 34.\
+3875 51.873 34.5\
+598C51.8899 34.5\
+785 51.902 34.60\
+1 51.9083 34.625\
+3C51.9146 34.649\
+6 51.9149 34.675\
+1 51.9092 34.699\
+6C52.0121 35.035\
+8 52.2901 35.241\
+7 52.5091 35.489\
+1C52.6291 35.810\
+2 52.89 36.0293 \
+53.1052 36.273C5\
+3.1986 36.6092 5\
+3.5052 36.7868 5\
+3.6956 37.0531C5\
+3.8165 37.3601 5\
+4.0283 37.6235 5\
+4.3031 37.8087C5\
+4.4117 37.9541 5\
+4.5183 38.1014 5\
+4.625 38.2469C54\
+.6842 38.5194 54\
+.8265 38.7674 55\
+.0326 38.9571C55\
+.0697 39.0713 55\
+.1306 39.1766 55\
+.2113 39.266C55.\
+292 39.3555 55.3\
+907 39.4272 55.5\
+011 39.4765L55.7\
+467 39.9091C55.8\
+305 40.1924 55.9\
+372 40.4625 56.2\
+4 40.5891C56.337\
+1 40.7553 56.430\
+4 40.9215 56.533\
+3 41.0877C56.657\
+1 41.4882 56.782\
+8 41.8867 57.196\
+ 42.1021C58.1387\
+ 43.6887 59.1557\
+ 45.2376 59.7271\
+ 47.0131C59.7316\
+ 47.1215 59.7619\
+ 47.2273 59.8155\
+ 47.3218C59.8691\
+ 47.4164 59.9445\
+ 47.497 60.0356 \
+47.5571C60.8284 \
+49.3342 61.4155 \
+51.1946 61.7858 \
+53.1028C61.721 5\
+3.3465 61.5954 5\
+3.594 61.8487 53\
+.8074C61.9164 53\
+.8933 61.9632 53\
+.9936 61.9853 54\
+.1004C62.0075 54\
+.2073 62.0043 54\
+.3177 61.9762 54\
+.4232C61.8144 55\
+.0144 61.9515 55\
+.6188 61.8944 56\
+.2138C61.7458 56\
+.7521 61.8144 57\
+.2999 61.8334 57\
+.8439L61.7934 58\
+.3671C61.424 58.\
+9149 61.6373 59.\
+6062 61.3402 60.\
+171C61.384 60.44\
+49 61.203 60.682\
+9 61.2145 60.951\
+1C61.2145 61.036\
+1 61.2145 61.121\
+1 61.2145 61.208\
+C61.0692 61.448 \
+60.977 61.7158 6\
+0.944 61.9938C60\
+.786 62.2752 60.\
+7821 62.6171 60.\
+5936 62.8853C60.\
+5574 63.2876 60.\
+3117 63.6409 60.\
+3022 64.0432C60.\
+3115 64.065 60.3\
+155 64.0887 60.3\
+138 64.1123C60.3\
+121 64.1359 60.3\
+049 64.1588 60.2\
+927 64.1792C59.8\
+775 64.7062 59.7\
+214 65.3578 59.4\
+281 65.9453C59.1\
+024 66.6385 58.7\
+748 67.3298 58.3\
+825 67.989L58.31\
+2 68.2119C58.045\
+7 68.5471 57.827\
+2 68.917 57.6626\
+ 69.3113C57.3617\
+ 69.6191 57.2017\
+ 70.0404 56.8494\
+ 70.3048C56.8704\
+ 70.7185 56.6323\
+ 70.9659 56.3009\
+ 71.1567C56.1905\
+ 71.5118 55.92 7\
+1.7781 55.7772 7\
+2.1181C55.6248 7\
+2.3656 55.3011 7\
+2.4751 55.2344 7\
+2.7906C55.0554 7\
+3.1268 54.6631 7\
+3.3157 54.5755 7\
+3.718C54.5862 73\
+.734 54.5904 73.\
+7534 54.5873 73.\
+7724C54.5841 73.\
+7913 54.5737 73.\
+8083 54.5583 73.\
+82C54.2453 73.99\
+92 53.9883 74.26\
+06 53.8156 74.57\
+55L53.827 74.552\
+9C53.5414 75.100\
+6 52.8615 75.334\
+9 52.6843 75.971\
+4C52.5872 76.302\
+ 52.2444 76.4191\
+ 52.0559 76.6703\
+C51.1817 77.3427\
+ 50.4847 78.1984\
+ 49.6715 78.9369\
+C49.4506 79.1372\
+ 49.3153 79.4658\
+ 48.9478 79.4753\
+C49.0278 79.6642\
+ 48.9478 79.785 \
+48.7573 79.8417C\
+48.0984 79.8908 \
+48.4069 79.3865 \
+48.4031 79.1485C\
+48.3783 76.8705 \
+48.3898 74.5925 \
+48.3898 72.3146C\
+48.3783 71.7366 \
+48.7307 71.2643 \
+48.8811 70.7317C\
+48.9554 70.6108 \
+49.0182 70.4842 \
+49.0868 70.3539C\
+49.3477 70.012 4\
+9.7248 69.774 49\
+.9552 69.4095C50\
+.1457 69.1847 50\
+.298 68.9373 50.\
+4733 68.703C50.5\
+171 68.6256 50.5\
+666 68.5538 50.6\
+161 68.482C51.05\
+84 68.1276 51.40\
+25 67.6674 51.61\
+59 67.1447C51.78\
+73 66.8557 51.91\
+87 66.5459 52.06\
+54 66.2437C52.11\
+ 66.1696 52.161 \
+66.0995 52.2177 \
+66.0341C52.6862 \
+65.4938 53.0919 \
+64.9234 53.1852 \
+64.1905C53.2103 \
+64.1072 53.2415 \
+64.0257 53.2785 \
+63.9469C53.589 6\
+3.5408 53.608 63\
+.0326 53.7642 62\
+.5736C53.8413 62\
+.376 53.9049 62.\
+1734 53.9546 61.\
+9673C54.0327 61.\
+6443 54.1451 61.\
+3289 54.2384 61.\
+0097C54.3113 60.\
+7908 54.3698 60.\
+5674 54.4136 60.\
+341C54.6955 59.9\
+972 54.764 59.58\
+55 54.8288 59.15\
+86C55.0878 58.11\
+97 55.1849 57.08\
+08 54.7564 56.06\
+65C54.566 55.722\
+7 54.7469 55.310\
+9 54.5431 54.974\
+7C54.402 54.6527\
+ 54.2817 54.3221\
+ 54.1832 53.9849\
+C54.099 53.4004 \
+53.9717 52.8227 \
+53.8023 52.2566C\
+53.7432 51.9506 \
+53.8213 51.6352 \
+53.7413 51.3311C\
+53.5966 51.0459 \
+53.3166 50.8456 \
+53.2328 50.5245C\
+53.1445 50.0131 \
+52.9393 49.5285 \
+52.6329 49.1079C\
+52.5266 48.589 5\
+2.2902 48.105 51\
+.9454 47.7007C51\
+.7302 47.2001 51\
+.3931 46.7562 51\
+.1931 46.2557C50\
+.9532 45.5814 50\
+.8027 44.8749 50\
+.4713 44.2308C50\
+.1533 43.8908 50\
+.06 43.3997 49.6\
+791 43.0975C49.5\
+553 42.4968 49.0\
+144 42.1417 48.7\
+649 41.6147C48.7\
+173 41.4523 48.6\
+45 41.2974 48.58\
+97 41.1368C48.53\
+76 40.9703 48.49\
+63 40.8005 48.46\
+59 40.6287Z\x22 fil\
+l=\x22#B2B2B2\x22/>\x0d\x0a<\
+path d=\x22M48.4891\
+ 71.9198C48.2986\
+ 74.3526 48.4377\
+ 76.7874 48.4072\
+ 79.2203C48.4072\
+ 79.4809 48.4662\
+ 79.7208 48.7519\
+ 79.8247L48.5195\
+ 80.0287C48.2244\
+ 79.6849 48.2739\
+ 79.2731 48.2739\
+ 78.8651C48.2739\
+ 76.4889 48.2739\
+ 74.1127 48.2739\
+ 71.7365C48.4662\
+ 71.6648 48.5348\
+ 71.7309 48.4891\
+ 71.9198Z\x22 fill=\
+\x22#0F0F0F\x22/>\x0d\x0a<pa\
+th d=\x22M48.946 79\
+.458L51.4828 76.\
+9099C51.6409 76.\
+7513 51.797 76.5\
+945 52.0541 76.6\
+568C51.26 77.625\
+8 50.323 78.455 \
+49.4241 79.322C4\
+9.2927 79.4486 4\
+9.1612 79.6091 4\
+8.946 79.458Z\x22 f\
+ill=\x22#3E3E3E\x22/>\x0d\
+\x0a<path d=\x22M58.38\
+26 67.9833C58.53\
+45 67.1921 58.91\
+49 66.4617 59.47\
+76 65.881V65.871\
+6C59.2948 66.670\
+6 58.9863 67.403\
+5 58.3826 67.983\
+3Z\x22 fill=\x22#38383\
+8\x22/>\x0d\x0a<path d=\x22M\
+59.4739 65.8714V\
+65.8809C59.4967 \
+65.1933 59.6643 \
+64.5776 60.2909 \
+64.1809C60.0966 \
+64.7721 59.95 65\
+.4011 59.4739 65\
+.8714Z\x22 fill=\x22#3\
+F3F3F\x22/>\x0d\x0a<path \
+d=\x22M61.7746 56.2\
+494C61.8374 55.6\
+374 61.6298 54.9\
+99 61.965 54.417\
+2C61.965 55.339 \
+61.9599 56.2614 \
+61.9498 57.1844C\
+61.4489 56.9578 \
+61.7936 56.5687 \
+61.7746 56.2494Z\
+\x22 fill=\x22#252525\x22\
+/>\x0d\x0a<path d=\x22M52\
+.6826 75.9581C52\
+.715 75.2025 53.\
+3378 74.9305 53.\
+8253 74.5396C53.\
+6044 75.1402 53.\
+1359 75.5425 52.\
+6826 75.9581Z\x22 f\
+ill=\x22#404040\x22/>\x0d\
+\x0a<path d=\x22M61.26\
+22 60.2256C61.45\
+27 59.6099 61.27\
+17 58.8883 61.78\
+97 58.3613C61.59\
+93 58.9695 61.71\
+36 59.6363 61.42\
+41 60.2238C61.37\
+08 60.3598 61.31\
+74 60.3616 61.26\
+22 60.2256Z\x22 fil\
+l=\x22#1A1A1A\x22/>\x0d\x0a<\
+path d=\x22M50.1457\
+ 32.4799C49.4715\
+ 32.4062 49.2697\
+ 31.8282 48.9497\
+ 31.3787C49.5744\
+ 31.5033 49.7648\
+ 32.0927 50.1457\
+ 32.4799Z\x22 fill=\
+\x22#3D3D3D\x22/>\x0d\x0a<pa\
+th d=\x22M61.7745 5\
+6.2495L61.965 57\
+.1845C62.0077 57\
+.4105 61.9621 57\
+.6442 61.8374 57\
+.838C61.4584 57.\
+3205 61.6412 56.\
+7841 61.7745 56.\
+2495Z\x22 fill=\x22#63\
+6363\x22/>\x0d\x0a<path d\
+=\x22M57.5886 69.16\
+75C57.7562 68.78\
+97 57.8343 68.35\
+53 58.3066 68.20\
+61C58.219 68.704\
+7 57.9257 69.091\
+9 57.6229 69.477\
+3C57.5779 69.44 \
+57.5492 69.387 5\
+7.5429 69.3292C5\
+7.5365 69.2715 5\
+7.5529 69.2135 5\
+7.5886 69.1675Z\x22\
+ fill=\x22#3F3F3F\x22/\
+>\x0d\x0a<path d=\x22M51.\
+0998 33.6133C50.\
+4923 33.5472 50.\
+2771 33.1373 50.\
+1914 32.6084C50.\
+5742 32.871 50.8\
+275 33.2525 51.0\
+998 33.6133Z\x22 fi\
+ll=\x22#3E3E3E\x22/>\x0d\x0a\
+<path d=\x22M57.192\
+5 42.0961C56.621\
+2 41.979 56.4612\
+ 41.605 56.5298 \
+41.0818L57.1925 \
+42.0961Z\x22 fill=\x22\
+#4D4D4D\x22/>\x0d\x0a<pat\
+h d=\x22M53.5169 37\
+.0587L53.0294 36\
+.3919C52.9932 36\
+.3492 52.9751 36\
+.2942 52.979 36.\
+2385C52.9829 36.\
+1829 53.0085 36.\
+1309 53.0503 36.\
+0935L53.7778 37.\
+0493C53.6959 37.\
+2023 53.6102 37.\
+2061 53.5169 37.\
+0587Z\x22 fill=\x22#4A\
+4A4A\x22/>\x0d\x0a<path d\
+=\x22M60.2966 64.03\
+73C60.0909 63.59\
+53 60.4337 63.25\
+53 60.5214 62.86\
+62C60.5671 62.79\
+07 60.6147 62.78\
+88 60.6642 62.86\
+62C60.687 63.300\
+7 60.4947 63.669\
+ 60.2966 64.0373\
+Z\x22 fill=\x22#161616\
+\x22/>\x0d\x0a<path d=\x22M5\
+7.5884 69.1677L5\
+7.6227 69.4775C5\
+7.4322 69.8175 5\
+7.3599 70.2652 5\
+6.8438 70.2992C5\
+7.0939 69.9239 5\
+7.3421 69.5468 5\
+7.5884 69.1677Z\x22\
+ fill=\x22#3E3E3E\x22/\
+>\x0d\x0a<path d=\x22M54.\
+5737 73.712C54.5\
+737 73.1813 54.9\
+337 72.9112 55.3\
+546 72.6921L55.4\
+307 72.6826C55.1\
+66 73.0472 54.96\
+41 73.4589 54.57\
+37 73.712Z\x22 fill\
+=\x22#3B3B3B\x22/>\x0d\x0a<p\
+ath d=\x22M51.8692 \
+34.5595C51.3435 \
+34.5369 51.1816 \
+34.1969 51.1436 \
+33.7473C51.4673 \
+33.9475 51.6559 \
+34.2649 51.8692 \
+34.5595Z\x22 fill=\x22\
+#3D3D3D\x22/>\x0d\x0a<pat\
+h d=\x22M53.0503 36\
+.0933C53.0503 36\
+.1915 53.0369 36\
+.2822 53.0293 36\
+.3917L52.458 35.\
+6362C52.4249 35.\
+5961 52.4075 35.\
+5455 52.4093 35.\
+4937C52.4111 35.\
+4419 52.4317 35.\
+3925 52.4675 35.\
+3547L53.0503 36.\
+0933Z\x22 fill=\x22#42\
+4242\x22/>\x0d\x0a<path d\
+=\x22M60.668 62.864\
+3H60.5251C60.635\
+6 62.5483 60.746\
+7 62.2335 60.858\
+4 61.9199C60.913\
+7 61.8236 60.970\
+8 61.8236 61.027\
+9 61.9199C60.965\
+1 62.258 60.9422\
+ 62.6075 60.668 \
+62.8643Z\x22 fill=\x22\
+#1F1F1F\x22/>\x0d\x0a<pat\
+h d=\x22M55.6096 72\
+.0802L56.2952 71\
+.1509C56.4266 71\
+.5834 56.0876 71\
+.812 55.8762 72.\
+0953C55.8587 72.\
+1136 55.8374 72.\
+1278 55.8138 72.\
+1371C55.7901 72.\
+1463 55.7648 72.\
+1504 55.7394 72.\
+1489C55.714 72.1\
+475 55.6893 72.1\
+406 55.6669 72.1\
+287C55.6445 72.1\
+169 55.6249 72.1\
+003 55.6096 72.0\
+802Z\x22 fill=\x22#393\
+939\x22/>\x0d\x0a<path d=\
+\x22M53.812 74.5622\
+C53.8863 74.1447\
+ 54.0653 73.8293\
+ 54.5548 73.8066\
+C54.3319 74.0881\
+ 54.1929 74.4489\
+ 53.812 74.5622Z\
+\x22 fill=\x22#393939\x22\
+/>\x0d\x0a<path d=\x22M52\
+.4788 35.3588L52\
+.4674 35.6402C52\
+.2103 35.3682 51\
+.8865 35.134 51.\
+9113 34.6958C52.\
+1599 34.8591 52.\
+3567 35.089 52.4\
+788 35.3588Z\x22 fi\
+ll=\x22#343434\x22/>\x0d\x0a\
+<path d=\x22M53.516\
+8 37.0586H53.777\
+8L54.2996 37.814\
+1C53.8444 37.755\
+6 53.734 37.3533\
+ 53.5168 37.0586\
+Z\x22 fill=\x22#363636\
+\x22/>\x0d\x0a<path d=\x22M5\
+5.4975 39.4706C5\
+5.1624 39.5065 5\
+5.0271 39.2817 5\
+4.9262 39.0267C5\
+4.9073 39.005 54\
+.8931 38.9797 54\
+.8842 38.9524C54\
+.8754 38.925 54.\
+8723 38.8962 54.\
+8749 38.8677C54.\
+8776 38.8391 54.\
+8861 38.8114 54.\
+8998 38.7861C54.\
+9135 38.7609 54.\
+9322 38.7386 54.\
+9548 38.7207L55.\
+4975 39.4706Z\x22 f\
+ill=\x22#4A4A4A\x22/>\x0d\
+\x0a<path d=\x22M56.23\
+62 40.5833C55.75\
+82 40.5833 55.68\
+58 40.2868 55.74\
+3 39.9033L56.236\
+2 40.5833Z\x22 fill\
+=\x22#434343\x22/>\x0d\x0a<p\
+ath d=\x22M61.0241 \
+61.9199H60.8584C\
+60.8338 61.7785 \
+60.8548 61.633 6\
+0.9184 61.5042C6\
+0.982 61.3753 61\
+.085 61.2696 61.\
+2126 61.2021L61.\
+0241 61.9199Z\x22 f\
+ill=\x22#1D1D1D\x22/>\x0d\
+\x0a<path d=\x22M55.60\
+98 72.0803L55.87\
+64 72.0954L55.42\
+51 72.6829L55.34\
+7 72.6923C55.177\
+5 72.3807 55.472\
+7 72.2635 55.609\
+8 72.0803Z\x22 fill\
+=\x22#444444\x22/>\x0d\x0a<p\
+ath d=\x22M61.8451 \
+53.8017C61.4642 \
+53.5996 61.5861 \
+53.3522 61.7822 \
+53.0972L61.8451 \
+53.8017Z\x22 fill=\x22\
+#1B1B1B\x22/>\x0d\x0a<pat\
+h d=\x22M61.2622 60\
+.2256H61.4298C61\
+.4476 60.354 61.\
+4378 60.4847 61.\
+401 60.609C61.36\
+43 60.7334 61.30\
+14 60.8486 61.21\
+65 60.9471C61.00\
+89 60.6902 61.25\
+84 60.4655 61.26\
+22 60.2256Z\x22 fil\
+l=\x22#151515\x22/>\x0d\x0a<\
+path d=\x22M60.032 \
+47.5511C59.6283 \
+47.5379 59.6035 \
+47.3131 59.7235 \
+47.0071L60.032 4\
+7.5511Z\x22 fill=\x22#\
+4B4B4B\x22/>\x0d\x0a<path\
+ d=\x22M54.9545 38.\
+7207L54.9259 39.\
+0248C54.726 38.8\
+02 54.4803 38.59\
+61 54.6174 38.24\
+1L54.9545 38.720\
+7Z\x22 fill=\x22#44444\
+4\x22/>\x0d\x0a<path d=\x22M\
+48.489 71.9195L4\
+8.2814 71.7306C4\
+8.27 66.7428 48.\
+2598 61.7542 48.\
+251 56.7651C48.2\
+51 51.8074 48.25\
+1 46.8498 48.251\
+ 41.8921C48.251 \
+41.4615 48.1481 \
+41.0062 48.4624 \
+40.6228C48.5957 \
+40.7739 48.7309 \
+40.925 48.8642 4\
+1.078C48.6909 42\
+.0225 48.9651 42\
+.9404 48.9613 43\
+.8773C48.9347 52\
+.2715 48.9347 60\
+.6656 48.9613 69\
+.0598C48.9613 69\
+.6869 48.7709 70\
+.3971 49.4279 70\
+.875C49.192 71.2\
+844 48.8722 71.6\
+402 48.489 71.91\
+95Z\x22 fill=\x22#3F3F\
+3F\x22/>\x0d\x0a<path d=\x22\
+M54.9909 56.4214\
+V55.8869C55.0461\
+ 55.749 55.0975 \
+55.7509 55.147 5\
+5.8869C55.4432 5\
+6.998 55.4432 58\
+.1663 55.147 59.\
+2774C55.0975 59.\
+4191 55.0442 59.\
+421 54.9871 59.2\
+774C54.9871 59.0\
+98 54.9871 58.91\
+85 54.9871 58.74\
+1C55.082 57.9707\
+ 55.0833 57.192 \
+54.9909 56.4214Z\
+\x22 fill=\x22#333333\x22\
+/>\x0d\x0a<path d=\x22M51\
+.7168 46.1478C51\
+.2883 45.4697 50\
+.837 44.801 50.6\
+313 44.0115L50.6\
+199 44.0266C51.2\
+731 44.5876 51.6\
+959 45.2657 51.7\
+168 46.1478Z\x22 fi\
+ll=\x22#3E3E3E\x22/>\x0d\x0a\
+<path d=\x22M52.560\
+8 66.4551C52.869\
+3 65.6826 52.962\
+6 64.7872 53.815\
+8 64.332C53.3988\
+ 65.0385 53.214 \
+65.8828 52.5608 \
+66.4551Z\x22 fill=\x22\
+#3A3A3A\x22/>\x0d\x0a<pat\
+h d=\x22M50.9341 68\
+.886C51.1436 68.\
+1928 51.6559 67.\
+6885 52.0558 67.\
+1143C52.0816 67.\
+1268 52.104 67.1\
+453 52.1211 67.1\
+683C52.1382 67.1\
+912 52.1494 67.2\
+179 52.1539 67.2\
+46C52.1584 67.27\
+42 52.156 67.303\
+ 52.1469 67.33C5\
+2.1377 67.3571 5\
+2.1222 67.3815 5\
+2.1015 67.4014C5\
+1.7511 67.9265 5\
+1.5568 68.5706 5\
+0.9341 68.886Z\x22 \
+fill=\x22#393939\x22/>\
+\x0d\x0a<path d=\x22M49.8\
+279 42.8838C49.5\
+555 42.353 48.94\
+61 41.9828 49.03\
+94 41.2764C49.53\
+27 41.7221 49.78\
+79 42.3304 50.12\
+88 42.8781C50.08\
+84 42.9162 50.03\
+51 42.9379 49.97\
+94 42.939C49.923\
+7 42.94 49.8696 \
+42.9203 49.8279 \
+42.8838Z\x22 fill=\x22\
+#313131\x22/>\x0d\x0a<pat\
+h d=\x22M53.0005 48\
+.8301C52.7682 48\
+.3635 52.3797 47\
+.9537 52.4596 47\
+.3738C52.812 47.\
+7969 53.1795 48.\
+2143 53.0005 48.\
+8301Z\x22 fill=\x22#45\
+4545\x22/>\x0d\x0a<path d\
+=\x22M49.8279 42.88\
+4H50.1288C50.351\
+6 43.2429 50.700\
+1 43.5489 50.618\
+2 44.0325L50.629\
+7 44.0174C50.182\
+1 43.7624 50.054\
+5 43.2883 49.827\
+9 42.884Z\x22 fill=\
+\x22#424242\x22/>\x0d\x0a<pa\
+th d=\x22M53.8119 6\
+4.2469C53.5471 6\
+3.6311 54.0613 6\
+3.2061 54.2061 6\
+2.6904C54.4765 6\
+3.3119 53.9585 6\
+3.7312 53.8119 6\
+4.2469Z\x22 fill=\x22#\
+383838\x22/>\x0d\x0a<path\
+ d=\x22M54.9833 59.\
+2849C55.0366 59.\
+2849 55.09 59.28\
+49 55.1433 59.28\
+49C55.1851 59.73\
+44 55.1198 60.18\
+73 54.9528 60.60\
+71C54.5358 60.15\
+19 54.8843 59.72\
+12 54.9833 59.28\
+49Z\x22 fill=\x22#1F1F\
+1F\x22/>\x0d\x0a<path d=\x22\
+M49.4487 70.5708\
+L50.3857 69.4658\
+C50.4193 69.5066\
+ 50.4376 69.5577\
+ 50.4376 69.6103\
+C50.4376 69.663 \
+50.4193 69.714 5\
+0.3857 69.7548C5\
+0.1629 70.1213 5\
+0.0029 70.5784 4\
+9.4487 70.5708Z\x22\
+ fill=\x22#444444\x22/\
+>\x0d\x0a<path d=\x22M54.\
+8175 54.9369L54.\
+5908 53.8433C55.\
+1469 54.0076 54.\
+926 54.4383 54.9\
+241 54.7877C54.9\
+546 54.8916 54.9\
+241 54.9407 54.8\
+175 54.9369Z\x22 fi\
+ll=\x22#171717\x22/>\x0d\x0a\
+<path d=\x22M53.973\
+9 51.4103C53.790\
+3 51.1275 53.685\
+2 50.8017 53.669\
+2 50.4658C54.050\
+1 50.564 54.0501\
+ 50.9173 54.1586\
+ 51.193C54.1015 \
+51.2648 54.1053 \
+51.397 53.9739 5\
+1.4103Z\x22 fill=\x22#\
+555555\x22/>\x0d\x0a<path\
+ d=\x22M54.8176 54.\
+9368L54.9242 54.\
+7932C55.2651 55.\
+1068 55.1375 55.\
+511 55.1414 55.8\
+906C55.088 55.89\
+06 55.0366 55.89\
+06 54.9852 55.89\
+06C55.0157 55.55\
+63 54.7052 55.28\
+24 54.8176 54.93\
+68Z\x22 fill=\x22#2020\
+20\x22/>\x0d\x0a<path d=\x22\
+M54.4176 62.0616\
+C54.3979 61.8905\
+ 54.4188 61.7171\
+ 54.4787 61.5555\
+C54.5385 61.3938\
+ 54.6356 61.2482\
+ 54.7623 61.1304\
+C54.8156 61.5006\
+ 54.7642 61.8311\
+ 54.4176 62.0616\
+Z\x22 fill=\x22#1E1E1E\
+\x22/>\x0d\x0a<path d=\x22M5\
+3.9739 51.4104L5\
+4.1643 51.1951C5\
+4.191 51.5048 54\
+.5605 51.8033 54\
+.1929 52.1263C54\
+.1167 51.8864 54\
+.0443 51.6427 53\
+.9739 51.4104Z\x22 \
+fill=\x22#4A4A4A\x22/>\
+\x0d\x0a<path d=\x22M52.0\
+98 67.4013L52.05\
+22 67.1142C52.11\
+69 66.8603 52.25\
+77 66.6317 52.45\
+6 66.4587C52.564\
+5 66.8573 52.322\
+7 67.1312 52.098\
+ 67.4013Z\x22 fill=\
+\x22#393939\x22/>\x0d\x0a<pa\
+th d=\x22M50.3933 6\
+9.755V69.466C50.\
+5476 69.2394 50.\
+639 68.9542 50.9\
+513 68.8767C50.9\
+551 69.2847 50.6\
+409 69.5019 50.3\
+933 69.755Z\x22 fil\
+l=\x22#313131\x22/>\x0d\x0a<\
+path d=\x22M54.9909\
+ 56.4214C55.2166\
+ 57.1809 55.2166\
+ 57.9889 54.9909\
+ 58.7485C54.9884\
+ 57.9728 54.9884\
+ 57.1971 54.9909\
+ 56.4214Z\x22 fill=\
+\x22#B2B2B2\x22/>\x0d\x0a<de\
+fs>\x0d\x0a<radialGrad\
+ient id=\x22paint0_\
+radial_2013_57\x22 \
+cx=\x220\x22 cy=\x220\x22 r=\
+\x221\x22 gradientUnit\
+s=\x22userSpaceOnUs\
+e\x22 gradientTrans\
+form=\x22translate(\
+47.5 47.5) rotat\
+e(90) scale(47.5\
+)\x22>\x0d\x0a<stop offse\
+t=\x220.4\x22 stop-col\
+or=\x22white\x22/>\x0d\x0a<s\
+top offset=\x221\x22 s\
+top-color=\x22white\
+\x22 stop-opacity=\x22\
+0.5\x22/>\x0d\x0a</radial\
+Gradient>\x0d\x0a</def\
+s>\x0d\x0a</svg>\x0d\x0a\
+\x00\x00\x0d9\
+<\
+svg width=\x2295\x22 h\
+eight=\x2295\x22 viewB\
+ox=\x220 0 95 95\x22 f\
+ill=\x22none\x22 xmlns\
+=\x22http://www.w3.\
+org/2000/svg\x22>\x0d\x0a\
+<rect width=\x2295\x22\
+ height=\x2295\x22 rx=\
+\x2220\x22 fill=\x22url(#\
+paint0_radial_20\
+13_54)\x22/>\x0d\x0a<path\
+ d=\x22M70.7716 63.\
+9698C71.6307 64.\
+4318 71.4971 64.\
+8622 70.8848 65.\
+5228C68.6582 67.\
+9349 66.452 70.3\
+767 64.3127 72.8\
+686C63.6837 73.5\
+996 63.2959 73.6\
+497 62.8042 72.8\
+445C60.2937 70.1\
+596 58.275 67.08\
+32 55.9835 64.22\
+58C53.2003 60.75\
+98 50.3354 57.37\
+73 47.3333 54.10\
+05C45.0424 51.59\
+44 42.634 49.208\
+9 40.1081 46.944\
+C36.9427 44.0989\
+ 33.6715 41.3813\
+ 30.2945 38.7911\
+C27.3703 36.5459\
+ 24.2791 34.5235\
+ 21.5738 31.9945\
+C20.9003 31.6234\
+ 20.9986 31.2783\
+ 21.4755 30.7569\
+C23.8257 28.1864\
+ 26.1494 25.5956\
+ 28.4465 22.9843\
+C28.8269 22.5557\
+ 29.1145 22.3813\
+ 29.4559 22.9843\
+C31.6397 25.2832\
+ 33.4303 27.8957\
+ 35.3785 30.3839\
+C38.3633 34.1951\
+ 41.4904 37.8837\
+ 44.7598 41.4499\
+C46.8861 43.7786\
+ 49.1479 45.955 \
+51.4636 48.074C5\
+5.3972 51.6711 5\
+9.4903 55.0815 6\
+3.7431 58.305C66\
+.1366 60.116 68.\
+5524 61.9213 70.\
+7716 63.9698Z\x22 f\
+ill=\x22black\x22/>\x0d\x0a<\
+path d=\x22M21.5664\
+ 31.9944C23.7188\
+ 33.2672 25.6818\
+ 34.811 27.7062 \
+36.262C41.4051 4\
+6.1052 52.755 58\
+.2344 62.3756 72\
+.0428C62.5463 72\
+.2877 62.8061 72\
+.4956 62.8042 72\
+.8388C62.3941 72\
+.7219 62.1437 72\
+.3954 61.8635 72\
+.1152C59.3512 69\
+.6103 56.8413 67\
+.1048 54.334 64.\
+5987C46.2423 56.\
+5571 38.1784 48.\
+4895 30.0366 40.\
+4999C27.4631 37.\
+9746 24.9137 35.\
+4233 22.3364 32.\
+9017C22.0525 32.\
+629 21.726 32.38\
+03 21.5664 31.99\
+44Z\x22 fill=\x22#C8C8\
+C8\x22/>\x0d\x0a<path d=\x22\
+M70.7715 63.9697\
+C68.2796 62.4241\
+ 66.0011 60.5816\
+ 63.6595 58.8282\
+C50.6439 49.1207\
+ 39.3001 37.3538\
+ 30.0755 23.9917\
+C29.8491 23.6633\
+ 29.6506 23.3164\
+ 29.4409 22.9768\
+C29.8361 23.1215\
+ 30.0792 23.4537\
+ 30.3687 23.7357\
+C34.1056 27.4615\
+ 37.7905 31.2411\
+ 41.585 34.913C4\
+7.5948 40.7318 5\
+3.4043 46.7491 5\
+9.4104 52.5697C6\
+2.9804 56.0283 6\
+6.4612 59.5815 7\
+0.0052 63.0549C7\
+0.2891 63.3314 7\
+0.6156 63.58 70.\
+7715 63.9697Z\x22 f\
+ill=\x22#C8C8C8\x22/>\x0d\
+\x0a<path d=\x22M9.414\
+99 20.5722C8.387\
+06 17.1952 7.390\
+68 13.9649 6.429\
+54 10.7252C6.269\
+97 10.1871 5.763\
+43 9.50616 6.130\
+81 9.11466C6.435\
+11 8.78995 7.153\
+18 9.24454 7.680\
+13 9.37628C10.72\
+31 10.137 13.765\
+4 10.9064 16.807\
+2 11.6845C17.089\
+2 11.7587 17.519\
+7 11.6975 17.621\
+7 11.9999C17.736\
+8 12.332 17.3119\
+ 12.4749 17.117 \
+12.6883C16.4806 \
+13.3878 15.2616 \
+13.9482 15.2746 \
+14.7293C15.295 1\
+5.4028 16.4379 1\
+6.0523 17.0985 1\
+6.6961C19.2397 1\
+8.7854 21.3772 2\
+0.8783 23.5425 2\
+2.9416C23.9749 2\
+3.3535 24.0454 2\
+3.6151 23.5518 2\
+4.0196C22.9117 2\
+4.5429 22.3532 2\
+5.5281 21.6963 2\
+5.5782C21.0395 2\
+5.6283 20.481 24\
+.5856 19.8891 24\
+.0122C17.7015 21\
+.8803 15.5084 19\
+.7521 13.356 17.\
+5923C12.9014 17.\
+1358 12.6472 17.\
+1136 12.213 17.6\
+108C11.3447 18.6\
+017 10.4077 19.5\
+294 9.41499 20.5\
+722Z\x22 fill=\x22blac\
+k\x22/>\x0d\x0a<path d=\x22M\
+84.4518 76.264L8\
+7.8566 87.6918L7\
+5.8647 84.5932C7\
+6.6904 83.8065 7\
+7.3881 83.0884 7\
+8.1451 82.439C78\
+.6349 82.016 78.\
+6349 81.7581 78.\
+1562 81.2979C75.\
+5586 78.7986 73.\
+0054 76.2455 70.\
+4041 73.7443C69.\
+879 73.2396 69.6\
+99 72.913 70.370\
+7 72.4009C70.977\
+4 71.9389 71.484\
+ 70.9945 72.0833\
+ 70.9592C72.7698\
+ 70.9184 73.2615\
+ 71.9074 73.8274\
+ 72.4566C75.9965\
+ 74.5681 78.1599\
+ 76.6722 80.264 \
+78.8413C80.8838 \
+79.4795 81.1918 \
+79.3738 81.7484 \
+78.7875C82.5778 \
+77.8987 83.5259 \
+77.1157 84.4518 \
+76.264Z\x22 fill=\x22b\
+lack\x22/>\x0d\x0a<defs>\x0d\
+\x0a<radialGradient\
+ id=\x22paint0_radi\
+al_2013_54\x22 cx=\x22\
+0\x22 cy=\x220\x22 r=\x221\x22 \
+gradientUnits=\x22u\
+serSpaceOnUse\x22 g\
+radientTransform\
+=\x22translate(47.5\
+ 47.5) rotate(90\
+) scale(47.5)\x22>\x0d\
 \x0a<stop offset=\x220\
 .4\x22 stop-color=\x22\
 white\x22/>\x0d\x0a<stop \
@@ -134151,15 +131960,9 @@ offset=\x221\x22 stop-\
 color=\x22white\x22 st\
 op-opacity=\x220.5\x22\
 />\x0d\x0a</radialGrad\
-ient>\x0d\x0a<clipPath\
- id=\x22clip0_2002_\
-18\x22>\x0d\x0a<rect widt\
-h=\x2295\x22 height=\x229\
-5\x22 fill=\x22white\x22/\
->\x0d\x0a</clipPath>\x0d\x0a\
-</defs>\x0d\x0a</svg>\x0d\
-\x0a\
-\x00\x00^q\
+ient>\x0d\x0a</defs>\x0d\x0a\
+</svg>\x0d\x0a\
+\x00\x005I\
 <\
 svg width=\x2295\x22 h\
 eight=\x2295\x22 viewB\
@@ -134167,1513 +131970,854 @@ ox=\x220 0 95 95\x22 f\
 ill=\x22none\x22 xmlns\
 =\x22http://www.w3.\
 org/2000/svg\x22>\x0d\x0a\
-<g clip-path=\x22ur\
-l(#clip0_2003_65\
-9)\x22>\x0d\x0a<path d=\x22M\
-47.5 0.0185547C6\
-3.0859 0.0185547\
- 78.6669 0.01236\
-98 94.243 0C94.8\
-757 0 95.0018 0.\
-124316 95 0.7588\
-87C94.9814 31.91\
-96 94.9814 63.08\
-04 95 94.2411C95\
- 94.8757 94.8757\
- 95 94.243 95C63\
-.0822 94.979 31.\
-9209 94.979 0.75\
-8887 95C0.124316\
- 95 0 94.8757 0 \
-94.2411C0.019791\
-7 63.0804 0.0197\
-917 31.9196 0 0.\
-758887C0 0.12431\
-6 0.120605 0 0.7\
-58887 0C16.3399 \
-0.0222656 31.920\
-2 0.0284505 47.5\
- 0.0185547Z\x22 fil\
-l=\x22url(#paint0_r\
-adial_2003_659)\x22\
-/>\x0d\x0a<path d=\x22M41\
-.608 1.6843C42.0\
-044 1.87202 42.0\
-044 1.87202 42.4\
-082 2.11337C42.7\
-786 2.30018 43.1\
-497 2.48585 43.5\
-214 2.67002C43.5\
-078 2.86362 43.4\
-942 3.05722 43.4\
-802 3.25669C43.4\
-329 3.98152 43.4\
-033 4.70622 43.3\
-787 5.43215C43.3\
-657 5.74496 43.3\
-481 6.0576 43.32\
-55 6.36985C43.15\
-18 8.10869 43.15\
-18 8.10869 43.77\
-28 9.6655C44.498\
-8 10.3132 45.510\
-6 11.0423 46.515\
-6 11.0049C46.977\
-5 10.7767 47.374\
-4 10.4982 47.790\
-5 10.1941C47.973\
-9 10.0674 48.157\
-4 9.94079 48.346\
-4 9.81031C48.726\
-7 9.54591 49.102\
-8 9.27543 49.474\
-2 8.99854C50.769\
-5 8.12532 51.543\
-1 7.97138 53.064\
- 8.20104C53.2175\
- 8.2213 53.3711 \
-8.24155 53.5293 \
-8.26242C53.9047 \
-8.3124 54.2795 8\
-.36674 54.6542 8\
-.42197C54.6586 1\
-1.917 54.6619 15\
-.4121 54.6639 18\
-.9072C54.6648 20\
-.53 54.6661 22.1\
-527 54.6682 23.7\
-755C54.6701 25.1\
-898 54.6713 26.6\
-04 54.6717 28.01\
-83C54.6719 28.76\
-73 54.6725 29.51\
-62 54.6739 30.26\
-52C54.6751 30.97\
- 54.6755 31.6748\
- 54.6752 32.3797\
-C54.6753 32.6385\
- 54.6757 32.8973\
- 54.6764 33.1561\
-C54.6773 33.5092\
- 54.677 33.8624 \
-54.6766 34.2156C\
-54.6768 34.5122 \
-54.6768 34.5122 \
-54.6771 34.8148C\
-54.657 35.2645 5\
-4.5986 35.6395 5\
-4.4687 36.0685C5\
-4.5696 36.1172 5\
-4.6706 36.166 54\
-.7746 36.2163C55\
-.2797 36.4747 55\
-.7676 36.7512 56\
-.2546 37.0426C56\
-.433 37.1469 56.\
-6114 37.2511 56.\
-7953 37.3586C57.\
-2519 37.7384 57.\
-2519 37.7384 57.\
-4418 38.3153C57.\
-5016 38.4923 57.\
-5614 38.6693 57.\
-623 38.8517C58.0\
-56 39.0522 58.05\
-6 39.0522 58.550\
-7 39.2227C58.823\
-2 39.37 59.0923 \
-39.5234 59.3582 \
-39.6823C59.5134 \
-39.7745 59.6687 \
-39.8668 59.8287 \
-39.9619C59.9963 \
-40.0624 60.1639 \
-40.1629 60.3366 \
-40.2664C60.7055 \
-40.4861 61.0745 \
-40.7057 61.4434 \
-40.9253C61.6376 \
-41.0412 61.8317 \
-41.1571 62.0318 \
-41.2765C63.0464 \
-41.8815 64.0632 \
-42.4827 65.0797 \
-43.0844C65.5056 \
-43.3369 65.9316 \
-43.5893 66.3575 \
-43.8419C67.6207 \
-44.5907 68.884 4\
-5.3394 70.1474 4\
-6.088C70.5649 46\
-.3354 70.9824 46\
-.5828 71.3999 46\
-.8302C71.6065 46\
-.9526 71.8132 47\
-.0751 72.0261 47\
-.2013C73.9047 48\
-.3145 73.9047 48\
-.3145 74.5312 48\
-.6858C74.9479 48\
-.9327 75.3646 49\
-.1797 75.7814 49\
-.4266C76.7293 49\
-.9883 77.6773 50\
-.5501 78.6251 51\
-.112C81.3334 52.\
-7175 84.0428 54.\
-3212 86.7539 55.\
-922C86.4731 56.6\
-68 86.0365 56.95\
-18 85.3789 57.37\
-95C85.18 57.5102\
- 84.9812 57.6409\
- 84.7763 57.7756\
-C84.5657 57.9116\
- 84.3552 58.0475\
- 84.1446 58.1833\
-C83.9332 58.3212\
- 83.7219 58.4593\
- 83.5108 58.5975\
-C83.1256 58.8496\
- 82.7399 59.1009\
- 82.3536 59.3511\
-C81.9532 59.5971\
- 81.9532 59.5971\
- 81.7441 59.8185\
-C81.7148 60.2228\
- 81.6988 60.6282\
- 81.6877 61.0335\
-C81.6841 61.1605\
- 81.6805 61.2876\
- 81.6768 61.4185\
-C81.6454 62.5966\
- 81.6275 63.775 \
-81.6135 64.9535C\
-81.604 65.7447 8\
-1.5902 66.5354 8\
-1.5659 67.3263C8\
-1.5425 68.0918 8\
-1.5303 68.8566 8\
-1.5256 69.6224C8\
-1.522 69.9129 81\
-.5145 70.2033 81\
-.503 70.4936C81.\
-4232 72.264 81.4\
-232 72.264 82.21\
-51 73.7926C82.75\
-71 74.3264 83.35\
-42 74.7734 83.97\
-07 75.2188C84.17\
-51 75.3805 84.37\
-85 75.5435 84.58\
-08 75.7079C84.92\
- 75.9831 85.262 \
-76.2551 85.6072 \
-76.5227C86.0072 \
-76.8848 86.1614 \
-77.1501 86.3828 \
-77.631C85.8925 7\
-7.9138 85.4022 7\
-8.1967 84.9119 7\
-8.4795C84.4817 7\
-8.7277 84.0514 7\
-8.976 83.6212 79\
-.2242C82.5916 79\
-.8182 81.5621 80\
-.4122 80.5322 81\
-.0057C80.2012 81\
-.1965 79.8702 81\
-.3873 79.5392 81\
-.5781C79.1218 81\
-.8187 78.7044 82\
-.0593 78.2869 82\
-.2998C78.0967 82\
-.4094 77.9066 82\
-.519 77.7106 82.\
-632C77.5441 82.7\
-28 77.3775 82.82\
-4 77.2059 82.922\
-8C76.7277 83.191\
-4 76.7277 83.191\
-4 76.279 83.5226\
-C75.6583 83.8266\
- 75.3509 83.7557\
- 74.6933 83.5685\
-C74.2376 83.3531\
- 74.2376 83.3531\
- 73.7866 83.0799\
-C73.6152 82.9777\
- 73.4437 82.8755\
- 73.2671 82.7702\
-C72.9915 82.6028\
- 72.9915 82.6028\
- 72.7103 82.432C\
-72.3088 82.1928 \
-71.907 81.9541 7\
-1.5049 81.7159C7\
-1.2966 81.5923 7\
-1.0884 81.4688 7\
-0.8737 81.3415C6\
-9.8528 80.7441 6\
-8.8177 80.1731 6\
-7.7817 79.6024C6\
-6.0495 78.646 64\
-.3259 77.6762 62\
-.6096 76.6916C60\
-.7006 75.5965 58\
-.7854 74.5139 56\
-.863 73.4427C56.\
-6835 73.3426 56.\
-504 73.2425 56.3\
-191 73.1394C56.1\
-627 73.0524 56.0\
-063 72.9654 55.8\
-451 72.8757C55.3\
-816 72.6128 54.9\
-246 72.3405 54.4\
-687 72.0645C54.4\
-82 72.2813 54.49\
-52 72.4981 54.50\
-89 72.7214C54.65\
-21 75.2102 54.67\
-65 77.6899 54.66\
-58 80.1822C54.66\
-49 80.5676 54.66\
-41 80.9529 54.66\
-33 81.3383C54.66\
-13 82.2672 54.65\
-81 83.1962 54.65\
-42 84.1251C54.47\
-77 84.2133 54.30\
-12 84.3015 54.11\
-94 84.3923C52.90\
-74 84.998 51.695\
-6 85.6041 50.484\
-8 86.2122C44.904\
-7 89.0145 44.904\
-7 89.0145 42.107\
-5 90.3385C40.926\
- 90.8978 39.7572\
- 91.4782 38.595 \
-92.0768C38.1406 \
-92.2892 38.1406 \
-92.2892 37.7695 \
-92.2892C37.7571 \
-90.2459 37.7922 \
-88.2081 37.8623 \
-86.1661C37.8712 \
-85.8936 37.8802 \
-85.6211 37.8891 \
-85.3485C37.9106 \
-84.6933 37.9326 \
-84.0381 37.955 8\
-3.3829C37.8125 8\
-3.3284 37.67 83.\
-2739 37.5231 83.\
-2178C36.7713 82.\
-9055 36.1399 82.\
-4277 35.4726 81.\
-9659C35.023 81.6\
-718 35.023 81.67\
-18 34.6272 81.76\
-58C34.2342 81.90\
-2 33.9183 82.066\
- 33.565 82.2848C\
-33.4346 82.365 3\
-3.3043 82.4452 3\
-3.1699 82.5278C3\
-3.0307 82.6148 3\
-2.8915 82.7018 3\
-2.7481 82.7915C3\
-2.6034 82.8808 3\
-2.4587 82.9701 3\
-2.3096 83.062C31\
-.5071 83.5588 30\
-.7093 84.0627 29\
-.9135 84.5701C29\
-.7533 84.6721 29\
-.5932 84.774 29.\
-4283 84.879C29.1\
-169 85.0777 28.8\
-06 85.2773 28.49\
-57 85.4778C28.35\
-49 85.5679 28.21\
-4 85.658 28.0689\
- 85.7508C27.9444\
- 85.8311 27.8199\
- 85.9114 27.6916\
- 85.9941C27.3789\
- 86.1661 27.3789\
- 86.1661 27.0078\
- 86.1661C27.0063\
- 85.9374 27.0048\
- 85.7087 27.0033\
- 85.473C26.9859 \
-82.8045 26.967 8\
-0.136 26.9474 77\
-.4676C26.9417 76\
-.6942 26.9361 75\
-.9209 26.9306 75\
-.1476C26.8834 68\
-.5181 26.8119 61\
-.8897 26.6962 55\
-.261C26.6405 52.\
-0698 26.5886 48.\
-8788 26.5532 45.\
-6874C26.5508 45.\
-4705 26.5508 45.\
-4705 26.5484 45.\
-2492C26.5323 43.\
-7868 26.5173 42.\
-3244 26.5035 40.\
-8619C26.4966 40.\
-1296 26.4894 39.\
-3973 26.4821 38.\
-665C26.4806 38.5\
-197 26.4792 38.3\
-745 26.4777 38.2\
-248C26.453 35.81\
-84 26.4068 33.41\
-28 26.3541 31.00\
-69C26.2993 28.48\
-32 26.2672 25.96\
- 26.256 23.4357C\
-26.2492 22.0386 \
-26.2324 20.6432 \
-26.1888 19.2467C\
-25.9286 10.6846 \
-25.9286 10.6846 \
-27.3934 8.93197C\
-28.6915 7.66196 \
-30.3127 7.02019 \
-32.0112 6.46665C\
-33.1967 6.06589 \
-34.2063 5.3733 3\
-5.253 4.69943C35\
-.6252 4.47606 35\
-.9981 4.25383 36\
-.3721 4.03335C37\
-.0315 3.63874 37\
-.6791 3.23197 38\
-.3203 2.80845C40\
-.5148 1.3819 40.\
-5148 1.3819 41.6\
-08 1.6843ZM39.71\
-41 4.61536C39.55\
-49 4.71247 39.39\
-58 4.80957 39.23\
-18 4.90962C39.06\
-68 5.01247 38.90\
-19 5.11532 38.73\
-2 5.22128C38.406\
-2 5.42144 38.080\
-2 5.62148 37.754\
-3 5.82141C37.599\
-4 5.91697 37.444\
-5 6.01252 37.284\
-9 6.11097C36.710\
-8 6.46074 36.128\
-9 6.79378 35.542\
-9 7.12314C35.542\
-9 7.2456 35.5429\
- 7.36806 35.5429\
- 7.49423C36.245 \
-7.86996 36.9482 \
-8.24323 37.6527 \
-8.61426C37.8923 \
-8.74086 38.1315 \
-8.86811 38.3703 \
-8.99605C38.7134 \
-9.17972 39.0578 \
-9.36096 39.4024 \
-9.54177C39.7129 \
-9.70647 39.7129 \
-9.70647 40.0296 \
-9.8745C40.5534 1\
-0.1593 40.5534 1\
-0.1593 41.1093 9\
-.90634C41.1706 8\
-.0082 41.2318 6.\
-11005 41.2949 4.\
-15439C40.5202 4.\
-15439 40.3439 4.\
-22619 39.7141 4.\
-61536ZM29.5044 1\
-0.3889C27.7537 1\
-2.4846 28.5199 1\
-6.8418 28.5912 1\
-9.3599C28.6186 2\
-0.5035 28.6203 2\
-1.6471 28.6249 2\
-2.7909C28.6363 2\
-4.7436 28.6634 2\
-6.6956 28.7022 2\
-8.6479C28.7424 3\
-0.6707 28.7733 3\
-2.6933 28.7917 3\
-4.7164C28.7928 3\
-4.8416 28.7939 3\
-4.9668 28.7951 3\
-5.0958C28.8008 3\
-5.7284 28.8063 3\
-6.3609 28.8117 3\
-6.9935C28.8226 3\
-8.2577 28.8347 3\
-9.5218 28.8473 4\
-0.786C28.8485 40\
-.9108 28.8498 41\
-.0356 28.8511 41\
-.1643C28.88 44.0\
-395 28.9238 46.9\
-144 28.9682 49.7\
-894C29.0424 54.6\
-093 29.0862 59.4\
-287 29.1075 64.2\
-491C29.109 64.57\
-57 29.1105 64.90\
-22 29.112 65.228\
-8C29.1178 66.460\
-1 29.1234 67.691\
-4 29.1288 68.922\
-7C29.142 71.8813\
- 29.1665 74.8399\
- 29.1937 77.7984\
-C29.1958 78.0252\
- 29.1979 78.252 \
-29.2 78.4856C29.\
-2111 79.6851 29.\
-2225 80.8846 29.\
-2343 82.0841C29.\
-8739 81.8349 30.\
-4378 81.5651 31.\
-0173 81.1962C31.\
-2502 81.0486 31.\
-2502 81.0486 31.\
-4877 80.898C31.7\
-27 80.7446 31.72\
-7 80.7446 31.971\
-1 80.5881C32.133\
-5 80.4851 32.296\
- 80.3822 32.4633\
- 80.2761C33.2058\
- 79.8374 33.2058\
- 79.8374 33.873 \
-79.3009C33.8911 \
-78.8893 33.8958 \
-78.4771 33.8955 \
-78.0651C33.8957 \
-77.9331 33.8959 \
-77.8012 33.8961 \
-77.6653C33.8964 \
-77.2151 33.8954 \
-76.7649 33.8944 \
-76.3148C33.8943 \
-75.988 33.8943 7\
-5.6612 33.8944 7\
-5.3344C33.8943 7\
-4.4222 33.8929 7\
-3.5099 33.8913 7\
-2.5977C33.8901 7\
-1.8079 33.8895 7\
-1.0181 33.8889 7\
-0.2283C33.8797 5\
-8.9702 33.8326 4\
-7.7122 33.7904 3\
-6.4543C33.7823 3\
-4.3117 33.7745 3\
-2.1691 33.7667 3\
-0.0264C33.7662 2\
-9.8732 33.7656 2\
-9.72 33.765 29.5\
-621C33.7623 28.7\
-926 33.7595 28.0\
-231 33.7567 27.2\
-536C33.734 20.97\
-64 33.7109 14.69\
-92 33.6875 8.421\
-97C32.2299 8.421\
-97 30.5147 9.401\
-52 29.5044 10.38\
-89ZM35.914 10.27\
-74C35.9083 16.65\
-95 35.9045 23.04\
-15 35.9024 29.42\
-36C35.9023 29.65\
-99 35.9023 29.89\
-62 35.9022 30.13\
-97C35.8979 42.91\
-28 35.9104 55.68\
-52 36.0068 68.45\
-8C36.0079 68.605\
-4 36.009 68.7529\
- 36.0101 68.9048\
-C36.0372 72.4939\
- 36.0667 76.0829\
- 36.0996 79.672C\
-36.6506 79.9781 \
-37.2017 80.2843 \
-37.7695 80.5997C\
-37.9089 75.3611 \
-37.9728 70.1268 \
-37.9342 64.8866C\
-37.9333 64.7544 \
-37.9323 64.6222 \
-37.9313 64.4859C\
-37.9221 63.2431 \
-37.9124 62.0003 \
-37.9023 60.7575C\
-37.8859 58.6885 \
-37.8754 56.6195 \
-37.8683 54.5504C\
-37.8675 54.3227 \
-37.8675 54.3227 \
-37.8667 54.0903C\
-37.8618 52.6901 \
-37.8574 51.2899 \
-37.8533 49.8897C\
-37.8506 48.9429 \
-37.8476 47.9961 \
-37.8445 47.0493C\
-37.8439 46.8922 \
-37.8434 46.7352 \
-37.8429 46.5734C\
-37.8339 44.0078 \
-37.8124 41.4425 \
-37.7867 38.8771C\
-37.7604 36.2217 \
-37.7483 33.5665 \
-37.749 30.911C37\
-.7491 29.2829 37\
-.7382 27.6557 37\
-.7127 26.0279C37\
-.6964 24.9169 37\
-.6938 23.8065 37\
-.7019 22.6955C37\
-.7061 22.0561 37\
-.7045 21.4182 37\
-.6864 20.7791C37\
-.5974 17.0378 37\
-.5974 17.0378 38\
-.5166 15.9593C39\
-.4082 15.2016 40\
-.3854 14.6591 41\
-.4546 14.1916C41\
-.8576 13.9853 42\
-.1091 13.7681 42\
-.4082 13.4317C41\
-.5434 12.9816 40\
-.6782 12.5324 39\
-.8125 12.0841C39\
-.5179 11.9314 39\
-.2235 11.7784 38\
-.9292 11.6251C38\
-.5067 11.4052 38\
-.0838 11.1862 37\
-.6608 10.9674C37\
-.5287 10.8984 37\
-.3967 10.8294 37\
-.2607 10.7584C36\
-.6208 10.4005 36\
-.6208 10.4005 35\
-.914 10.2774ZM50\
-.86 10.958C50.62\
-37 11.115 50.623\
-7 11.115 50.3827\
- 11.2751C50.1378\
- 11.4414 50.1378\
- 11.4414 49.888 \
-11.6111C47.0714 \
-13.5036 47.0714 \
-13.5036 45.8918 \
-13.9639C43.7576 \
-14.8343 40.8962 \
-16.1563 39.8789 \
-18.353C39.4475 2\
-0.0604 39.5028 2\
-1.8002 39.5602 2\
-3.5491C39.5802 2\
-4.3363 39.5697 2\
-5.1232 39.5631 2\
-5.9105C39.5559 2\
-7.2709 39.5674 2\
-8.63 39.5923 29.\
-9902C39.6281 31.\
-9566 39.6351 33.\
-9223 39.6354 35.\
-8891C39.6366 39.\
-0807 39.661 42.2\
-718 39.7002 45.4\
-632C39.7381 48.5\
-607 39.7646 51.6\
-579 39.7759 54.7\
-556C39.7766 54.9\
-469 39.7773 55.1\
-382 39.7781 55.3\
-352C39.7816 56.2\
-95 39.7848 57.25\
-48 39.788 58.214\
-6C39.808 64.0582\
- 39.8425 69.9016\
- 39.9047 75.745C\
-39.9095 76.2059 \
-39.914 76.6667 3\
-9.9184 77.1276C3\
-9.9251 77.8357 3\
-9.9328 78.5437 3\
-9.9413 79.2518C3\
-9.9443 79.509 39\
-.947 79.7663 39.\
-9493 80.0235C39.\
-9525 80.3709 39.\
-957 80.7182 39.9\
-616 81.0656C39.9\
-638 81.2592 39.9\
-66 81.4528 39.96\
-82 81.6523C39.94\
-79 82.0767 39.94\
-79 82.0767 40.18\
-16 82.2696C40.19\
-8 82.7374 40.203\
- 83.2 40.1997 83\
-.6677C40.1994 83\
-.8075 40.1992 83\
-.9473 40.1989 84\
-.0913C40.1979 84\
-.5394 40.1955 84\
-.9874 40.1932 85\
-.4355C40.1923 85\
-.7386 40.1914 86\
-.0417 40.1907 86\
-.3448C40.1886 87\
-.0893 40.1854 87\
-.8337 40.1816 88\
-.5782C41.0176 88\
-.3208 41.7727 87\
-.9887 42.5524 87\
-.5932C42.7305 87\
-.5034 42.7305 87\
-.5034 42.9123 87\
-.4117C43.1661 87\
-.2837 43.4197 87\
-.1553 43.6732 87\
-.0267C44.3379 86\
-.6894 45.0038 86\
-.3544 45.6697 86\
-.0197C45.8026 85\
-.9529 45.9354 85\
-.8861 46.0722 85\
-.8173C47.4392 85\
-.1316 48.818 84.\
-4717 50.2022 83.\
-8214C50.3614 83.\
-7463 50.5205 83.\
-6712 50.6846 83.\
-5938C50.8207 83.\
-5301 50.9568 83.\
-4664 51.0971 83.\
-4008C51.23 83.33\
-37 51.363 83.266\
-5 51.5 83.1974C5\
-1.7518 83.0842 5\
-1.7518 83.0842 5\
-2.0087 82.9687C5\
-2.4816 82.6717 5\
-2.4816 82.6717 5\
-2.5359 82.1067C5\
-2.5304 81.7812 5\
-2.5304 81.7812 5\
-2.5248 81.4492C5\
-2.5236 81.2697 5\
-2.5236 81.2696 5\
-2.5224 81.0865C5\
-2.5185 80.6921 5\
-2.508 80.2982 52\
-.4973 79.9039C52\
-.4932 79.6309 52\
-.4894 79.3579 52\
-.486 79.0849C52.\
-4736 78.229 52.4\
-513 77.3734 52.4\
-277 76.5177C52.4\
-202 76.2336 52.4\
-128 75.9496 52.4\
-054 75.6656C52.3\
-616 74.0319 52.3\
-067 72.3988 52.2\
-421 70.7657C50.8\
-836 71.5324 49.5\
-332 72.3102 48.1\
-992 73.1191C48.0\
-199 73.2277 48.0\
-199 73.2277 47.8\
-37 73.3385C47.34\
-75 73.6352 46.85\
-82 73.9323 46.36\
-96 74.2305C46.00\
-59 74.4524 45.64\
-14 74.673 45.276\
-9 74.8934C45.112\
-2 74.9946 45.112\
-2 74.9946 44.944\
-2 75.0978C44.417\
-2 75.4153 43.947\
- 75.6739 43.3359\
- 75.7755C43.1522\
- 75.4081 42.9685\
- 75.0407 42.7792\
- 74.6622C42.5343\
- 74.7234 42.2894\
- 74.7847 42.0371\
- 74.8477C42.0983\
- 71.2964 42.1595\
- 67.745 42.2226 \
-64.086C42.4063 6\
-4.0248 42.59 63.\
-9636 42.7792 63.\
-9005C43.093 63.5\
-959 43.4015 63.2\
-857 43.707 62.97\
-27C44.1094 62.61\
-22 44.5223 62.26\
-47 44.9362 61.91\
-74C45.0424 61.82\
-74 45.1486 61.73\
-73 45.258 61.644\
-6C45.7185 61.256\
-4 46.1741 60.895\
-1 46.6757 60.560\
-6C46.7378 60.089\
-7 46.7632 59.662\
-8 46.7654 59.190\
-6C46.7682 59.049\
-4 46.771 58.9081\
- 46.7738 58.7626\
-C46.7819 58.2941\
- 46.7857 57.8256\
- 46.7888 57.3571\
-C46.792 57.0316 \
-46.7952 56.7062 \
-46.7984 56.3807C\
-46.8043 55.6975 \
-46.8075 55.0144 \
-46.8095 54.3311C\
-46.8125 53.4566 \
-46.8259 52.5826 \
-46.8417 51.7082C\
-46.8521 51.0355 \
-46.855 50.3629 4\
-6.8558 49.6901C4\
-6.8575 49.3679 4\
-6.862 49.0456 46\
-.8693 48.7234C46\
-.9721 46.9898 46\
-.9721 46.9898 46\
-.3185 45.4667C45\
-.8884 45.1746 45\
-.4884 44.9789 45\
-.0058 44.7892C43\
-.8887 44.1713 42\
-.8276 43.537 42.\
-2226 42.377C41.9\
-777 41.2496 42.0\
-405 40.0683 42.0\
-487 38.9212C42.0\
-466 38.5946 42.0\
-44 38.268 42.040\
-8 37.9414C42.035\
-7 37.2996 42.034\
-1 36.658 42.036 \
-36.0163C42.038 3\
-5.2738 42.03 34.\
-532 42.0168 33.7\
-897C42.0117 33.4\
-283 42.0068 33.0\
-668 42.0023 32.7\
-054C41.9998 32.5\
-467 41.9973 32.3\
-88 41.9947 32.22\
-44C41.994 31.435\
- 42.0398 30.8321\
- 42.4082 30.131C\
-42.7909 29.8503 \
-42.7909 29.8503 \
-43.2678 29.6168C\
-43.5353 29.4832 \
-43.5353 29.4832 \
-43.8081 29.3469C\
-44.001 29.2543 4\
-4.1939 29.1617 4\
-4.3926 29.0662C4\
-4.6884 28.9199 4\
-4.6884 28.9199 4\
-4.9901 28.7707C4\
-5.6202 28.4598 4\
-6.2523 28.1531 4\
-6.8845 27.8464C4\
-7.312 27.6364 47\
-.7394 27.4261 48\
-.1666 27.2155C49\
-.2144 26.6998 50\
-.2637 26.1875 51\
-.3144 25.6778C51\
-.2226 26.0452 51\
-.2226 26.0452 51\
-.1289 26.42C51.7\
-718 26.3282 51.7\
-718 26.3282 52.4\
-277 26.2345C52.4\
-277 21.0299 52.4\
-277 15.8253 52.4\
-277 10.463C51.63\
-61 10.463 51.485\
-9 10.5355 50.86 \
-10.958ZM54.7405 \
-41.4421C54.5309 \
-41.5828 54.5309 \
-41.5828 54.317 4\
-1.7264C54.0209 4\
-1.9255 53.725 42\
-.1249 53.4293 42\
-.3245C52.9748 42\
-.6307 52.5192 42\
-.9352 52.0635 43\
-.2395C51.7767 43\
-.4327 51.4901 43\
-.626 51.2035 43.\
-8194C51.0661 43.\
-9108 50.9287 44.\
-0022 50.7871 44.\
-0965C50.4614 44.\
-3178 50.1446 44.\
-5522 49.83 44.78\
-92C49.83 44.9116\
- 49.83 45.0341 4\
-9.83 45.1602C50.\
-1833 45.4185 50.\
-1833 45.4185 50.\
-6476 45.6734C50.\
-8255 45.776 51.0\
-033 45.8785 51.1\
-866 45.9842C51.3\
-819 46.095 51.57\
-71 46.2058 51.77\
-83 46.3199C52.19\
-12 46.5574 52.60\
-41 46.7949 53.01\
-69 47.0324C53.22\
-88 47.1536 53.44\
-06 47.2749 53.65\
-88 47.3998C54.59\
-27 47.9355 55.52\
-22 48.4786 56.45\
-17 49.0219C56.63\
-27 49.1275 56.81\
-36 49.233 57 49.\
-3418C58.5923 50.\
-2705 60.1823 51.\
-2028 61.7723 52.\
-1354C63.4718 53.\
-1323 65.1729 54.\
-1265 66.8753 55.\
-1184C67.9168 55.\
-7256 68.9575 56.\
-3341 69.9974 56.\
-9439C70.1796 57.\
-0508 70.1796 57.\
-0508 70.3655 57.\
-1598C71.0712 57.\
-5737 71.7768 57.\
-9878 72.4822 58.\
-4021C72.7927 58.\
-5841 73.1038 58.\
-7651 73.4149 58.\
-946C73.7336 59.1\
-337 74.0502 59.3\
-25 74.362 59.524\
-C74.982 59.922 7\
-4.982 59.922 75.\
-6976 59.9483C76.\
-4774 59.7374 77.\
-1935 59.4072 77.\
-9288 59.0763C78.\
-0922 59.003 78.2\
-556 58.9297 78.4\
-24 58.8542C79.86\
-92 58.1889 81.18\
-51 57.3899 82.48\
-63 56.4786C82.26\
-32 55.8093 82.12\
-73 55.7698 81.52\
-81 55.4393C81.36\
-73 55.3493 81.20\
-66 55.2593 81.04\
-1 55.1666C80.867\
-3 55.0714 80.693\
-7 54.9763 80.514\
-8 54.8783C80.153\
-3 54.676 79.7919\
- 54.4736 79.4306\
- 54.2709C79.2533\
- 54.1719 79.0761\
- 54.073 78.8935 \
-53.971C78.2827 5\
-3.6269 77.682 53\
-.2698 77.0822 52\
-.9068C75.8111 52\
-.1377 74.5338 51\
-.3792 73.2553 50\
-.6223C73.038 50.\
-4936 72.8206 50.\
-3649 72.6033 50.\
-2362C72.16 49.97\
-37 71.7167 49.71\
-12 71.2734 49.44\
-88C70.0094 48.70\
-04 68.7459 47.95\
-15 67.4823 47.20\
-24C66.5363 46.64\
-16 65.5902 46.08\
-11 64.6432 45.52\
-19C62.2858 44.12\
-97 59.9344 42.72\
-93 57.6029 41.29\
-41C57.4368 41.19\
-23 57.2708 41.09\
-04 57.0997 40.98\
-54C56.9538 40.89\
-55 56.8078 40.80\
-56 56.6575 40.71\
-29C55.93 40.2953\
- 55.3543 41.0291\
- 54.7405 41.4421\
-ZM48.9023 47.201\
-3C48.9023 51.548\
-6 48.9023 55.896\
- 48.9023 60.3751\
-C50.1881 61.018 \
-50.1881 61.018 5\
-1.5 61.6739C52.2\
-047 62.0736 52.9\
-034 62.4768 53.5\
-989 62.8916C55.1\
-462 63.8044 56.7\
-023 64.6976 58.2\
-724 65.5704C59.9\
-849 66.5233 61.6\
-814 67.5005 63.3\
-713 68.4928C64.6\
-933 69.267 66.02\
-56 70.0207 67.36\
-42 70.7657C68.89\
-72 71.619 70.419\
-9 72.4874 71.933\
-3 73.375C73.4618\
- 74.2712 74.9955\
- 75.1572 76.5372\
- 76.0306C76.722 \
-76.1356 76.9068 \
-76.2406 77.0972 \
-76.3488C77.2661 \
-76.4443 77.4351 \
-76.5397 77.6091 \
-76.638C77.7586 7\
-6.7225 77.9081 7\
-6.807 78.0621 76\
-.8941C78.3672 77\
-.0887 78.3672 77\
-.0887 78.5898 77\
-.0743C78.5898 71\
-.8697 78.5898 66\
-.6651 78.5898 61\
-.3028C77.6459 61\
-.4916 76.9582 61\
-.8106 76.1074 62\
-.2378C75.554 62.\
-4407 75.422 62.4\
-132 74.8789 62.2\
-306C74.5869 62.0\
-856 74.2997 61.9\
-308 74.0164 61.7\
-696C73.8473 61.6\
-738 73.6782 61.5\
-78 73.504 61.479\
-4C73.3224 61.375\
-2 73.1409 61.271\
- 72.9538 61.1637\
-C72.6691 61.0015\
- 72.6691 61.0015\
- 72.3786 60.836C\
-70.7638 59.913 6\
-9.1619 58.9687 6\
-7.5628 58.0188C6\
-6.5064 57.3916 6\
-5.4456 56.7721 6\
-4.3839 56.1539C6\
-2.7162 55.1826 6\
-1.0503 54.2081 5\
-9.3857 53.2315C5\
-7.5198 52.1369 5\
-5.6524 51.0448 5\
-3.783 49.9561C52\
-.9445 49.4676 52\
-.1068 48.9776 51\
-.2716 48.4834C51\
-.1232 48.3956 50\
-.9747 48.3078 50\
-.8217 48.2174C50\
-.5472 48.0548 50\
-.2728 47.8919 49\
-.9987 47.7286C49\
-.4829 47.3636 49\
-.4829 47.3636 48\
-.9023 47.2013ZM4\
-6.7569 63.2511C4\
-6.5856 63.3971 4\
-6.5856 63.3971 4\
-6.4108 63.5461C4\
-6.1277 63.7875 4\
-5.845 64.0295 45\
-.5625 64.2716C46\
-.0949 64.6881 46\
-.6381 65.0314 47\
-.2288 65.3595C47\
-.5033 65.5126 47\
-.5033 65.5126 47\
-.7834 65.6687C47\
-.9804 65.7779 48\
-.1774 65.887 48.\
-3804 65.9995C48.\
-8016 66.2341 49.\
-2227 66.4687 49.\
-6438 66.7033C49.\
-8616 66.8244 50.\
-0795 66.9455 50.\
-2974 67.0667C53.\
-369 68.775 56.42\
-96 70.5016 59.47\
-85 72.2501C60.32\
-87 72.7375 61.17\
-91 73.2246 62.02\
-97 73.7113C62.13\
-98 73.7743 62.24\
-98 73.8372 62.36\
-32 73.9021C64.10\
-49 74.8985 65.85\
-42 75.8806 67.60\
-72 76.8571C69.18\
- 77.7359 70.737 \
-78.6405 72.2879 \
-79.5575C73.8754 \
-80.6636 73.8754 \
-80.6636 75.6274 \
-81.1003C76.1773 \
-80.905 76.6517 8\
-0.6087 77.1518 8\
-0.3098C77.3518 8\
-0.1909 77.5517 8\
-0.072 77.7577 79\
-.9496C77.9099 79\
-.858 78.062 79.7\
-663 78.2187 79.6\
-72C77.7803 79.18\
-64 77.3217 78.89\
-76 76.7495 78.58\
-41C76.565 78.482\
- 76.3805 78.38 7\
-6.1904 78.2749C7\
-5.8913 78.1112 7\
-5.8913 78.1112 7\
-5.5863 77.9441C7\
-5.1621 77.7093 7\
-4.7381 77.4742 7\
-4.3142 77.2388C7\
-4.2062 77.1788 7\
-4.0981 77.1189 7\
-3.9868 77.057C72\
-.9142 76.46 71.8\
-549 75.8411 70.7\
-968 75.2188C69.2\
-913 74.3347 67.7\
-765 73.4702 66.2\
-509 72.6212C64.5\
-385 71.6682 62.8\
-42 70.6911 61.15\
-2 69.6988C59.83 \
-68.9246 58.4978 \
-68.1709 57.1591 \
-67.4259C55.2303 \
-66.3521 53.3193 \
-65.2501 51.4151 \
-64.1331C51.2492 \
-64.0358 51.0833 \
-63.9385 50.9124 \
-63.8382C50.531 6\
-3.6142 50.1498 6\
-3.3896 49.7689 6\
-3.1647C49.4651 6\
-2.9861 49.4651 6\
-2.9861 49.1552 6\
-2.8039C48.9695 6\
-2.6943 48.7837 6\
-2.5848 48.5923 6\
-2.4719C47.7584 6\
-2.0063 47.3955 6\
-2.7033 46.7569 6\
-3.2511ZM80.8164 \
-75.5899C80.8164 \
-76.3859 80.8164 \
-77.1819 80.8164 \
-78.002C81.8727 7\
-7.7042 81.8727 7\
-7.7042 82.4863 7\
-7.2599C82.2008 7\
-6.4033 81.5365 7\
-6.07 80.8164 75.\
-5899Z\x22 fill=\x22bla\
-ck\x22/>\x0d\x0a<path d=\x22\
-M50.6856 26.5332\
-C50.7642 27.6814\
- 50.821 28.828 5\
-0.8588 29.9782C5\
-0.8746 30.3683 5\
-0.8961 30.7581 5\
-0.9235 31.1475C5\
-1.1393 34.2873 5\
-1.1393 34.2873 5\
-0.3916 35.2687C4\
-9.6481 35.9566 4\
-8.8025 36.4432 4\
-7.9075 36.9083C4\
-7.4419 37.1571 4\
-7.0336 37.4549 4\
-6.6195 37.7813C4\
-6.5016 37.8704 4\
-6.3837 37.9594 4\
-6.2622 38.0512C4\
-6.1529 38.1346 4\
-6.0436 38.218 45\
-.9309 38.3038C45\
-.4758 38.6492 45\
-.0199 38.9936 44\
-.5625 39.3359C44\
-.4435 39.4252 44\
-.3244 39.5144 44\
-.2018 39.6064C43\
-.3074 40.2637 43\
-.3074 40.2637 42\
-.8926 40.2637C42\
-.8391 39.1946 42\
-.7862 38.1256 42\
-.7341 37.0565C42\
-.7163 36.6937 42\
-.6983 36.3309 42\
-.6801 35.9682C42\
-.4864 32.1027 42\
-.4864 32.1027 42\
-.5215 30.2441C45\
-.7901 28.4203 45\
-.7901 28.4203 47\
-.5313 28.0176C47\
-.5313 27.8951 47\
-.5313 27.7727 47\
-.5313 27.6465C47\
-.917 27.4592 48.\
-3037 27.2741 48.\
-6909 27.0898C48.\
-9062 26.9865 49.\
-1215 26.8832 49.\
-3433 26.7767C49.\
-9434 26.5332 49.\
-9434 26.5332 50.\
-6856 26.5332Z\x22 f\
-ill=\x22#AFAFAF\x22/>\x0d\
-\x0a<path d=\x22M51.05\
-31 35.4856C51.42\
-76 35.6253 51.74\
-3 35.786 52.0829\
- 35.9957C52.2028\
- 36.0688 52.3226\
- 36.1419 52.4461\
- 36.2172C52.5692\
- 36.2936 52.6924\
- 36.37 52.8193 3\
-6.4487C53.8634 3\
-7.0986 53.8634 3\
-7.0986 54.9531 3\
-7.6664C54.9531 3\
-7.8501 54.9531 3\
-8.0338 54.9531 3\
-8.223C54.7391 38\
-.325 54.5251 38.\
-427 54.3046 38.5\
-321C53.4792 38.9\
-453 52.7286 39.4\
-345 51.9699 39.9\
-582C51.8337 40.0\
-51 51.6975 40.14\
-38 51.5573 40.23\
-94C51.1269 40.53\
-28 50.6974 40.82\
-74 50.2681 41.12\
-22C49.8359 41.41\
-81 49.4036 41.71\
-38 48.9709 42.00\
-9C48.7029 42.191\
-9 48.4353 42.375\
-2 48.168 42.5591\
-C48.0466 42.6421\
- 47.9251 42.7252\
- 47.8 42.8107C47\
-.694 42.8834 47.\
-5881 42.9562 47.\
-4789 43.0311C47.\
-1317 43.2508 46.\
-7973 43.445 46.4\
-18 43.6039C46.01\
-01 43.4475 46.01\
-01 43.4475 45.57\
-43 43.1661C45.41\
-76 43.0661 45.26\
-1 42.9662 45.099\
-6 42.8631C44.937\
-6 42.7555 44.775\
-7 42.6479 44.608\
-9 42.537C44.4441\
- 42.4322 44.2793\
- 42.3275 44.1095\
- 42.2195C43.2236\
- 41.6453 43.2236\
- 41.6453 42.8926\
- 41.3773C42.8926\
- 41.2549 42.8926\
- 41.1324 42.8926\
- 41.0062C43.3421\
- 40.662 43.7936 \
-40.3391 44.261 4\
-0.0205C44.5501 3\
-9.8202 44.839 39\
-.6196 45.1278 39\
-.4189C45.2786 39\
-.3145 45.4294 39\
-.21 45.5848 39.1\
-024C46.3405 38.5\
-746 47.0866 38.0\
-336 47.8328 37.4\
-924C48.6266 36.9\
-173 48.6266 36.9\
-173 49.0202 36.6\
-351C49.2654 36.4\
-561 49.5074 36.2\
-726 49.746 36.08\
-48C50.5963 35.42\
-87 50.5963 35.42\
-87 51.0531 35.48\
-56Z\x22 fill=\x22#ACAC\
-AC\x22/>\x0d\x0a<path d=\x22\
-M42.5215 64.0137\
-C43.1549 64.172 \
-43.508 64.3169 4\
-4.0522 64.6399C4\
-4.8214 65.0799 4\
-5.5812 65.3945 4\
-6.418 65.6836C46\
-.418 65.8061 46.\
-418 65.9285 46.4\
-18 66.0547C46.56\
-72 66.1006 46.71\
-65 66.1465 46.87\
-02 66.1938C47.79\
-73 66.5191 48.69\
-35 66.9141 49.57\
-23 67.3535C49.57\
-23 67.476 49.572\
-3 67.5984 49.572\
-3 67.7246C49.939\
-6 67.8471 50.307\
- 67.9695 50.6855\
- 68.0957C50.6855\
- 68.2794 50.6855\
- 68.4631 50.6855\
- 68.6523C50.3638\
- 68.9216 50.3638\
- 68.9216 49.91 6\
-9.2032C49.7428 6\
-9.3082 49.5755 6\
-9.4133 49.4032 6\
-9.5216C49.2217 6\
-9.6327 49.0402 6\
-9.7439 48.8533 6\
-9.8584C48.67 69.\
-9729 48.4868 70.\
-0874 48.2979 70.\
-2054C47.4011 70.\
-7642 46.4991 71.\
-3143 45.5953 71.\
-8617C45.4421 71.\
-9546 45.2889 72.\
-0476 45.131 72.1\
-433C44.8416 72.3\
-181 44.5515 72.4\
-919 44.2607 72.6\
-644C43.5555 73.0\
-478 43.5555 73.0\
-478 43.0781 73.6\
-621C42.8944 73.6\
-621 42.7107 73.6\
-621 42.5215 73.6\
-621C42.5215 70.4\
-781 42.5215 67.2\
-941 42.5215 64.0\
-137Z\x22 fill=\x22#ADA\
-DAD\x22/>\x0d\x0a<path d=\
-\x22M42.336 30.2441\
-C42.3972 30.2441\
- 42.4585 30.2441\
- 42.5216 30.2441\
-C42.8063 33.5909\
- 42.9475 36.9049\
- 42.8927 40.2637\
-C43.3453 39.9472\
- 43.7976 39.6302\
- 44.2495 39.3127\
-C44.4587 39.1659\
- 44.4587 39.1659\
- 44.6721 39.0161\
-C45.4634 38.458 \
-46.2468 37.8914 \
-47.0218 37.3109C\
-47.1804 37.1923 \
-47.339 37.0737 4\
-7.5025 36.9515C4\
-7.8124 36.7189 4\
-8.1214 36.4852 4\
-8.4296 36.2504C4\
-8.5708 36.1445 4\
-8.7121 36.0386 4\
-8.8577 35.9294C4\
-8.9824 35.8348 4\
-9.1071 35.7401 4\
-9.2356 35.6426C4\
-9.5723 35.4395 4\
-9.5723 35.4395 5\
-0.129 35.4395C49\
-.457 36.4906 48.\
-7741 37.12 47.74\
-01 37.8052C47.46\
-04 37.9963 47.18\
-08 38.1876 46.90\
-15 38.3792C46.68\
-96 38.5234 46.68\
-96 38.5234 46.47\
-34 38.6706C45.79\
-14 39.1412 45.12\
-46 39.6322 44.45\
-82 40.1245C44.27\
-76 40.2575 44.27\
-76 40.2575 44.09\
-34 40.3932C43.81\
-66 40.5972 43.54\
-02 40.8015 43.26\
-37 41.0059C43.20\
-25 40.8834 43.14\
-13 40.7609 43.07\
-82 40.6348C42.95\
-57 40.6348 42.83\
-33 40.6348 42.70\
-71 40.6348C42.65\
-35 39.5427 42.60\
-07 38.4506 42.54\
-86 37.3585C42.53\
-08 36.988 42.512\
-8 36.6175 42.494\
-6 36.247C42.3963\
- 34.2449 42.3018\
- 32.2493 42.336 \
-30.2441Z\x22 fill=\x22\
+<rect width=\x2295\x22\
+ height=\x2295\x22 rx=\
+\x2220\x22 fill=\x22url(#\
+paint0_radial_20\
+13_60)\x22/>\x0d\x0a<path\
+ d=\x22M45.2286 78.\
+1756C45.1377 79.\
+4911 44.8464 80.\
+7899 44.9225 82.\
+1259C44.9522 82.\
+6361 45.0895 82.\
+8235 45.6201 82.\
+8124C47.0711 82.\
+7809 48.5258 82.\
+8328 49.9768 82.\
+7846C50.6169 82.\
+7642 50.9973 82.\
+9182 51.4092 83.\
+4804C52.6116 85.\
+1206 53.9456 86.\
+6644 55.2129 88.\
+2582C55.4244 88.\
+5235 55.9143 88.\
+8575 55.5265 89.\
+1767C55.0571 89.\
+5645 54.8641 88.\
+9429 54.6414 88.\
+6738C53.3853 87.\
+1505 52.1533 85.\
+6068 50.9119 84.\
+0704C50.7041 83.\
+8125 50.5408 83.\
+5138 50.1215 83.\
+5138C46.6685 83.\
+5249 43.2155 83.\
+5138 39.5286 83.\
+5138C39.9109 83.\
+9183 40.1465 84.\
+1762 40.3933 84.\
+423C41.723 85.75\
+52 43.0547 87.08\
+62 44.3881 88.41\
+59C44.5978 88.62\
+56 44.9448 88.87\
+42 44.6275 89.18\
+04C44.3102 89.48\
+65 44.0708 89.12\
+1 43.8704 88.915\
+C42.2488 87.3064\
+ 40.6178 85.7051\
+ 39.0258 84.0686\
+C38.8524 83.8785\
+ 38.6384 83.7298\
+ 38.3998 83.6334\
+C38.1612 83.5371\
+ 37.904 83.4955 \
+37.6472 83.5119C\
+35.5153 83.5416 \
+33.3796 83.5212 \
+31.2514 83.5323C\
+30.9898 83.5323 \
+30.7059 83.4414 \
+30.3571 83.6956L\
+34.7415 88.0634C\
+34.9382 88.2489 \
+35.1386 88.453 3\
+5.3204 88.6627C3\
+5.3905 88.7249 3\
+5.4344 88.8114 3\
+5.4433 88.9046C3\
+5.4523 88.9979 3\
+5.4256 89.0911 3\
+5.3687 89.1655C3\
+5.1831 89.3752 3\
+4.9753 89.3047 3\
+4.812 89.1377C32\
+.9281 87.2662 31\
+.0485 85.3909 29\
+.1733 83.5119C29\
+.0397 83.3802 28\
+.9358 83.2188 29\
+.0471 83.0184C29\
+.1992 82.7438 29\
+.472 82.805 29.7\
+095 82.8031C31.3\
+479 82.8031 32.9\
+863 82.766 34.62\
+28 82.8031C35.36\
+5 82.8235 35.678\
+5 82.5953 35.647\
+ 81.8179C35.6117\
+ 80.9273 35.7045\
+ 80.0311 35.7045\
+ 79.1386C35.7045\
+ 64.2107 35.7045\
+ 49.2835 35.7045\
+ 34.3568C35.7045\
+ 32.9819 35.5858\
+ 33.2046 36.8994\
+ 33.1879C37.8457\
+ 33.1768 38.7939\
+ 33.1879 39.9016\
+ 33.1879C38.2484\
+ 30.4307 36.6768\
+ 27.807 35.0143 \
+25.0238C35.8474 \
+25.0238 36.5413 \
+24.9793 37.226 2\
+5.0368C37.9107 2\
+5.0943 38.0535 2\
+4.8513 38.0461 2\
+4.2074C38.0109 2\
+0.3536 38.0461 1\
+6.498 37.9867 12\
+.6442C37.9756 11\
+.8556 38.2094 11\
+.67 38.9646 11.6\
+942C40.7662 11.7\
+517 40.7662 11.7\
+127 40.7662 13.4\
+884C40.7662 17.0\
+36 40.7866 20.58\
+18 40.7495 24.12\
+95C40.7495 24.84\
+39 40.9499 25.02\
+2 41.642 24.9663\
+C42.5512 24.8921\
+ 43.4697 24.9478\
+ 44.4883 24.9478\
+C43.0522 27.6642\
+ 41.6327 30.3435\
+ 40.1242 33.1935\
+H44.839C45.0468 \
+33.5052 44.941 3\
+3.854 44.9429 34\
+.1824C44.9503 38\
+.7593 44.9503 43\
+.3416 44.9429 47\
+.9296C44.9109 48\
+.5736 45.0145 49\
+.2171 45.2472 49\
+.8185C45.3381 50\
+.0393 45.4754 50\
+.2489 45.4327 50\
+.5031C45.3409 51\
+.2982 45.3 52.09\
+83 45.3103 52.89\
+85C45.3103 59.70\
+19 45.3103 66.50\
+53 45.3103 73.30\
+87C45.3412 74.51\
+2 45.2885 75.716\
+ 45.1526 76.912C\
+45.084 77.3336 4\
+5.1099 77.7652 4\
+5.2286 78.1756Z\x22\
+ fill=\x22black\x22/>\x0d\
+\x0a<path d=\x22M45.22\
+87 78.1756C45.13\
+59 78.2183 44.99\
+68 78.4094 44.95\
+97 78.2721C44.91\
+65 77.9991 44.90\
+78 77.7217 44.93\
+37 77.4464C44.93\
+37 69.0177 44.93\
+37 60.5883 44.93\
+37 52.1583C44.93\
+37 51.5775 44.98\
+94 50.9967 45.01\
+9 50.4141C44.956\
+ 50.2675 45.0302\
+ 50.0783 44.8836\
+ 49.9558C44.8836\
+ 44.7754 44.8836\
+ 39.5937 44.8836\
+ 34.4107C44.8836\
+ 34.0118 44.8576\
+ 33.611 44.8428 \
+33.2102C45.2139 \
+33.5646 45.0599 \
+34.0229 45.0617 \
+34.4348C45.0729 \
+39.2405 45.0729 \
+44.0517 45.0617 \
+48.8685C45.405 4\
+8.7999 45.3419 4\
+8.5104 45.4458 4\
+8.3304C45.5979 4\
+8.0466 45.6907 4\
+7.7347 45.7186 4\
+7.4138C45.8299 4\
+7.1021 45.9449 4\
+6.7923 46.0488 4\
+6.4861C46.0608 4\
+6.2245 46.1646 4\
+5.9755 46.342 45\
+.7829C46.1323 45\
+.5138 46.3197 45\
+.2596 46.3717 44\
+.9999C46.6314 44\
+.7475 46.5702 44\
+.3764 46.7149 44\
+.0833C46.8059 43\
+.7975 46.7539 43\
+.4468 47.086 43.\
+2687C46.8856 42.\
+7622 47.2716 42.\
+3762 47.3588 41.\
+9272C47.4534 41.\
+5153 47.5443 41.\
+0997 47.8282 40.\
+7694C47.6835 39.\
+6691 48.3663 38.\
+784 48.6094 37.7\
+84C48.8524 37.54\
+83 48.8302 37.15\
+49 49.1178 36.94\
+71C49.1345 36.72\
+82 49.153 36.507\
+4 49.1697 36.286\
+6C49.4194 35.884\
+1 49.6212 35.453\
+8 49.7709 35.004\
+5C49.9564 34.546\
+2 50.1958 34.113\
+8 50.4166 33.674\
+1C50.5929 33.509\
+ 50.7265 33.2789\
+ 51.0159 33.2882\
+C51.9437 33.3976\
+ 52.825 33.008 5\
+3.7472 33.1026C5\
+5.4356 33.2176 5\
+7.1278 33.1954 5\
+8.8182 33.1991C5\
+9.0594 33.1991 5\
+9.3748 33.1434 5\
+9.4843 33.3995C5\
+9.5937 33.6555 5\
+9.3247 33.8374 5\
+9.1577 34.0044C5\
+8.7439 34.4144 5\
+8.358 34.8505 57\
+.9294 35.2457L57\
+.8162 35.6279C57\
+.5713 35.7686 57\
+.3578 35.9581 57\
+.1891 36.1845C57\
+.1223 36.5556 56\
+.6881 36.6985 56\
+.6139 37.0696C56\
+.4125 37.2571 56\
+.2722 37.5008 56\
+.2112 37.7691L55\
+.8401 38.1847C55\
+.5451 38.4965 55\
+.4208 38.8935 55\
+.2724 39.2795L55\
+.0775 39.3834C54\
+.7213 40.2295 54\
+.122 40.9661 53.\
+9643 41.8957L53.\
+5523 42.8679C53.\
+1818 43.5686 52.\
+8965 44.3111 52.\
+7025 45.0797C52.\
+6079 45.4025 52.\
+5318 45.7346 52.\
+2906 45.9907C52.\
+5374 46.9852 52.\
+0698 47.8462 51.\
+7674 48.7331C51.\
+5317 49.0671 51.\
+7247 49.555 51.3\
+666 49.8464C51.3\
+666 49.9094 51.3\
+666 49.9744 51.3\
+666 50.0319C51.3\
+766 50.4145 51.3\
+137 50.7955 51.1\
+81 51.1545V51.12\
+85C50.9955 51.47\
+73 51.1569 51.95\
+05 50.81 52.2418\
+C50.9102 52.4273\
+ 51.0957 52.5906\
+ 50.8563 52.7984\
+C50.591 53.1213 \
+50.8044 53.6241 \
+50.4389 53.9117V\
+54.1325C50.3776 \
+54.5129 50.3925 \
+54.9062 50.2533 \
+55.2717L50.2199 \
+55.8024C49.9546 \
+56.1308 50.0344 \
+56.565 49.86 56.\
+9268L49.8488 57.\
+4723C49.5835 57.\
+8007 49.6633 58.\
+2349 49.4889 58.\
+5967L49.4777 59.\
+1423C49.1938 59.\
+582 49.205 60.09\
+6 49.1066 60.583\
+9V60.8122C48.692\
+9 61.2111 48.993\
+5 61.8754 48.563\
+ 62.2669C48.897 \
+62.6528 48.55 63\
+.0276 48.5463 63\
+.408C48.2123 63.\
+716 48.3607 64.1\
+743 48.19 64.532\
+4C48.19 64.7179 \
+48.1808 64.8923 \
+48.1771 65.0723C\
+47.9117 65.4007 \
+47.9915 65.8349 \
+47.8189 66.1856L\
+47.8078 66.7274C\
+47.5443 67.015 4\
+7.5295 67.3731 4\
+7.5258 67.7349C4\
+7.2846 68.0448 4\
+7.4441 68.4549 4\
+7.2623 68.7814L4\
+7.2493 69.3214C4\
+6.9098 69.7463 4\
+7.1064 70.3697 4\
+6.7094 70.7742C4\
+7.0434 71.1583 4\
+6.6945 71.5331 4\
+6.6927 71.9116C4\
+6.3587 72.2215 4\
+6.5071 72.6816 4\
+6.3346 73.0434L4\
+6.3234 73.5778C4\
+6.0618 73.8654 4\
+6.0451 74.2235 4\
+6.0414 74.5835C4\
+5.8002 74.8933 4\
+5.9598 75.3034 4\
+5.7779 75.6281L4\
+5.7668 76.1699C4\
+5.5816 76.4711 4\
+5.4846 76.8182 4\
+5.4866 77.1718C4\
+5.2491 77.4761 4\
+5.4031 77.8788 4\
+5.225 78.1979L45\
+.2287 78.1756Z\x22 \
+fill=\x22#B2B2B2\x22/>\
+\x0d\x0a<path d=\x22M51.7\
+229 32.8576L44.8\
+242 32.377L50.78\
+77 23.8641C51.32\
+95 24.6731 51.57\
+63 25.5174 51.92\
+32 26.3078C52.09\
+02 26.6789 52.27\
+39 26.7958 52.69\
+7 26.6678C55.179\
+6 25.9256 57.458\
+1 24.8123 59.436\
+ 23.1182C63.0857\
+ 19.9918 62.9447\
+ 16.1918 59.0297\
+ 13.3919C56.4005\
+ 11.5141 53.3501\
+ 10.7441 50.2181\
+ 10.258C48.999 1\
+0.0724 47.7633 9\
+.99451 46.535 9.\
+88689C45.6276 9.\
+80525 45.0506 9.\
+24861 45.0506 8.\
+43592C45.0454 8.\
+24083 45.0812 8.\
+04682 45.1555 7.\
+86636C45.2298 7.\
+68591 45.341 7.5\
+2299 45.482 7.38\
+809C45.6231 7.25\
+318 45.7907 7.14\
+927 45.9743 7.08\
+304C46.1579 7.01\
+68 46.3533 6.989\
+71 46.5479 7.003\
+5C51.2497 7.2391\
+4 55.816 8.04256\
+ 59.924 10.5159C\
+61.902 11.7053 6\
+3.4494 13.2991 6\
+4.3308 15.4811C6\
+5.4849 18.3478 6\
+5.008 20.9974 63\
+.1266 23.3854C60\
+.8592 26.2688 57\
+.7457 27.9629 54\
+.4059 29.245C53.\
+6433 29.5363 53.\
+4392 29.7553 53.\
+8808 30.5067C54.\
+3465 31.2953 54.\
+6638 32.1766 55.\
+046 33.0097C54.8\
+883 33.2046 54.6\
+638 33.1823 54.4\
+485 33.1953C53.5\
+275 33.2364 52.6\
+06 33.1222 51.72\
+29 32.8576Z\x22 fil\
+l=\x22black\x22/>\x0d\x0a<pa\
+th d=\x22M54.4597 3\
+3.0452L55.0386 3\
+3.0173H59.9742C6\
+0.0076 33.099 60\
+.0391 33.1806 60\
+.0707 33.2604C59\
+.3285 33.9005 58\
+.8331 34.7763 57\
+.9257 35.2513C58\
+.2467 34.5796 58\
+.8999 34.1714 59\
+.4751 33.3569H53\
+.7435C53.7214 33\
+.3254 53.7111 33\
+.287 53.7145 33.\
+2487C53.7179 33.\
+2103 53.7347 33.\
+1744 53.7621 33.\
+1472C53.9866 33.\
+0544 54.2426 33.\
+1769 54.4597 33.\
+0452Z\x22 fill=\x22#4C\
+4C4C\x22/>\x0d\x0a<path d\
+=\x22M52.2795 46.00\
+19C52.6803 44.95\
+36 52.6952 43.74\
+94 53.5413 42.87\
+92C53.2462 43.80\
+69 52.9475 44.73\
+46 52.6581 45.67\
+16C52.6437 45.76\
+23 52.5979 45.84\
+51 52.5288 45.90\
+55C52.4596 45.96\
+59 52.3713 46 52\
+.2795 46.0019Z\x22 \
+fill=\x22#3A3A3A\x22/>\
+\x0d\x0a<path d=\x22M54.4\
+597 33.0451L53.7\
+472 33.2306C53.2\
+481 33.3215 52.7\
+49 33.4032 52.26\
+28 33.1787L51.72\
+29 32.8577C52.63\
+95 32.75 53.5394\
+ 33.0525 54.4597\
+ 33.0451Z\x22 fill=\
+\x22#B9B9B9\x22/>\x0d\x0a<pa\
+th d=\x22M53.9495 4\
+1.9068C53.9495 4\
+0.903 54.5395 40\
+.1627 55.0627 39\
+.3945C54.9347 40\
+.339 54.3335 41.\
+0756 53.9495 41.\
+9068Z\x22 fill=\x22#3B\
+3B3B\x22/>\x0d\x0a<path d\
+=\x22M52.2609 33.16\
+58L53.7452 33.21\
+77C53.7452 33.26\
+41 53.7452 33.30\
+86 53.7452 33.35\
+32L50.795 33.425\
+5C50.7449 33.379\
+1 50.7301 33.334\
+6 50.7487 33.293\
+8C50.7672 33.253\
+ 50.7876 33.2307\
+ 50.8043 33.2307\
+L52.2609 33.1658\
+Z\x22 fill=\x22#141414\
+\x22/>\x0d\x0a<path d=\x22M4\
+9.7263 35.0583C4\
+9.7412 35.5612 4\
+9.6354 36.0102 4\
+9.1697 36.2941C4\
+9.2717 35.8414 4\
+9.3552 35.3775 4\
+9.7486 35.0639L4\
+9.7263 35.0583Z\x22\
+ fill=\x22#434343\x22/\
+>\x0d\x0a<path d=\x22M46.\
+7131 70.7741C46.\
+9284 70.3028 46.\
+7335 69.6794 47.\
+2531 69.3213C47.\
+0842 69.8074 47.\
+2698 70.429 46.7\
+131 70.7741Z\x22 fi\
+ll=\x22#181818\x22/>\x0d\x0a\
+<path d=\x22M49.110\
+4 60.5801C48.982\
+4 60.0346 49.038\
+ 59.5374 49.4815\
+ 59.1384C49.4278\
+ 59.6343 49.3028\
+ 60.1199 49.1104\
+ 60.5801Z\x22 fill=\
+\x22#181818\x22/>\x0d\x0a<pa\
+th d=\x22M49.7263 3\
+5.0582H49.7449C4\
+9.7152 34.5424 5\
+0.0399 34.1676 5\
+0.2681 33.7594C5\
+0.2855 33.7409 5\
+0.3064 33.7261 5\
+0.3297 33.716C50\
+.353 33.7059 50.\
+3782 33.7007 50.\
+4036 33.7007C50.\
+429 33.7007 50.4\
+541 33.7059 50.4\
+774 33.716C50.50\
+07 33.7261 50.52\
+17 33.7409 50.53\
+9 33.7594C50.271\
+8 34.2029 50.151\
+2 34.7261 49.726\
+3 35.0582Z\x22 fill\
+=\x22#3A3A3A\x22/>\x0d\x0a<p\
+ath d=\x22M47.8265 \
+40.7732L47.4034 \
+41.8995H47.3125C\
+47.3626 41.4727 \
+47.2698 40.9754 \
+47.8265 40.7732Z\
+\x22 fill=\x22#3A3A3A\x22\
+/>\x0d\x0a<path d=\x22M48\
+.5686 62.2577C48\
+.7913 61.7882 48\
+.602 61.1667 49.\
+1123 60.803C48.7\
+671 61.2297 49.1\
+958 61.9404 48.5\
+686 62.2577Z\x22 fi\
+ll=\x22#171717\x22/>\x0d\x0a\
+<path d=\x22M46.128\
+7 46.5252C46.045\
+2 46.848 46.0526\
+ 47.2043 45.7817\
+ 47.4529L45.7223\
+ 47.605L45.6462 \
+47.4603C45.6547 \
+47.1245 45.7618 \
+46.7986 45.9542 \
+46.5233C46.0099 \
+46.3897 46.0693 \
+46.3897 46.1287 \
+46.5252Z\x22 fill=\x22\
 #3B3B3B\x22/>\x0d\x0a<pat\
-h d=\x22M49.7578 35\
-.2539C49.8803 35\
-.3151 50.0027 35\
-.3764 50.1289 35\
-.4395C49.5803 36\
-.2702 49.1903 36\
-.8496 48.2734 37\
-.2949C48.2734 37\
-.1725 48.2734 37\
-.05 48.2734 36.9\
-238C47.9673 37.0\
-463 47.6611 37.1\
-688 47.3457 37.2\
-949C48.0823 36.5\
-123 48.8873 35.8\
-825 49.7578 35.2\
-539Z\x22 fill=\x22#252\
-525\x22/>\x0d\x0a<path d=\
-\x22M44.1914 39.335\
-9C44.3139 39.397\
-2 44.4363 39.458\
-4 44.5625 39.521\
-5C44.1782 40.27 \
-43.8266 40.6215 \
-43.0781 41.0059C\
-43.0781 40.8834 \
-43.0781 40.7609 \
-43.0781 40.6348C\
-42.9557 40.5735 \
-42.8332 40.5123 \
-42.707 40.4492C4\
-2.8907 40.4492 4\
-3.0744 40.4492 4\
-3.2637 40.4492C4\
-3.3249 40.2655 4\
-3.3861 40.0818 4\
-3.4492 39.8926C4\
-3.8319 39.5795 4\
-3.8319 39.5795 4\
-4.1914 39.3359Z\x22\
- fill=\x22#262626\x22/\
->\x0d\x0a<path d=\x22M44.\
-748 38.9648C44.9\
-93 38.9648 45.23\
-79 38.9648 45.49\
-02 38.9648C45.27\
-92 39.5979 45.11\
-11 39.729 44.562\
-5 40.0781C44.44 \
-40.0781 44.3176 \
-40.0781 44.1914 \
-40.0781C44.5393 \
-39.1736 44.5393 \
-39.1736 44.748 3\
-8.9648Z\x22 fill=\x22#\
-191919\x22/>\x0d\x0a</g>\x0d\
-\x0a<defs>\x0d\x0a<radial\
-Gradient id=\x22pai\
-nt0_radial_2003_\
-659\x22 cx=\x220\x22 cy=\x22\
-0\x22 r=\x221\x22 gradien\
-tUnits=\x22userSpac\
-eOnUse\x22 gradient\
-Transform=\x22trans\
-late(47.5 47.5) \
-rotate(90) scale\
-(47.5 47.5)\x22>\x0d\x0a<\
-stop offset=\x220.4\
-\x22 stop-color=\x22wh\
-ite\x22/>\x0d\x0a<stop of\
-fset=\x221\x22 stop-co\
-lor=\x22white\x22 stop\
--opacity=\x220.5\x22/>\
-\x0d\x0a</radialGradie\
-nt>\x0d\x0a<clipPath i\
-d=\x22clip0_2003_65\
-9\x22>\x0d\x0a<rect width\
-=\x2295\x22 height=\x2295\
-\x22 fill=\x22white\x22/>\
-\x0d\x0a</clipPath>\x0d\x0a<\
-/defs>\x0d\x0a</svg>\x0d\x0a\
-\
-\x00\x00\x07\xa5\
+h d=\x22M56.5229 36\
+.9917C56.6677 36\
+.6267 56.9503 36\
+.3335 57.3097 36\
+.1753L56.5396 37\
+.2886C56.519 37.\
+2702 56.5022 37.\
+248 56.4901 37.2\
+231C56.4781 37.1\
+982 56.4711 37.1\
+712 56.4696 37.1\
+436C56.468 37.11\
+6 56.4719 37.088\
+4 56.4811 37.062\
+3C56.4903 37.036\
+3 56.5045 37.012\
+3 56.5229 36.991\
+7Z\x22 fill=\x22#4F4F4\
+F\x22/>\x0d\x0a<path d=\x22M\
+49.1141 36.9546C\
+48.9879 37.2607 \
+49.0343 37.6689 \
+48.6057 37.7914C\
+48.6818 37.4556 \
+48.6094 37.0307 \
+49.1141 36.9546Z\
+\x22 fill=\x22#525252\x22\
+/>\x0d\x0a<path d=\x22M47\
+.3106 41.9031H47\
+.4015C47.2957 42\
+.3614 47.1881 42\
+.8178 47.0823 43\
+.2761C46.6908 42\
+.7417 47.1454 42\
+.3465 47.3106 41\
+.9031Z\x22 fill=\x22#3\
+63636\x22/>\x0d\x0a<path \
+d=\x22M49.4963 58.5\
+968C49.4963 58.1\
+812 49.4202 57.7\
+452 49.8563 57.4\
+724C49.7728 57.8\
+602 49.7839 58.2\
+777 49.4963 58.5\
+968Z\x22 fill=\x22#191\
+919\x22/>\x0d\x0a<path d=\
+\x22M55.2613 39.288\
+8C55.1945 38.791\
+6 55.4227 38.446\
+4 55.829 38.1941\
+C55.7436 38.6041\
+ 55.5472 38.9828\
+ 55.2613 39.2888\
+Z\x22 fill=\x22#3E3E3E\
+\x22/>\x0d\x0a<path d=\x22M4\
+7.8264 66.1931C4\
+7.8264 65.7793 4\
+7.7411 65.3415 4\
+8.1845 65.0798C4\
+8.0992 65.4509 4\
+8.1159 65.8684 4\
+7.8264 66.1931Z\x22\
+ fill=\x22#181818\x22/\
+>\x0d\x0a<path d=\x22M51.\
+1663 51.1638C51.\
+094 50.7667 51.2\
+368 50.4068 51.3\
+519 50.0413C51.5\
+931 50.4736 51.4\
+094 50.828 51.16\
+63 51.1638Z\x22 fil\
+l=\x22#1B1B1B\x22/>\x0d\x0a<\
+path d=\x22M49.8674\
+ 56.9306C49.8674\
+ 56.5149 49.7913\
+ 56.0808 50.2274\
+ 55.8062C50.1439\
+ 56.1939 50.155 \
+56.6114 49.8674 \
+56.9306Z\x22 fill=\x22\
+#191919\x22/>\x0d\x0a<pat\
+h d=\x22M50.4241 53\
+.9265C50.5651 53\
+.5554 50.5113 53\
+.1138 50.8416 52\
+.8132C50.7098 53\
+.1899 50.951 53.\
+702 50.4241 53.9\
+265Z\x22 fill=\x22#181\
+818\x22/>\x0d\x0a<path d=\
+\x22M50.2385 55.262\
+5C50.1736 54.861\
+8 50.3035 54.492\
+5 50.4241 54.123\
+3C50.491 54.3135\
+ 50.5091 54.5175\
+ 50.4767 54.7166\
+C50.4443 54.9157\
+ 50.3624 55.1034\
+ 50.2385 55.2625\
+Z\x22 fill=\x22#191919\
+\x22/>\x0d\x0a<path d=\x22M5\
+0.7952 52.2603C5\
+0.9547 51.9003 5\
+0.8935 51.4643 5\
+1.1663 51.147C51\
+.1106 51.5348 51\
+.3258 52.0265 50\
+.7952 52.2603Z\x22 \
+fill=\x22#181818\x22/>\
+\x0d\x0a<path d=\x22M45.6\
+461 47.4622C45.6\
+911 47.4687 45.7\
+367 47.4687 45.7\
+816 47.4622C45.8\
+191 47.6246 45.8\
+076 47.7946 45.7\
+485 47.9505C45.6\
+893 48.1064 45.5\
+853 48.2412 45.4\
+495 48.3379L45.6\
+461 47.4622Z\x22 fi\
+ll=\x22#202020\x22/>\x0d\x0a\
+<path d=\x22M48.197\
+6 64.5231C48.197\
+6 64.1093 48.104\
+9 63.6696 48.553\
+9 63.3987C48.383\
+2 63.7568 48.485\
+2 64.204 48.1976\
+ 64.5231Z\x22 fill=\
+\x22#171717\x22/>\x0d\x0a<pa\
+th d=\x22M47.2698 6\
+8.7906C47.2161 6\
+8.3963 47.2861 6\
+7.995 47.4702 67\
+.6421C47.5166 67\
+.5122 47.5648 67\
+.5122 47.613 67.\
+6421C47.4739 68.\
+0095 47.5425 68.\
+4474 47.2698 68.\
+7906Z\x22 fill=\x22#17\
+1717\x22/>\x0d\x0a<path d\
+=\x22M46.342 73.043\
+5C46.3308 72.626\
+ 46.2399 72.1825\
+ 46.7001 71.9116\
+C46.5275 72.2734\
+ 46.6314 72.7225\
+ 46.342 73.0435Z\
+\x22 fill=\x22#202020\x22\
+/>\x0d\x0a<path d=\x22M51\
+.3518 49.865C51.\
+4965 49.4939 51.\
+4576 49.0653 51.\
+7526 48.7517C51.\
+6524 49.1228 51.\
+8806 49.6275 51.\
+3518 49.865Z\x22 fi\
+ll=\x22#191919\x22/>\x0d\x0a\
+<path d=\x22M45.785\
+3 75.6282C45.733\
+7 75.2345 45.803\
+6 74.8344 45.985\
+7 74.4815C46.034\
+ 74.3535 46.0804\
+ 74.3535 46.1286\
+ 74.4815C45.9876\
+ 74.8582 46.0618\
+ 75.2961 45.7853\
+ 75.6282Z\x22 fill=\
+\x22#171717\x22/>\x0d\x0a<pa\
+th d=\x22M45.4143 7\
+7.0717C45.4143 7\
+6.7266 45.3921 7\
+6.3722 45.7631 7\
+6.1699L45.5628 7\
+7.0717C45.5201 7\
+7.1645 45.47 77.\
+1645 45.4143 77.\
+0717Z\x22 fill=\x22#17\
+1717\x22/>\x0d\x0a<path d\
+=\x22M45.4142 77.07\
+15H45.5626C45.45\
+32 77.4426 45.51\
+81 77.8768 45.22\
+12 78.1978C45.15\
+94 77.8114 45.22\
+73 77.4153 45.41\
+42 77.0715Z\x22 fil\
+l=\x22#202020\x22/>\x0d\x0a<\
+path d=\x22M46.7131\
+ 44.0906C46.754 \
+44.4617 46.6964 \
+44.7808 46.3699 \
+45.0072C46.4033 \
+44.6695 46.4237 \
+44.3318 46.7131 \
+44.0906Z\x22 fill=\x22\
+#1F1F1F\x22/>\x0d\x0a<pat\
+h d=\x22M47.6074 67\
+.6328H47.4646C47\
+.4646 67.2839 47\
+.4442 66.9333 47\
+.8097 66.7273L47\
+.6074 67.6328Z\x22 \
+fill=\x22#161616\x22/>\
+\x0d\x0a<path d=\x22M57.3\
+17 36.1753C57.21\
+5 35.7467 57.480\
+3 35.6558 57.819\
+9 35.6335C57.678\
+9 35.8414 57.567\
+5 36.0714 57.317\
+ 36.1753Z\x22 fill=\
+\x22#4E4E4E\x22/>\x0d\x0a<pa\
+th d=\x22M46.1231 7\
+4.4815H45.9802C4\
+5.9802 74.1327 4\
+5.9598 73.7838 4\
+6.3253 73.5779C4\
+6.2585 73.8785 4\
+6.1899 74.1716 4\
+6.1231 74.4815Z\x22\
+ fill=\x22#161616\x22/\
+>\x0d\x0a<path d=\x22M50.\
+5392 33.7707H50.\
+2683C50.4038 33.\
+5517 50.4539 33.\
+253 50.799 33.24\
+V33.4348L50.5392\
+ 33.7707Z\x22 fill=\
+\x22#474747\x22/>\x0d\x0a<pa\
+th d=\x22M46.1288 4\
+6.5251H45.9543C4\
+5.971 46.2227 45\
+.9321 45.8906 46\
+.3384 45.783C46.\
+2698 46.0353 46.\
+1993 46.2802 46.\
+1288 46.5251Z\x22 f\
+ill=\x22#212121\x22/>\x0d\
+\x0a<path d=\x22M56.52\
+3 36.9917L56.547\
+1 37.2923L56.207\
+5 37.7803C56.085\
+1 37.4333 56.320\
+7 37.2162 56.523\
+ 36.9917Z\x22 fill=\
+\x22#464646\x22/>\x0d\x0a<pa\
+th d=\x22M44.8835 4\
+9.9559C45.0097 4\
+9.9058 45.0394 4\
+9.5848 45.1507 4\
+9.7128C45.3511 4\
+9.9355 45.1099 5\
+0.1841 45.019 50\
+.4142C44.9745 50\
+.262 44.9281 50.\
+1099 44.8835 49.\
+9559Z\x22 fill=\x22#15\
+1515\x22/>\x0d\x0a<defs>\x0d\
+\x0a<radialGradient\
+ id=\x22paint0_radi\
+al_2013_60\x22 cx=\x22\
+0\x22 cy=\x220\x22 r=\x221\x22 \
+gradientUnits=\x22u\
+serSpaceOnUse\x22 g\
+radientTransform\
+=\x22translate(47.5\
+ 47.5) rotate(90\
+) scale(47.5)\x22>\x0d\
+\x0a<stop offset=\x220\
+.4\x22 stop-color=\x22\
+white\x22/>\x0d\x0a<stop \
+offset=\x221\x22 stop-\
+color=\x22white\x22 st\
+op-opacity=\x220.5\x22\
+/>\x0d\x0a</radialGrad\
+ient>\x0d\x0a</defs>\x0d\x0a\
+</svg>\x0d\x0a\
+\x00\x00\x08\xc6\
 <\
 svg width=\x2295\x22 h\
 eight=\x2295\x22 viewB\
@@ -135681,123 +132825,8475 @@ ox=\x220 0 95 95\x22 f\
 ill=\x22none\x22 xmlns\
 =\x22http://www.w3.\
 org/2000/svg\x22>\x0d\x0a\
-<g clip-path=\x22ur\
-l(#clip0_2003_61\
-4)\x22>\x0d\x0a<path d=\x22M\
-47.5 0.0185547C6\
-3.0859 0.0185547\
- 78.6669 0.01236\
-98 94.243 0C94.8\
-757 0 95.0018 0.\
-124316 95 0.7588\
-87C94.9814 31.91\
-96 94.9814 63.08\
-04 95 94.2411C95\
- 94.8757 94.8757\
- 95 94.243 95C63\
-.0822 94.979 31.\
-9209 94.979 0.75\
-8887 95C0.124316\
- 95 0 94.8757 0 \
-94.2411C0.019791\
-7 63.0804 0.0197\
-917 31.9196 0 0.\
-758887C0 0.12431\
-6 0.120605 0 0.7\
-58887 0C16.3399 \
-0.0222656 31.920\
-2 0.0284505 47.5\
- 0.0185547Z\x22 fil\
-l=\x22url(#paint0_r\
-adial_2003_614)\x22\
-/>\x0d\x0a<path d=\x22M47\
-.2402 12C47.9256\
- 12 48.5895 12.2\
-415 49.1143 12.6\
-821L79.2312 38.0\
-187C79.7458 38.3\
-689 80.1346 38.8\
-748 80.341 39.46\
-19C80.5473 40.04\
-94 80.5604 40.68\
-75 80.3777 41.28\
-26C80.195 41.877\
-7 79.8263 42.398\
-5 79.3258 42.768\
-7C78.8257 43.139\
-3 78.2197 43.339\
-4 77.5969 43.340\
-5H73.1479V77.162\
-4C73.1475 79.015\
- 72.4115 80.7916\
- 71.1019 82.102C\
-69.792 83.412 68\
-.0161 84.1487 66\
-.1634 84.1501H56\
-.2648V64.3526C56\
-.2641 63.7357 56\
-.0188 63.1442 55\
-.5824 62.7078C55\
-.1459 62.2717 54\
-.5545 62.0268 53\
-.9371 62.0264H40\
-.5476C39.9303 62\
-.0264 39.3384 62\
-.2714 38.9017 62\
-.7074C38.4649 63\
-.1438 38.2192 63\
-.7353 38.2185 64\
-.3526V84.1501H28\
-.3232C26.4701 84\
-.1494 24.6928 83\
-.4134 23.3824 82\
-.1031C22.0721 80\
-.7927 21.3361 79\
-.0154 21.3354 77\
-.1624V43.3405H16\
-.9107C16.3137 43\
-.3402 15.7313 43\
-.1564 15.2422 42\
-.8139C14.7531 42\
-.4717 14.3808 41\
-.9872 14.1762 41\
-.4263C13.9716 40\
-.8654 13.9445 40\
-.2547 14.0984 39\
-.6778C14.2522 39\
-.1008 14.5798 38\
-.5854 15.0364 38\
-.2007L45.366 12.\
-6821C45.8909 12.\
-2415 46.5548 12 \
-47.2402 12Z\x22 fil\
-l=\x22#333333\x22/>\x0d\x0a<\
-/g>\x0d\x0a<defs>\x0d\x0a<ra\
+<rect width=\x2295\x22\
+ height=\x2295\x22 rx=\
+\x2220\x22 fill=\x22url(#\
+paint0_radial_20\
+13_108)\x22/>\x0d\x0a<pat\
+h d=\x22M47.3965 22\
+.6453C48.2863 21\
+.7729 48.2849 21\
+.7754 49.1748 22\
+.7117C61.5272 35\
+.7026 73.878 48.\
+6942 86.2266 61.\
+6863C86.8068 62.\
+2898 87.2844 62.\
+9768 87.8125 63.\
+6209C88.0948 63.\
+969 88.0931 64.1\
+738 87.5674 64.2\
+01C86.7007 64.24\
+74 85.8354 64.38\
+07 84.9688 64.37\
+87C73.2741 64.33\
+75 61.5807 64.28\
+77 49.8887 64.22\
+83C49.4108 64.22\
+83 48.9207 64.16\
+21 48.499 64.487\
+1C48.3942 64.566\
+3 48.2695 64.615\
+4 48.1387 64.627\
+7C48.0079 64.64 \
+47.8765 64.6147 \
+47.7588 64.5565C\
+46.8612 64.009 4\
+5.8815 64.2283 4\
+4.9375 64.2244C3\
+2.9554 64.1599 2\
+0.972 64.1078 8.\
+9873 64.0691C7.9\
+8305 64.0642 6.9\
+8154 63.9554 6 6\
+3.743C6.57049 62\
+.9121 7.21059 62\
+.1307 7.91309 61\
+.408C21.0781 48.\
+4932 34.2392 35.\
+5718 47.3965 22.\
+6453ZM66.9736 45\
+.0516C66.4088 44\
+.4539 66.2136 44\
+.8461 65.8906 45\
+.2039C62.0216 49\
+.514 58.1522 53.\
+8231 54.2832 58.\
+1307C53.2599 59.\
+27 52.2423 60.41\
+51 51.0508 61.74\
+98L82.6885 61.74\
+79C82.7038 61.53\
+52 82.5134 61.43\
+31 82.3877 61.30\
+16C77.2303 55.90\
+43 72.0923 50.48\
+75 66.9736 45.05\
+16ZM29.4521 45.1\
+619C28.9086 44.5\
+758 28.6378 44.5\
+466 28.0576 45.1\
+268C22.7635 50.3\
+435 17.4636 55.5\
+558 12.1592 60.7\
+635C11.958 60.96\
+27 11.7665 61.17\
+39 11.3545 61.60\
+53H44.748C44.485\
+ 61.3054 44.2821\
+ 61.0611 44.0654\
+ 60.8309C39.1751\
+ 55.6271 34.3038\
+ 50.4043 29.4521\
+ 45.1619ZM47.002\
+ 26.6072C46.7389\
+ 26.8413 46.5471\
+ 27.0103 46.3672\
+ 27.1883C41.2409\
+ 32.214 36.1416 \
+37.2551 30.9883 \
+42.2498C30.3403 \
+42.8785 30.4623 \
+43.1764 31.002 4\
+3.7566C36.0613 4\
+9.1552 41.1163 5\
+4.5597 46.168 59\
+.9686C46.3614 60\
+.1774 46.5321 60\
+.4092 46.7139 60\
+.6316L47.002 60.\
+5174V26.6072ZM49\
+.9082 27.1453C49\
+.7534 26.9828 49\
+.6481 26.6778 49\
+.2109 26.8055V60\
+.5174C49.3906 60\
+.3686 49.4783 60\
+.3015 49.5479 60\
+.2068C54.5272 54\
+.642 59.524 49.0\
+916 64.5381 43.5\
+565C65.0274 43.0\
+265 64.7767 42.7\
+705 64.417 42.39\
+53C59.5859 37.30\
+89 54.7496 32.22\
+53 49.9082 27.14\
+53Z\x22 fill=\x22black\
+\x22/>\x0d\x0a<defs>\x0d\x0a<ra\
 dialGradient id=\
 \x22paint0_radial_2\
-003_614\x22 cx=\x220\x22 \
+013_108\x22 cx=\x220\x22 \
 cy=\x220\x22 r=\x221\x22 gra\
 dientUnits=\x22user\
 SpaceOnUse\x22 grad\
 ientTransform=\x22t\
 ranslate(47.5 47\
 .5) rotate(90) s\
-cale(47.5 47.5)\x22\
->\x0d\x0a<stop offset=\
-\x220.4\x22 stop-color\
-=\x22white\x22/>\x0d\x0a<sto\
-p offset=\x221\x22 sto\
-p-color=\x22white\x22 \
-stop-opacity=\x220.\
-5\x22/>\x0d\x0a</radialGr\
-adient>\x0d\x0a<clipPa\
-th id=\x22clip0_200\
-3_614\x22>\x0d\x0a<rect w\
-idth=\x2295\x22 height\
-=\x2295\x22 fill=\x22whit\
-e\x22/>\x0d\x0a</clipPath\
->\x0d\x0a</defs>\x0d\x0a</sv\
+cale(47.5)\x22>\x0d\x0a<s\
+top offset=\x220.4\x22\
+ stop-color=\x22whi\
+te\x22/>\x0d\x0a<stop off\
+set=\x221\x22 stop-col\
+or=\x22white\x22 stop-\
+opacity=\x220.5\x22/>\x0d\
+\x0a</radialGradien\
+t>\x0d\x0a</defs>\x0d\x0a</s\
+vg>\x0d\x0a\
+\x00\x00<\xa9\
+<\
+svg width=\x2295\x22 h\
+eight=\x2295\x22 viewB\
+ox=\x220 0 95 95\x22 f\
+ill=\x22none\x22 xmlns\
+=\x22http://www.w3.\
+org/2000/svg\x22>\x0d\x0a\
+<rect width=\x2295\x22\
+ height=\x2295\x22 rx=\
+\x2220\x22 fill=\x22url(#\
+paint0_radial_20\
+14_112)\x22/>\x0d\x0a<pat\
+h d=\x22M29.1043 62\
+.4257C29.1481 61\
+.9181 29.5526 62\
+.0593 29.8274 62\
+.0574C31.163 62.\
+0479 32.4814 62.\
+067 33.8074 62.0\
+765C33.8534 62.4\
+52 33.7604 62.83\
+14 33.546 63.143\
+1C32.3116 65.241\
+8 31.1019 67.353\
+9 29.8655 69.450\
+8C29.7244 69.691\
+2 29.6251 70.214\
+ 29.2493 70.0003\
+C28.7971 69.7446\
+ 29.2493 69.3859\
+ 29.3924 69.1264\
+C30.5371 67.1212\
+ 31.7029 65.1312\
+ 32.8611 63.1354\
+C33.0156 62.8683\
+ 33.1606 62.5974\
+ 33.3972 62.1814\
+C31.8632 62.2959\
+ 30.478 61.9906 \
+29.1043 62.4257Z\
+\x22 fill=\x22#070707\x22\
+/>\x0d\x0a<path d=\x22M82\
+.4548 62.2078C84\
+.13 61.8701 85.8\
+224 62.1048 87.5\
+071 62.0609C87.4\
+175 62.0857 87.3\
+163 62.1506 87.2\
+362 62.1334C85.3\
+435 61.7365 84.5\
+154 62.8565 83.7\
+694 64.3619C82.8\
+841 66.1478 81.7\
+928 67.8306 80.7\
+815 69.5535C80.6\
+499 69.7748 80.5\
+583 70.2022 80.1\
+939 69.9999C79.8\
+295 69.7977 80.1\
+557 69.4943 80.2\
+798 69.2768C81.4\
+474 67.2429 82.6\
+304 65.2167 83.8\
+057 63.1866C83.9\
+602 62.9176 84.1\
+014 62.6428 84.3\
+38 62.2078H82.45\
+48Z\x22 fill=\x22#0707\
+07\x22/>\x0d\x0a<path d=\x22\
+M89.5029 62.5705\
+C89.4361 62.704 \
+89.3636 62.8777 \
+89.2701 63.0398C\
+88.0134 65.2022 \
+86.7529 67.3646 \
+85.4885 69.5269C\
+85.3569 69.7502 \
+85.2557 70.1757 \
+84.9028 70.002C8\
+4.5212 69.8112 8\
+4.836 69.4983 84\
+.96 69.2808C86.2\
+434 67.0561 87.5\
+345 64.8365 88.8\
+332 62.622C88.93\
+81 62.4427 89.00\
+3 62.1832 89.298\
+7 62.229C89.4533\
+ 62.2595 89.4724\
+ 62.3969 89.5029\
+ 62.5705Z\x22 fill=\
+\x22#060606\x22/>\x0d\x0a<pa\
+th d=\x22M27.0801 1\
+1.002C35.7396 11\
+.0668 44.4007 11\
+.131 53.0615 11.\
+1934C54.3565 11.\
+1936 54.9689 12.\
+0744 54.5342 13.\
+3027C54.4166 13.\
+6964 54.3718 14.\
+1089 54.4023 14.\
+5186C54.4729 20.\
+7804 54.5664 27.\
+0409 54.6084 33.\
+3027C54.6085 34.\
+0921 54.84 34.30\
+41 55.6143 34.32\
+13C64.9629 34.52\
+93 74.3253 34.77\
+3 83.6797 35.002\
+C85.5512 35.0478\
+ 86.1258 35.6435\
+ 86.0801 37.4824\
+C85.9045 44.5991\
+ 85.7484 51.7183\
+ 85.5576 58.835C\
+85.5405 59.5043 \
+85.7107 59.7218 \
+86.3916 59.6875C\
+87.727 59.6227 8\
+9.0628 59.6308 9\
+0.3867 59.627C91\
+.4111 59.627 92.\
+0564 60.1648 92.\
+0889 61.0156C92.\
+1212 61.8988 91.\
+4627 62.4944 90.\
+3926 62.5098C89.\
+3224 62.525 88.3\
+032 62.5098 87.2\
+598 62.5098C85.9\
+529 62.6662 84.6\
+397 62.5938 83.3\
+271 62.5977C82.9\
+457 62.5976 82.5\
+637 62.5342 82.2\
+07 62.6562C81.19\
+22 62.681 80.177\
+ 62.7141 79.1641\
+ 62.7236C78.9837\
+ 62.7044 78.8015\
+ 62.7435 78.6455\
+ 62.8359C78.4896\
+ 62.9284 78.3676\
+ 63.069 78.2979 \
+63.2363C77.0539 \
+65.4857 75.7387 \
+67.6952 74.4375 \
+69.9141C74.2926 \
+70.1601 74.1915 \
+70.6619 73.8066 \
+70.4453C73.4217 \
+70.2279 73.8059 \
+69.8839 73.9453 \
+69.6436C75.1612 \
+67.5246 76.3891 \
+65.4112 77.6279 \
+63.3037C77.8397 \
+62.9432 77.9599 \
+62.6983 77.5156 \
+62.376C76.9645 6\
+1.9754 76.8993 6\
+1.3419 77.1338 6\
+0.7354C77.2368 6\
+0.465 77.4219 60\
+.233 77.6631 60.\
+0732C77.9043 59.\
+9135 78.1904 59.\
+8332 78.4795 59.\
+8438C79.6239 59.\
+8209 80.7687 59.\
+8018 81.9131 59.\
+8018C82.3461 59.\
+8017 82.6233 59.\
+7407 82.6367 59.\
+1934C82.7894 52.\
+812 82.9541 46.4\
+288 83.1309 40.0\
+449C82.7495 39.9\
+764 82.6673 40.2\
+765 82.5166 40.4\
+463C79.6242 43.6\
+897 76.7448 46.9\
+558 73.8467 50.2\
+012C73.4729 50.5\
+869 73.2627 51.1\
+026 73.2607 51.6\
+396C73.1017 58.6\
+622 72.9224 65.6\
+848 72.7227 72.7\
+061C72.6979 73.5\
+355 72.8641 73.8\
+5 73.7393 73.752\
+9C74.6275 73.679\
+1 75.5204 73.658\
+5 76.4111 73.690\
+4C77.3133 73.700\
+2 77.9274 74.228\
+5 77.998 75.0049\
+C78.0144 75.195 \
+77.993 75.3867 7\
+7.9346 75.5684C7\
+7.876 75.75 77.7\
+815 75.9186 77.6\
+572 76.0635C77.5\
+329 76.2084 77.3\
+807 76.3276 77.2\
+1 76.4131C77.039\
+5 76.4984 76.853\
+3 76.5487 76.663\
+1 76.5615C76.174\
+9 76.615 75.9508\
+ 76.8364 75.7314\
+ 77.2197C74.5981\
+ 79.2014 73.4506\
+ 81.1775 72.2881\
+ 83.1465C72.1508\
+ 83.3812 72.0467\
+ 83.8808 71.6387\
+ 83.6045C71.3358\
+ 83.3986 71.665 \
+83.0834 71.7949 \
+82.8564C72.9625 \
+80.8265 74.1418 \
+78.8036 75.3857 \
+76.6611H71.7168C\
+71.2689 76.6615 \
+71.16 77.0256 70\
+.9902 77.3174C69\
+.8926 79.1655 68\
+.8021 81.0275 67\
+.7197 82.9023C67\
+.6073 83.093 67.\
+4932 83.284 67.3\
+77 83.4746C67.26\
+06 83.6652 67.10\
+55 83.7544 66.90\
+72 83.6191C66.73\
+97 83.5028 66.80\
+85 83.3403 66.88\
+48 83.1973C67.00\
+68 82.9743 67.13\
+41 82.7543 67.26\
+56 82.5352L70.58\
+98 76.7969H65.33\
+11C64.9803 76.79\
+71 64.9186 77.15\
+5 64.7832 77.387\
+7C63.69 79.2498 \
+62.61 81.1184 61\
+.5244 82.9824C61\
+.4227 83.1796 61\
+.3034 83.3673 61\
+.168 83.543C61.1\
+239 83.584 61.07\
+06 83.6143 61.01\
+27 83.6309C60.95\
+48 83.6474 60.89\
+31 83.6503 60.83\
+4 83.6387C60.643\
+5 83.5795 60.656\
+9 83.3881 60.721\
+7 83.2432C60.828\
+5 83.0125 60.962\
+1 82.7964 61.089\
+8 82.5771C62.171\
+6 80.7113 63.255\
+8 78.847 64.3223\
+ 77.0098C64.2631\
+ 76.6996 64.013 \
+76.7849 63.8623 \
+76.7148C63.1376 \
+76.3677 62.8011 \
+75.8023 62.9707 \
+75.0146C63.1328 \
+74.265 63.656 73\
+.9157 64.4189 73\
+.8984C65.9718 73\
+.8622 67.5253 73\
+.7957 69.0801 73\
+.7881C69.6369 73\
+.7881 69.8436 73\
+.6443 69.8438 73\
+.042C69.9926 66.\
+4023 70.1645 59.\
+761 70.3604 53.1\
+201C70.3793 52.4\
+184 70.1255 52.2\
+754 69.4941 52.2\
+754C64.703 52.27\
+54 59.9127 52.25\
+25 55.124 52.208\
+C54.3993 52.2081\
+ 54.2159 52.4318\
+ 54.2158 53.1279\
+C54.2158 55.0015\
+ 54.162 56.8774 \
+54.0742 58.751C5\
+4.0457 59.4013 5\
+4.1889 59.6571 5\
+4.8906 59.6152C5\
+6.2833 59.5332 5\
+7.6825 59.5409 5\
+9.0771 59.4951C5\
+9.9031 59.4685 6\
+0.63 59.6386 60.\
+8818 60.5352C61.\
+1105 61.3458 60.\
+811 61.9758 60.0\
+156 62.3115C59.6\
+726 62.4584 59.6\
+225 62.7879 59.4\
+854 63.0625C58.3\
+749 65.3081 57.2\
+772 67.5619 56.1\
+572 69.8037C56.0\
+2 70.0766 55.966\
+4 70.6484 55.510\
+7 70.4141C55.129\
+9 70.2232 55.510\
+8 69.8416 55.638\
+7 69.5898C56.659\
+4 67.4759 57.682\
+5 65.3615 58.747\
+1 63.2705C59.092\
+1 62.5916 58.976\
+9 62.3928 58.219\
+7 62.4424C57.178\
+1 62.5128 55.930\
+5 62.1743 55.146\
+5 62.6436C54.410\
+3 63.0863 54.158\
+2 64.3449 53.71 \
+65.2529C52.9334 \
+66.8155 52.1835 \
+68.3867 51.3975 \
+69.9492C51.2832 \
+70.1783 51.2249 \
+70.6182 50.8457 \
+70.4297C50.4667 \
+70.2409 50.7807 \
+69.9242 50.8896 \
+69.6953C51.8856 \
+67.6405 52.8987 \
+65.5929 53.8965 \
+63.5381C54.0433 \
+63.2348 54.2974 \
+62.9656 54.248 6\
+2.6318H49.209C48\
+.74 62.632 48.66\
+92 63.0131 48.52\
+25 63.3145C47.48\
+46 65.4207 46.45\
+15 67.5295 45.42\
+38 69.6396C45.32\
+65 69.8304 45.21\
+93 70.0331 45.11\
+82 70.2314C45.01\
+71 70.4295 44.88\
+13 70.5629 44.67\
+19 70.4395C44.46\
+23 70.3155 44.54\
+04 70.1184 44.63\
+57 69.9277C45.07\
+07 69.0444 45.49\
+95 68.1587 45.93\
+07 67.2754C46.66\
+52 65.7701 47.40\
+2 64.2645 48.170\
+9 62.6963C47.825\
+8 62.6942 47.480\
+7 62.6702 47.138\
+7 62.624C46.3606\
+ 62.458 45.8856 \
+61.9505 45.9121 \
+61.1553C45.9388 \
+60.3599 46.3812 \
+59.8194 47.2051 \
+59.7695C48.3116 \
+59.6951 49.4248 \
+59.665 50.5332 5\
+9.6611C51.0155 5\
+9.6611 51.1895 5\
+9.5139 51.1973 5\
+9.0107C51.2259 5\
+7.0075 51.2775 5\
+5.0034 51.3672 5\
+3.0059C51.3958 5\
+2.3784 51.2083 5\
+2.1859 50.5811 5\
+2.1953C48.5194 5\
+2.2258 46.4571 5\
+2.2204 44.3955 5\
+2.1797C43.7393 5\
+2.1645 43.5387 5\
+2.3442 43.5254 5\
+3.0176C43.4319 5\
+7.8788 43.2958 6\
+2.7479 43.1699 6\
+7.6016C43.128 69\
+.2537 43.1108 70\
+.9084 43.0059 72\
+.5625C42.9582 73\
+.335 43.1323 73.\
+6352 43.96 73.57\
+42C45.1598 73.48\
+84 46.3696 73.51\
+47 47.5752 73.51\
+86C48.5386 73.51\
+86 49.1512 74.06\
+08 49.1855 74.89\
+45C49.2196 75.72\
+79 48.6306 76.36\
+93 47.6904 76.38\
+28C47.1411 76.38\
+29 46.9134 76.65\
+52 46.6807 77.05\
+96C45.5913 78.95\
+78 44.4865 80.84\
+87 43.3857 82.74\
+32C43.2904 82.90\
+72 43.1949 83.07\
+61 43.0977 83.23\
+63C42.9662 83.44\
+05 42.8433 83.79\
+45 42.5537 83.63\
+09C42.1862 83.41\
+93 42.5112 83.13\
+11 42.626 82.902\
+3C42.7976 82.562\
+8 43.0085 82.240\
+2 43.1992 81.912\
+1L46.334 76.5156\
+H42.6416C42.1992\
+ 76.5158 42.0956\
+ 76.8976 41.9258\
+ 77.1914C40.8192\
+ 79.0802 39.7175\
+ 80.9728 38.6211\
+ 82.8691C38.5105\
+ 83.0599 38.3948\
+ 83.2516 38.2822\
+ 83.4424C38.1697\
+ 83.6329 38.0185\
+ 83.7467 37.8184\
+ 83.6211C37.6184\
+ 83.4952 37.7133\
+ 83.2929 37.8086\
+ 83.1289L39.5264\
+ 80.1621C40.0987\
+ 79.1739 40.6559\
+ 78.1742 41.2549\
+ 77.2031C41.6364\
+ 76.585 41.3438 \
+76.5355 40.8135 \
+76.5488C39.4781 \
+76.5832 38.1422 \
+76.6194 36.8164 \
+76.5908C36.2443 \
+76.5795 35.9752 \
+76.8312 35.7158 \
+77.2871C34.636 7\
+9.1949 33.5237 8\
+1.0781 32.4229 8\
+2.9707C32.3219 8\
+3.17 32.2054 83.\
+3614 32.0752 83.\
+543C31.9741 83.6\
+687 31.7985 83.7\
+471 31.665 83.60\
+64C31.63 83.5587\
+ 31.6067 83.5027\
+ 31.5967 83.4443\
+C31.5868 83.3859\
+ 31.5901 83.3252\
+ 31.6074 83.2686\
+C31.6961 83.065 \
+31.802 82.8688 3\
+1.9229 82.6826C3\
+2.9568 80.9021 3\
+3.9925 79.118 35\
+.0303 77.3311C35\
+.2401 76.9724 35\
+.4975 76.7014 34\
+.8662 76.4248C34\
+.2351 76.1481 33\
+.9987 75.5193 34\
+.1855 74.8193C34\
+.3726 74.1196 34\
+.8572 73.7595 35\
+.5723 73.7402C36\
+.8409 73.7059 38\
+.1105 73.6711 39\
+.3887 73.6787C39\
+.9608 73.6786 40\
+.1361 73.4878 40\
+.1514 72.9023C40\
+.2989 66.2628 40\
+.4657 59.6223 40\
+.6514 52.9814C40\
+.6685 52.3349 40\
+.4742 52.1799 39\
+.8564 52.1836C36\
+.3994 52.2039 32\
+.9415 52.1985 29\
+.4844 52.168C28.\
+9122 52.168 28.7\
+207 52.3121 28.7\
+207 52.9092C28.7\
+054 54.911 28.65\
+28 56.9125 28.56\
+25 58.9131C28.53\
+2 59.5711 28.698\
+4 59.8134 29.392\
+6 59.7715C30.752\
+8 59.6875 32.117\
+4 59.663 33.4814\
+ 59.6592C34.4353\
+ 59.6592 35.0425\
+ 60.2318 35.0654\
+ 61.0693C35.0881\
+ 61.9066 34.5879\
+ 62.4239 33.5752\
+ 62.5117C32.2684\
+ 62.6719 30.9552\
+ 62.5116 29.6465\
+ 62.5879C29.3642\
+ 62.5973 28.9748\
+ 62.3743 28.8564\
+ 62.8545C28.9307\
+ 63.2149 28.6662\
+ 63.4467 28.5098\
+ 63.708C27.3231 \
+65.7723 26.126 6\
+7.8296 24.9189 6\
+9.8799C24.7721 7\
+0.1298 24.6608 7\
+0.6275 24.2891 7\
+0.4258C23.9175 7\
+0.2236 24.2757 6\
+9.8652 24.417 69\
+.6191C25.5617 67\
+.6101 26.7404 65\
+.6117 27.9023 63\
+.6064C28.0568 63\
+.3413 28.1912 63\
+.0642 28.3457 62\
+.7705C26.5982 62\
+.7705 24.93 62.7\
+8 23.2627 62.770\
+5C22.8469 62.770\
+6 22.7511 63.061\
+4 22.5928 63.343\
+8C21.3527 65.486\
+2 20.1126 67.628\
+7 18.8516 69.757\
+8C18.6837 70.038\
+3 18.5933 70.669\
+2 18.1299 70.404\
+3C17.7606 70.190\
+6 18.1932 69.782\
+4 18.3516 69.505\
+9C19.486 67.5244\
+ 20.6303 65.5482\
+ 21.7852 63.5781\
+C22.0523 63.1222\
+ 22.2432 62.8324\
+ 21.4287 62.8037\
+C21.2371 62.8052\
+ 21.0463 62.7684\
+ 20.8691 62.6953\
+C20.6921 62.6221\
+ 20.5312 62.5132\
+ 20.3965 62.377C\
+20.2619 62.2406 \
+20.156 62.0783 2\
+0.085 61.9004C20\
+.0139 61.7223 19\
+.9786 61.5315 19\
+.9824 61.3398C19\
+.9959 60.5406 20\
+.6145 59.9453 21\
+.5664 59.8994C22\
+.6747 59.8479 23\
+.7872 59.8246 24\
+.8975 59.8418C25\
+.4468 59.8513 25\
+.6719 59.7235 25\
+.6758 59.1094C25\
+.6872 57.0756 25\
+.7539 55.0415 25\
+.834 53.0039C25.\
+8569 52.4317 25.\
+7707 52.1516 25.\
+0879 52.1611C22.\
+7414 52.1993 20.\
+3924 52.1838 18.\
+0459 52.1514C17.\
+4738 52.1514 17.\
+2832 52.3138 17.\
+2832 52.8994C17.\
+1344 59.6038 16.\
+9656 66.3077 16.\
+7773 73.0107C16.\
+7602 73.6306 16.\
+9686 73.7746 17.\
+5293 73.7441C18.\
+6376 73.6907 19.\
+7501 73.6844 20.\
+8584 73.6787C21.\
+8866 73.6788 22.\
+545 74.2036 22.5\
+908 75.041C22.63\
+65 75.8785 22.01\
+79 76.5254 21.00\
+88 76.5674C20.52\
+46 76.5866 20.28\
+35 76.7734 20.05\
+47 77.1719C18.97\
+1 79.0798 17.858\
+6 80.9618 16.755\
+9 82.8545C16.675\
+8 82.9917 16.605\
+3 83.1351 16.519\
+5 83.2666C16.386\
+1 83.4669 16.286\
+1 83.806 15.9678\
+ 83.6309C15.6179\
+ 83.4403 15.9105\
+ 83.177 16.0176 \
+82.9883C17.044 8\
+1.2006 18.088 79\
+.4199 19.124 77.\
+6455C19.2957 77.\
+3499 19.4464 77.\
+0445 19.6504 76.\
+665H16.0771C15.5\
+889 76.6652 15.4\
+545 77.0466 15.2\
+676 77.3633C14.2\
+285 79.1438 13.1\
+915 80.9246 12.1\
+562 82.7051C12.0\
+456 82.8958 11.9\
+347 83.0876 11.8\
+184 83.2783C11.7\
+021 83.4691 11.5\
+684 83.8034 11.2\
+637 83.6172C11.0\
+255 83.4703 11.1\
+95 83.2209 11.30\
+37 83.0283C11.41\
+24 82.8357 11.52\
+12 82.6458 11.63\
+18 82.4551C12.62\
+19 80.7554 13.60\
+21 79.0495 14.60\
+55 77.3574C14.88\
+02 76.8919 14.86\
+9 76.69 14.251 7\
+6.7129C12.8259 7\
+6.7625 11.3891 7\
+6.7948 9.96973 7\
+6.7891C9.49879 7\
+6.7891 9.30765 7\
+7.0367 9.10742 7\
+7.3818C8.05299 7\
+9.2109 6.98787 8\
+1.0435 5.91309 8\
+2.8789C5.80247 8\
+3.0696 5.69344 8\
+3.2604 5.5752 83\
+.4512C5.45703 83\
+.6417 5.31404 83\
+.7451 5.10645 83\
+.6064C4.93705 83\
+.4921 5.00292 83\
+.3313 5.0791 83.\
+1865C5.18209 82.\
+9958 5.29178 82.\
+805 5.4043 82.61\
+43C6.40786 80.88\
+38 7.40487 79.15\
+06 8.41797 77.42\
+77C8.62967 77.07\
+11 8.78447 76.84\
+03 8.25098 76.57\
+71C7.56064 76.23\
+95 7.38658 75.56\
+6 7.61523 74.860\
+4C7.84415 74.154\
+5 8.37839 73.906\
+ 9.0918 73.8926C\
+10.4559 73.8773 \
+11.8185 73.8046 \
+13.1826 73.7988C\
+13.7071 73.7988 \
+13.883 73.6325 1\
+3.8945 73.0928C1\
+4.0586 66.2002 1\
+4.2353 59.3055 1\
+4.4248 52.4092C1\
+4.4615 52.0617 1\
+4.3788 51.7113 1\
+4.1904 51.417C14\
+.052 51.2376 13.\
+9694 51.02 13.95\
+41 50.7939C13.93\
+89 50.5679 13.99\
+15 50.3418 14.10\
+45 50.1455C14.51\
+05 49.5256 14.43\
+63 48.8768 14.42\
+68 48.2207C14.35\
+04 42.1154 14.27\
+18 36.0137 14.19\
+04 29.916C14.207\
+9 29.7254 14.201\
+7 29.533 14.1729\
+ 29.3438C13.5605\
+ 27.1727 14.6534\
+ 25.6379 15.9297\
+ 24.0449C19.1445\
+ 20.0384 22.249 \
+15.9286 25.3799 \
+11.8457C25.5691 \
+11.5732 25.8249 \
+11.3525 26.1221 \
+11.2051C26.4191 \
+11.0578 26.7488 \
+10.9878 27.0801 \
+11.002ZM44.4619 \
+49.3232C46.759 4\
+9.3232 48.8123 4\
+9.3099 50.8652 4\
+9.3232C51.2562 4\
+9.3251 51.4374 4\
+9.2106 51.4375 4\
+8.793V40.2969L44\
+.4619 49.3232ZM2\
+9.8359 36.5859C2\
+9.3189 36.5707 2\
+9.1072 36.6874 2\
+9.0977 37.2598C2\
+9.0328 41.0081 2\
+8.9474 44.7559 2\
+8.8418 48.5029C2\
+8.8247 49.0694 2\
+8.9734 49.2851 2\
+9.5742 49.2852C3\
+3.0301 49.2661 3\
+6.4871 49.2756 3\
+9.9443 49.3125C4\
+0.5544 49.3181 4\
+0.6862 49.0984 4\
+0.6768 48.5361C4\
+0.6462 46.7294 4\
+0.665 44.9141 40\
+.665 43.1035L40.\
+5186 43.1094C40.\
+5186 41.2626 40.\
+4918 39.4192 40.\
+5186 37.5762C40.\
+5261 37.0441 40.\
+3562 36.8536 39.\
+8203 36.8535C36.\
+4916 36.7823 33.\
+1633 36.6928 29.\
+8359 36.5859ZM18\
+.5771 49.2588C21\
+.021 49.2588 23.\
+1922 49.2473 25.\
+3652 49.2568C25.\
+966 49.2682 25.9\
+036 48.8747 25.9\
+131 48.4932C25.9\
+843 45.7383 26.0\
+537 42.982 26.12\
+11 40.2246C26.12\
+49 40.0797 26.15\
+87 39.9007 25.87\
+7 39.8281L18.577\
+1 49.2588ZM55.38\
+09 36.708C54.701\
+6 36.6908 54.610\
+1 36.9716 54.600\
+6 37.5439C54.541\
+4 41.0068 54.474\
+8 44.4697 54.360\
+4 47.9307C54.335\
+6 48.6402 54.526\
+1 48.831 55.2412\
+ 48.8311C59.33 4\
+8.8043 63.4286 4\
+8.6827 67.5098 4\
+8.8945C69.8163 4\
+9.0204 71.3694 4\
+8.3618 72.8213 4\
+6.54C75.3016 43.\
+4205 78.0723 40.\
+5257 80.835 37.4\
+062C80.5355 37.3\
+643 80.4152 37.3\
+3 80.2969 37.326\
+2C71.9922 37.135\
+4 63.6868 36.929\
+3 55.3809 36.708\
+ZM17.9492 28.700\
+2C17.211 28.683 \
+17.06 28.9123 17\
+.0732 29.6064C17\
+.1686 34.88 17.2\
+243 40.1522 17.2\
+949 45.4258C17.2\
+968 45.5726 17.3\
+158 45.7196 17.3\
+311 45.9102C17.7\
+353 45.7384 17.8\
+769 45.403 18.07\
+91 45.1436C20.12\
+06 42.5157 22.15\
+92 39.8795 24.19\
+43 37.2363C24.75\
+71 36.5039 25.54\
+44 35.8758 25.36\
+72 34.7715C25.36\
+26 34.6759 25.38\
+09 34.5806 25.41\
+99 34.4932C25.45\
+9 34.4057 25.518\
+3 34.328 25.5928\
+ 34.2676C26.3973\
+ 33.7448 26.2071\
+ 32.9588 26.207 \
+32.2188C26.2032 \
+31.3641 26.1435 \
+30.5012 26.1797 \
+29.6465C26.2082 \
+28.9562 26.002 2\
+8.7142 25.2715 2\
+8.7256C22.8282 2\
+8.7663 20.3874 2\
+8.7574 17.9492 2\
+8.7002ZM43.9053 \
+36.9336C43.5485 \
+36.9317 43.3955 \
+37.0518 43.3955 \
+37.4238V45.4561L\
+43.7158 45.5215C\
+45.8438 42.7689 \
+47.9746 40.0169 \
+50.1064 37.2656L\
+50.0293 36.9336H\
+43.9053ZM51.373 \
+17.5957C51.2798 \
+17.6703 51.1927 \
+17.7526 51.1133 \
+17.8418C48.6266 \
+21.0548 46.1393 \
+24.2664 43.6514 \
+27.4756C43.4232 \
+27.7413 43.2964 \
+28.0794 43.293 2\
+8.4297C43.314 30\
+.1122 43.342 31.\
+7969 43.3516 33.\
+4795C43.3535 33.\
+8742 43.4779 34.\
+0527 43.8955 34.\
+0527C46.3364 34.\
+0985 48.7772 34.\
+157 51.2168 34.2\
+295C51.6552 34.2\
+408 51.7431 34.0\
+386 51.7432 33.6\
+572V17.6592L51.3\
+73 17.5957ZM29.7\
+861 28.7598C29.2\
+673 28.7521 29.0\
+445 28.8761 29.0\
+654 29.4482C29.1\
+087 30.6527 29.1\
+179 31.8587 29.0\
+938 33.0645C29.0\
+825 33.5887 29.3\
+06 33.6953 29.76\
+76 33.6953C33.09\
+1 33.7564 36.414\
+8 33.8276 39.736\
+3 33.9287C40.350\
+4 33.9458 40.489\
+6 33.7102 40.464\
+8 33.1533C40.409\
+5 31.9496 40.377\
+2 30.7437 40.388\
+7 29.5381C40.394\
+4 28.9831 40.176\
+9 28.8477 39.662\
+1 28.8477C38.015\
+6 28.8706 36.368\
+3 28.8574 34.723\
+6 28.8574V28.769\
+5C33.0772 28.769\
+5 31.4306 28.784\
+6 29.7861 28.759\
+8ZM29.584 13.940\
+4C28.9507 13.936\
+7 28.8625 14.198\
+3 28.8721 14.734\
+4C28.9312 18.164\
+6 28.9788 21.587\
+4 28.9922 25.021\
+5C28.996 25.6679\
+ 29.1641 25.8817\
+ 29.8389 25.8818\
+C33.3558 25.8691\
+ 36.8744 25.8865\
+ 40.3926 25.9336\
+C41.0142 25.9411\
+ 41.3747 25.7064\
+ 41.7275 25.2393\
+C43.2023 23.2913\
+ 44.7122 21.3702\
+ 46.2061 19.4395\
+C47.5416 17.7128\
+ 48.8729 15.9836\
+ 50.2637 14.1807\
+C50.1569 14.1331\
+ 50.045 14.0967 \
+49.9307 14.0723C\
+43.1481 14.0303 \
+36.3666 13.9996 \
+29.584 13.9404ZM\
+18.4014 25.6475C\
+18.5462 25.7276 \
+18.6209 25.8076 \
+18.6934 25.8076C\
+20.9713 25.8267 \
+23.2494 25.8232 \
+25.5254 25.8613C\
+26.128 25.8708 2\
+6.0791 25.5179 2\
+6.0791 25.125C26\
+.0562 22.6841 26\
+.0343 20.2426 26\
+.0127 17.8018V16\
+.1494L25.7812 16\
+.1074C23.3296 19\
+.2803 20.8817 22\
+.4498 18.4014 25\
+.6475Z\x22 fill=\x22bl\
+ack\x22/>\x0d\x0a<defs>\x0d\x0a\
+<radialGradient \
+id=\x22paint0_radia\
+l_2014_112\x22 cx=\x22\
+0\x22 cy=\x220\x22 r=\x221\x22 \
+gradientUnits=\x22u\
+serSpaceOnUse\x22 g\
+radientTransform\
+=\x22translate(47.5\
+ 47.5) rotate(90\
+) scale(47.5)\x22>\x0d\
+\x0a<stop offset=\x220\
+.4\x22 stop-color=\x22\
+white\x22/>\x0d\x0a<stop \
+offset=\x221\x22 stop-\
+color=\x22white\x22 st\
+op-opacity=\x220.5\x22\
+/>\x0d\x0a</radialGrad\
+ient>\x0d\x0a</defs>\x0d\x0a\
+</svg>\x0d\x0a\
+\x00\x00\x5c\x83\
+<\
+svg width=\x2295\x22 h\
+eight=\x2295\x22 viewB\
+ox=\x220 0 95 95\x22 f\
+ill=\x22none\x22 xmlns\
+=\x22http://www.w3.\
+org/2000/svg\x22>\x0d\x0a\
+<rect width=\x2295\x22\
+ height=\x2295\x22 rx=\
+\x2220\x22 fill=\x22url(#\
+paint0_radial_20\
+13_52)\x22/>\x0d\x0a<path\
+ d=\x22M41.608 2.68\
+43C42.0044 2.872\
+02 42.0044 2.872\
+02 42.4082 3.113\
+37C42.7786 3.300\
+18 43.1497 3.485\
+85 43.5214 3.670\
+02C43.5078 3.863\
+62 43.4942 4.057\
+22 43.4802 4.256\
+69C43.4329 4.981\
+52 43.4033 5.706\
+22 43.3787 6.432\
+15C43.3657 6.744\
+96 43.3481 7.057\
+6 43.3255 7.3698\
+5C43.1518 9.1086\
+9 43.1518 9.1086\
+9 43.7728 10.665\
+5C44.4988 11.313\
+2 45.5106 12.042\
+3 46.5156 12.004\
+9C46.9775 11.776\
+7 47.3744 11.498\
+2 47.7905 11.194\
+1C47.9739 11.067\
+4 48.1574 10.940\
+8 48.3464 10.810\
+3C48.7267 10.545\
+9 49.1028 10.275\
+4 49.4742 9.9985\
+4C50.7695 9.1253\
+2 51.5431 8.9713\
+8 53.064 9.20104\
+C53.2175 9.2213 \
+53.3711 9.24155 \
+53.5293 9.26242C\
+53.9047 9.3124 5\
+4.2795 9.36674 5\
+4.6542 9.42197C5\
+4.6586 12.917 54\
+.6619 16.4121 54\
+.6639 19.9072C54\
+.6648 21.53 54.6\
+661 23.1527 54.6\
+682 24.7755C54.6\
+701 26.1898 54.6\
+713 27.604 54.67\
+17 29.0183C54.67\
+19 29.7673 54.67\
+25 30.5162 54.67\
+39 31.2652C54.67\
+51 31.97 54.6755\
+ 32.6748 54.6752\
+ 33.3797C54.6753\
+ 33.6385 54.6757\
+ 33.8973 54.6764\
+ 34.1561C54.6773\
+ 34.5092 54.677 \
+34.8624 54.6766 \
+35.2156C54.6768 \
+35.5122 54.6768 \
+35.5122 54.6771 \
+35.8148C54.657 3\
+6.2645 54.5986 3\
+6.6395 54.4687 3\
+7.0685C54.5696 3\
+7.1172 54.6706 3\
+7.166 54.7746 37\
+.2163C55.2797 37\
+.4747 55.7676 37\
+.7512 56.2546 38\
+.0426C56.433 38.\
+1469 56.6114 38.\
+2511 56.7953 38.\
+3586C57.2519 38.\
+7384 57.2519 38.\
+7384 57.4418 39.\
+3153C57.5016 39.\
+4923 57.5614 39.\
+6693 57.623 39.8\
+517C58.056 40.05\
+22 58.056 40.052\
+2 58.5507 40.222\
+7C58.8232 40.37 \
+59.0923 40.5234 \
+59.3582 40.6823C\
+59.5134 40.7745 \
+59.6687 40.8668 \
+59.8287 40.9619C\
+59.9963 41.0624 \
+60.1639 41.1629 \
+60.3366 41.2664C\
+60.7055 41.4861 \
+61.0745 41.7057 \
+61.4434 41.9253C\
+61.6376 42.0412 \
+61.8317 42.1571 \
+62.0318 42.2765C\
+63.0464 42.8815 \
+64.0632 43.4827 \
+65.0797 44.0844C\
+65.5056 44.3369 \
+65.9316 44.5893 \
+66.3575 44.8419C\
+67.6207 45.5907 \
+68.884 46.3394 7\
+0.1474 47.088C70\
+.5649 47.3354 70\
+.9824 47.5828 71\
+.3999 47.8302C71\
+.6065 47.9526 71\
+.8132 48.0751 72\
+.0261 48.2013C73\
+.9047 49.3145 73\
+.9047 49.3145 74\
+.5312 49.6858C74\
+.9479 49.9327 75\
+.3646 50.1797 75\
+.7814 50.4266C76\
+.7293 50.9883 77\
+.6773 51.5501 78\
+.6251 52.112C81.\
+3334 53.7175 84.\
+0428 55.3212 86.\
+7539 56.922C86.4\
+731 57.668 86.03\
+65 57.9518 85.37\
+89 58.3795C85.18\
+ 58.5102 84.9812\
+ 58.6409 84.7763\
+ 58.7756C84.5657\
+ 58.9116 84.3552\
+ 59.0475 84.1446\
+ 59.1833C83.9332\
+ 59.3212 83.7219\
+ 59.4593 83.5108\
+ 59.5975C83.1256\
+ 59.8496 82.7399\
+ 60.1009 82.3536\
+ 60.3511C81.9532\
+ 60.5971 81.9532\
+ 60.5971 81.7441\
+ 60.8185C81.7148\
+ 61.2228 81.6988\
+ 61.6282 81.6877\
+ 62.0335C81.6841\
+ 62.1605 81.6805\
+ 62.2876 81.6768\
+ 62.4185C81.6454\
+ 63.5966 81.6275\
+ 64.775 81.6135 \
+65.9535C81.604 6\
+6.7447 81.5902 6\
+7.5354 81.5659 6\
+8.3263C81.5425 6\
+9.0918 81.5303 6\
+9.8566 81.5256 7\
+0.6224C81.522 70\
+.9129 81.5145 71\
+.2033 81.503 71.\
+4936C81.4232 73.\
+264 81.4232 73.2\
+64 82.2151 74.79\
+26C82.7571 75.32\
+64 83.3542 75.77\
+34 83.9707 76.21\
+88C84.1751 76.38\
+05 84.3785 76.54\
+35 84.5808 76.70\
+79C84.92 76.9831\
+ 85.262 77.2551 \
+85.6072 77.5227C\
+86.0072 77.8848 \
+86.1614 78.1501 \
+86.3828 78.631C8\
+5.8925 78.9138 8\
+5.4022 79.1967 8\
+4.9119 79.4795C8\
+4.4817 79.7277 8\
+4.0514 79.976 83\
+.6212 80.2242C82\
+.5916 80.8182 81\
+.5621 81.4122 80\
+.5322 82.0057C80\
+.2012 82.1965 79\
+.8702 82.3873 79\
+.5392 82.5781C79\
+.1218 82.8187 78\
+.7044 83.0593 78\
+.2869 83.2998C78\
+.0967 83.4094 77\
+.9066 83.519 77.\
+7106 83.632C77.5\
+441 83.728 77.37\
+75 83.824 77.205\
+9 83.9228C76.727\
+7 84.1914 76.727\
+7 84.1914 76.279\
+ 84.5226C75.6583\
+ 84.8266 75.3509\
+ 84.7557 74.6933\
+ 84.5685C74.2376\
+ 84.3531 74.2376\
+ 84.3531 73.7866\
+ 84.0799C73.6152\
+ 83.9777 73.4437\
+ 83.8755 73.2671\
+ 83.7702C72.9915\
+ 83.6028 72.9915\
+ 83.6028 72.7103\
+ 83.432C72.3088 \
+83.1928 71.907 8\
+2.9541 71.5049 8\
+2.7159C71.2966 8\
+2.5923 71.0884 8\
+2.4688 70.8737 8\
+2.3415C69.8528 8\
+1.7441 68.8177 8\
+1.1731 67.7817 8\
+0.6024C66.0495 7\
+9.646 64.3259 78\
+.6762 62.6096 77\
+.6916C60.7006 76\
+.5965 58.7854 75\
+.5139 56.863 74.\
+4427C56.6835 74.\
+3426 56.504 74.2\
+425 56.3191 74.1\
+394C56.1627 74.0\
+524 56.0063 73.9\
+654 55.8451 73.8\
+757C55.3816 73.6\
+128 54.9246 73.3\
+405 54.4687 73.0\
+645C54.482 73.28\
+13 54.4952 73.49\
+81 54.5089 73.72\
+14C54.6521 76.21\
+02 54.6765 78.68\
+99 54.6658 81.18\
+22C54.6649 81.56\
+76 54.6641 81.95\
+29 54.6633 82.33\
+83C54.6613 83.26\
+72 54.6581 84.19\
+62 54.6542 85.12\
+51C54.4777 85.21\
+33 54.3012 85.30\
+15 54.1194 85.39\
+23C52.9074 85.99\
+8 51.6956 86.604\
+1 50.4848 87.212\
+2C44.9047 90.014\
+5 44.9047 90.014\
+5 42.1075 91.338\
+5C40.926 91.8978\
+ 39.7572 92.4782\
+ 38.595 93.0768C\
+38.1406 93.2892 \
+38.1406 93.2892 \
+37.7695 93.2892C\
+37.7571 91.2459 \
+37.7922 89.2081 \
+37.8623 87.1661C\
+37.8712 86.8936 \
+37.8802 86.6211 \
+37.8891 86.3485C\
+37.9106 85.6933 \
+37.9326 85.0381 \
+37.955 84.3829C3\
+7.8125 84.3284 3\
+7.67 84.2739 37.\
+5231 84.2178C36.\
+7713 83.9055 36.\
+1399 83.4277 35.\
+4726 82.9659C35.\
+023 82.6718 35.0\
+23 82.6718 34.62\
+72 82.7658C34.23\
+42 82.902 33.918\
+3 83.066 33.565 \
+83.2848C33.4346 \
+83.365 33.3043 8\
+3.4452 33.1699 8\
+3.5278C33.0307 8\
+3.6148 32.8915 8\
+3.7018 32.7481 8\
+3.7915C32.6034 8\
+3.8808 32.4587 8\
+3.9701 32.3096 8\
+4.062C31.5071 84\
+.5588 30.7093 85\
+.0627 29.9135 85\
+.5701C29.7533 85\
+.6721 29.5932 85\
+.774 29.4283 85.\
+879C29.1169 86.0\
+777 28.806 86.27\
+73 28.4957 86.47\
+78C28.3549 86.56\
+79 28.214 86.658\
+ 28.0689 86.7508\
+C27.9444 86.8311\
+ 27.8199 86.9114\
+ 27.6916 86.9941\
+C27.3789 87.1661\
+ 27.3789 87.1661\
+ 27.0078 87.1661\
+C27.0063 86.9374\
+ 27.0048 86.7087\
+ 27.0033 86.473C\
+26.9859 83.8045 \
+26.967 81.136 26\
+.9474 78.4676C26\
+.9417 77.6942 26\
+.9361 76.9209 26\
+.9306 76.1476C26\
+.8834 69.5181 26\
+.8119 62.8897 26\
+.6962 56.261C26.\
+6405 53.0698 26.\
+5886 49.8788 26.\
+5532 46.6874C26.\
+5508 46.4705 26.\
+5508 46.4705 26.\
+5484 46.2492C26.\
+5323 44.7868 26.\
+5173 43.3244 26.\
+5035 41.8619C26.\
+4966 41.1296 26.\
+4894 40.3973 26.\
+4821 39.665C26.4\
+806 39.5197 26.4\
+792 39.3745 26.4\
+777 39.2248C26.4\
+53 36.8184 26.40\
+68 34.4128 26.35\
+41 32.0069C26.29\
+93 29.4832 26.26\
+72 26.96 26.256 \
+24.4357C26.2492 \
+23.0386 26.2324 \
+21.6432 26.1888 \
+20.2467C25.9286 \
+11.6846 25.9286 \
+11.6846 27.3934 \
+9.93197C28.6915 \
+8.66196 30.3127 \
+8.02019 32.0112 \
+7.46665C33.1967 \
+7.06589 34.2063 \
+6.3733 35.253 5.\
+69943C35.6252 5.\
+47606 35.9981 5.\
+25383 36.3721 5.\
+03335C37.0315 4.\
+63874 37.6791 4.\
+23197 38.3203 3.\
+80845C40.5148 2.\
+3819 40.5148 2.3\
+819 41.608 2.684\
+3ZM39.7141 5.615\
+36C39.5549 5.712\
+47 39.3958 5.809\
+57 39.2318 5.909\
+62C39.0668 6.012\
+47 38.9019 6.115\
+32 38.732 6.2212\
+8C38.4062 6.4214\
+4 38.0802 6.6214\
+8 37.7543 6.8214\
+1C37.5994 6.9169\
+7 37.4445 7.0125\
+2 37.2849 7.1109\
+7C36.7108 7.4607\
+4 36.1289 7.7937\
+8 35.5429 8.1231\
+4C35.5429 8.2456\
+ 35.5429 8.36806\
+ 35.5429 8.49423\
+C36.245 8.86996 \
+36.9482 9.24323 \
+37.6527 9.61426C\
+37.8923 9.74086 \
+38.1315 9.86811 \
+38.3703 9.99605C\
+38.7134 10.1797 \
+39.0578 10.361 3\
+9.4024 10.5418C3\
+9.7129 10.7065 3\
+9.7129 10.7065 4\
+0.0296 10.8745C4\
+0.5534 11.1593 4\
+0.5534 11.1593 4\
+1.1093 10.9063C4\
+1.1706 9.0082 41\
+.2318 7.11005 41\
+.2949 5.15439C40\
+.5202 5.15439 40\
+.3439 5.22619 39\
+.7141 5.61536ZM2\
+9.5044 11.3889C2\
+7.7537 13.4846 2\
+8.5199 17.8418 2\
+8.5912 20.3599C2\
+8.6186 21.5035 2\
+8.6203 22.6471 2\
+8.6249 23.7909C2\
+8.6363 25.7436 2\
+8.6634 27.6956 2\
+8.7022 29.6479C2\
+8.7424 31.6707 2\
+8.7733 33.6933 2\
+8.7917 35.7164C2\
+8.7928 35.8416 2\
+8.7939 35.9668 2\
+8.7951 36.0958C2\
+8.8008 36.7284 2\
+8.8063 37.3609 2\
+8.8117 37.9935C2\
+8.8226 39.2577 2\
+8.8347 40.5218 2\
+8.8473 41.786C28\
+.8485 41.9108 28\
+.8498 42.0356 28\
+.8511 42.1643C28\
+.88 45.0395 28.9\
+238 47.9144 28.9\
+682 50.7894C29.0\
+424 55.6093 29.0\
+862 60.4287 29.1\
+075 65.2491C29.1\
+09 65.5757 29.11\
+05 65.9022 29.11\
+2 66.2288C29.117\
+8 67.4601 29.123\
+4 68.6914 29.128\
+8 69.9227C29.142\
+ 72.8813 29.1665\
+ 75.8399 29.1937\
+ 78.7984C29.1958\
+ 79.0252 29.1979\
+ 79.252 29.2 79.\
+4856C29.2111 80.\
+6851 29.2225 81.\
+8846 29.2343 83.\
+0841C29.8739 82.\
+8349 30.4378 82.\
+5651 31.0173 82.\
+1962C31.2502 82.\
+0486 31.2502 82.\
+0486 31.4877 81.\
+898C31.727 81.74\
+46 31.727 81.744\
+6 31.9711 81.588\
+1C32.1335 81.485\
+1 32.296 81.3822\
+ 32.4633 81.2761\
+C33.2058 80.8374\
+ 33.2058 80.8374\
+ 33.873 80.3009C\
+33.8911 79.8893 \
+33.8958 79.4771 \
+33.8955 79.0651C\
+33.8957 78.9331 \
+33.8959 78.8012 \
+33.8961 78.6653C\
+33.8964 78.2151 \
+33.8954 77.7649 \
+33.8944 77.3148C\
+33.8943 76.988 3\
+3.8943 76.6612 3\
+3.8944 76.3344C3\
+3.8943 75.4222 3\
+3.8929 74.5099 3\
+3.8913 73.5977C3\
+3.8901 72.8079 3\
+3.8895 72.0181 3\
+3.8889 71.2283C3\
+3.8797 59.9702 3\
+3.8326 48.7122 3\
+3.7904 37.4543C3\
+3.7823 35.3117 3\
+3.7745 33.1691 3\
+3.7667 31.0264C3\
+3.7662 30.8732 3\
+3.7656 30.72 33.\
+765 30.5621C33.7\
+623 29.7926 33.7\
+595 29.0231 33.7\
+567 28.2536C33.7\
+34 21.9764 33.71\
+09 15.6992 33.68\
+75 9.42197C32.22\
+99 9.42197 30.51\
+47 10.4015 29.50\
+44 11.3889ZM35.9\
+14 11.2774C35.90\
+83 17.6595 35.90\
+45 24.0415 35.90\
+24 30.4236C35.90\
+23 30.6599 35.90\
+23 30.8962 35.90\
+22 31.1397C35.89\
+79 43.9128 35.91\
+04 56.6852 36.00\
+68 69.458C36.007\
+9 69.6054 36.009\
+ 69.7529 36.0101\
+ 69.9048C36.0372\
+ 73.4939 36.0667\
+ 77.0829 36.0996\
+ 80.672C36.6506 \
+80.9781 37.2017 \
+81.2843 37.7695 \
+81.5997C37.9089 \
+76.3611 37.9728 \
+71.1268 37.9342 \
+65.8866C37.9333 \
+65.7544 37.9323 \
+65.6222 37.9313 \
+65.4859C37.9221 \
+64.2431 37.9124 \
+63.0003 37.9023 \
+61.7575C37.8859 \
+59.6885 37.8754 \
+57.6195 37.8683 \
+55.5504C37.8675 \
+55.3227 37.8675 \
+55.3227 37.8667 \
+55.0903C37.8618 \
+53.6901 37.8574 \
+52.2899 37.8533 \
+50.8897C37.8506 \
+49.9429 37.8476 \
+48.9961 37.8445 \
+48.0493C37.8439 \
+47.8922 37.8434 \
+47.7352 37.8429 \
+47.5734C37.8339 \
+45.0078 37.8124 \
+42.4425 37.7867 \
+39.8771C37.7604 \
+37.2217 37.7483 \
+34.5665 37.749 3\
+1.911C37.7491 30\
+.2829 37.7382 28\
+.6557 37.7127 27\
+.0279C37.6964 25\
+.9169 37.6938 24\
+.8065 37.7019 23\
+.6955C37.7061 23\
+.0561 37.7045 22\
+.4182 37.6864 21\
+.7791C37.5974 18\
+.0378 37.5974 18\
+.0378 38.5166 16\
+.9593C39.4082 16\
+.2016 40.3854 15\
+.6591 41.4546 15\
+.1916C41.8576 14\
+.9853 42.1091 14\
+.7681 42.4082 14\
+.4317C41.5434 13\
+.9816 40.6782 13\
+.5324 39.8125 13\
+.0841C39.5179 12\
+.9314 39.2235 12\
+.7784 38.9292 12\
+.6251C38.5067 12\
+.4052 38.0838 12\
+.1862 37.6608 11\
+.9674C37.5287 11\
+.8984 37.3967 11\
+.8294 37.2607 11\
+.7584C36.6208 11\
+.4005 36.6208 11\
+.4005 35.914 11.\
+2774ZM50.86 11.9\
+58C50.6237 12.11\
+5 50.6237 12.115\
+ 50.3827 12.2751\
+C50.1378 12.4414\
+ 50.1378 12.4414\
+ 49.888 12.6111C\
+47.0714 14.5036 \
+47.0714 14.5036 \
+45.8918 14.9639C\
+43.7576 15.8343 \
+40.8962 17.1563 \
+39.8789 19.353C3\
+9.4475 21.0604 3\
+9.5028 22.8002 3\
+9.5602 24.5491C3\
+9.5802 25.3363 3\
+9.5697 26.1232 3\
+9.5631 26.9105C3\
+9.5559 28.2709 3\
+9.5674 29.63 39.\
+5923 30.9902C39.\
+6281 32.9566 39.\
+6351 34.9223 39.\
+6354 36.8891C39.\
+6366 40.0807 39.\
+661 43.2718 39.7\
+002 46.4632C39.7\
+381 49.5607 39.7\
+646 52.6579 39.7\
+759 55.7556C39.7\
+766 55.9469 39.7\
+773 56.1382 39.7\
+781 56.3352C39.7\
+816 57.295 39.78\
+48 58.2548 39.78\
+8 59.2146C39.808\
+ 65.0582 39.8425\
+ 70.9016 39.9047\
+ 76.745C39.9095 \
+77.2059 39.914 7\
+7.6667 39.9184 7\
+8.1276C39.9251 7\
+8.8357 39.9328 7\
+9.5437 39.9413 8\
+0.2518C39.9443 8\
+0.509 39.947 80.\
+7663 39.9493 81.\
+0235C39.9525 81.\
+3709 39.957 81.7\
+182 39.9616 82.0\
+656C39.9638 82.2\
+592 39.966 82.45\
+28 39.9682 82.65\
+23C39.9479 83.07\
+67 39.9479 83.07\
+67 40.1816 83.26\
+96C40.198 83.737\
+4 40.203 84.2 40\
+.1997 84.6677C40\
+.1994 84.8075 40\
+.1992 84.9473 40\
+.1989 85.0913C40\
+.1979 85.5394 40\
+.1955 85.9874 40\
+.1932 86.4355C40\
+.1923 86.7386 40\
+.1914 87.0417 40\
+.1907 87.3448C40\
+.1886 88.0893 40\
+.1854 88.8337 40\
+.1816 89.5782C41\
+.0176 89.3208 41\
+.7727 88.9887 42\
+.5524 88.5932C42\
+.7305 88.5034 42\
+.7305 88.5034 42\
+.9123 88.4117C43\
+.1661 88.2837 43\
+.4197 88.1553 43\
+.6732 88.0267C44\
+.3379 87.6894 45\
+.0038 87.3544 45\
+.6697 87.0197C45\
+.8026 86.9529 45\
+.9354 86.8861 46\
+.0722 86.8173C47\
+.4392 86.1316 48\
+.818 85.4717 50.\
+2022 84.8214C50.\
+3614 84.7463 50.\
+5205 84.6712 50.\
+6846 84.5938C50.\
+8207 84.5301 50.\
+9568 84.4664 51.\
+0971 84.4008C51.\
+23 84.3337 51.36\
+3 84.2665 51.5 8\
+4.1974C51.7518 8\
+4.0842 51.7518 8\
+4.0842 52.0087 8\
+3.9687C52.4816 8\
+3.6717 52.4816 8\
+3.6717 52.5359 8\
+3.1067C52.5304 8\
+2.7812 52.5304 8\
+2.7812 52.5248 8\
+2.4492C52.5236 8\
+2.2697 52.5236 8\
+2.2696 52.5224 8\
+2.0865C52.5185 8\
+1.6921 52.508 81\
+.2982 52.4973 80\
+.9039C52.4932 80\
+.6309 52.4894 80\
+.3579 52.486 80.\
+0849C52.4736 79.\
+229 52.4513 78.3\
+734 52.4277 77.5\
+177C52.4202 77.2\
+336 52.4128 76.9\
+496 52.4054 76.6\
+656C52.3616 75.0\
+319 52.3067 73.3\
+988 52.2421 71.7\
+657C50.8836 72.5\
+324 49.5332 73.3\
+102 48.1992 74.1\
+191C48.0199 74.2\
+277 48.0199 74.2\
+277 47.837 74.33\
+85C47.3475 74.63\
+52 46.8582 74.93\
+23 46.3696 75.23\
+05C46.0059 75.45\
+24 45.6414 75.67\
+3 45.2769 75.893\
+4C45.1122 75.994\
+6 45.1122 75.994\
+6 44.9442 76.097\
+8C44.4172 76.415\
+3 43.947 76.6739\
+ 43.3359 76.7755\
+C43.1522 76.4081\
+ 42.9685 76.0407\
+ 42.7792 75.6622\
+C42.5343 75.7234\
+ 42.2894 75.7847\
+ 42.0371 75.8477\
+C42.0983 72.2964\
+ 42.1595 68.745 \
+42.2226 65.086C4\
+2.4063 65.0248 4\
+2.59 64.9636 42.\
+7792 64.9005C43.\
+093 64.5959 43.4\
+015 64.2857 43.7\
+07 63.9727C44.10\
+94 63.6122 44.52\
+23 63.2647 44.93\
+62 62.9174C45.04\
+24 62.8274 45.14\
+86 62.7373 45.25\
+8 62.6446C45.718\
+5 62.2564 46.174\
+1 61.8951 46.675\
+7 61.5606C46.737\
+8 61.0897 46.763\
+2 60.6628 46.765\
+4 60.1906C46.768\
+2 60.0494 46.771\
+ 59.9081 46.7738\
+ 59.7626C46.7819\
+ 59.2941 46.7857\
+ 58.8256 46.7888\
+ 58.3571C46.792 \
+58.0316 46.7952 \
+57.7062 46.7984 \
+57.3807C46.8043 \
+56.6975 46.8075 \
+56.0144 46.8095 \
+55.3311C46.8125 \
+54.4566 46.8259 \
+53.5826 46.8417 \
+52.7082C46.8521 \
+52.0355 46.855 5\
+1.3629 46.8558 5\
+0.6901C46.8575 5\
+0.3679 46.862 50\
+.0456 46.8693 49\
+.7234C46.9721 47\
+.9898 46.9721 47\
+.9898 46.3185 46\
+.4667C45.8884 46\
+.1746 45.4884 45\
+.9789 45.0058 45\
+.7892C43.8887 45\
+.1713 42.8276 44\
+.537 42.2226 43.\
+377C41.9777 42.2\
+496 42.0405 41.0\
+683 42.0487 39.9\
+212C42.0466 39.5\
+946 42.044 39.26\
+8 42.0408 38.941\
+4C42.0357 38.299\
+6 42.0341 37.658\
+ 42.036 37.0163C\
+42.038 36.2738 4\
+2.03 35.532 42.0\
+168 34.7897C42.0\
+117 34.4283 42.0\
+068 34.0668 42.0\
+023 33.7054C41.9\
+998 33.5467 41.9\
+973 33.388 41.99\
+47 33.2244C41.99\
+4 32.435 42.0398\
+ 31.8321 42.4082\
+ 31.131C42.7909 \
+30.8503 42.7909 \
+30.8503 43.2678 \
+30.6168C43.5353 \
+30.4832 43.5353 \
+30.4832 43.8081 \
+30.3469C44.001 3\
+0.2543 44.1939 3\
+0.1617 44.3926 3\
+0.0662C44.6884 2\
+9.9199 44.6884 2\
+9.9199 44.9901 2\
+9.7707C45.6202 2\
+9.4598 46.2523 2\
+9.1531 46.8845 2\
+8.8464C47.312 28\
+.6364 47.7394 28\
+.4261 48.1666 28\
+.2155C49.2144 27\
+.6998 50.2637 27\
+.1875 51.3144 26\
+.6778C51.2226 27\
+.0452 51.2226 27\
+.0452 51.1289 27\
+.42C51.7718 27.3\
+282 51.7718 27.3\
+282 52.4277 27.2\
+345C52.4277 22.0\
+299 52.4277 16.8\
+253 52.4277 11.4\
+63C51.6361 11.46\
+3 51.4859 11.535\
+5 50.86 11.958ZM\
+54.7405 42.4421C\
+54.5309 42.5828 \
+54.5309 42.5828 \
+54.317 42.7264C5\
+4.0209 42.9255 5\
+3.725 43.1249 53\
+.4293 43.3245C52\
+.9748 43.6307 52\
+.5192 43.9352 52\
+.0635 44.2395C51\
+.7767 44.4327 51\
+.4901 44.626 51.\
+2035 44.8194C51.\
+0661 44.9108 50.\
+9287 45.0022 50.\
+7871 45.0965C50.\
+4614 45.3178 50.\
+1446 45.5522 49.\
+83 45.7892C49.83\
+ 45.9116 49.83 4\
+6.0341 49.83 46.\
+1602C50.1833 46.\
+4185 50.1833 46.\
+4185 50.6476 46.\
+6734C50.8255 46.\
+776 51.0033 46.8\
+785 51.1866 46.9\
+842C51.3819 47.0\
+95 51.5771 47.20\
+58 51.7783 47.31\
+99C52.1912 47.55\
+74 52.6041 47.79\
+49 53.0169 48.03\
+24C53.2288 48.15\
+36 53.4406 48.27\
+49 53.6588 48.39\
+98C54.5927 48.93\
+55 55.5222 49.47\
+86 56.4517 50.02\
+19C56.6327 50.12\
+75 56.8136 50.23\
+3 57 50.3418C58.\
+5923 51.2705 60.\
+1823 52.2028 61.\
+7723 53.1354C63.\
+4718 54.1323 65.\
+1729 55.1265 66.\
+8753 56.1184C67.\
+9168 56.7256 68.\
+9575 57.3341 69.\
+9974 57.9439C70.\
+1796 58.0508 70.\
+1796 58.0508 70.\
+3655 58.1598C71.\
+0712 58.5737 71.\
+7768 58.9878 72.\
+4822 59.4021C72.\
+7927 59.5841 73.\
+1038 59.7651 73.\
+4149 59.946C73.7\
+336 60.1337 74.0\
+502 60.325 74.36\
+2 60.524C74.982 \
+60.922 74.982 60\
+.922 75.6976 60.\
+9483C76.4774 60.\
+7374 77.1935 60.\
+4072 77.9288 60.\
+0763C78.0922 60.\
+003 78.2556 59.9\
+297 78.424 59.85\
+42C79.8692 59.18\
+89 81.1851 58.38\
+99 82.4863 57.47\
+86C82.2632 56.80\
+93 82.1273 56.76\
+98 81.5281 56.43\
+93C81.3673 56.34\
+93 81.2066 56.25\
+93 81.041 56.166\
+6C80.8673 56.071\
+4 80.6937 55.976\
+3 80.5148 55.878\
+3C80.1533 55.676\
+ 79.7919 55.4736\
+ 79.4306 55.2709\
+C79.2533 55.1719\
+ 79.0761 55.073 \
+78.8935 54.971C7\
+8.2827 54.6269 7\
+7.682 54.2698 77\
+.0822 53.9068C75\
+.8111 53.1377 74\
+.5338 52.3792 73\
+.2553 51.6223C73\
+.038 51.4936 72.\
+8206 51.3649 72.\
+6033 51.2362C72.\
+16 50.9737 71.71\
+67 50.7112 71.27\
+34 50.4488C70.00\
+94 49.7004 68.74\
+59 48.9515 67.48\
+23 48.2024C66.53\
+63 47.6416 65.59\
+02 47.0811 64.64\
+32 46.5219C62.28\
+58 45.1297 59.93\
+44 43.7293 57.60\
+29 42.2941C57.43\
+68 42.1923 57.27\
+08 42.0904 57.09\
+97 41.9854C56.95\
+38 41.8955 56.80\
+78 41.8056 56.65\
+75 41.7129C55.93\
+ 41.2953 55.3543\
+ 42.0291 54.7405\
+ 42.4421ZM48.902\
+3 48.2013C48.902\
+3 52.5486 48.902\
+3 56.896 48.9023\
+ 61.3751C50.1881\
+ 62.018 50.1881 \
+62.018 51.5 62.6\
+739C52.2047 63.0\
+736 52.9034 63.4\
+768 53.5989 63.8\
+916C55.1462 64.8\
+044 56.7023 65.6\
+976 58.2724 66.5\
+704C59.9849 67.5\
+233 61.6814 68.5\
+005 63.3713 69.4\
+928C64.6933 70.2\
+67 66.0256 71.02\
+07 67.3642 71.76\
+57C68.8972 72.61\
+9 70.4199 73.487\
+4 71.9333 74.375\
+C73.4618 75.2712\
+ 74.9955 76.1572\
+ 76.5372 77.0306\
+C76.722 77.1356 \
+76.9068 77.2406 \
+77.0972 77.3488C\
+77.2661 77.4443 \
+77.4351 77.5397 \
+77.6091 77.638C7\
+7.7586 77.7225 7\
+7.9081 77.807 78\
+.0621 77.8941C78\
+.3672 78.0887 78\
+.3672 78.0887 78\
+.5898 78.0743C78\
+.5898 72.8697 78\
+.5898 67.6651 78\
+.5898 62.3028C77\
+.6459 62.4916 76\
+.9582 62.8106 76\
+.1074 63.2378C75\
+.554 63.4407 75.\
+422 63.4132 74.8\
+789 63.2306C74.5\
+869 63.0856 74.2\
+997 62.9308 74.0\
+164 62.7696C73.8\
+473 62.6738 73.6\
+782 62.578 73.50\
+4 62.4794C73.322\
+4 62.3752 73.140\
+9 62.271 72.9538\
+ 62.1637C72.6691\
+ 62.0015 72.6691\
+ 62.0015 72.3786\
+ 61.836C70.7638 \
+60.913 69.1619 5\
+9.9687 67.5628 5\
+9.0188C66.5064 5\
+8.3916 65.4456 5\
+7.7721 64.3839 5\
+7.1539C62.7162 5\
+6.1826 61.0503 5\
+5.2081 59.3857 5\
+4.2315C57.5198 5\
+3.1369 55.6524 5\
+2.0448 53.783 50\
+.9561C52.9445 50\
+.4676 52.1068 49\
+.9776 51.2716 49\
+.4834C51.1232 49\
+.3956 50.9747 49\
+.3078 50.8217 49\
+.2174C50.5472 49\
+.0548 50.2728 48\
+.8919 49.9987 48\
+.7286C49.4829 48\
+.3636 49.4829 48\
+.3636 48.9023 48\
+.2013ZM46.7569 6\
+4.2511C46.5856 6\
+4.3971 46.5856 6\
+4.3971 46.4108 6\
+4.5461C46.1277 6\
+4.7875 45.845 65\
+.0295 45.5625 65\
+.2716C46.0949 65\
+.6881 46.6381 66\
+.0314 47.2288 66\
+.3595C47.5033 66\
+.5126 47.5033 66\
+.5126 47.7834 66\
+.6687C47.9804 66\
+.7779 48.1774 66\
+.887 48.3804 66.\
+9995C48.8016 67.\
+2341 49.2227 67.\
+4687 49.6438 67.\
+7033C49.8616 67.\
+8244 50.0795 67.\
+9455 50.2974 68.\
+0667C53.369 69.7\
+75 56.4296 71.50\
+16 59.4785 73.25\
+01C60.3287 73.73\
+75 61.1791 74.22\
+46 62.0297 74.71\
+13C62.1398 74.77\
+43 62.2498 74.83\
+72 62.3632 74.90\
+21C64.1049 75.89\
+85 65.8542 76.88\
+06 67.6072 77.85\
+71C69.18 78.7359\
+ 70.737 79.6405 \
+72.2879 80.5575C\
+73.8754 81.6636 \
+73.8754 81.6636 \
+75.6274 82.1003C\
+76.1773 81.905 7\
+6.6517 81.6087 7\
+7.1518 81.3098C7\
+7.3518 81.1909 7\
+7.5517 81.072 77\
+.7577 80.9496C77\
+.9099 80.858 78.\
+062 80.7663 78.2\
+187 80.672C77.78\
+03 80.1864 77.32\
+17 79.8976 76.74\
+95 79.5841C76.56\
+5 79.482 76.3805\
+ 79.38 76.1904 7\
+9.2749C75.8913 7\
+9.1112 75.8913 7\
+9.1112 75.5863 7\
+8.9441C75.1621 7\
+8.7093 74.7381 7\
+8.4742 74.3142 7\
+8.2388C74.2062 7\
+8.1788 74.0981 7\
+8.1189 73.9868 7\
+8.057C72.9142 77\
+.46 71.8549 76.8\
+411 70.7968 76.2\
+188C69.2913 75.3\
+347 67.7765 74.4\
+702 66.2509 73.6\
+212C64.5385 72.6\
+682 62.842 71.69\
+11 61.152 70.698\
+8C59.83 69.9246 \
+58.4978 69.1709 \
+57.1591 68.4259C\
+55.2303 67.3521 \
+53.3193 66.2501 \
+51.4151 65.1331C\
+51.2492 65.0358 \
+51.0833 64.9385 \
+50.9124 64.8382C\
+50.531 64.6142 5\
+0.1498 64.3896 4\
+9.7689 64.1647C4\
+9.4651 63.9861 4\
+9.4651 63.9861 4\
+9.1552 63.8039C4\
+8.9695 63.6943 4\
+8.7837 63.5848 4\
+8.5923 63.4719C4\
+7.7584 63.0063 4\
+7.3955 63.7033 4\
+6.7569 64.2511ZM\
+80.8164 76.5899C\
+80.8164 77.3859 \
+80.8164 78.1819 \
+80.8164 79.002C8\
+1.8727 78.7042 8\
+1.8727 78.7042 8\
+2.4863 78.2599C8\
+2.2008 77.4033 8\
+1.5365 77.07 80.\
+8164 76.5899Z\x22 f\
+ill=\x22black\x22/>\x0d\x0a<\
+path d=\x22M50.6856\
+ 27.5332C50.7642\
+ 28.6814 50.821 \
+29.828 50.8588 3\
+0.9782C50.8746 3\
+1.3683 50.8961 3\
+1.7581 50.9235 3\
+2.1475C51.1393 3\
+5.2873 51.1393 3\
+5.2873 50.3916 3\
+6.2687C49.6481 3\
+6.9566 48.8025 3\
+7.4432 47.9075 3\
+7.9083C47.4419 3\
+8.1571 47.0336 3\
+8.4549 46.6195 3\
+8.7813C46.5016 3\
+8.8704 46.3837 3\
+8.9594 46.2622 3\
+9.0512C46.1529 3\
+9.1346 46.0436 3\
+9.218 45.9309 39\
+.3038C45.4758 39\
+.6492 45.0199 39\
+.9936 44.5625 40\
+.3359C44.4435 40\
+.4252 44.3244 40\
+.5144 44.2018 40\
+.6064C43.3074 41\
+.2637 43.3074 41\
+.2637 42.8926 41\
+.2637C42.8391 40\
+.1946 42.7862 39\
+.1256 42.7341 38\
+.0565C42.7163 37\
+.6937 42.6983 37\
+.3309 42.6801 36\
+.9682C42.4864 33\
+.1027 42.4864 33\
+.1027 42.5215 31\
+.2441C45.7901 29\
+.4203 45.7901 29\
+.4203 47.5313 29\
+.0176C47.5313 28\
+.8951 47.5313 28\
+.7727 47.5313 28\
+.6465C47.917 28.\
+4592 48.3037 28.\
+2741 48.6909 28.\
+0898C48.9062 27.\
+9865 49.1215 27.\
+8832 49.3433 27.\
+7767C49.9434 27.\
+5332 49.9434 27.\
+5332 50.6856 27.\
+5332Z\x22 fill=\x22#AF\
+AFAF\x22/>\x0d\x0a<path d\
+=\x22M51.0531 36.48\
+56C51.4276 36.62\
+53 51.743 36.786\
+ 52.0829 36.9957\
+C52.2028 37.0688\
+ 52.3226 37.1419\
+ 52.4461 37.2172\
+C52.5692 37.2936\
+ 52.6924 37.37 5\
+2.8193 37.4487C5\
+3.8634 38.0986 5\
+3.8634 38.0986 5\
+4.9531 38.6664C5\
+4.9531 38.8501 5\
+4.9531 39.0338 5\
+4.9531 39.223C54\
+.7391 39.325 54.\
+5251 39.427 54.3\
+046 39.5321C53.4\
+792 39.9453 52.7\
+286 40.4345 51.9\
+699 40.9582C51.8\
+337 41.051 51.69\
+75 41.1438 51.55\
+73 41.2394C51.12\
+69 41.5328 50.69\
+74 41.8274 50.26\
+81 42.1222C49.83\
+59 42.4181 49.40\
+36 42.7138 48.97\
+09 43.009C48.702\
+9 43.1919 48.435\
+3 43.3752 48.168\
+ 43.5591C48.0466\
+ 43.6421 47.9251\
+ 43.7252 47.8 43\
+.8107C47.694 43.\
+8834 47.5881 43.\
+9562 47.4789 44.\
+0311C47.1317 44.\
+2508 46.7973 44.\
+445 46.418 44.60\
+39C46.0101 44.44\
+75 46.0101 44.44\
+75 45.5743 44.16\
+61C45.4176 44.06\
+61 45.261 43.966\
+2 45.0996 43.863\
+1C44.9376 43.755\
+5 44.7757 43.647\
+9 44.6089 43.537\
+C44.4441 43.4322\
+ 44.2793 43.3275\
+ 44.1095 43.2195\
+C43.2236 42.6453\
+ 43.2236 42.6453\
+ 42.8926 42.3773\
+C42.8926 42.2549\
+ 42.8926 42.1324\
+ 42.8926 42.0062\
+C43.3421 41.662 \
+43.7936 41.3391 \
+44.261 41.0205C4\
+4.5501 40.8202 4\
+4.839 40.6196 45\
+.1278 40.4189C45\
+.2786 40.3145 45\
+.4294 40.21 45.5\
+848 40.1024C46.3\
+405 39.5746 47.0\
+866 39.0336 47.8\
+328 38.4924C48.6\
+266 37.9173 48.6\
+266 37.9173 49.0\
+202 37.6351C49.2\
+654 37.4561 49.5\
+074 37.2726 49.7\
+46 37.0848C50.59\
+63 36.4287 50.59\
+63 36.4287 51.05\
+31 36.4856Z\x22 fil\
+l=\x22#ACACAC\x22/>\x0d\x0a<\
+path d=\x22M42.5215\
+ 65.0137C43.1549\
+ 65.172 43.508 6\
+5.3169 44.0522 6\
+5.6399C44.8214 6\
+6.0799 45.5812 6\
+6.3945 46.418 66\
+.6836C46.418 66.\
+8061 46.418 66.9\
+285 46.418 67.05\
+47C46.5672 67.10\
+06 46.7165 67.14\
+65 46.8702 67.19\
+38C47.7973 67.51\
+91 48.6935 67.91\
+41 49.5723 68.35\
+35C49.5723 68.47\
+6 49.5723 68.598\
+4 49.5723 68.724\
+6C49.9396 68.847\
+1 50.307 68.9695\
+ 50.6855 69.0957\
+C50.6855 69.2794\
+ 50.6855 69.4631\
+ 50.6855 69.6523\
+C50.3638 69.9216\
+ 50.3638 69.9216\
+ 49.91 70.2032C4\
+9.7428 70.3082 4\
+9.5755 70.4133 4\
+9.4032 70.5216C4\
+9.2217 70.6327 4\
+9.0402 70.7439 4\
+8.8533 70.8584C4\
+8.67 70.9729 48.\
+4868 71.0874 48.\
+2979 71.2054C47.\
+4011 71.7642 46.\
+4991 72.3143 45.\
+5953 72.8617C45.\
+4421 72.9546 45.\
+2889 73.0476 45.\
+131 73.1433C44.8\
+416 73.3181 44.5\
+515 73.4919 44.2\
+607 73.6644C43.5\
+555 74.0478 43.5\
+555 74.0478 43.0\
+781 74.6621C42.8\
+944 74.6621 42.7\
+107 74.6621 42.5\
+215 74.6621C42.5\
+215 71.4781 42.5\
+215 68.2941 42.5\
+215 65.0137Z\x22 fi\
+ll=\x22#ADADAD\x22/>\x0d\x0a\
+<path d=\x22M42.336\
+ 31.2441C42.3972\
+ 31.2441 42.4585\
+ 31.2441 42.5216\
+ 31.2441C42.8063\
+ 34.5909 42.9475\
+ 37.9049 42.8927\
+ 41.2637C43.3453\
+ 40.9472 43.7976\
+ 40.6302 44.2495\
+ 40.3127C44.4587\
+ 40.1659 44.4587\
+ 40.1659 44.6721\
+ 40.0161C45.4634\
+ 39.458 46.2468 \
+38.8914 47.0218 \
+38.3109C47.1804 \
+38.1923 47.339 3\
+8.0737 47.5025 3\
+7.9515C47.8124 3\
+7.7189 48.1214 3\
+7.4852 48.4296 3\
+7.2504C48.5708 3\
+7.1445 48.7121 3\
+7.0386 48.8577 3\
+6.9294C48.9824 3\
+6.8348 49.1071 3\
+6.7401 49.2356 3\
+6.6426C49.5723 3\
+6.4395 49.5723 3\
+6.4395 50.129 36\
+.4395C49.457 37.\
+4906 48.7741 38.\
+12 47.7401 38.80\
+52C47.4604 38.99\
+63 47.1808 39.18\
+76 46.9015 39.37\
+92C46.6896 39.52\
+34 46.6896 39.52\
+34 46.4734 39.67\
+06C45.7914 40.14\
+12 45.1246 40.63\
+22 44.4582 41.12\
+45C44.2776 41.25\
+75 44.2776 41.25\
+75 44.0934 41.39\
+32C43.8166 41.59\
+72 43.5402 41.80\
+15 43.2637 42.00\
+59C43.2025 41.88\
+34 43.1413 41.76\
+09 43.0782 41.63\
+48C42.9557 41.63\
+48 42.8333 41.63\
+48 42.7071 41.63\
+48C42.6535 40.54\
+27 42.6007 39.45\
+06 42.5486 38.35\
+85C42.5308 37.98\
+8 42.5128 37.617\
+5 42.4946 37.247\
+C42.3963 35.2449\
+ 42.3018 33.2493\
+ 42.336 31.2441Z\
+\x22 fill=\x22#3B3B3B\x22\
+/>\x0d\x0a<path d=\x22M49\
+.7578 36.2539C49\
+.8803 36.3151 50\
+.0027 36.3764 50\
+.1289 36.4395C49\
+.5803 37.2702 49\
+.1903 37.8496 48\
+.2734 38.2949C48\
+.2734 38.1725 48\
+.2734 38.05 48.2\
+734 37.9238C47.9\
+673 38.0463 47.6\
+611 38.1688 47.3\
+457 38.2949C48.0\
+823 37.5123 48.8\
+873 36.8825 49.7\
+578 36.2539Z\x22 fi\
+ll=\x22#252525\x22/>\x0d\x0a\
+<path d=\x22M44.191\
+4 40.3359C44.313\
+9 40.3972 44.436\
+3 40.4584 44.562\
+5 40.5215C44.178\
+2 41.27 43.8266 \
+41.6215 43.0781 \
+42.0059C43.0781 \
+41.8834 43.0781 \
+41.7609 43.0781 \
+41.6348C42.9557 \
+41.5735 42.8332 \
+41.5123 42.707 4\
+1.4492C42.8907 4\
+1.4492 43.0744 4\
+1.4492 43.2637 4\
+1.4492C43.3249 4\
+1.2655 43.3861 4\
+1.0818 43.4492 4\
+0.8926C43.8319 4\
+0.5795 43.8319 4\
+0.5795 44.1914 4\
+0.3359Z\x22 fill=\x22#\
+262626\x22/>\x0d\x0a<path\
+ d=\x22M44.748 39.9\
+648C44.993 39.96\
+48 45.2379 39.96\
+48 45.4902 39.96\
+48C45.2792 40.59\
+79 45.1111 40.72\
+9 44.5625 41.078\
+1C44.44 41.0781 \
+44.3176 41.0781 \
+44.1914 41.0781C\
+44.5393 40.1736 \
+44.5393 40.1736 \
+44.748 39.9648Z\x22\
+ fill=\x22#191919\x22/\
+>\x0d\x0a<defs>\x0d\x0a<radi\
+alGradient id=\x22p\
+aint0_radial_201\
+3_52\x22 cx=\x220\x22 cy=\
+\x220\x22 r=\x221\x22 gradie\
+ntUnits=\x22userSpa\
+ceOnUse\x22 gradien\
+tTransform=\x22tran\
+slate(47.5 47.5)\
+ rotate(90) scal\
+e(47.5)\x22>\x0d\x0a<stop\
+ offset=\x220.4\x22 st\
+op-color=\x22white\x22\
+/>\x0d\x0a<stop offset\
+=\x221\x22 stop-color=\
+\x22white\x22 stop-opa\
+city=\x220.5\x22/>\x0d\x0a</\
+radialGradient>\x0d\
+\x0a</defs>\x0d\x0a</svg>\
+\x0d\x0a\
+\x00\x00\x05\xb8\
+<\
+svg width=\x2295\x22 h\
+eight=\x2295\x22 viewB\
+ox=\x220 0 95 95\x22 f\
+ill=\x22none\x22 xmlns\
+=\x22http://www.w3.\
+org/2000/svg\x22>\x0d\x0a\
+<rect width=\x2295\x22\
+ height=\x2295\x22 rx=\
+\x2220\x22 fill=\x22url(#\
+paint0_radial_20\
+14_151)\x22/>\x0d\x0a<pat\
+h d=\x22M47.2402 12\
+C47.9256 12 48.5\
+895 12.2415 49.1\
+143 12.6821L79.2\
+312 38.0187C79.7\
+458 38.3689 80.1\
+346 38.8748 80.3\
+41 39.4619C80.54\
+73 40.0494 80.56\
+04 40.6875 80.37\
+77 41.2826C80.19\
+5 41.8777 79.826\
+3 42.3985 79.325\
+8 42.7687C78.825\
+7 43.1393 78.219\
+7 43.3394 77.596\
+9 43.3405H73.147\
+9V77.1624C73.147\
+5 79.015 72.4115\
+ 80.7916 71.1019\
+ 82.102C69.792 8\
+3.412 68.0161 84\
+.1487 66.1634 84\
+.1501H56.2648V64\
+.3526C56.2641 63\
+.7357 56.0188 63\
+.1442 55.5824 62\
+.7078C55.1459 62\
+.2717 54.5545 62\
+.0268 53.9371 62\
+.0264H40.5476C39\
+.9303 62.0264 39\
+.3384 62.2714 38\
+.9017 62.7074C38\
+.4649 63.1438 38\
+.2192 63.7353 38\
+.2185 64.3526V84\
+.1501H28.3232C26\
+.4701 84.1494 24\
+.6928 83.4134 23\
+.3824 82.1031C22\
+.0721 80.7927 21\
+.3361 79.0154 21\
+.3354 77.1624V43\
+.3405H16.9107C16\
+.3137 43.3402 15\
+.7313 43.1564 15\
+.2422 42.8139C14\
+.7531 42.4717 14\
+.3808 41.9872 14\
+.1762 41.4263C13\
+.9716 40.8654 13\
+.9445 40.2547 14\
+.0984 39.6778C14\
+.2522 39.1008 14\
+.5798 38.5854 15\
+.0364 38.2007L45\
+.366 12.6821C45.\
+8909 12.2415 46.\
+5548 12 47.2402 \
+12Z\x22 fill=\x22#3333\
+33\x22/>\x0d\x0a<defs>\x0d\x0a<\
+radialGradient i\
+d=\x22paint0_radial\
+_2014_151\x22 cx=\x220\
+\x22 cy=\x220\x22 r=\x221\x22 g\
+radientUnits=\x22us\
+erSpaceOnUse\x22 gr\
+adientTransform=\
+\x22translate(47.5 \
+47.5) rotate(90)\
+ scale(47.5)\x22>\x0d\x0a\
+<stop offset=\x220.\
+4\x22 stop-color=\x22w\
+hite\x22/>\x0d\x0a<stop o\
+ffset=\x221\x22 stop-c\
+olor=\x22white\x22 sto\
+p-opacity=\x220.5\x22/\
+>\x0d\x0a</radialGradi\
+ent>\x0d\x0a</defs>\x0d\x0a<\
+/svg>\x0d\x0a\
+\x00\x00\x0d\x99\
+(\
+\xb5/\xfd`\x00p}l\x00*\x0fq\x22\x1f u\
+\xa5\xd8\xff\xab\x01\x9eF\x8b[!h\x03\x85;\x0c\xae\
+\xec\x9d2\xc5\xa5\x1dL\xf7\x01\xa0L\x9c\x06b\x02\x01\
+\x02\x03\x02Au\xf2\xc1\xce\x14\xc3\x19I\x0b:\x1a9\
+\x8bRZ|aii\x96\x927\x9c\x06\xc5,~\xb6\
+\x13-\xb7 \xc40*\xb1\x85\xa7\x1d\xacn\xa4\x18u\
+M\x19\x1c^\xce\xa4\xb9\x1fIYP\x1eF\x8e\x85,\
+*\xad\xb0\x86\x94f\xdf\xa77\xe4\x98d,L\xc7;\
+\xbbe\xad\xf60#\xc9\xc7y(\xb4DW\x05\x1b\x97\
+gT\xf9\x8e\xdc#\x11\xf1\xc6\xa02\x89=\xea\x06?\
+\xcd\x86\xe9\x91?\xcac\xf1\xa3\x1e\x8e\xbf,\xb2\x1b\xe9\
+`\x5c\xc9R8\xa0]\x0a\x9e\x8fH\x08\xe3IR\x1c\
+L?\xa1\xa39\x99\x17Mr(\xdb\xd5\x95\x1c#\x09\
+-\x8fb\x18xe6\xb9\xe8,\xe80g\xfeH\xcc\
+qF#\x93QD\x94:2-\xed\xbc \x1e9\xec\
+\x87},\xe3\xa8\xe9@7x&\xb7\xd2H#\xd9H\
+\xbb\xa1\xca\x8a\xac\xb2\xdc\x97+\xef\xfbG\xb0a\xec\xd1\
+\xc85\x0c3\xb2Y\xbd\x0d\xe74\xdfXbG\x12\xc3\
+\x0eol\xe8\xcf\x8e\x041l\xaa\xccb\x11\x0eWo\
+M\x0e\xc3\xac)n\xd8X\xca1\xa8<\xb5\xaa\x18\x87\
+\xbb\x93\xdcI\x97\x8b#B\xc9:mR\x18\xfe\xb5n\
+\xf9E\x9e\xeb6T\xd5G\xa8\x8a$c\x91?N%\
+?\xe0\xb5\xa6\x22\xbf\xe2\x84y#\xf8!\x87\xfeI\xb9\
+\x07\xced\x0d\xc9\x1f4\xd9\x99J}@\xbc\xbb\xb4\xa4\
+\xa3\xce\xde11G\xed\xce9\xa9\x07[\xe5\x18'\xfb\
+\xda\xecr\x1d\x8a\x95\xf2F\x9fX\xce\x12\xac@SR\
+\xdddj\xb0\xddg\xa4\x14\x99C3i\xba\xbc\xec\x90\
+\x94\xe3\xe9\xb3\xabaNmww\x8e\x90#\xb1\xcfz\
+\xd8\x09\x8f\x0c\xcf\x0ao6\x92q\xa4\x1dt;\xea\xd0\
++I6\x8edid\xb9\x86]\xe0\xd0\xc9\x1buu\
+)\x1a\xdc\xa8\xbbR\xb4@\x18p\xa1\xc2\x05!\x5c\x98\
+\x80\x82\x07\x18L\x10A\x06\x12\xf4PB+a\xc2\x08\
+!\xc1\x12&Xp`\x03\x06(L\x10A\x07\x0dx\
+@\xc1\xc2\x07\x17*l\xe0@Hx\x09\x02\xd3\x14\x04\
+T\x00\x05\x0a*X\xb8\xf0\x01\x07\x05P\x01\x17\x5c\x88\
+\xa0\x03\x09\x13(\xa8\x10\x18X\x88@\x03\x04\x00\x08 \
+\x01\x09\x06\xccL\x19`\x81\x07\x1cHC\x90\x10B\x08\
+\xc1\x00\x03\x0e\xe8\xe0\xc2\x85\x0b$L\xb0\xb0A\x06\x1a\
+\x88\x10\x12(l\xc0\xc1\x06\x12&d\x90A\x85\x0a\xe2\
+\x19\x13#a\x82\x08\x1c(\x10\x02\x85\x0a \x5c\xb8\xc0\
+\x82\x0a\x14.\x08\x09O\x09\x13.\xb8@A\x85\x10\xc2\
+\x02\x10, \x10u\x95\x03\xb6*w\xf4\x86\x8er-\
+\xe3xe+6X}y\xa3\x5c%\xb6\xc0\x03\xee\xd5\
+\x17u\x11\x9a\x84h\xa8\xbc\x9d\x1fI\xf7\xb6\x83\x8dc\
+-\x92\xa1\xa8\x99\xa3d\x90Q&\xe1%\x87\xa4\x12Q\
+%\xe3\xeaXc)\x18X\x976d%Q^\x09\x86\
+\xe1\xabl$\x17UET8bC\x1e+n<\xb2\
+\x81\xc5#y\x18\xe1\x88\x1duz\xe5\x83\xb9.\xb7\xba\
+\x99\x5cP\x96Or\xa0;\x0a\x16\x19%\x1d\xb5<\x99\
+\xc1\xa6P\xe8Y\x12St\xb2bd\xbf<\x9c.\xc9\
+\x13\xd9\x04\xe93\x17\xa3\xac\xb2\x98\x02-\xd3N\x8e\xc2\
+~tH\xd2*\xda\x8d\xe7\x88\x19\x92\x8f\xf0\x9a\x8fL\
+\xfb\x92l*\xb7\xf8T!e\x85\xe7'\xb5\xc0##\
+g\x89U\xbc\xb0462\x167\xd7Q\xda\x14\xa7\xe2\
+\x87\xf9\xb09\x15\xf4\xbc\xd4]\xa9R\xf5-\xae\x8b\x95\
+\xe5\x18\xcd/X\xae<\xd7\x82\x85.J\xf5Cr\x1d\
+\xce?\xa9\xa3j#\xe6\xa3k\xda\xd2\xf2\x1fi\xe7\xbc\
+\xaby\xde\x11\x0d\xe1\xd5\x0b\xf3\xae\xec\xe4\x1e\x9f\xf6\xea\
+d\xbc\x9aK\xf5\xa8\xa3m\x03\xbexM\x17\x03\xcbp\
+\xa8]o\x10'\xb1\xc2\x8c\x96$\xe8\xb2\x8f\x98\x0d/\
+\xa5\xce\x99\x14\xb2\xb1r\xae<J\xbd\xc6\x15<\x0e\xb6\
+J\x90\x04{K\xf9#\xb3P\xfa;-O\xfd]!\
+\x9a\xdd\x06\xfcG\xc8\xe2\x88\x874ysW\xef#\xdb\
+\x0e\xc7fe\xb6\xaex\xba\xaf\x177\xb7\xf6'z\xb8\
+c\xc9=\xac\x8e\x90\x08-]\xb1$\xc4\xb4)\xf9\x03\
+\xe3\xd4\x8b\x1fi\xc3\xedh\xc71I\x1bd\xb6\xd4\xe3\
+tNC!\x1a\xf1\xe3\x0eG\xecE\x93\x1cz#\xc1\
+\xbfgB\x16x#7,\x9d\xa4\xc3\xaa'cE\x0b\
+Z\x19\xca\x5c|\x8e\xa4y\xb6\xc4J\x1fG\xd9\x14?\
+jh\x8e\xb9\xe6\xae\x8fZ\xa5\xd8\xa3lp\xe1P\xde\
+\x98\xdc\x85[B\xc4!\xf1&\xf8\xa0\x9a\x9aW\x9c\xb0\
+\xd7\x01\xcb'\xf9\xb8s\xae\x1e\x94yC\xaf\x8aYv\
+(4\xf1\x1cS\x95\xa7\xf2\x0b\xc2y\x8d\xa4\x17H7\
+y\x1c\xa1\x92\xd4\x01w\x876\x9c\x92\x9d\xd5b\x12U\
+\xfe\x1a\x1c\xa8\xd9yJ9,\xad\xae\xcc\xd7\xfc`\xae\
+\x9fR\x1a\x1f*k\xd1p\x96\xf4\xab\x8a\x1d\x1d\xe3O\
+\xee0\xd5\x90\xe4<\xa0a\x92\xe1Us\x9c\x9d\x19\x12\
+[\x90\xe5\xf1\xa4,\x5c\x8e\xd3Y\xc8\xe29\xd4\x9dd\
+,\xecn\xb4\xe4\xe3,\x90\x08\xf3\x03eI\xf0A\xc6\
+B\xcb=\xaa\xc2\xac\xf0\xd3\xa1s$\xf6\xc0(\xa5\x85\
+k\xd6\xe1JN\xa3\x91\xfcA\x18\x9df\xdd\xd0J\xb3\
+\xbb#\xb3j\xa0\x9a\x11?j\xee\xfd/\xb3I\xfah\
+\x072:\xa9\x07\x99\xeb\xce\xb4\x93\xb3Z\xab$\x95%\
+\xad<r\x0erO\xec\xe1\x9a\x97\xf9]3r\xa6\x92\
+/Ky\x81\x07\xc2\xb0\x8c?\xa5\x5cX\xa9\x9d1\xc9\
+\xc1\xe6\x957\xf2Ya\x95H\x97\xc5\xab\x05\xdb\xa2\x91\
+\x89\x8f/4\xe0\x9c\x85\xa8X#\xd6x\x0d%?\x18\
+\xdaH_w2\x0e\xfb\x82\x83O=L\x93V U\
+\x8b#\x86\x83\xab\xc8\xa6\x9eO\xb1\xc6-M\x96'\xd7\
+\xf0\xe0_\xc3\xac\xc0A\x14l\x1cv(\x9f\xa9\xa8~\
+\x9a\x06+4C\x0b\xdf\xa5d#o\xb0YQ\xa2\xdd\
+\x13e\x1c.\x22\x87\xbd\xf7\x89\xf0\x93\x97\xea\xdd\xad\x8e\
+'\x9eI?e>\xb1\xe3\xea\x91Y\x93\x89\xc3K\xbd\
+S\x10\xa3\xd2\xf4\xba\x1c\xe3yM\x0fI\xe1`vF\
+\xbb{\x1f\x89s\x89\x15\xbc\x81l\xbb\x04/\xb0\xea*\
+\xa5\x16\x86\xe5\x1c\x93\xf4@FY\xf2\x86\x9d/i#\
+\x87\xaeJ\xa8\xe9$\xc9\x8a\xac\x9b\xaaX\x85\xf5fK\
+k\xc0\xd6\xfd\xf0X2\x15\xd6\xcc\x1c\xb0\xe8\xe2\xd2\x92\
+48)h*HQE\xaa\x1c\x0dv+FA\xbd\
+S\xb4\xe4\x94\xd2\xf0\xdaWx%)\x8a\x12\x0d\xf7\xca\
+Z\xcd\xaa\xaa\x06%\x87\xe3\xe4\xb5M\xc1\x01\x93j6\
+{-\x18IDw\x09\x0e-\xbb?\x82q\xea+O\
+n\xc0\xb4\xf77\xa5\xf6J.\xfcB\x1b\x1a\xb9\xe16\
+7D_\xa0Q\xe5h\xa0|\x1a\xc7\xbe\xbc>ll\
+8\xd3\xe1\x8a\xces\x99e\x9d0N$\xe6\xa0#\x1a\
+\xde\xe6\xd5\xe7eu\x89\xf1z\x00\x04\x90\x80\x05 X\
+ @\x80\x012\xf0\xe0\x03\x09\x13\xecd\x0a\xa0\x80\x01\
+\x07\x1e\x5c\xb0\x10\x06<@\x1f\x94\xa3\xe8\xf3R\xe5c\
+\xe3u\x95t\x9cn\xc3%Y^Q\xae\xb4\x8c6\xa1\
+\x07\x9eEkN\xeaQ4\x985\xc9\x1a75\xf1\xc3\
+\x1e\xee\xac\xbf\xe7\x5c\xee\xe1 3!\xd6\xf0ckw\
+\xb4\x94\xa2\x8a\xba'$\x12\xaa'\x8eP%\x96\xb4\xd2\
+ey\xbd,\xecR\xc7.\x17\x95\x96giae%\
+)(i|q\xd7\xc3\x11t-G\x965bd.\
+\x13SRI\xc9\xe4K\xa9\x86R2R\xb3iy1\
+\xc5\xd5\xef\x90\xa2/\xfa\x9d\x9c\x06;\xabX^-G\
+qv\x16\xa4\x93\xe4\xe3\xf7\xc0yu\xd2$\xc9t\x95\
+\xa3\x9b\x229\xb532\x8f\x9aZ2\xd3P\x8a\x0e\x0f\
+\xc5n\xa82Ia\x14\xc9`k\xa8\x1e7\xa4\x92\xa5\
+\x8f\x9c\xc3*\x14\xf7\xe1\xf9\xc9\x1f.\xe3M\xc7\xe4\x1e\
+\x9fJ\xbc\x0a>\xa8(Z'w\xc6^)\xf9\xc0V\
+Red\xd1m\xc3mP\xc6\x02\x0b=\xadc\x94o\
+B>\xbc1\xa4B\x0bl\xe9\x03\x99\xb9\xb5\x16\xa2\x94\
+\xc5\xf1q\x98e\xe8\xa1\xa6\xf3U\xfeF\xb4\xc0\xba\x94\
+Zt\x08O\xee\xac\x9e\x92\x878R\xd8V\x1dQa\
+V\x8c\xd1\x9a\x10&!\x0a\x9e\x8fH\xec\xcc\xce\xf2\xc3\
+\x17\xc5\xf7$\xf1\xe5\x09\xa5\xee\xcc\xee\xd3\xbc\xca\x1c\xcd\
+\xc9\x5cVMN\x0b]\x0b\x1d\xdeP\xea\xacY\xe2\xa3\
+\xab\x93\x1f\x8dS~\xf4\x1e\xf3'\x95O\xb2\x90\x05\x1a\
+\xe5\x8d\x8cE\xbeY\xc9\x079\xf2\xe6\xda\xa1U#H\
+\xa6\xber\x8f'\x16\x0d\x87\x9bF\xecA\x17~\x19\x1a\
+\xd9%\x7f\xd8\xdc\xcc\xbf\xe6\xe7\xb4y\xa1U\x98u\xc4\
+\xc3\x07\xadwW\xe9\x03\xab\xd1y\xd2\xb8\xd5\xba\xd4\xe3\
+}\xeb\x0c\xb3(<\xad\xb3\x98\xb1.v\x99&\xf1\x99\
+\x8cB7\xa4-\xf0@\x1c\xcdt'\xe9\xb3%\x1d6\
+5\x91\xa6\x91\xfe\x99\xc7\xbf\x19T\x9b\xe4\x03\xef\x06\x9a\
+B\x99\x1bK\xa9\x07\xfeF\x14\x97\xe7\x19\xb0\xb6\x9c,\
+\xb9G\x8fz\xf1\xc3\xc6\xccwB\x1fJ\xa7\xa1\x91t\
+P6\xad\x82\x8e\xbbc\x9d\x04\x83g\xa8\xf2X\x18g\
+Z\x10+\xe3$\x92$I\xd2\x01\x22\xec\x02\x22\x19\xa2\
+\xa2J\x07\x92\xc8hR\x92j\x89\x04\x09\x92$%)\
+\xec\xb3\x7f\x07\xbfJ\xab\xb38\xb8\xc5.\xc1\xad\x15\xf4\
+\xdb\xc3\xf2\xe3\x00\x15\xad\x92,\xa5Ni\xb5\xc4Ui\
+%\xa3Rt\x8a6\xdb-\xda/\xa6@[\x89\xf8\x83\
+Y-\xbe8\xc2'\xa0I\x10\xbe\xfa\x9aR\xcd\xacT\
+E\xb2Gf\xe2\xfd(\xeb\x8f:\x03]$\xb8\x94\x99\
+\x83{\x9e\x19\xe5\x03\x86p\x96\xf0\xae\x10NO\xc0\x0c\
+\x91\xf49%\x8f\xdf\x90\xfcH\xf2\xf3\x84\x10\xce\x81|\
+\xded\x03R\xb2\x07\xeeP>\xe5\x9e\xc3C9X\xa8\
+\x0a\x82\xaa\xc9\xda\xd8FG\x883$i\x01;\x9e\xf9\
+\xac\x07\xf1\xf1\xc8\xce\x1d\xc7\x1e\xfc\x22\x83\xe4\xb9\xb3\xfd\
+?\x8d/\xe0\x99\xe4dN\x8dd\xe3\x85:F3\xa6\
+\x13oR:\xbc\x0f*\xdc\x86k\x95\x0e@\xaay\xd6\
+f\xfd\x0aC\xe8\xf2{\x10 \x05\x16\x1c~\xb7M\xc9\
+\x8e4\xae\xe9\x85^k(5\x15\xfe\xf1\x09_:\xc8\
+\x0eB`\x0bth\xbe/\x83\x0d\x9b\xbc\x93\x0b6\xd2\
+;\x18&\x98{\xcb\x15\xe1D!8\xb9\x91!\xfe\x91\
+r\xb0R\x8f!\x0e\x91+\xe9PDv\xe6E8\xdd\
+\xcd.\x8c\x8e1\x0e\xd1Z\xce81\xf6[\xbb3\x09\
+\xf8\x22\x12\xf8\xe9\xafY-B\x96\x15Hd\xd6\x97\x8b\
+\x12,\xe4\x8c\xe8k`\x8a2\xc2\xc1\xc75\xaa\x00\x93\
+2\xaeX\x09\xea\x22Bg\xfcsN\x13*%\x9d\x9a\
+\xb7\xbb2\xcc\x82d\xdb\x10t\x9f\x19\x91\xe6\xc5\xa3x\
+\xea\x00\xe7\xeb\x99\x0c\xb4\x9c\x99y\xf0\x88\xb9Hi\x22\
+j'\x97\x01\x99b\xc6f\x1b\xe8,L\xa7\x17|p\
+$\xa2\xe8{E/\xc2\xfb\x92>i+\xc0\x8d\x1dQ\
+\xc9Xdv\xf5\xb0b\x85 \xe9Mb\xdb\x90\x1a\xb4\
+La\xc7u\xf0\xf0\xc5\xd5\xa1\x9d\xc1\x8c\x90G\x84]\
+fA\x88\x9c\x05QT\x98\x9e\x1bV\xaa\x95RMH\
+\x08\xe4-)^\xc2\x9e\xb9\x8c\x0aC\x8f\x90M\x8e\xdd\
+\xd8\x1a$XL\x927}\xb2S\xfb\xae\x86\xa5a\xaa\
+\x9e\xc5\x16.\xd2g\xbc\xa6\xaa\x111\xe1W\x0a\x9c\xc2\
+7\x02& t\xbb\x83\xa9\xe8y\xc2\x83\xb2\xd2\xc7\xae\
+\xb9\x0ao\x11\x1c\x99\xb1~\xa3\xbcqMx\x8fX\x8d\
+Ch\x92u)\x16PPh:\x9d\x17\xd0\xa6;\xcf\
+m\xa9\xbd\xed&\xbd\x80\x82\x19*\xc4\x85\xe0\x17#L\
+d#\xf3\x84\xa7E\x17]\xa2\x82\xcb\xacN\xf8\xdd\x08\
+9l6\x1a\xd0\x0e(&\xb8\xce\x83\x01\x10rtj\
+\xf2\x86s\x10B\xa8\x01\xf0\x95\x83\x08\xec\xc2\x06q\x9d\
+&\xcc\x1c\xfc\xc0\xf6\x09_a\xe7\xeb\xf8-^|I\
+Qk\xe0\x9c\xe2\x9a#\xbf~\x82KI\xa9i\x84\xba\
+\xdbD9\x16\x98\x18Z\xcf\xc0\x19H\xf6\xfa\x08Z\xa4\
+\x8a\xdb\x9d\xca\x85#\xd3\x81\x9c\xc2\x01A\xd5 ]\xfc\
+\xe5\xaf\x94a?\xa9\x81=|&Bd\x83\xda\xfd\xec\
+\x14\x85\xe6\xb6\x00\x18se\xbb\x03N\xe9N\x04.\xe3\
+0\xf1AiL\xc0\x11p\xe9\xb9-_0MU\xb7\
+\xa3\x16i\xbb\x1aM\xcc\x04\x84\x95\xca\x1a! \xfe\xd5\
+\xdc\xe4\x5cv\x1f$?G\x94\x17\x98\x18p\xba\x08=\
+_\x09\xf9\xf6\xb1)\x13Y\xa5\xdf\xf0\x92/,\x06B\
+\xcfs\x1aG2\x1c\xa0\x0a\xe2;r1A\xcd\xe4a\
+.\xa1\x1d(\x9a_\x07\xe3!2_p\x93`F\x9f\
+\x11\xe7\xae\xdb,\x01\xa1\x1e\xbc\xe1C>!\xa2\x02\x15\
+t?\xa9[\xe2\xc9\x5c%~\xe7\x8c\xa3\x0cP\x82l\
+\xbd\xe7\x9e\x01\xd2\xe8X\xaf\xffq\x95@\xb0\xdf'\xbc\
+n\x5c\xdc\x8b\xf0G\xc8\x17\x0f\xa6\xf0\xe9\xf8n\xeb\x1d\
+\x0dmS\x07&\xa5\xf3\xa1ur\x8cXfW6D\
+\xfeJv'R+,\x5c\xfa>l\xe9B\x9b\xb0\xbc\
+=s\xed\xe8\xc5\xc8\xee\x02z\xf9\x0c/\xd3\xde\xa5\xe3\
+\xd2\x87(\xde\xe1\xe9!\x82SVT(\x055\xbf\x88\
+\xe2)\x80y\xe8\x87\xfb\x1c;Y|\xfb\xac\xee\xf6\x80\
+!P.\xb93_\x16+\xa3\x87v\x0d\x8b\xc5V\x96\
+D\xd6\x9a\x16V\x02S\xba\x19YU\xf94\xc7\xd2\x83\
+p\x02\xaa\xe4i\x8c\xc4!wg\x06#\xe3O\xc1x\
+\x81\xb1S\x1b@\xd2\xb4?\xb8h{h\xc7\x8aq\xb2\
+\x7f\xf8\xbb-P\x81\x98\x94\x92\x9d]6\x13\x1bF\xf9\
+\xff\x10G\x12\xb4k#\xe7\x88\x99\xff%\x9b\xa2\xa5\xd8\
+\xa8p*\x16}\xa0\xa9X#Q\xa9(VT2\xa5\
+\xda=\xe2 \xd1\xbe\xbf\x13j\x9b\x1e\xc0\x01L\x1a\x83\
+\xe4\x8d\x1e9\xcc[\xdaS*\xe5\x80\x9f;c{\xc3\
+\x85n\xfeE\x17b\x0b0\xe1ND\x0eG\xf8\x89r\
+Gtv7X\xd2o\x1a\xfd{\x9e\x5c\x1a\x12\x80y\
+:\xda\xf8\xc3\xb1\xe41\x13\xd1Y\xde,4\xc0l\xec\
+\xcf\x8d\xd8\xb2\xebt\xdbz \x88\xebJ\x95&\x06\xf6\
+\x02S7_st>\x0a,68\xe7\xcf y\x9c\
+T\xad'\xac\xbc\xec\xcb\xb2!\xafa\xbe\xe0\x9e\x18%\
+LC\x7f\xa9}\xea\x97\x8e\x15\x9f\x9c\x1eY\xcc&\x1a\
+\x86\x06\xa7\x8d\xa5B@/|D;s\xbco\x89#\
+\xb6\x5cFh/\x9c\xc2\x01\
+\x00\x00*D\
+<\
+svg width=\x2295\x22 h\
+eight=\x2295\x22 viewB\
+ox=\x220 0 95 95\x22 f\
+ill=\x22none\x22 xmlns\
+=\x22http://www.w3.\
+org/2000/svg\x22>\x0d\x0a\
+<path d=\x22M80.969\
+7 62.9586L80.811\
+3 62.7671C81.733\
+7 60.5324 82.656\
+2 58.2976 83.719\
+6 56.1238L83.864\
+1 56.3257C84.299\
+2 56.6337 84.060\
+7 57.0219 83.930\
+2 57.3369C83.213\
+1 59.0773 82.442\
+1 60.7813 81.686\
+7 62.4991C81.554\
+5 62.7985 81.380\
+4 63.0717 80.969\
+7 62.9586Z\x22 fill\
+=\x22#181818\x22/>\x0d\x0a<p\
+ath d=\x22M84.3134 \
+64.6888L83.3597 \
+64.6801C83.3083 \
+64.6841 83.2569 \
+64.6713 83.2135 \
+64.6435C82.4059 \
+64.3476 81.5583 \
+64.5983 80.7385 \
+64.4695C80.8273 \
+63.9143 81.2815 \
+63.9473 81.6697 \
+63.9212C82.7 63.\
+8655 83.7339 63.\
+8969 84.766 63.9\
+003C85.6867 64.0\
+1 86.7031 63.703\
+7 87.455 64.5304\
+L87.2235 64.6714\
+L86.3167 64.6818\
+L84.3134 64.6888\
+Z\x22 fill=\x22#141414\
+\x22/>\x0d\x0a<path d=\x22M8\
+4.8353 57.3651L8\
+4.9868 57.1545C8\
+5.4125 58.044 85\
+.7618 58.968 86.\
+031 59.9167C86.1\
+198 60.1064 86.0\
+188 60.1864 85.8\
+57 60.2317C85.02\
+85 59.7705 84.45\
+07 58.1309 84.83\
+53 57.3651Z\x22 fil\
+l=\x22#1E1E1E\x22/>\x0d\x0a<\
+path d=\x22M86.3356\
+ 60.6771C86.6837\
+ 61.6053 87.0277\
+ 62.5336 87.3677\
+ 63.4618C87.354 \
+63.5312 87.316 6\
+3.5934 87.2604 6\
+3.6371C87.2049 6\
+3.6809 87.1355 6\
+3.7033 87.0648 6\
+3.7003C86.652 63\
+.353 86.3338 62.\
+9069 86.1396 62.\
+4036C85.9455 61.\
+9003 85.8818 61.\
+3561 85.9544 60.\
+8215C85.9933 60.\
+759 86.0517 60.7\
+11 86.1206 60.68\
+49C86.1895 60.65\
+88 86.265 60.656\
+ 86.3356 60.6771\
+Z\x22 fill=\x22#222222\
+\x22/>\x0d\x0a<path d=\x22M8\
+7.1973 63.6586L8\
+7.3714 63.4619C8\
+7.3505 63.8204 8\
+8.0554 64.1216 8\
+7.4584 64.5288C8\
+6.5725 64.4087 8\
+5.6657 64.6263 8\
+4.7903 64.3548C8\
+4.9173 63.85 85.\
+3472 63.9458 85.\
+6971 63.911C86.2\
+018 63.8657 86.7\
+292 63.944 87.19\
+73 63.6586Z\x22 fil\
+l=\x22#050505\x22/>\x0d\x0a<\
+path d=\x22M16.7466\
+ 64.6489C16.5924\
+ 64.5406 16.4073\
+ 64.4853 16.219 \
+64.4913C16.0307 \
+64.4972 15.8494 \
+64.5642 15.7023 \
+64.682L14.8321 6\
+4.6402C14.7068 6\
+4.5862 14.7085 6\
+4.5375 14.8321 6\
+4.4957C15.7441 6\
+4.1894 16.6857 6\
+4.3565 17.6168 6\
+4.3217C17.4793 6\
+4.8317 17.0408 6\
+4.5514 16.7466 6\
+4.6489Z\x22 fill=\x22#\
+5F5F5F\x22/>\x0d\x0a<path\
+ d=\x22M11.0608 64.\
+6821C10.6658 64.\
+6577 10.2863 64.\
+6821 10.0026 65.\
+0145C10.0026 64.\
+7848 9.84948 64.\
+5568 10.0026 64.\
+3288C10.0514 64.\
+2522 10.1036 64.\
+2505 10.1593 64.\
+3201C10.8816 64.\
+7326 11.6752 64.\
+3584 12.4219 64.\
+5255C12.4219 64.\
+5637 12.4219 64.\
+602 12.4219 64.6\
+403L11.0608 64.6\
+821Z\x22 fill=\x22#232\
+323\x22/>\x0d\x0a<path d=\
+\x22M15.1803 58.428\
+5L14.505 57.0361\
+C14.3936 56.9473\
+ 14.4058 56.8812\
+ 14.5415 56.8394\
+L14.6947 56.6323\
+C14.9706 57.1422\
+ 15.1845 57.6833\
+ 15.3317 58.244C\
+15.3231 58.2846 \
+15.3048 58.3226 \
+15.2785 58.3547C\
+15.2521 58.3868 \
+15.2185 58.4121 \
+15.1803 58.4285Z\
+\x22 fill=\x22#282828\x22\
+/>\x0d\x0a<path d=\x22M13\
+.13 57.6243C12.9\
+369 58.1151 12.7\
+437 58.6041 12.5\
+522 59.0949C12.4\
+043 59.1123 12.2\
+877 59.1036 12.3\
+938 58.907C12.55\
+62 58.3527 12.79\
+03 57.8221 13.09\
+ 57.3284C13.1127\
+ 57.3447 13.1319\
+ 57.3654 13.1463\
+ 57.3894C13.1607\
+ 57.4133 13.17 5\
+7.44 13.1738 57.\
+4677C13.1775 57.\
+4954 13.1756 57.\
+5236 13.1681 57.\
+5505C13.1605 57.\
+5774 13.1476 57.\
+6025 13.13 57.62\
+43Z\x22 fill=\x22#2222\
+22\x22/>\x0d\x0a<path d=\x22\
+M11.9063 60.4055\
+C11.8307 60.8997\
+ 11.6025 61.3579\
+ 11.2537 61.7161\
+V61.7248C11.2537\
+ 61.1121 11.6018\
+ 60.6248 11.8663\
+ 60.1096C11.8897\
+ 60.1254 11.9094\
+ 60.1459 11.9243\
+ 60.1699C11.9391\
+ 60.1938 11.9488\
+ 60.2207 11.9525\
+ 60.2486C11.9563\
+ 60.2765 11.9542\
+ 60.3049 11.9462\
+ 60.332C11.9382 \
+60.359 11.9247 6\
+0.3841 11.9063 6\
+0.4055Z\x22 fill=\x22#\
+343434\x22/>\x0d\x0a<path\
+ d=\x22M11.2539 61.\
+7248V61.7161C11.\
+2278 62.3148 10.\
+9476 62.8091 10.\
+6047 63.2825H10.\
+6152C10.5786 62.\
+6611 10.8571 62.\
+1686 11.2539 61.\
+7248Z\x22 fill=\x22#3A\
+3A3A\x22/>\x0d\x0a<path d\
+=\x22M11.9067 60.40\
+55L11.8667 60.10\
+96C11.9714 59.68\
+21 12.1479 59.27\
+54 12.3888 58.90\
+7L12.5472 59.095\
+L11.9067 60.4055\
+Z\x22 fill=\x22#2C2C2C\
+\x22/>\x0d\x0a<path d=\x22M1\
+3.1302 57.6244L1\
+3.085 57.3285C13\
+.1802 56.9005 13\
+.3576 56.495 13.\
+6071 56.1345C13.\
+6175 56.2268 13.\
+628 56.3208 13.6\
+402 56.413C13.57\
+07 56.8521 13.39\
+57 57.2678 13.13\
+02 57.6244Z\x22 fil\
+l=\x22#212121\x22/>\x0d\x0a<\
+path d=\x22M15.1804\
+ 58.4284L15.3318\
+ 58.2544L15.7321\
+ 59.4066C15.75 5\
+9.429 15.763 59.\
+4549 15.7702 59.\
+4826C15.7774 59.\
+5104 15.7786 59.\
+5393 15.7739 59.\
+5675C15.7691 59.\
+5958 15.7584 59.\
+6227 15.7425 59.\
+6466C15.7266 59.\
+6704 15.7059 59.\
+6907 15.6817 59.\
+7059C15.4399 59.\
+3133 15.2702 58.\
+8807 15.1804 58.\
+4284Z\x22 fill=\x22#17\
+1717\x22/>\x0d\x0a<path d\
+=\x22M10.6151 63.28\
+27H10.6047C10.54\
+72 63.6691 10.45\
+67 64.0416 10.15\
+74 64.327C10.105\
+2 64.327 10.0529\
+ 64.327 10.0007 \
+64.3357C10.1783 \
+63.9632 10.18 63\
+.4968 10.6151 63\
+.2827Z\x22 fill=\x22#4\
+84848\x22/>\x0d\x0a<path \
+d=\x22M86.3356 60.6\
+772L86.1477 60.9\
+069C85.7038 60.7\
+956 85.6255 60.5\
+362 85.8466 60.1\
+585L86.0345 59.9\
+236C86.139 60.17\
+31 86.2393 60.42\
+43 86.3356 60.67\
+72Z\x22 fill=\x22#2929\
+29\x22/>\x0d\x0a<path d=\x22\
+M15.6868 59.7024\
+L15.7372 59.4031\
+C15.9226 59.6682\
+ 16.0419 59.9737\
+ 16.0853 60.2942\
+C16.1051 60.3131\
+ 16.1202 60.3364\
+ 16.1293 60.3622\
+C16.1384 60.388 \
+16.1412 60.4156 \
+16.1377 60.4427C\
+16.1341 60.4698 \
+16.1242 60.4957 \
+16.1088 60.5183C\
+16.0933 60.5409 \
+16.0728 60.5595 \
+16.0488 60.5727C\
+15.8448 60.3247 \
+15.7189 60.0219 \
+15.6868 59.7024Z\
+\x22 fill=\x22#1E1E1E\x22\
+/>\x0d\x0a<path d=\x22M16\
+.0505 60.5727L16\
+.0871 60.2942C16\
+.2675 60.5541 16\
+.3866 60.8517 16\
+.4352 61.1644C16\
+.4816 61.2097 16\
+.4955 61.2532 16\
+.477 61.295C16.4\
+578 61.3367 16.4\
+404 61.3559 16.4\
+23 61.3559C16.30\
+77 61.2602 16.21\
+47 61.1406 16.15\
+03 61.0054C16.08\
+6 60.8701 16.052\
+ 60.7224 16.0505\
+ 60.5727Z\x22 fill=\
+\x22#333333\x22/>\x0d\x0a<pa\
+th d=\x22M14.8444 6\
+4.4956C14.8444 6\
+4.5443 14.8444 6\
+4.5931 14.8444 6\
+4.6401L13.814 64\
+.6801C13.807 64.\
+6244 13.8018 64.\
+5664 13.7983 64.\
+506L14.8444 64.4\
+956Z\x22 fill=\x22#353\
+535\x22/>\x0d\x0a<path d=\
+\x22M83.7199 56.124\
+1C83.4136 55.869\
+9 83.0498 55.993\
+5 82.7156 55.993\
+5C60.3043 55.986\
+6 37.8929 55.986\
+6 15.4815 55.993\
+5C15.0847 55.993\
+5 14.3641 55.711\
+6 14.7 56.6392C1\
+4.7749 56.7715 1\
+4.7 56.8533 14.6\
+008 56.9229C14.4\
+666 56.9454 14.3\
+288 56.9318 14.2\
+016 56.8834C14.0\
+743 56.8351 13.9\
+622 56.7538 13.8\
+768 56.6479C13.7\
+758 56.5435 13.6\
+105 56.5017 13.5\
+687 56.3399C13.5\
+612 56.3044 13.5\
+613 56.2677 13.5\
+691 56.2323C13.5\
+769 56.1969 13.5\
+922 56.1635 13.6\
+14 56.1345C13.37\
+73 55.8769 13.06\
+75 55.9953 12.79\
+42 55.9935C11.08\
+33 55.9813 9.374\
+2 55.9744 7.6633\
+2 55.9935C7.2055\
+8 55.9935 6.9967\
+2 55.9152 7.0002\
+ 55.3861C7.02631\
+ 52.5526 7.03849\
+ 49.7157 7.0002 \
+46.8822C6.98976 \
+46.1616 7.38658 \
+46.2608 7.8217 4\
+6.2608H47.7723L4\
+2.1263 36.8484C4\
+3.1201 36.8484 4\
+4.0286 36.8014 4\
+4.9301 36.8641C4\
+5.6054 36.9111 4\
+5.7604 36.6657 4\
+5.7534 36.0339C4\
+5.7081 31.3468 4\
+5.7099 26.6615 4\
+5.6577 21.9744C4\
+5.6577 21.2782 4\
+5.7969 20.9527 4\
+6.554 21.0589C47\
+.3111 21.1651 48\
+.3136 20.7491 48\
+.7992 21.2643C49\
+.2395 21.7342 48\
+.9193 22.7002 48\
+.9228 23.4468C48\
+.9332 27.5839 48\
+.9437 31.721 48.\
+9123 35.8581C48.\
+9123 36.5543 49.\
+0464 36.8188 49.\
+8069 36.7649C50.\
+9313 36.6865 52.\
+0695 36.744 53.2\
+13 36.744C53.315\
+7 37.0921 53.039\
+ 37.3201 52.905 \
+37.5777C51.5213 \
+40.2145 50.1446 \
+42.853 48.7122 4\
+5.4602C48.3154 4\
+6.1825 48.4772 4\
+6.273 49.2152 46\
+.273C62.0865 46.\
+2579 74.9561 46.\
+2539 87.8239 46.\
+2608C88.9448 46.\
+2608 88.9465 46.\
+2608 88.9465 47.\
+3834C88.9465 50.\
+015 88.9308 52.6\
+483 88.9587 55.2\
+799C88.9587 55.8\
+473 88.8055 56.0\
+266 88.2346 55.9\
+97C87.3087 55.95\
+ 86.3758 56.0336\
+ 85.4499 55.9709\
+C84.6423 55.9152\
+ 84.5797 56.2024\
+ 84.9086 56.8168\
+C84.9492 56.9247\
+ 84.9744 57.0377\
+ 84.9835 57.1527\
+C85.06 57.2954 8\
+4.9835 57.3789 8\
+4.8669 57.4451C8\
+4.1707 57.4729 8\
+4.2542 56.6427 8\
+3.7564 56.4582C8\
+3.7042 56.3538 8\
+3.6398 56.2476 8\
+3.7199 56.1241Z\x22\
+ fill=\x22black\x22/>\x0d\
+\x0a<path d=\x22M13.64\
+7 56.4148L13.982\
+9 56.0093C14.291\
+ 56.2738 14.2597\
+ 56.7577 14.6165\
+ 56.9909C15.0272\
+ 57.3738 15.0342\
+ 57.9412 15.2639\
+ 58.4059C15.4571\
+ 58.8027 15.5319\
+ 59.25 15.7704 5\
+9.6242C15.8155 5\
+9.9411 15.9347 6\
+0.2428 16.1185 6\
+0.5049C16.1625 6\
+0.822 16.2819 61\
+.124 16.4666 61.\
+3856C16.4919 61.\
+7016 16.6203 62.\
+0006 16.8321 62.\
+2367C17.1693 62.\
+9019 17.4319 63.\
+6023 17.6153 64.\
+3252C17.0583 64.\
+5898 16.4596 64.\
+5689 15.8748 64.\
+5341C15.5363 64.\
+4968 15.194 64.5\
+121 14.8601 64.5\
+793C14.4964 64.6\
+037 14.1274 64.5\
+463 13.7636 64.6\
+194C13.3042 64.9\
+674 12.8638 64.6\
+194 12.4148 64.5\
+846C11.6681 64.4\
+384 10.9197 64.8\
+3 10.1731 64.584\
+6C10.0199 64.081\
+6 10.4811 63.757\
+8 10.549 63.3192\
+C10.7613 62.7727\
+ 11.0607 62.261 \
+11.2556 61.7058C\
+11.4419 61.255 1\
+1.6977 60.8356 1\
+1.8091 60.3517C1\
+2.0876 59.948 12\
+.2059 59.4693 12\
+.4322 59.0412C12\
+.6062 58.5469 12\
+.9073 58.1013 13\
+.0239 57.5827C13\
+.3163 57.2311 13\
+.3355 56.7455 13\
+.647 56.4148Z\x22 f\
+ill=\x22#919191\x22/>\x0d\
+\x0a<path d=\x22M83.21\
+33 64.6437C81.91\
+84 64.3948 81.31\
+97 65.0632 80.91\
+24 66.2101C80.50\
+51 67.3571 79.91\
+86 68.4153 79.40\
+51 69.517C79.269\
+4 69.8077 79.118\
+ 70.1488 78.709 \
+69.926C78.3713 6\
+9.752 78.5001 69\
+.4387 78.6254 69\
+.1672C79.2067 67\
+.9123 79.7985 66\
+.6609 80.3659 65\
+.3973C80.4686 65\
+.1676 80.9211 64\
+.776 80.1918 64.\
+6785C79.9116 64.\
+642 80.0822 64.3\
+948 80.1361 64.2\
+66C80.3502 63.76\
+3 80.5887 63.270\
+5 80.8184 62.774\
+4C80.8757 62.753\
+5 80.9382 62.751\
+2 80.9969 62.767\
+7C81.0556 62.784\
+3 81.1077 62.818\
+9 81.1456 62.866\
+7C81.438 63.1312\
+ 81.0899 63.6168\
+ 81.4937 63.8431\
+C81.8644 64.0171\
+ 82.2908 63.9684\
+ 82.6511 64.1442\
+C82.8704 64.2504\
+ 83.2463 64.2243\
+ 83.2133 64.6437\
+Z\x22 fill=\x22#040404\
+\x22/>\x0d\x0a<path d=\x22M1\
+2.4183 64.5251L1\
+3.7915 64.5129C1\
+3.9185 64.5582 1\
+3.9238 64.6121 1\
+3.8072 64.687C13\
+.0808 66.2476 12\
+.3539 67.8088 11\
+.6264 69.3706C11\
+.4854 69.6699 11\
+.3757 70.1346 10\
+.9302 69.9554C10\
+.408 69.7483 10.\
+7039 69.3323 10.\
+8518 69.0068C11.\
+4227 67.7519 12.\
+0093 66.5058 12.\
+5784 65.2492C12.\
+6793 65.0264 12.\
+9804 64.7061 12.\
+4148 64.647L12.2\
+982 64.5843L12.4\
+183 64.5251Z\x22 fi\
+ll=\x22#040404\x22/>\x0d\x0a\
+<path d=\x22M16.746\
+8 64.6488C16.012\
+3 66.2153 15.283\
+ 67.7817 14.5416\
+ 69.3481C14.3919\
+ 69.6631 14.2979\
+ 70.1783 13.788 \
+69.9242C13.3528 \
+69.7084 13.6226 \
+69.3289 13.7601 \
+69.0209C14.4052 \
+67.5717 15.0527 \
+66.1253 15.7025 \
+64.6819C16.0349 \
+64.2329 16.383 6\
+4.2886 16.7468 6\
+4.6488Z\x22 fill=\x22#\
+040404\x22/>\x0d\x0a<path\
+ d=\x22M87.2237 64.\
+6697C86.4869 66.\
+2941 85.7501 67.\
+9186 85.0133 69.\
+543C84.8914 69.8\
+11 84.7452 70.11\
+04 84.3815 69.95\
+2C83.969 69.778 \
+84.11 69.4542 84\
+.2509 69.1497C84\
+.9471 67.6633 85\
+.6358 66.1746 86\
+.3169 64.6836C86\
+.6162 64.3773 86\
+.9173 64.3877 87\
+.2237 64.6697Z\x22 \
+fill=\x22#050505\x22/>\
+\x0d\x0a<path d=\x22M11.0\
+607 64.6817C10.3\
+315 66.276 9.610\
+93 67.8685 8.869\
+49 69.4593C8.740\
+7 69.7361 8.6206\
+1 70.1311 8.2011\
+6 69.9571C7.7260\
+1 69.7552 7.9574\
+9 69.388 8.10021\
+ 69.0869C8.72852\
+ 67.7328 9.36727\
+ 66.3822 10.0025\
+ 65.0298C10.1801\
+ 64.3476 10.6378\
+ 64.5617 11.0607\
+ 64.6817Z\x22 fill=\
+\x22#040404\x22/>\x0d\x0a<pa\
+th d=\x22M84.3134 6\
+4.6888C83.5877 6\
+6.2917 82.8654 6\
+7.8964 82.1292 6\
+9.4959C82.0004 6\
+9.7761 81.8611 7\
+0.1503 81.433 69\
+.9258C81.0048 69\
+.7013 81.2311 69\
+.3793 81.3599 69\
+.0939C82.0195 67\
+.6214 82.6879 66\
+.1507 83.3527 64\
+.6801C83.6799 64\
+.3877 83.9984 64\
+.3755 84.3134 64\
+.6888Z\x22 fill=\x22#0\
+30303\x22/>\x0d\x0a<path \
+d=\x22M16.4109 61.3\
+648L16.4231 61.1\
+733C16.564 61.52\
+14 16.7033 61.88\
+52 16.8425 62.24\
+02C16.6941 62.15\
+12 16.5745 62.02\
+12 16.498 61.866\
+C16.4214 61.7107\
+ 16.3912 61.5368\
+ 16.4109 61.3648\
+Z\x22 fill=\x22#515151\
+\x22/>\x0d\x0a<path d=\x22M8\
+5.8433 60.1515C8\
+5.9425 60.4004 8\
+6.0434 60.651 86\
+.1444 60.8999C86\
+.4121 61.8479 86\
+.7615 62.7709 87\
+.1887 63.6585C87\
+.2948 64.038 87.\
+3105 64.3269 86.\
+7588 64.3112C86.\
+0991 64.2921 85.\
+4378 64.3338 84.\
+7781 64.3512C83.\
+4275 64.3373 82.\
+0752 64.2729 80.\
+7298 64.4678C80.\
+1607 63.8656 81.\
+0344 63.4845 80.\
+9613 62.9589C82.\
+0212 60.7885 82.\
+9454 58.5607 83.\
+8557 56.326C84.0\
+175 56.0301 84.1\
+794 55.6855 84.4\
+178 56.272C84.56\
+58 56.6323 84.69\
+11 56.9995 84.82\
+68 57.365L85.843\
+3 60.1515Z\x22 fill\
+=\x22#919191\x22/>\x0d\x0a<p\
+ath d=\x22M14.5467 \
+56.8464L14.5102 \
+57.0431C14.2306 \
+56.7628 14.0477 \
+56.4007 13.988 5\
+6.0093C14.4841 5\
+6.0754 14.3466 5\
+6.5749 14.5467 5\
+6.8464Z\x22 fill=\x22#\
+C6C6C6\x22/>\x0d\x0a</svg\
+>\x0d\x0a\
+\x00\x00=\x9b\
+<\
+svg width=\x2295\x22 h\
+eight=\x2295\x22 viewB\
+ox=\x220 0 95 95\x22 f\
+ill=\x22none\x22 xmlns\
+=\x22http://www.w3.\
+org/2000/svg\x22>\x0d\x0a\
+<path d=\x22M48.519\
+5 80.0284C48.496\
+7 80.614 48.9557\
+ 80.3628 49.1956\
+ 80.3666C50.7497\
+ 80.3892 52.3037\
+ 80.3892 53.8578\
+ 80.3666C54.311 \
+80.3666 54.5548 \
+80.4893 54.85 80\
+.8765C56.1298 82\
+.5539 57.4896 84\
+.1707 58.8208 85\
+.8103C58.9598 85\
+.9822 59.1046 86\
+.1503 59.2341 86\
+.3278C59.3636 86\
+.5054 59.4493 86\
+.7472 59.2341 86\
+.9153C59.0189 87\
+.0834 58.817 86.\
+9644 58.6627 86.\
+7755C58.2628 86.\
+2882 57.8641 85.\
+8002 57.4667 85.\
+3116C56.4707 84.\
+0895 55.4708 82.\
+8712 54.4862 81.\
+6396C54.2406 81.\
+3337 54.012 81.1\
+07 53.5607 81.10\
+89C50.1326 81.12\
+97 46.7046 81.12\
+4 43.2765 81.129\
+7C43.1339 81.156\
+6 42.9942 81.197\
+1 42.8594 81.250\
+5L47.2264 85.536\
+4C47.474 85.7801\
+ 47.7216 86.0237\
+ 47.9634 86.2731\
+C48.1539 86.4714\
+ 48.2796 86.7188\
+ 48.0282 86.9247\
+C47.8377 87.0853\
+ 47.6149 86.9644\
+ 47.4416 86.7925\
+C46.7712 86.1238\
+ 46.0951 85.4703\
+ 45.421 84.7941L\
+42.1948 81.5962C\
+41.951 81.3544 4\
+1.7301 81.1145 4\
+1.3187 81.1164C3\
+8.7248 81.1315 3\
+6.131 81.1164 33\
+.5104 81.1164C33\
+.499 81.5565 33.\
+8285 81.6944 34.\
+0303 81.8984C35.\
+4339 83.3056 36.\
+8547 84.6996 38.\
+264 86.1012C38.4\
+792 86.3165 38.8\
+353 86.5734 38.5\
+001 86.8794C38.1\
+649 87.1854 37.9\
+383 86.8095 37.7\
+269 86.6017C35.9\
+494 84.8514 34.1\
+77 83.0972 32.40\
+96 81.3393C32.21\
+92 81.1504 31.90\
+3 80.9615 32.028\
+7 80.6423C32.179\
+2 80.2645 32.567\
+7 80.3836 32.866\
+7 80.3817C34.611\
+2 80.3703 36.355\
+7 80.3571 38.100\
+2 80.3817C38.671\
+5 80.3817 38.94 \
+80.2192 38.8829 \
+79.6374C38.8658 \
+79.4486 38.8829 \
+79.2597 38.8829 \
+79.0708V31.5052C\
+38.8829 29.8827 \
+38.8829 29.8827 \
+40.5627 29.8827H\
+43.1908L38.1745 \
+21.5716C38.9896 \
+21.5716 39.6657 \
+21.5244 40.3303 \
+21.5849C41.0654 \
+21.6529 41.3035 \
+21.4338 41.294 2\
+0.6688C41.2445 1\
+6.7758 41.2787 1\
+2.8809 41.2273 8\
+.98609C41.2178 8\
+.20788 41.4178 7\
+.97555 42.2138 8\
+.00199C44.0802 8\
+.06243 44.0802 8\
+.02088 44.0802 9\
+.90786C44.0802 1\
+3.4873 44.0993 1\
+7.0686 44.065 20\
+.648C44.065 21.3\
+525 44.2307 21.5\
+773 44.9658 21.5\
+15C45.9009 21.43\
+56 46.8474 21.49\
+61 47.8987 21.49\
+61L43.4365 29.88\
+27C44.6306 29.88\
+27 45.6895 29.95\
+07 46.7369 29.86\
+38C47.7425 29.78\
+07 48.5157 29.91\
+48 48.7633 31.03\
+49C48.5024 31.43\
+53 48.7309 31.84\
+71 48.7404 32.25\
+13C48.8071 35.06\
+76 48.6738 37.88\
+58 48.8623 40.70\
+21C48.8471 42.07\
+35 48.5862 43.42\
+97 48.5843 44.79\
+72C48.5652 53.75\
+55 48.5621 62.71\
+5 48.5748 71.675\
+9C48.5443 74.460\
+1 48.6376 77.244\
+2 48.5195 80.028\
+4Z\x22 fill=\x22black\x22\
+/>\x0d\x0a<path d=\x22M48\
+.4659 40.6287C48\
+.2526 37.6368 48\
+.4126 34.6429 48\
+.3707 31.649C48.\
+3707 31.3752 48.\
+3422 31.0578 48.\
+763 31.0352C48.8\
+012 31.0402 48.8\
+376 31.0541 48.8\
+693 31.0757C48.9\
+011 31.0972 48.9\
+273 31.1259 48.9\
+458 31.1593C48.9\
+643 31.1928 48.9\
+747 31.2301 48.9\
+76 31.2682C48.97\
+74 31.3064 48.96\
+96 31.3443 48.95\
+35 31.3789C49.37\
+25 31.7227 49.66\
+39 32.2044 50.14\
+95 32.4801C50.16\
+78 32.4957 50.18\
+17 32.5157 50.18\
+97 32.5383C50.19\
+78 32.5608 50.19\
+96 32.5851 50.19\
+52 32.6086C50.35\
+9 33.0657 50.718\
+9 33.3509 51.103\
+6 33.6135C51.121\
+9 33.6302 51.135\
+6 33.6513 51.143\
+3 33.6748C51.150\
+9 33.6983 51.152\
+4 33.7234 51.147\
+4 33.7476C51.279\
+6 34.0981 51.538\
+1 34.3875 51.873\
+ 34.5598C51.8899\
+ 34.5785 51.902 \
+34.601 51.9083 3\
+4.6253C51.9146 3\
+4.6496 51.9149 3\
+4.6751 51.9092 3\
+4.6996C52.0121 3\
+5.0358 52.2901 3\
+5.2417 52.5091 3\
+5.4891C52.6291 3\
+5.8102 52.89 36.\
+0293 53.1052 36.\
+273C53.1986 36.6\
+092 53.5052 36.7\
+868 53.6956 37.0\
+531C53.8165 37.3\
+601 54.0283 37.6\
+235 54.3031 37.8\
+087C54.4117 37.9\
+541 54.5183 38.1\
+014 54.625 38.24\
+69C54.6842 38.51\
+94 54.8265 38.76\
+74 55.0326 38.95\
+71C55.0697 39.07\
+13 55.1306 39.17\
+66 55.2113 39.26\
+6C55.292 39.3555\
+ 55.3907 39.4272\
+ 55.5011 39.4765\
+L55.7467 39.9091\
+C55.8305 40.1924\
+ 55.9372 40.4625\
+ 56.24 40.5891C5\
+6.3371 40.7553 5\
+6.4304 40.9215 5\
+6.5333 41.0877C5\
+6.6571 41.4882 5\
+6.7828 41.8867 5\
+7.196 42.1021C58\
+.1387 43.6887 59\
+.1557 45.2376 59\
+.7271 47.0131C59\
+.7316 47.1215 59\
+.7619 47.2273 59\
+.8155 47.3218C59\
+.8691 47.4164 59\
+.9445 47.497 60.\
+0356 47.5571C60.\
+8284 49.3342 61.\
+4155 51.1946 61.\
+7858 53.1028C61.\
+721 53.3465 61.5\
+954 53.594 61.84\
+87 53.8074C61.91\
+64 53.8933 61.96\
+32 53.9936 61.98\
+53 54.1004C62.00\
+75 54.2073 62.00\
+43 54.3177 61.97\
+62 54.4232C61.81\
+44 55.0144 61.95\
+15 55.6188 61.89\
+44 56.2138C61.74\
+58 56.7521 61.81\
+44 57.2999 61.83\
+34 57.8439L61.79\
+34 58.3671C61.42\
+4 58.9149 61.637\
+3 59.6062 61.340\
+2 60.171C61.384 \
+60.4449 61.203 6\
+0.6829 61.2145 6\
+0.9511C61.2145 6\
+1.0361 61.2145 6\
+1.1211 61.2145 6\
+1.208C61.0692 61\
+.448 60.977 61.7\
+158 60.944 61.99\
+38C60.786 62.275\
+2 60.7821 62.617\
+1 60.5936 62.885\
+3C60.5574 63.287\
+6 60.3117 63.640\
+9 60.3022 64.043\
+2C60.3115 64.065\
+ 60.3155 64.0887\
+ 60.3138 64.1123\
+C60.3121 64.1359\
+ 60.3049 64.1588\
+ 60.2927 64.1792\
+C59.8775 64.7062\
+ 59.7214 65.3578\
+ 59.4281 65.9453\
+C59.1024 66.6385\
+ 58.7748 67.3298\
+ 58.3825 67.989L\
+58.312 68.2119C5\
+8.0457 68.5471 5\
+7.8272 68.917 57\
+.6626 69.3113C57\
+.3617 69.6191 57\
+.2017 70.0404 56\
+.8494 70.3048C56\
+.8704 70.7185 56\
+.6323 70.9659 56\
+.3009 71.1567C56\
+.1905 71.5118 55\
+.92 71.7781 55.7\
+772 72.1181C55.6\
+248 72.3656 55.3\
+011 72.4751 55.2\
+344 72.7906C55.0\
+554 73.1268 54.6\
+631 73.3157 54.5\
+755 73.718C54.58\
+62 73.734 54.590\
+4 73.7534 54.587\
+3 73.7724C54.584\
+1 73.7913 54.573\
+7 73.8083 54.558\
+3 73.82C54.2453 \
+73.9992 53.9883 \
+74.2606 53.8156 \
+74.5755L53.827 7\
+4.5529C53.5414 7\
+5.1006 52.8615 7\
+5.3349 52.6843 7\
+5.9714C52.5872 7\
+6.302 52.2444 76\
+.4191 52.0559 76\
+.6703C51.1817 77\
+.3427 50.4847 78\
+.1984 49.6715 78\
+.9369C49.4506 79\
+.1372 49.3153 79\
+.4658 48.9478 79\
+.4753C49.0278 79\
+.6642 48.9478 79\
+.785 48.7573 79.\
+8417C48.0984 79.\
+8908 48.4069 79.\
+3865 48.4031 79.\
+1485C48.3783 76.\
+8705 48.3898 74.\
+5925 48.3898 72.\
+3146C48.3783 71.\
+7366 48.7307 71.\
+2643 48.8811 70.\
+7317C48.9554 70.\
+6108 49.0182 70.\
+4842 49.0868 70.\
+3539C49.3477 70.\
+012 49.7248 69.7\
+74 49.9552 69.40\
+95C50.1457 69.18\
+47 50.298 68.937\
+3 50.4733 68.703\
+C50.5171 68.6256\
+ 50.5666 68.5538\
+ 50.6161 68.482C\
+51.0584 68.1276 \
+51.4025 67.6674 \
+51.6159 67.1447C\
+51.7873 66.8557 \
+51.9187 66.5459 \
+52.0654 66.2437C\
+52.11 66.1696 52\
+.161 66.0995 52.\
+2177 66.0341C52.\
+6862 65.4938 53.\
+0919 64.9234 53.\
+1852 64.1905C53.\
+2103 64.1072 53.\
+2415 64.0257 53.\
+2785 63.9469C53.\
+589 63.5408 53.6\
+08 63.0326 53.76\
+42 62.5736C53.84\
+13 62.376 53.904\
+9 62.1734 53.954\
+6 61.9673C54.032\
+7 61.6443 54.145\
+1 61.3289 54.238\
+4 61.0097C54.311\
+3 60.7908 54.369\
+8 60.5674 54.413\
+6 60.341C54.6955\
+ 59.9972 54.764 \
+59.5855 54.8288 \
+59.1586C55.0878 \
+58.1197 55.1849 \
+57.0808 54.7564 \
+56.0665C54.566 5\
+5.7227 54.7469 5\
+5.3109 54.5431 5\
+4.9747C54.402 54\
+.6527 54.2817 54\
+.3221 54.1832 53\
+.9849C54.099 53.\
+4004 53.9717 52.\
+8227 53.8023 52.\
+2566C53.7432 51.\
+9506 53.8213 51.\
+6352 53.7413 51.\
+3311C53.5966 51.\
+0459 53.3166 50.\
+8456 53.2328 50.\
+5245C53.1445 50.\
+0131 52.9393 49.\
+5285 52.6329 49.\
+1079C52.5266 48.\
+589 52.2902 48.1\
+05 51.9454 47.70\
+07C51.7302 47.20\
+01 51.3931 46.75\
+62 51.1931 46.25\
+57C50.9532 45.58\
+14 50.8027 44.87\
+49 50.4713 44.23\
+08C50.1533 43.89\
+08 50.06 43.3997\
+ 49.6791 43.0975\
+C49.5553 42.4968\
+ 49.0144 42.1417\
+ 48.7649 41.6147\
+C48.7173 41.4523\
+ 48.645 41.2974 \
+48.5897 41.1368C\
+48.5376 40.9703 \
+48.4963 40.8005 \
+48.4659 40.6287Z\
+\x22 fill=\x22#B2B2B2\x22\
+/>\x0d\x0a<path d=\x22M48\
+.4891 71.9198C48\
+.2986 74.3526 48\
+.4377 76.7874 48\
+.4072 79.2203C48\
+.4072 79.4809 48\
+.4662 79.7208 48\
+.7519 79.8247L48\
+.5195 80.0287C48\
+.2244 79.6849 48\
+.2739 79.2731 48\
+.2739 78.8651C48\
+.2739 76.4889 48\
+.2739 74.1127 48\
+.2739 71.7365C48\
+.4662 71.6648 48\
+.5348 71.7309 48\
+.4891 71.9198Z\x22 \
+fill=\x22#0F0F0F\x22/>\
+\x0d\x0a<path d=\x22M48.9\
+46 79.458L51.482\
+8 76.9099C51.640\
+9 76.7513 51.797\
+ 76.5945 52.0541\
+ 76.6568C51.26 7\
+7.6258 50.323 78\
+.455 49.4241 79.\
+322C49.2927 79.4\
+486 49.1612 79.6\
+091 48.946 79.45\
+8Z\x22 fill=\x22#3E3E3\
+E\x22/>\x0d\x0a<path d=\x22M\
+58.3826 67.9833C\
+58.5345 67.1921 \
+58.9149 66.4617 \
+59.4776 65.881V6\
+5.8716C59.2948 6\
+6.6706 58.9863 6\
+7.4035 58.3826 6\
+7.9833Z\x22 fill=\x22#\
+383838\x22/>\x0d\x0a<path\
+ d=\x22M59.4739 65.\
+8714V65.8809C59.\
+4967 65.1933 59.\
+6643 64.5776 60.\
+2909 64.1809C60.\
+0966 64.7721 59.\
+95 65.4011 59.47\
+39 65.8714Z\x22 fil\
+l=\x22#3F3F3F\x22/>\x0d\x0a<\
+path d=\x22M61.7746\
+ 56.2494C61.8374\
+ 55.6374 61.6298\
+ 54.999 61.965 5\
+4.4172C61.965 55\
+.339 61.9599 56.\
+2614 61.9498 57.\
+1844C61.4489 56.\
+9578 61.7936 56.\
+5687 61.7746 56.\
+2494Z\x22 fill=\x22#25\
+2525\x22/>\x0d\x0a<path d\
+=\x22M52.6826 75.95\
+81C52.715 75.202\
+5 53.3378 74.930\
+5 53.8253 74.539\
+6C53.6044 75.140\
+2 53.1359 75.542\
+5 52.6826 75.958\
+1Z\x22 fill=\x22#40404\
+0\x22/>\x0d\x0a<path d=\x22M\
+61.2622 60.2256C\
+61.4527 59.6099 \
+61.2717 58.8883 \
+61.7897 58.3613C\
+61.5993 58.9695 \
+61.7136 59.6363 \
+61.4241 60.2238C\
+61.3708 60.3598 \
+61.3174 60.3616 \
+61.2622 60.2256Z\
+\x22 fill=\x22#1A1A1A\x22\
+/>\x0d\x0a<path d=\x22M50\
+.1457 32.4799C49\
+.4715 32.4062 49\
+.2697 31.8282 48\
+.9497 31.3787C49\
+.5744 31.5033 49\
+.7648 32.0927 50\
+.1457 32.4799Z\x22 \
+fill=\x22#3D3D3D\x22/>\
+\x0d\x0a<path d=\x22M61.7\
+745 56.2495L61.9\
+65 57.1845C62.00\
+77 57.4105 61.96\
+21 57.6442 61.83\
+74 57.838C61.458\
+4 57.3205 61.641\
+2 56.7841 61.774\
+5 56.2495Z\x22 fill\
+=\x22#636363\x22/>\x0d\x0a<p\
+ath d=\x22M57.5886 \
+69.1675C57.7562 \
+68.7897 57.8343 \
+68.3553 58.3066 \
+68.2061C58.219 6\
+8.7047 57.9257 6\
+9.0919 57.6229 6\
+9.4773C57.5779 6\
+9.44 57.5492 69.\
+387 57.5429 69.3\
+292C57.5365 69.2\
+715 57.5529 69.2\
+135 57.5886 69.1\
+675Z\x22 fill=\x22#3F3\
+F3F\x22/>\x0d\x0a<path d=\
+\x22M51.0998 33.613\
+3C50.4923 33.547\
+2 50.2771 33.137\
+3 50.1914 32.608\
+4C50.5742 32.871\
+ 50.8275 33.2525\
+ 51.0998 33.6133\
+Z\x22 fill=\x22#3E3E3E\
+\x22/>\x0d\x0a<path d=\x22M5\
+7.1925 42.0961C5\
+6.6212 41.979 56\
+.4612 41.605 56.\
+5298 41.0818L57.\
+1925 42.0961Z\x22 f\
+ill=\x22#4D4D4D\x22/>\x0d\
+\x0a<path d=\x22M53.51\
+69 37.0587L53.02\
+94 36.3919C52.99\
+32 36.3492 52.97\
+51 36.2942 52.97\
+9 36.2385C52.982\
+9 36.1829 53.008\
+5 36.1309 53.050\
+3 36.0935L53.777\
+8 37.0493C53.695\
+9 37.2023 53.610\
+2 37.2061 53.516\
+9 37.0587Z\x22 fill\
+=\x22#4A4A4A\x22/>\x0d\x0a<p\
+ath d=\x22M60.2966 \
+64.0373C60.0909 \
+63.5953 60.4337 \
+63.2553 60.5214 \
+62.8662C60.5671 \
+62.7907 60.6147 \
+62.7888 60.6642 \
+62.8662C60.687 6\
+3.3007 60.4947 6\
+3.669 60.2966 64\
+.0373Z\x22 fill=\x22#1\
+61616\x22/>\x0d\x0a<path \
+d=\x22M57.5884 69.1\
+677L57.6227 69.4\
+775C57.4322 69.8\
+175 57.3599 70.2\
+652 56.8438 70.2\
+992C57.0939 69.9\
+239 57.3421 69.5\
+468 57.5884 69.1\
+677Z\x22 fill=\x22#3E3\
+E3E\x22/>\x0d\x0a<path d=\
+\x22M54.5737 73.712\
+C54.5737 73.1813\
+ 54.9337 72.9112\
+ 55.3546 72.6921\
+L55.4307 72.6826\
+C55.166 73.0472 \
+54.9641 73.4589 \
+54.5737 73.712Z\x22\
+ fill=\x22#3B3B3B\x22/\
+>\x0d\x0a<path d=\x22M51.\
+8692 34.5595C51.\
+3435 34.5369 51.\
+1816 34.1969 51.\
+1436 33.7473C51.\
+4673 33.9475 51.\
+6559 34.2649 51.\
+8692 34.5595Z\x22 f\
+ill=\x22#3D3D3D\x22/>\x0d\
+\x0a<path d=\x22M53.05\
+03 36.0933C53.05\
+03 36.1915 53.03\
+69 36.2822 53.02\
+93 36.3917L52.45\
+8 35.6362C52.424\
+9 35.5961 52.407\
+5 35.5455 52.409\
+3 35.4937C52.411\
+1 35.4419 52.431\
+7 35.3925 52.467\
+5 35.3547L53.050\
+3 36.0933Z\x22 fill\
+=\x22#424242\x22/>\x0d\x0a<p\
+ath d=\x22M60.668 6\
+2.8643H60.5251C6\
+0.6356 62.5483 6\
+0.7467 62.2335 6\
+0.8584 61.9199C6\
+0.9137 61.8236 6\
+0.9708 61.8236 6\
+1.0279 61.9199C6\
+0.9651 62.258 60\
+.9422 62.6075 60\
+.668 62.8643Z\x22 f\
+ill=\x22#1F1F1F\x22/>\x0d\
+\x0a<path d=\x22M55.60\
+96 72.0802L56.29\
+52 71.1509C56.42\
+66 71.5834 56.08\
+76 71.812 55.876\
+2 72.0953C55.858\
+7 72.1136 55.837\
+4 72.1278 55.813\
+8 72.1371C55.790\
+1 72.1463 55.764\
+8 72.1504 55.739\
+4 72.1489C55.714\
+ 72.1475 55.6893\
+ 72.1406 55.6669\
+ 72.1287C55.6445\
+ 72.1169 55.6249\
+ 72.1003 55.6096\
+ 72.0802Z\x22 fill=\
+\x22#393939\x22/>\x0d\x0a<pa\
+th d=\x22M53.812 74\
+.5622C53.8863 74\
+.1447 54.0653 73\
+.8293 54.5548 73\
+.8066C54.3319 74\
+.0881 54.1929 74\
+.4489 53.812 74.\
+5622Z\x22 fill=\x22#39\
+3939\x22/>\x0d\x0a<path d\
+=\x22M52.4788 35.35\
+88L52.4674 35.64\
+02C52.2103 35.36\
+82 51.8865 35.13\
+4 51.9113 34.695\
+8C52.1599 34.859\
+1 52.3567 35.089\
+ 52.4788 35.3588\
+Z\x22 fill=\x22#343434\
+\x22/>\x0d\x0a<path d=\x22M5\
+3.5168 37.0586H5\
+3.7778L54.2996 3\
+7.8141C53.8444 3\
+7.7556 53.734 37\
+.3533 53.5168 37\
+.0586Z\x22 fill=\x22#3\
+63636\x22/>\x0d\x0a<path \
+d=\x22M55.4975 39.4\
+706C55.1624 39.5\
+065 55.0271 39.2\
+817 54.9262 39.0\
+267C54.9073 39.0\
+05 54.8931 38.97\
+97 54.8842 38.95\
+24C54.8754 38.92\
+5 54.8723 38.896\
+2 54.8749 38.867\
+7C54.8776 38.839\
+1 54.8861 38.811\
+4 54.8998 38.786\
+1C54.9135 38.760\
+9 54.9322 38.738\
+6 54.9548 38.720\
+7L55.4975 39.470\
+6Z\x22 fill=\x22#4A4A4\
+A\x22/>\x0d\x0a<path d=\x22M\
+56.2362 40.5833C\
+55.7582 40.5833 \
+55.6858 40.2868 \
+55.743 39.9033L5\
+6.2362 40.5833Z\x22\
+ fill=\x22#434343\x22/\
+>\x0d\x0a<path d=\x22M61.\
+0241 61.9199H60.\
+8584C60.8338 61.\
+7785 60.8548 61.\
+633 60.9184 61.5\
+042C60.982 61.37\
+53 61.085 61.269\
+6 61.2126 61.202\
+1L61.0241 61.919\
+9Z\x22 fill=\x22#1D1D1\
+D\x22/>\x0d\x0a<path d=\x22M\
+55.6098 72.0803L\
+55.8764 72.0954L\
+55.4251 72.6829L\
+55.347 72.6923C5\
+5.1775 72.3807 5\
+5.4727 72.2635 5\
+5.6098 72.0803Z\x22\
+ fill=\x22#444444\x22/\
+>\x0d\x0a<path d=\x22M61.\
+8451 53.8017C61.\
+4642 53.5996 61.\
+5861 53.3522 61.\
+7822 53.0972L61.\
+8451 53.8017Z\x22 f\
+ill=\x22#1B1B1B\x22/>\x0d\
+\x0a<path d=\x22M61.26\
+22 60.2256H61.42\
+98C61.4476 60.35\
+4 61.4378 60.484\
+7 61.401 60.609C\
+61.3643 60.7334 \
+61.3014 60.8486 \
+61.2165 60.9471C\
+61.0089 60.6902 \
+61.2584 60.4655 \
+61.2622 60.2256Z\
+\x22 fill=\x22#151515\x22\
+/>\x0d\x0a<path d=\x22M60\
+.032 47.5511C59.\
+6283 47.5379 59.\
+6035 47.3131 59.\
+7235 47.0071L60.\
+032 47.5511Z\x22 fi\
+ll=\x22#4B4B4B\x22/>\x0d\x0a\
+<path d=\x22M54.954\
+5 38.7207L54.925\
+9 39.0248C54.726\
+ 38.802 54.4803 \
+38.5961 54.6174 \
+38.241L54.9545 3\
+8.7207Z\x22 fill=\x22#\
+444444\x22/>\x0d\x0a<path\
+ d=\x22M48.489 71.9\
+195L48.2814 71.7\
+306C48.27 66.742\
+8 48.2598 61.754\
+2 48.251 56.7651\
+C48.251 51.8074 \
+48.251 46.8498 4\
+8.251 41.8921C48\
+.251 41.4615 48.\
+1481 41.0062 48.\
+4624 40.6228C48.\
+5957 40.7739 48.\
+7309 40.925 48.8\
+642 41.078C48.69\
+09 42.0225 48.96\
+51 42.9404 48.96\
+13 43.8773C48.93\
+47 52.2715 48.93\
+47 60.6656 48.96\
+13 69.0598C48.96\
+13 69.6869 48.77\
+09 70.3971 49.42\
+79 70.875C49.192\
+ 71.2844 48.8722\
+ 71.6402 48.489 \
+71.9195Z\x22 fill=\x22\
+#3F3F3F\x22/>\x0d\x0a<pat\
+h d=\x22M54.9909 56\
+.4214V55.8869C55\
+.0461 55.749 55.\
+0975 55.7509 55.\
+147 55.8869C55.4\
+432 56.998 55.44\
+32 58.1663 55.14\
+7 59.2774C55.097\
+5 59.4191 55.044\
+2 59.421 54.9871\
+ 59.2774C54.9871\
+ 59.098 54.9871 \
+58.9185 54.9871 \
+58.741C55.082 57\
+.9707 55.0833 57\
+.192 54.9909 56.\
+4214Z\x22 fill=\x22#33\
+3333\x22/>\x0d\x0a<path d\
+=\x22M51.7168 46.14\
+78C51.2883 45.46\
+97 50.837 44.801\
+ 50.6313 44.0115\
+L50.6199 44.0266\
+C51.2731 44.5876\
+ 51.6959 45.2657\
+ 51.7168 46.1478\
+Z\x22 fill=\x22#3E3E3E\
+\x22/>\x0d\x0a<path d=\x22M5\
+2.5608 66.4551C5\
+2.8693 65.6826 5\
+2.9626 64.7872 5\
+3.8158 64.332C53\
+.3988 65.0385 53\
+.214 65.8828 52.\
+5608 66.4551Z\x22 f\
+ill=\x22#3A3A3A\x22/>\x0d\
+\x0a<path d=\x22M50.93\
+41 68.886C51.143\
+6 68.1928 51.655\
+9 67.6885 52.055\
+8 67.1143C52.081\
+6 67.1268 52.104\
+ 67.1453 52.1211\
+ 67.1683C52.1382\
+ 67.1912 52.1494\
+ 67.2179 52.1539\
+ 67.246C52.1584 \
+67.2742 52.156 6\
+7.303 52.1469 67\
+.33C52.1377 67.3\
+571 52.1222 67.3\
+815 52.1015 67.4\
+014C51.7511 67.9\
+265 51.5568 68.5\
+706 50.9341 68.8\
+86Z\x22 fill=\x22#3939\
+39\x22/>\x0d\x0a<path d=\x22\
+M49.8279 42.8838\
+C49.5555 42.353 \
+48.9461 41.9828 \
+49.0394 41.2764C\
+49.5327 41.7221 \
+49.7879 42.3304 \
+50.1288 42.8781C\
+50.0884 42.9162 \
+50.0351 42.9379 \
+49.9794 42.939C4\
+9.9237 42.94 49.\
+8696 42.9203 49.\
+8279 42.8838Z\x22 f\
+ill=\x22#313131\x22/>\x0d\
+\x0a<path d=\x22M53.00\
+05 48.8301C52.76\
+82 48.3635 52.37\
+97 47.9537 52.45\
+96 47.3738C52.81\
+2 47.7969 53.179\
+5 48.2143 53.000\
+5 48.8301Z\x22 fill\
+=\x22#454545\x22/>\x0d\x0a<p\
+ath d=\x22M49.8279 \
+42.884H50.1288C5\
+0.3516 43.2429 5\
+0.7001 43.5489 5\
+0.6182 44.0325L5\
+0.6297 44.0174C5\
+0.1821 43.7624 5\
+0.0545 43.2883 4\
+9.8279 42.884Z\x22 \
+fill=\x22#424242\x22/>\
+\x0d\x0a<path d=\x22M53.8\
+119 64.2469C53.5\
+471 63.6311 54.0\
+613 63.2061 54.2\
+061 62.6904C54.4\
+765 63.3119 53.9\
+585 63.7312 53.8\
+119 64.2469Z\x22 fi\
+ll=\x22#383838\x22/>\x0d\x0a\
+<path d=\x22M54.983\
+3 59.2849C55.036\
+6 59.2849 55.09 \
+59.2849 55.1433 \
+59.2849C55.1851 \
+59.7344 55.1198 \
+60.1873 54.9528 \
+60.6071C54.5358 \
+60.1519 54.8843 \
+59.7212 54.9833 \
+59.2849Z\x22 fill=\x22\
+#1F1F1F\x22/>\x0d\x0a<pat\
+h d=\x22M49.4487 70\
+.5708L50.3857 69\
+.4658C50.4193 69\
+.5066 50.4376 69\
+.5577 50.4376 69\
+.6103C50.4376 69\
+.663 50.4193 69.\
+714 50.3857 69.7\
+548C50.1629 70.1\
+213 50.0029 70.5\
+784 49.4487 70.5\
+708Z\x22 fill=\x22#444\
+444\x22/>\x0d\x0a<path d=\
+\x22M54.8175 54.936\
+9L54.5908 53.843\
+3C55.1469 54.007\
+6 54.926 54.4383\
+ 54.9241 54.7877\
+C54.9546 54.8916\
+ 54.9241 54.9407\
+ 54.8175 54.9369\
+Z\x22 fill=\x22#171717\
+\x22/>\x0d\x0a<path d=\x22M5\
+3.9739 51.4103C5\
+3.7903 51.1275 5\
+3.6852 50.8017 5\
+3.6692 50.4658C5\
+4.0501 50.564 54\
+.0501 50.9173 54\
+.1586 51.193C54.\
+1015 51.2648 54.\
+1053 51.397 53.9\
+739 51.4103Z\x22 fi\
+ll=\x22#555555\x22/>\x0d\x0a\
+<path d=\x22M54.817\
+6 54.9368L54.924\
+2 54.7932C55.265\
+1 55.1068 55.137\
+5 55.511 55.1414\
+ 55.8906C55.088 \
+55.8906 55.0366 \
+55.8906 54.9852 \
+55.8906C55.0157 \
+55.5563 54.7052 \
+55.2824 54.8176 \
+54.9368Z\x22 fill=\x22\
+#202020\x22/>\x0d\x0a<pat\
+h d=\x22M54.4176 62\
+.0616C54.3979 61\
+.8905 54.4188 61\
+.7171 54.4787 61\
+.5555C54.5385 61\
+.3938 54.6356 61\
+.2482 54.7623 61\
+.1304C54.8156 61\
+.5006 54.7642 61\
+.8311 54.4176 62\
+.0616Z\x22 fill=\x22#1\
+E1E1E\x22/>\x0d\x0a<path \
+d=\x22M53.9739 51.4\
+104L54.1643 51.1\
+951C54.191 51.50\
+48 54.5605 51.80\
+33 54.1929 52.12\
+63C54.1167 51.88\
+64 54.0443 51.64\
+27 53.9739 51.41\
+04Z\x22 fill=\x22#4A4A\
+4A\x22/>\x0d\x0a<path d=\x22\
+M52.098 67.4013L\
+52.0522 67.1142C\
+52.1169 66.8603 \
+52.2577 66.6317 \
+52.456 66.4587C5\
+2.5645 66.8573 5\
+2.3227 67.1312 5\
+2.098 67.4013Z\x22 \
+fill=\x22#393939\x22/>\
+\x0d\x0a<path d=\x22M50.3\
+933 69.755V69.46\
+6C50.5476 69.239\
+4 50.639 68.9542\
+ 50.9513 68.8767\
+C50.9551 69.2847\
+ 50.6409 69.5019\
+ 50.3933 69.755Z\
+\x22 fill=\x22#313131\x22\
+/>\x0d\x0a<path d=\x22M54\
+.9909 56.4214C55\
+.2166 57.1809 55\
+.2166 57.9889 54\
+.9909 58.7485C54\
+.9884 57.9728 54\
+.9884 57.1971 54\
+.9909 56.4214Z\x22 \
+fill=\x22#B2B2B2\x22/>\
+\x0d\x0a</svg>\x0d\x0a\
+\x00\x00\x15n\
+<\
+svg width=\x2295\x22 h\
+eight=\x2295\x22 viewB\
+ox=\x220 0 95 95\x22 f\
+ill=\x22none\x22 xmlns\
+=\x22http://www.w3.\
+org/2000/svg\x22>\x0d\x0a\
+<path d=\x22M48.489\
+1 10C49.3553 10 \
+49.6276 10.1943 \
+49.6238 11.294C4\
+9.5846 21.2591 4\
+9.6241 31.2242 4\
+9.5867 41.1914C4\
+9.5867 42.1503 4\
+9.7735 42.4014 5\
+0.5984 42.4014C5\
+9.8468 42.4014 6\
+9.0972 42.4517 7\
+8.3455 42.4912C8\
+0.1022 42.4912 8\
+0.3359 42.8103 8\
+0.1492 44.8555C8\
+0.1349 45.075 80\
+.1302 45.2956 80\
+.1346 45.5157C80\
+.0823 55.2236 80\
+.0423 64.9337 79\
+.9471 74.6416C79\
+.9471 75.6137 80\
+.151 75.9278 80.\
+9705 75.8662C81.\
+8646 75.7981 82.\
+7681 75.8933 83.\
+6678 75.9043C84.\
+254 75.9043 84.7\
+095 76.1835 84.9\
+149 76.8389C85.1\
+202 77.4942 84.9\
+398 78.0331 84.5\
+106 78.5147C83.5\
+94 79.5395 83.14\
+19 80.9338 82.45\
+68 82.1543C81.88\
+ 83.1946 81.3644\
+ 84.2835 80.8025\
+ 85.337C80.6682 \
+85.5898 80.5582 \
+86.1107 80.243 8\
+5.9024C79.9276 8\
+5.6935 80.2424 8\
+5.3155 80.3787 8\
+5.0625C81.286 83\
+.2723 82.2119 81\
+.4949 83.1248 79\
+.709C83.2461 79.\
+4694 83.4479 79.\
+2692 83.4051 78.\
+7725C82.0591 78.\
+7725 80.707 78.7\
+835 79.3572 78.7\
+725C78.9188 78.7\
+727 78.7978 79.1\
+399 78.6111 79.4\
+786C77.6274 81.3\
+853 76.6526 83.2\
+984 75.6502 85.1\
+963C75.4953 85.4\
+888 75.4095 86.1\
+592 75.0008 85.8\
+692C74.6797 85.6\
+492 75.0865 85.2\
+274 75.2303 84.9\
+414C76.0872 83.2\
+435 76.9647 81.5\
+583 77.8328 79.8\
+692C77.9895 79.5\
+614 78.1312 79.2\
+422 78.3924 78.6\
+905H74.4383C74.0\
+09 78.6906 73.90\
+59 79.1304 73.73\
+42 79.4668C72.71\
+3 81.4331 71.703\
+3 83.4064 70.676\
+6 85.3682C70.547\
+9 85.6167 70.450\
+7 86.1461 70.117\
+ 85.8985C69.7828\
+ 85.6499 70.1465\
+ 85.3059 70.2772\
+ 85.0508C71.2367\
+ 83.1683 72.2041\
+ 81.2918 73.1785\
+ 79.4209C73.3913\
+ 79.0164 73.5517\
+ 78.728 73.035 7\
+8.4092C72.5178 7\
+8.0903 72.3602 7\
+7.4499 72.5506 7\
+6.7901C72.6257 7\
+6.4793 72.7902 7\
+6.2088 73.0154 7\
+6.0245C73.2407 7\
+5.84 73.5134 75.\
+7528 73.7869 75.\
+7784C74.81 75.77\
+84 75.8408 75.76\
+12 76.8582 75.80\
+96C77.3918 75.83\
+37 77.5409 75.61\
+37 77.5428 74.99\
+61C77.5751 65.39\
+67 77.6217 55.79\
+68 77.6815 46.19\
+73C77.6814 45.55\
+51 77.4945 45.39\
+65 76.9774 45.39\
+65C68.1323 45.37\
+89 59.2872 45.34\
+43 50.4422 45.29\
+3C49.6321 45.293\
+ 49.7359 45.8519\
+ 49.7322 46.4346\
+C49.6924 54.2057\
+ 49.6529 61.9736\
+ 49.6131 69.7373\
+C49.6131 71.3492\
+ 49.6711 72.9677\
+ 49.576 74.5752C\
+49.5106 75.6859 \
+49.8502 75.9652 \
+50.7127 75.8838C\
+51.4594 75.8135 \
+52.2063 75.9063 \
+52.9529 75.9151C\
+53.5372 75.9151 \
+53.9909 76.1924 \
+54.2 76.8477C54.\
+409 77.5031 54.2\
+002 78.0225 53.8\
+025 78.5284C52.7\
+926 79.7886 52.2\
+171 81.3871 51.4\
+256 82.8321C50.9\
+515 83.6919 50.5\
+242 84.5914 50.0\
+613 85.4512C49.9\
+419 85.6711 49.8\
+349 86.1115 49.5\
+457 85.9161C49.2\
+563 85.7203 49.5\
+266 85.3897 49.6\
+424 85.1631C50.5\
+758 83.3113 51.5\
+415 81.4708 52.4\
+861 79.6211C52.5\
+925 79.4144 52.7\
+806 79.234 52.68\
+73 78.7832C51.36\
+2 78.7832 50.010\
+4 78.7942 48.657\
+ 78.7832C48.2184\
+ 78.7833 48.0972\
+ 79.1636 47.9236\
+ 79.5C46.9062 81\
+.4794 45.8958 83\
+.4433 44.8709 85\
+.4073C44.744 85.\
+6536 44.6375 86.\
+1482 44.2996 85.\
+8799C44.0354 85.\
+6601 44.3332 85.\
+3507 44.449 85.1\
+221C45.3433 83.3\
+626 46.2524 81.6\
+179 47.1541 79.8\
+672C47.3109 79.5\
+616 47.4548 79.2\
+516 47.7254 78.6\
+954H43.742C43.35\
+56 78.6954 43.25\
+03 79.0884 43.09\
+36 79.3897C42.05\
+75 81.3889 41.02\
+89 83.3929 39.98\
+91 85.3877C39.86\
+03 85.6363 39.76\
+55 86.1328 39.42\
+95 85.8799C39.17\
+01 85.6842 39.44\
+78 85.3525 39.56\
+91 85.1172C40.53\
+12 83.2376 41.49\
+78 81.3616 42.46\
+86 79.4893C42.68\
+7 79.0714 42.933\
+2 78.7525 42.337\
+7 78.4073C41.809\
+4 78.1016 41.669\
+7 77.4455 41.860\
+2 76.7901C41.934\
+9 76.487 42.0947\
+ 76.2225 42.3133\
+ 76.0401C42.5319\
+ 75.8577 42.7968\
+ 75.7677 43.0643\
+ 75.7852C44.1843\
+ 75.7852 45.3046\
+ 75.7654 46.4246\
+ 75.8204C47.0069\
+ 75.8489 47.16 7\
+5.6002 47.16 74.\
+9405C47.1824 65.\
+3778 47.2172 55.\
+8147 47.2645 46.\
+252C47.2644 45.6\
+519 47.1393 45.4\
+259 46.5945 45.4\
+258C37.6859 45.4\
+434 28.778 45.44\
+34 19.8719 45.42\
+58C19.0394 45.42\
+59 19.1716 45.99\
+07 19.1697 46.55\
+37C19.1374 53.62\
+39 19.1075 60.69\
+5 19.0789 67.766\
+6C19.0789 70.111\
+1 19.1013 72.458\
+1 19.0359 74.804\
+7C19.0117 75.704\
+ 19.2766 75.9329\
+ 19.9803 75.9043\
+C20.818 75.8673 \
+21.6568 75.8844 \
+22.493 75.9551C2\
+3.6243 76.0387 2\
+4.0888 77.1423 2\
+3.4988 78.2881C2\
+2.2717 80.6634 2\
+1.0403 83.0354 1\
+9.8045 85.4034C1\
+9.6777 85.6454 1\
+9.5938 86.1814 1\
+9.2449 85.9375C1\
+8.8958 85.6934 1\
+9.271 85.3589 19\
+.3924 85.1192C20\
+.4172 83.0849 21\
+.4623 81.0636 22\
+.6141 78.8204H18\
+.2811C17.8501 78\
+.8206 17.7527 79\
+.2779 17.5828 79\
+.6055C16.5767 81\
+.5408 15.5896 83\
+.4874 14.576 85.\
+4161C14.4528 85.\
+6514 14.3701 86.\
+1973 14.0154 85.\
+9268C13.6608 85.\
+6563 14.0563 85.\
+3457 14.1795 85.\
+1016C15.1129 83.\
+2476 16.0602 81.\
+3985 17.0291 79.\
+5664C17.3502 78.\
+9572 17.273 78.7\
+146 16.6551 78.7\
+696C16.6242 78.7\
+717 16.5932 78.7\
+717 16.5623 78.7\
+696C15.4422 78.7\
+696 14.1817 78.3\
+763 13.2576 78.8\
+711C12.3636 79.3\
+506 12.0423 80.9\
+095 11.4656 81.9\
+893C10.8514 83.1\
+33 10.2746 84.30\
+58 9.66973 85.45\
+61C9.55031 85.67\
+6 9.43613 86.137\
+7 9.16192 85.951\
+2C8.78856 85.698\
+3 9.16229 85.368\
+2 9.27618 85.124\
+1C10.3142 83.023\
+7 11.3781 80.966\
+7 12.5057 78.778\
+4C11.6525 78.483\
+6 11.0981 77.971\
+2 11.2811 76.946\
+3C11.4641 75.921\
+7 12.1454 75.732\
+2 12.9275 75.778\
+4C13.8273 75.820\
+1 14.7326 75.741\
+4 15.6268 75.827\
+2C16.3735 75.899\
+8 16.5603 75.567\
+6 16.5604 74.727\
+6C16.5604 68.349\
+4 16.6241 61.971\
+ 16.6297 55.5928\
+C16.6446 40.8646\
+ 16.6446 26.1364\
+ 16.6297 11.4082\
+C16.6297 10.3635\
+ 16.7656 9.99564\
+ 17.7625 10C28.0\
+041 10.0528 38.2\
+463 10.0528 48.4\
+891 10ZM46.1424 \
+12.8702C37.4578 \
+12.8965 28.7732 \
+12.8965 20.0887 \
+12.8702C19.4074 \
+12.868 19.1962 1\
+3.0529 19.1961 1\
+3.8926C19.2247 2\
+3.1197 19.2247 3\
+2.3472 19.1961 4\
+1.5743C19.1942 4\
+2.4296 19.4313 4\
+2.5859 20.0975 4\
+2.586C24.4304 42\
+.5508 28.7655 42\
+.5684 33.0984 42\
+.5684C37.4388 42\
+.5684 41.7774 42\
+.5549 46.1141 42\
+.5879C46.7749 42\
+.5923 47.0086 42\
+.4471 47.0086 41\
+.585C46.985 32.3\
+581 46.985 23.13\
+12 47.0086 13.90\
+43C47.0105 13.09\
+06 46.8462 12.87\
+02 46.1424 12.87\
+02Z\x22 fill=\x22black\
+\x22/>\x0d\x0a</svg>\x0d\x0a\
+\x00\x00\x07R\
+<\
+svg width=\x2295\x22 h\
+eight=\x2295\x22 viewB\
+ox=\x220 0 95 95\x22 f\
+ill=\x22none\x22 xmlns\
+=\x22http://www.w3.\
+org/2000/svg\x22>\x0d\x0a\
+<path d=\x22M47.396\
+5 22.6453C48.286\
+3 21.7729 48.284\
+9 21.7754 49.174\
+8 22.7117C61.527\
+2 35.7026 73.878\
+ 48.6942 86.2266\
+ 61.6863C86.8068\
+ 62.2898 87.2844\
+ 62.9768 87.8125\
+ 63.6209C88.0948\
+ 63.969 88.0931 \
+64.1738 87.5674 \
+64.201C86.7007 6\
+4.2474 85.8354 6\
+4.3807 84.9688 6\
+4.3787C73.2741 6\
+4.3375 61.5807 6\
+4.2877 49.8887 6\
+4.2283C49.4108 6\
+4.2283 48.9207 6\
+4.1621 48.499 64\
+.4871C48.3942 64\
+.5663 48.2695 64\
+.6154 48.1387 64\
+.6277C48.0079 64\
+.64 47.8765 64.6\
+147 47.7588 64.5\
+565C46.8612 64.0\
+09 45.8815 64.22\
+83 44.9375 64.22\
+44C32.9554 64.15\
+99 20.972 64.107\
+8 8.9873 64.0691\
+C7.98305 64.0642\
+ 6.98154 63.9554\
+ 6 63.743C6.5704\
+9 62.9121 7.2105\
+9 62.1307 7.9130\
+9 61.408C21.0781\
+ 48.4932 34.2392\
+ 35.5718 47.3965\
+ 22.6453ZM66.973\
+6 45.0516C66.408\
+8 44.4539 66.213\
+6 44.8461 65.890\
+6 45.2039C62.021\
+6 49.514 58.1522\
+ 53.8231 54.2832\
+ 58.1307C53.2599\
+ 59.27 52.2423 6\
+0.4151 51.0508 6\
+1.7498L82.6885 6\
+1.7479C82.7038 6\
+1.5352 82.5134 6\
+1.4331 82.3877 6\
+1.3016C77.2303 5\
+5.9043 72.0923 5\
+0.4875 66.9736 4\
+5.0516ZM29.4521 \
+45.1619C28.9086 \
+44.5758 28.6378 \
+44.5466 28.0576 \
+45.1268C22.7635 \
+50.3435 17.4636 \
+55.5558 12.1592 \
+60.7635C11.958 6\
+0.9627 11.7665 6\
+1.1739 11.3545 6\
+1.6053H44.748C44\
+.485 61.3054 44.\
+2821 61.0611 44.\
+0654 60.8309C39.\
+1751 55.6271 34.\
+3038 50.4043 29.\
+4521 45.1619ZM47\
+.002 26.6072C46.\
+7389 26.8413 46.\
+5471 27.0103 46.\
+3672 27.1883C41.\
+2409 32.214 36.1\
+416 37.2551 30.9\
+883 42.2498C30.3\
+403 42.8785 30.4\
+623 43.1764 31.0\
+02 43.7566C36.06\
+13 49.1552 41.11\
+63 54.5597 46.16\
+8 59.9686C46.361\
+4 60.1774 46.532\
+1 60.4092 46.713\
+9 60.6316L47.002\
+ 60.5174V26.6072\
+ZM49.9082 27.145\
+3C49.7534 26.982\
+8 49.6481 26.677\
+8 49.2109 26.805\
+5V60.5174C49.390\
+6 60.3686 49.478\
+3 60.3015 49.547\
+9 60.2068C54.527\
+2 54.642 59.524 \
+49.0916 64.5381 \
+43.5565C65.0274 \
+43.0265 64.7767 \
+42.7705 64.417 4\
+2.3953C59.5859 3\
+7.3089 54.7496 3\
+2.2253 49.9082 2\
+7.1453Z\x22 fill=\x22b\
+lack\x22/>\x0d\x0a</svg>\x0d\
+\x0a\
+\x00\x00;5\
+<\
+svg width=\x2295\x22 h\
+eight=\x2295\x22 viewB\
+ox=\x220 0 95 95\x22 f\
+ill=\x22none\x22 xmlns\
+=\x22http://www.w3.\
+org/2000/svg\x22>\x0d\x0a\
+<path d=\x22M29.104\
+3 62.4257C29.148\
+1 61.9181 29.552\
+6 62.0593 29.827\
+4 62.0574C31.163\
+ 62.0479 32.4814\
+ 62.067 33.8074 \
+62.0765C33.8534 \
+62.452 33.7604 6\
+2.8314 33.546 63\
+.1431C32.3116 65\
+.2418 31.1019 67\
+.3539 29.8655 69\
+.4508C29.7244 69\
+.6912 29.6251 70\
+.214 29.2493 70.\
+0003C28.7971 69.\
+7446 29.2493 69.\
+3859 29.3924 69.\
+1264C30.5371 67.\
+1212 31.7029 65.\
+1312 32.8611 63.\
+1354C33.0156 62.\
+8683 33.1606 62.\
+5974 33.3972 62.\
+1814C31.8632 62.\
+2959 30.478 61.9\
+906 29.1043 62.4\
+257Z\x22 fill=\x22#070\
+707\x22/>\x0d\x0a<path d=\
+\x22M82.4548 62.207\
+8C84.13 61.8701 \
+85.8224 62.1048 \
+87.5071 62.0609C\
+87.4175 62.0857 \
+87.3163 62.1506 \
+87.2362 62.1334C\
+85.3435 61.7365 \
+84.5154 62.8565 \
+83.7694 64.3619C\
+82.8841 66.1478 \
+81.7928 67.8306 \
+80.7815 69.5535C\
+80.6499 69.7748 \
+80.5583 70.2022 \
+80.1939 69.9999C\
+79.8295 69.7977 \
+80.1557 69.4943 \
+80.2798 69.2768C\
+81.4474 67.2429 \
+82.6304 65.2167 \
+83.8057 63.1866C\
+83.9602 62.9176 \
+84.1014 62.6428 \
+84.338 62.2078H8\
+2.4548Z\x22 fill=\x22#\
+070707\x22/>\x0d\x0a<path\
+ d=\x22M89.5029 62.\
+5705C89.4361 62.\
+704 89.3636 62.8\
+777 89.2701 63.0\
+398C88.0134 65.2\
+022 86.7529 67.3\
+646 85.4885 69.5\
+269C85.3569 69.7\
+502 85.2557 70.1\
+757 84.9028 70.0\
+02C84.5212 69.81\
+12 84.836 69.498\
+3 84.96 69.2808C\
+86.2434 67.0561 \
+87.5345 64.8365 \
+88.8332 62.622C8\
+8.9381 62.4427 8\
+9.003 62.1832 89\
+.2987 62.229C89.\
+4533 62.2595 89.\
+4724 62.3969 89.\
+5029 62.5705Z\x22 f\
+ill=\x22#060606\x22/>\x0d\
+\x0a<path d=\x22M27.08\
+01 11.002C35.739\
+6 11.0668 44.400\
+7 11.131 53.0615\
+ 11.1934C54.3565\
+ 11.1936 54.9689\
+ 12.0744 54.5342\
+ 13.3027C54.4166\
+ 13.6964 54.3718\
+ 14.1089 54.4023\
+ 14.5186C54.4729\
+ 20.7804 54.5664\
+ 27.0409 54.6084\
+ 33.3027C54.6085\
+ 34.0921 54.84 3\
+4.3041 55.6143 3\
+4.3213C64.9629 3\
+4.5293 74.3253 3\
+4.773 83.6797 35\
+.002C85.5512 35.\
+0478 86.1258 35.\
+6435 86.0801 37.\
+4824C85.9045 44.\
+5991 85.7484 51.\
+7183 85.5576 58.\
+835C85.5405 59.5\
+043 85.7107 59.7\
+218 86.3916 59.6\
+875C87.727 59.62\
+27 89.0628 59.63\
+08 90.3867 59.62\
+7C91.4111 59.627\
+ 92.0564 60.1648\
+ 92.0889 61.0156\
+C92.1212 61.8988\
+ 91.4627 62.4944\
+ 90.3926 62.5098\
+C89.3224 62.525 \
+88.3032 62.5098 \
+87.2598 62.5098C\
+85.9529 62.6662 \
+84.6397 62.5938 \
+83.3271 62.5977C\
+82.9457 62.5976 \
+82.5637 62.5342 \
+82.207 62.6562C8\
+1.1922 62.681 80\
+.177 62.7141 79.\
+1641 62.7236C78.\
+9837 62.7044 78.\
+8015 62.7435 78.\
+6455 62.8359C78.\
+4896 62.9284 78.\
+3676 63.069 78.2\
+979 63.2363C77.0\
+539 65.4857 75.7\
+387 67.6952 74.4\
+375 69.9141C74.2\
+926 70.1601 74.1\
+915 70.6619 73.8\
+066 70.4453C73.4\
+217 70.2279 73.8\
+059 69.8839 73.9\
+453 69.6436C75.1\
+612 67.5246 76.3\
+891 65.4112 77.6\
+279 63.3037C77.8\
+397 62.9432 77.9\
+599 62.6983 77.5\
+156 62.376C76.96\
+45 61.9754 76.89\
+93 61.3419 77.13\
+38 60.7354C77.23\
+68 60.465 77.421\
+9 60.233 77.6631\
+ 60.0732C77.9043\
+ 59.9135 78.1904\
+ 59.8332 78.4795\
+ 59.8438C79.6239\
+ 59.8209 80.7687\
+ 59.8018 81.9131\
+ 59.8018C82.3461\
+ 59.8017 82.6233\
+ 59.7407 82.6367\
+ 59.1934C82.7894\
+ 52.812 82.9541 \
+46.4288 83.1309 \
+40.0449C82.7495 \
+39.9764 82.6673 \
+40.2765 82.5166 \
+40.4463C79.6242 \
+43.6897 76.7448 \
+46.9558 73.8467 \
+50.2012C73.4729 \
+50.5869 73.2627 \
+51.1026 73.2607 \
+51.6396C73.1017 \
+58.6622 72.9224 \
+65.6848 72.7227 \
+72.7061C72.6979 \
+73.5355 72.8641 \
+73.85 73.7393 73\
+.7529C74.6275 73\
+.6791 75.5204 73\
+.6585 76.4111 73\
+.6904C77.3133 73\
+.7002 77.9274 74\
+.2285 77.998 75.\
+0049C78.0144 75.\
+195 77.993 75.38\
+67 77.9346 75.56\
+84C77.876 75.75 \
+77.7815 75.9186 \
+77.6572 76.0635C\
+77.5329 76.2084 \
+77.3807 76.3276 \
+77.21 76.4131C77\
+.0395 76.4984 76\
+.8533 76.5487 76\
+.6631 76.5615C76\
+.1749 76.615 75.\
+9508 76.8364 75.\
+7314 77.2197C74.\
+5981 79.2014 73.\
+4506 81.1775 72.\
+2881 83.1465C72.\
+1508 83.3812 72.\
+0467 83.8808 71.\
+6387 83.6045C71.\
+3358 83.3986 71.\
+665 83.0834 71.7\
+949 82.8564C72.9\
+625 80.8265 74.1\
+418 78.8036 75.3\
+857 76.6611H71.7\
+168C71.2689 76.6\
+615 71.16 77.025\
+6 70.9902 77.317\
+4C69.8926 79.165\
+5 68.8021 81.027\
+5 67.7197 82.902\
+3C67.6073 83.093\
+ 67.4932 83.284 \
+67.377 83.4746C6\
+7.2606 83.6652 6\
+7.1055 83.7544 6\
+6.9072 83.6191C6\
+6.7397 83.5028 6\
+6.8085 83.3403 6\
+6.8848 83.1973C6\
+7.0068 82.9743 6\
+7.1341 82.7543 6\
+7.2656 82.5352L7\
+0.5898 76.7969H6\
+5.3311C64.9803 7\
+6.7971 64.9186 7\
+7.155 64.7832 77\
+.3877C63.69 79.2\
+498 62.61 81.118\
+4 61.5244 82.982\
+4C61.4227 83.179\
+6 61.3034 83.367\
+3 61.168 83.543C\
+61.1239 83.584 6\
+1.0706 83.6143 6\
+1.0127 83.6309C6\
+0.9548 83.6474 6\
+0.8931 83.6503 6\
+0.834 83.6387C60\
+.6435 83.5795 60\
+.6569 83.3881 60\
+.7217 83.2432C60\
+.8285 83.0125 60\
+.9621 82.7964 61\
+.0898 82.5771C62\
+.1716 80.7113 63\
+.2558 78.847 64.\
+3223 77.0098C64.\
+2631 76.6996 64.\
+013 76.7849 63.8\
+623 76.7148C63.1\
+376 76.3677 62.8\
+011 75.8023 62.9\
+707 75.0146C63.1\
+328 74.265 63.65\
+6 73.9157 64.418\
+9 73.8984C65.971\
+8 73.8622 67.525\
+3 73.7957 69.080\
+1 73.7881C69.636\
+9 73.7881 69.843\
+6 73.6443 69.843\
+8 73.042C69.9926\
+ 66.4023 70.1645\
+ 59.761 70.3604 \
+53.1201C70.3793 \
+52.4184 70.1255 \
+52.2754 69.4941 \
+52.2754C64.703 5\
+2.2754 59.9127 5\
+2.2525 55.124 52\
+.208C54.3993 52.\
+2081 54.2159 52.\
+4318 54.2158 53.\
+1279C54.2158 55.\
+0015 54.162 56.8\
+774 54.0742 58.7\
+51C54.0457 59.40\
+13 54.1889 59.65\
+71 54.8906 59.61\
+52C56.2833 59.53\
+32 57.6825 59.54\
+09 59.0771 59.49\
+51C59.9031 59.46\
+85 60.63 59.6386\
+ 60.8818 60.5352\
+C61.1105 61.3458\
+ 60.811 61.9758 \
+60.0156 62.3115C\
+59.6726 62.4584 \
+59.6225 62.7879 \
+59.4854 63.0625C\
+58.3749 65.3081 \
+57.2772 67.5619 \
+56.1572 69.8037C\
+56.02 70.0766 55\
+.9664 70.6484 55\
+.5107 70.4141C55\
+.1299 70.2232 55\
+.5108 69.8416 55\
+.6387 69.5898C56\
+.6594 67.4759 57\
+.6825 65.3615 58\
+.7471 63.2705C59\
+.0921 62.5916 58\
+.9769 62.3928 58\
+.2197 62.4424C57\
+.1781 62.5128 55\
+.9305 62.1743 55\
+.1465 62.6436C54\
+.4103 63.0863 54\
+.1582 64.3449 53\
+.71 65.2529C52.9\
+334 66.8155 52.1\
+835 68.3867 51.3\
+975 69.9492C51.2\
+832 70.1783 51.2\
+249 70.6182 50.8\
+457 70.4297C50.4\
+667 70.2409 50.7\
+807 69.9242 50.8\
+896 69.6953C51.8\
+856 67.6405 52.8\
+987 65.5929 53.8\
+965 63.5381C54.0\
+433 63.2348 54.2\
+974 62.9656 54.2\
+48 62.6318H49.20\
+9C48.74 62.632 4\
+8.6692 63.0131 4\
+8.5225 63.3145C4\
+7.4846 65.4207 4\
+6.4515 67.5295 4\
+5.4238 69.6396C4\
+5.3265 69.8304 4\
+5.2193 70.0331 4\
+5.1182 70.2314C4\
+5.0171 70.4295 4\
+4.8813 70.5629 4\
+4.6719 70.4395C4\
+4.4623 70.3155 4\
+4.5404 70.1184 4\
+4.6357 69.9277C4\
+5.0707 69.0444 4\
+5.4995 68.1587 4\
+5.9307 67.2754C4\
+6.6652 65.7701 4\
+7.402 64.2645 48\
+.1709 62.6963C47\
+.8258 62.6942 47\
+.4807 62.6702 47\
+.1387 62.624C46.\
+3606 62.458 45.8\
+856 61.9505 45.9\
+121 61.1553C45.9\
+388 60.3599 46.3\
+812 59.8194 47.2\
+051 59.7695C48.3\
+116 59.6951 49.4\
+248 59.665 50.53\
+32 59.6611C51.01\
+55 59.6611 51.18\
+95 59.5139 51.19\
+73 59.0107C51.22\
+59 57.0075 51.27\
+75 55.0034 51.36\
+72 53.0059C51.39\
+58 52.3784 51.20\
+83 52.1859 50.58\
+11 52.1953C48.51\
+94 52.2258 46.45\
+71 52.2204 44.39\
+55 52.1797C43.73\
+93 52.1645 43.53\
+87 52.3442 43.52\
+54 53.0176C43.43\
+19 57.8788 43.29\
+58 62.7479 43.16\
+99 67.6016C43.12\
+8 69.2537 43.110\
+8 70.9084 43.005\
+9 72.5625C42.958\
+2 73.335 43.1323\
+ 73.6352 43.96 7\
+3.5742C45.1598 7\
+3.4884 46.3696 7\
+3.5147 47.5752 7\
+3.5186C48.5386 7\
+3.5186 49.1512 7\
+4.0608 49.1855 7\
+4.8945C49.2196 7\
+5.7279 48.6306 7\
+6.3693 47.6904 7\
+6.3828C47.1411 7\
+6.3829 46.9134 7\
+6.6552 46.6807 7\
+7.0596C45.5913 7\
+8.9578 44.4865 8\
+0.8487 43.3857 8\
+2.7432C43.2904 8\
+2.9072 43.1949 8\
+3.0761 43.0977 8\
+3.2363C42.9662 8\
+3.4405 42.8433 8\
+3.7945 42.5537 8\
+3.6309C42.1862 8\
+3.4193 42.5112 8\
+3.1311 42.626 82\
+.9023C42.7976 82\
+.5628 43.0085 82\
+.2402 43.1992 81\
+.9121L46.334 76.\
+5156H42.6416C42.\
+1992 76.5158 42.\
+0956 76.8976 41.\
+9258 77.1914C40.\
+8192 79.0802 39.\
+7175 80.9728 38.\
+6211 82.8691C38.\
+5105 83.0599 38.\
+3948 83.2516 38.\
+2822 83.4424C38.\
+1697 83.6329 38.\
+0185 83.7467 37.\
+8184 83.6211C37.\
+6184 83.4952 37.\
+7133 83.2929 37.\
+8086 83.1289L39.\
+5264 80.1621C40.\
+0987 79.1739 40.\
+6559 78.1742 41.\
+2549 77.2031C41.\
+6364 76.585 41.3\
+438 76.5355 40.8\
+135 76.5488C39.4\
+781 76.5832 38.1\
+422 76.6194 36.8\
+164 76.5908C36.2\
+443 76.5795 35.9\
+752 76.8312 35.7\
+158 77.2871C34.6\
+36 79.1949 33.52\
+37 81.0781 32.42\
+29 82.9707C32.32\
+19 83.17 32.2054\
+ 83.3614 32.0752\
+ 83.543C31.9741 \
+83.6687 31.7985 \
+83.7471 31.665 8\
+3.6064C31.63 83.\
+5587 31.6067 83.\
+5027 31.5967 83.\
+4443C31.5868 83.\
+3859 31.5901 83.\
+3252 31.6074 83.\
+2686C31.6961 83.\
+065 31.802 82.86\
+88 31.9229 82.68\
+26C32.9568 80.90\
+21 33.9925 79.11\
+8 35.0303 77.331\
+1C35.2401 76.972\
+4 35.4975 76.701\
+4 34.8662 76.424\
+8C34.2351 76.148\
+1 33.9987 75.519\
+3 34.1855 74.819\
+3C34.3726 74.119\
+6 34.8572 73.759\
+5 35.5723 73.740\
+2C36.8409 73.705\
+9 38.1105 73.671\
+1 39.3887 73.678\
+7C39.9608 73.678\
+6 40.1361 73.487\
+8 40.1514 72.902\
+3C40.2989 66.262\
+8 40.4657 59.622\
+3 40.6514 52.981\
+4C40.6685 52.334\
+9 40.4742 52.179\
+9 39.8564 52.183\
+6C36.3994 52.203\
+9 32.9415 52.198\
+5 29.4844 52.168\
+C28.9122 52.168 \
+28.7207 52.3121 \
+28.7207 52.9092C\
+28.7054 54.911 2\
+8.6528 56.9125 2\
+8.5625 58.9131C2\
+8.532 59.5711 28\
+.6984 59.8134 29\
+.3926 59.7715C30\
+.7528 59.6875 32\
+.1174 59.663 33.\
+4814 59.6592C34.\
+4353 59.6592 35.\
+0425 60.2318 35.\
+0654 61.0693C35.\
+0881 61.9066 34.\
+5879 62.4239 33.\
+5752 62.5117C32.\
+2684 62.6719 30.\
+9552 62.5116 29.\
+6465 62.5879C29.\
+3642 62.5973 28.\
+9748 62.3743 28.\
+8564 62.8545C28.\
+9307 63.2149 28.\
+6662 63.4467 28.\
+5098 63.708C27.3\
+231 65.7723 26.1\
+26 67.8296 24.91\
+89 69.8799C24.77\
+21 70.1298 24.66\
+08 70.6275 24.28\
+91 70.4258C23.91\
+75 70.2236 24.27\
+57 69.8652 24.41\
+7 69.6191C25.561\
+7 67.6101 26.740\
+4 65.6117 27.902\
+3 63.6064C28.056\
+8 63.3413 28.191\
+2 63.0642 28.345\
+7 62.7705C26.598\
+2 62.7705 24.93 \
+62.78 23.2627 62\
+.7705C22.8469 62\
+.7706 22.7511 63\
+.0614 22.5928 63\
+.3438C21.3527 65\
+.4862 20.1126 67\
+.6287 18.8516 69\
+.7578C18.6837 70\
+.0383 18.5933 70\
+.6692 18.1299 70\
+.4043C17.7606 70\
+.1906 18.1932 69\
+.7824 18.3516 69\
+.5059C19.486 67.\
+5244 20.6303 65.\
+5482 21.7852 63.\
+5781C22.0523 63.\
+1222 22.2432 62.\
+8324 21.4287 62.\
+8037C21.2371 62.\
+8052 21.0463 62.\
+7684 20.8691 62.\
+6953C20.6921 62.\
+6221 20.5312 62.\
+5132 20.3965 62.\
+377C20.2619 62.2\
+406 20.156 62.07\
+83 20.085 61.900\
+4C20.0139 61.722\
+3 19.9786 61.531\
+5 19.9824 61.339\
+8C19.9959 60.540\
+6 20.6145 59.945\
+3 21.5664 59.899\
+4C22.6747 59.847\
+9 23.7872 59.824\
+6 24.8975 59.841\
+8C25.4468 59.851\
+3 25.6719 59.723\
+5 25.6758 59.109\
+4C25.6872 57.075\
+6 25.7539 55.041\
+5 25.834 53.0039\
+C25.8569 52.4317\
+ 25.7707 52.1516\
+ 25.0879 52.1611\
+C22.7414 52.1993\
+ 20.3924 52.1838\
+ 18.0459 52.1514\
+C17.4738 52.1514\
+ 17.2832 52.3138\
+ 17.2832 52.8994\
+C17.1344 59.6038\
+ 16.9656 66.3077\
+ 16.7773 73.0107\
+C16.7602 73.6306\
+ 16.9686 73.7746\
+ 17.5293 73.7441\
+C18.6376 73.6907\
+ 19.7501 73.6844\
+ 20.8584 73.6787\
+C21.8866 73.6788\
+ 22.545 74.2036 \
+22.5908 75.041C2\
+2.6365 75.8785 2\
+2.0179 76.5254 2\
+1.0088 76.5674C2\
+0.5246 76.5866 2\
+0.2835 76.7734 2\
+0.0547 77.1719C1\
+8.971 79.0798 17\
+.8586 80.9618 16\
+.7559 82.8545C16\
+.6758 82.9917 16\
+.6053 83.1351 16\
+.5195 83.2666C16\
+.3861 83.4669 16\
+.2861 83.806 15.\
+9678 83.6309C15.\
+6179 83.4403 15.\
+9105 83.177 16.0\
+176 82.9883C17.0\
+44 81.2006 18.08\
+8 79.4199 19.124\
+ 77.6455C19.2957\
+ 77.3499 19.4464\
+ 77.0445 19.6504\
+ 76.665H16.0771C\
+15.5889 76.6652 \
+15.4545 77.0466 \
+15.2676 77.3633C\
+14.2285 79.1438 \
+13.1915 80.9246 \
+12.1562 82.7051C\
+12.0456 82.8958 \
+11.9347 83.0876 \
+11.8184 83.2783C\
+11.7021 83.4691 \
+11.5684 83.8034 \
+11.2637 83.6172C\
+11.0255 83.4703 \
+11.195 83.2209 1\
+1.3037 83.0283C1\
+1.4124 82.8357 1\
+1.5212 82.6458 1\
+1.6318 82.4551C1\
+2.6219 80.7554 1\
+3.6021 79.0495 1\
+4.6055 77.3574C1\
+4.8802 76.8919 1\
+4.869 76.69 14.2\
+51 76.7129C12.82\
+59 76.7625 11.38\
+91 76.7948 9.969\
+73 76.7891C9.498\
+79 76.7891 9.307\
+65 77.0367 9.107\
+42 77.3818C8.052\
+99 79.2109 6.987\
+87 81.0435 5.913\
+09 82.8789C5.802\
+47 83.0696 5.693\
+44 83.2604 5.575\
+2 83.4512C5.4570\
+3 83.6417 5.3140\
+4 83.7451 5.1064\
+5 83.6064C4.9370\
+5 83.4921 5.0029\
+2 83.3313 5.0791\
+ 83.1865C5.18209\
+ 82.9958 5.29178\
+ 82.805 5.4043 8\
+2.6143C6.40786 8\
+0.8838 7.40487 7\
+9.1506 8.41797 7\
+7.4277C8.62967 7\
+7.0711 8.78447 7\
+6.8403 8.25098 7\
+6.5771C7.56064 7\
+6.2395 7.38658 7\
+5.566 7.61523 74\
+.8604C7.84415 74\
+.1545 8.37839 73\
+.906 9.0918 73.8\
+926C10.4559 73.8\
+773 11.8185 73.8\
+046 13.1826 73.7\
+988C13.7071 73.7\
+988 13.883 73.63\
+25 13.8945 73.09\
+28C14.0586 66.20\
+02 14.2353 59.30\
+55 14.4248 52.40\
+92C14.4615 52.06\
+17 14.3788 51.71\
+13 14.1904 51.41\
+7C14.052 51.2376\
+ 13.9694 51.02 1\
+3.9541 50.7939C1\
+3.9389 50.5679 1\
+3.9915 50.3418 1\
+4.1045 50.1455C1\
+4.5105 49.5256 1\
+4.4363 48.8768 1\
+4.4268 48.2207C1\
+4.3504 42.1154 1\
+4.2718 36.0137 1\
+4.1904 29.916C14\
+.2079 29.7254 14\
+.2017 29.533 14.\
+1729 29.3438C13.\
+5605 27.1727 14.\
+6534 25.6379 15.\
+9297 24.0449C19.\
+1445 20.0384 22.\
+249 15.9286 25.3\
+799 11.8457C25.5\
+691 11.5732 25.8\
+249 11.3525 26.1\
+221 11.2051C26.4\
+191 11.0578 26.7\
+488 10.9878 27.0\
+801 11.002ZM44.4\
+619 49.3232C46.7\
+59 49.3232 48.81\
+23 49.3099 50.86\
+52 49.3232C51.25\
+62 49.3251 51.43\
+74 49.2106 51.43\
+75 48.793V40.296\
+9L44.4619 49.323\
+2ZM29.8359 36.58\
+59C29.3189 36.57\
+07 29.1072 36.68\
+74 29.0977 37.25\
+98C29.0328 41.00\
+81 28.9474 44.75\
+59 28.8418 48.50\
+29C28.8247 49.06\
+94 28.9734 49.28\
+51 29.5742 49.28\
+52C33.0301 49.26\
+61 36.4871 49.27\
+56 39.9443 49.31\
+25C40.5544 49.31\
+81 40.6862 49.09\
+84 40.6768 48.53\
+61C40.6462 46.72\
+94 40.665 44.914\
+1 40.665 43.1035\
+L40.5186 43.1094\
+C40.5186 41.2626\
+ 40.4918 39.4192\
+ 40.5186 37.5762\
+C40.5261 37.0441\
+ 40.3562 36.8536\
+ 39.8203 36.8535\
+C36.4916 36.7823\
+ 33.1633 36.6928\
+ 29.8359 36.5859\
+ZM18.5771 49.258\
+8C21.021 49.2588\
+ 23.1922 49.2473\
+ 25.3652 49.2568\
+C25.966 49.2682 \
+25.9036 48.8747 \
+25.9131 48.4932C\
+25.9843 45.7383 \
+26.0537 42.982 2\
+6.1211 40.2246C2\
+6.1249 40.0797 2\
+6.1587 39.9007 2\
+5.877 39.8281L18\
+.5771 49.2588ZM5\
+5.3809 36.708C54\
+.7016 36.6908 54\
+.6101 36.9716 54\
+.6006 37.5439C54\
+.5414 41.0068 54\
+.4748 44.4697 54\
+.3604 47.9307C54\
+.3356 48.6402 54\
+.5261 48.831 55.\
+2412 48.8311C59.\
+33 48.8043 63.42\
+86 48.6827 67.50\
+98 48.8945C69.81\
+63 49.0204 71.36\
+94 48.3618 72.82\
+13 46.54C75.3016\
+ 43.4205 78.0723\
+ 40.5257 80.835 \
+37.4062C80.5355 \
+37.3643 80.4152 \
+37.33 80.2969 37\
+.3262C71.9922 37\
+.1354 63.6868 36\
+.9293 55.3809 36\
+.708ZM17.9492 28\
+.7002C17.211 28.\
+683 17.06 28.912\
+3 17.0732 29.606\
+4C17.1686 34.88 \
+17.2243 40.1522 \
+17.2949 45.4258C\
+17.2968 45.5726 \
+17.3158 45.7196 \
+17.3311 45.9102C\
+17.7353 45.7384 \
+17.8769 45.403 1\
+8.0791 45.1436C2\
+0.1206 42.5157 2\
+2.1592 39.8795 2\
+4.1943 37.2363C2\
+4.7571 36.5039 2\
+5.5444 35.8758 2\
+5.3672 34.7715C2\
+5.3626 34.6759 2\
+5.3809 34.5806 2\
+5.4199 34.4932C2\
+5.459 34.4057 25\
+.5183 34.328 25.\
+5928 34.2676C26.\
+3973 33.7448 26.\
+2071 32.9588 26.\
+207 32.2188C26.2\
+032 31.3641 26.1\
+435 30.5012 26.1\
+797 29.6465C26.2\
+082 28.9562 26.0\
+02 28.7142 25.27\
+15 28.7256C22.82\
+82 28.7663 20.38\
+74 28.7574 17.94\
+92 28.7002ZM43.9\
+053 36.9336C43.5\
+485 36.9317 43.3\
+955 37.0518 43.3\
+955 37.4238V45.4\
+561L43.7158 45.5\
+215C45.8438 42.7\
+689 47.9746 40.0\
+169 50.1064 37.2\
+656L50.0293 36.9\
+336H43.9053ZM51.\
+373 17.5957C51.2\
+798 17.6703 51.1\
+927 17.7526 51.1\
+133 17.8418C48.6\
+266 21.0548 46.1\
+393 24.2664 43.6\
+514 27.4756C43.4\
+232 27.7413 43.2\
+964 28.0794 43.2\
+93 28.4297C43.31\
+4 30.1122 43.342\
+ 31.7969 43.3516\
+ 33.4795C43.3535\
+ 33.8742 43.4779\
+ 34.0527 43.8955\
+ 34.0527C46.3364\
+ 34.0985 48.7772\
+ 34.157 51.2168 \
+34.2295C51.6552 \
+34.2408 51.7431 \
+34.0386 51.7432 \
+33.6572V17.6592L\
+51.373 17.5957ZM\
+29.7861 28.7598C\
+29.2673 28.7521 \
+29.0445 28.8761 \
+29.0654 29.4482C\
+29.1087 30.6527 \
+29.1179 31.8587 \
+29.0938 33.0645C\
+29.0825 33.5887 \
+29.306 33.6953 2\
+9.7676 33.6953C3\
+3.091 33.7564 36\
+.4148 33.8276 39\
+.7363 33.9287C40\
+.3504 33.9458 40\
+.4896 33.7102 40\
+.4648 33.1533C40\
+.4095 31.9496 40\
+.3772 30.7437 40\
+.3887 29.5381C40\
+.3944 28.9831 40\
+.1769 28.8477 39\
+.6621 28.8477C38\
+.0156 28.8706 36\
+.3683 28.8574 34\
+.7236 28.8574V28\
+.7695C33.0772 28\
+.7695 31.4306 28\
+.7846 29.7861 28\
+.7598ZM29.584 13\
+.9404C28.9507 13\
+.9367 28.8625 14\
+.1983 28.8721 14\
+.7344C28.9312 18\
+.1646 28.9788 21\
+.5874 28.9922 25\
+.0215C28.996 25.\
+6679 29.1641 25.\
+8817 29.8389 25.\
+8818C33.3558 25.\
+8691 36.8744 25.\
+8865 40.3926 25.\
+9336C41.0142 25.\
+9411 41.3747 25.\
+7064 41.7275 25.\
+2393C43.2023 23.\
+2913 44.7122 21.\
+3702 46.2061 19.\
+4395C47.5416 17.\
+7128 48.8729 15.\
+9836 50.2637 14.\
+1807C50.1569 14.\
+1331 50.045 14.0\
+967 49.9307 14.0\
+723C43.1481 14.0\
+303 36.3666 13.9\
+996 29.584 13.94\
+04ZM18.4014 25.6\
+475C18.5462 25.7\
+276 18.6209 25.8\
+076 18.6934 25.8\
+076C20.9713 25.8\
+267 23.2494 25.8\
+232 25.5254 25.8\
+613C26.128 25.87\
+08 26.0791 25.51\
+79 26.0791 25.12\
+5C26.0562 22.684\
+1 26.0343 20.242\
+6 26.0127 17.801\
+8V16.1494L25.781\
+2 16.1074C23.329\
+6 19.2803 20.881\
+7 22.4498 18.401\
+4 25.6475Z\x22 fill\
+=\x22black\x22/>\x0d\x0a</sv\
 g>\x0d\x0a\
+\x00\x00\x0b\xc7\
+<\
+svg width=\x2295\x22 h\
+eight=\x2295\x22 viewB\
+ox=\x220 0 95 95\x22 f\
+ill=\x22none\x22 xmlns\
+=\x22http://www.w3.\
+org/2000/svg\x22>\x0d\x0a\
+<path d=\x22M70.771\
+6 63.9698C71.630\
+7 64.4318 71.497\
+1 64.8622 70.884\
+8 65.5228C68.658\
+2 67.9349 66.452\
+ 70.3767 64.3127\
+ 72.8686C63.6837\
+ 73.5996 63.2959\
+ 73.6497 62.8042\
+ 72.8445C60.2937\
+ 70.1596 58.275 \
+67.0832 55.9835 \
+64.2258C53.2003 \
+60.7598 50.3354 \
+57.3773 47.3333 \
+54.1005C45.0424 \
+51.5944 42.634 4\
+9.2089 40.1081 4\
+6.944C36.9427 44\
+.0989 33.6715 41\
+.3813 30.2945 38\
+.7911C27.3703 36\
+.5459 24.2791 34\
+.5235 21.5738 31\
+.9945C20.9003 31\
+.6234 20.9986 31\
+.2783 21.4755 30\
+.7569C23.8257 28\
+.1864 26.1494 25\
+.5956 28.4465 22\
+.9843C28.8269 22\
+.5557 29.1145 22\
+.3813 29.4559 22\
+.9843C31.6397 25\
+.2832 33.4303 27\
+.8957 35.3785 30\
+.3839C38.3633 34\
+.1951 41.4904 37\
+.8837 44.7598 41\
+.4499C46.8861 43\
+.7786 49.1479 45\
+.955 51.4636 48.\
+074C55.3972 51.6\
+711 59.4903 55.0\
+815 63.7431 58.3\
+05C66.1366 60.11\
+6 68.5524 61.921\
+3 70.7716 63.969\
+8Z\x22 fill=\x22black\x22\
+/>\x0d\x0a<path d=\x22M21\
+.5664 31.9944C23\
+.7188 33.2672 25\
+.6818 34.811 27.\
+7062 36.262C41.4\
+051 46.1052 52.7\
+55 58.2344 62.37\
+56 72.0428C62.54\
+63 72.2877 62.80\
+61 72.4956 62.80\
+42 72.8388C62.39\
+41 72.7219 62.14\
+37 72.3954 61.86\
+35 72.1152C59.35\
+12 69.6103 56.84\
+13 67.1048 54.33\
+4 64.5987C46.242\
+3 56.5571 38.178\
+4 48.4895 30.036\
+6 40.4999C27.463\
+1 37.9746 24.913\
+7 35.4233 22.336\
+4 32.9017C22.052\
+5 32.629 21.726 \
+32.3803 21.5664 \
+31.9944Z\x22 fill=\x22\
+#C8C8C8\x22/>\x0d\x0a<pat\
+h d=\x22M70.7715 63\
+.9697C68.2796 62\
+.4241 66.0011 60\
+.5816 63.6595 58\
+.8282C50.6439 49\
+.1207 39.3001 37\
+.3538 30.0755 23\
+.9917C29.8491 23\
+.6633 29.6506 23\
+.3164 29.4409 22\
+.9768C29.8361 23\
+.1215 30.0792 23\
+.4537 30.3687 23\
+.7357C34.1056 27\
+.4615 37.7905 31\
+.2411 41.585 34.\
+913C47.5948 40.7\
+318 53.4043 46.7\
+491 59.4104 52.5\
+697C62.9804 56.0\
+283 66.4612 59.5\
+815 70.0052 63.0\
+549C70.2891 63.3\
+314 70.6156 63.5\
+8 70.7715 63.969\
+7Z\x22 fill=\x22#C8C8C\
+8\x22/>\x0d\x0a<path d=\x22M\
+9.41499 20.5722C\
+8.38706 17.1952 \
+7.39068 13.9649 \
+6.42954 10.7252C\
+6.26997 10.1871 \
+5.76343 9.50616 \
+6.13081 9.11466C\
+6.43511 8.78995 \
+7.15318 9.24454 \
+7.68013 9.37628C\
+10.7231 10.137 1\
+3.7654 10.9064 1\
+6.8072 11.6845C1\
+7.0892 11.7587 1\
+7.5197 11.6975 1\
+7.6217 11.9999C1\
+7.7368 12.332 17\
+.3119 12.4749 17\
+.117 12.6883C16.\
+4806 13.3878 15.\
+2616 13.9482 15.\
+2746 14.7293C15.\
+295 15.4028 16.4\
+379 16.0523 17.0\
+985 16.6961C19.2\
+397 18.7854 21.3\
+772 20.8783 23.5\
+425 22.9416C23.9\
+749 23.3535 24.0\
+454 23.6151 23.5\
+518 24.0196C22.9\
+117 24.5429 22.3\
+532 25.5281 21.6\
+963 25.5782C21.0\
+395 25.6283 20.4\
+81 24.5856 19.88\
+91 24.0122C17.70\
+15 21.8803 15.50\
+84 19.7521 13.35\
+6 17.5923C12.901\
+4 17.1358 12.647\
+2 17.1136 12.213\
+ 17.6108C11.3447\
+ 18.6017 10.4077\
+ 19.5294 9.41499\
+ 20.5722Z\x22 fill=\
+\x22black\x22/>\x0d\x0a<path\
+ d=\x22M84.4518 76.\
+264L87.8566 87.6\
+918L75.8647 84.5\
+932C76.6904 83.8\
+065 77.3881 83.0\
+884 78.1451 82.4\
+39C78.6349 82.01\
+6 78.6349 81.758\
+1 78.1562 81.297\
+9C75.5586 78.798\
+6 73.0054 76.245\
+5 70.4041 73.744\
+3C69.879 73.2396\
+ 69.699 72.913 7\
+0.3707 72.4009C7\
+0.9774 71.9389 7\
+1.484 70.9945 72\
+.0833 70.9592C72\
+.7698 70.9184 73\
+.2615 71.9074 73\
+.8274 72.4566C75\
+.9965 74.5681 78\
+.1599 76.6722 80\
+.264 78.8413C80.\
+8838 79.4795 81.\
+1918 79.3738 81.\
+7484 78.7875C82.\
+5778 77.8987 83.\
+5259 77.1157 84.\
+4518 76.264Z\x22 fi\
+ll=\x22black\x22/>\x0d\x0a</\
+svg>\x0d\x0a\
+\x00\x00[\x10\
+<\
+svg width=\x2295\x22 h\
+eight=\x2295\x22 viewB\
+ox=\x220 0 95 95\x22 f\
+ill=\x22none\x22 xmlns\
+=\x22http://www.w3.\
+org/2000/svg\x22>\x0d\x0a\
+<path d=\x22M39.608\
+ 1.6843C40.0044 \
+1.87202 40.0044 \
+1.87202 40.4082 \
+2.11337C40.7786 \
+2.30018 41.1497 \
+2.48585 41.5214 \
+2.67002C41.5078 \
+2.86362 41.4942 \
+3.05722 41.4802 \
+3.25669C41.4329 \
+3.98152 41.4033 \
+4.70622 41.3787 \
+5.43215C41.3657 \
+5.74496 41.3481 \
+6.0576 41.3255 6\
+.36985C41.1518 8\
+.10869 41.1518 8\
+.10869 41.7728 9\
+.6655C42.4988 10\
+.3132 43.5106 11\
+.0423 44.5156 11\
+.0049C44.9775 10\
+.7767 45.3744 10\
+.4982 45.7905 10\
+.1941C45.9739 10\
+.0674 46.1574 9.\
+94079 46.3464 9.\
+81031C46.7267 9.\
+54591 47.1028 9.\
+27543 47.4742 8.\
+99854C48.7695 8.\
+12532 49.5431 7.\
+97138 51.064 8.2\
+0104C51.2175 8.2\
+213 51.3711 8.24\
+155 51.5293 8.26\
+242C51.9047 8.31\
+24 52.2795 8.366\
+74 52.6542 8.421\
+97C52.6586 11.91\
+7 52.6619 15.412\
+1 52.6639 18.907\
+2C52.6648 20.53 \
+52.6661 22.1527 \
+52.6682 23.7755C\
+52.6701 25.1898 \
+52.6713 26.604 5\
+2.6717 28.0183C5\
+2.6719 28.7673 5\
+2.6725 29.5162 5\
+2.6739 30.2652C5\
+2.6751 30.97 52.\
+6755 31.6748 52.\
+6752 32.3797C52.\
+6753 32.6385 52.\
+6757 32.8973 52.\
+6764 33.1561C52.\
+6773 33.5092 52.\
+677 33.8624 52.6\
+766 34.2156C52.6\
+768 34.5122 52.6\
+768 34.5122 52.6\
+771 34.8148C52.6\
+57 35.2645 52.59\
+86 35.6395 52.46\
+87 36.0685C52.56\
+96 36.1172 52.67\
+06 36.166 52.774\
+6 36.2163C53.279\
+7 36.4747 53.767\
+6 36.7512 54.254\
+6 37.0426C54.433\
+ 37.1469 54.6114\
+ 37.2511 54.7953\
+ 37.3586C55.2519\
+ 37.7384 55.2519\
+ 37.7384 55.4418\
+ 38.3153C55.5016\
+ 38.4923 55.5614\
+ 38.6693 55.623 \
+38.8517C56.056 3\
+9.0522 56.056 39\
+.0522 56.5507 39\
+.2227C56.8232 39\
+.37 57.0923 39.5\
+234 57.3582 39.6\
+823C57.5134 39.7\
+745 57.6687 39.8\
+668 57.8287 39.9\
+619C57.9963 40.0\
+624 58.1639 40.1\
+629 58.3366 40.2\
+664C58.7055 40.4\
+861 59.0745 40.7\
+057 59.4434 40.9\
+253C59.6376 41.0\
+412 59.8317 41.1\
+571 60.0318 41.2\
+765C61.0464 41.8\
+815 62.0632 42.4\
+827 63.0797 43.0\
+844C63.5056 43.3\
+369 63.9316 43.5\
+893 64.3575 43.8\
+419C65.6207 44.5\
+907 66.884 45.33\
+94 68.1474 46.08\
+8C68.5649 46.335\
+4 68.9824 46.582\
+8 69.3999 46.830\
+2C69.6065 46.952\
+6 69.8132 47.075\
+1 70.0261 47.201\
+3C71.9047 48.314\
+5 71.9047 48.314\
+5 72.5312 48.685\
+8C72.9479 48.932\
+7 73.3646 49.179\
+7 73.7814 49.426\
+6C74.7293 49.988\
+3 75.6773 50.550\
+1 76.6251 51.112\
+C79.3334 52.7175\
+ 82.0428 54.3212\
+ 84.7539 55.922C\
+84.4731 56.668 8\
+4.0365 56.9518 8\
+3.3789 57.3795C8\
+3.18 57.5102 82.\
+9812 57.6409 82.\
+7763 57.7756C82.\
+5657 57.9116 82.\
+3552 58.0475 82.\
+1446 58.1833C81.\
+9332 58.3212 81.\
+7219 58.4593 81.\
+5108 58.5975C81.\
+1256 58.8496 80.\
+7399 59.1009 80.\
+3536 59.3511C79.\
+9532 59.5971 79.\
+9532 59.5971 79.\
+7441 59.8185C79.\
+7148 60.2228 79.\
+6988 60.6282 79.\
+6877 61.0335C79.\
+6841 61.1605 79.\
+6805 61.2876 79.\
+6768 61.4185C79.\
+6454 62.5966 79.\
+6275 63.775 79.6\
+135 64.9535C79.6\
+04 65.7447 79.59\
+02 66.5354 79.56\
+59 67.3263C79.54\
+25 68.0918 79.53\
+03 68.8566 79.52\
+56 69.6224C79.52\
+2 69.9129 79.514\
+5 70.2033 79.503\
+ 70.4936C79.4232\
+ 72.264 79.4232 \
+72.264 80.2151 7\
+3.7926C80.7571 7\
+4.3264 81.3542 7\
+4.7734 81.9707 7\
+5.2188C82.1751 7\
+5.3805 82.3785 7\
+5.5435 82.5808 7\
+5.7079C82.92 75.\
+9831 83.262 76.2\
+551 83.6072 76.5\
+227C84.0072 76.8\
+848 84.1614 77.1\
+501 84.3828 77.6\
+31C83.8925 77.91\
+38 83.4022 78.19\
+67 82.9119 78.47\
+95C82.4817 78.72\
+77 82.0514 78.97\
+6 81.6212 79.224\
+2C80.5916 79.818\
+2 79.5621 80.412\
+2 78.5322 81.005\
+7C78.2012 81.196\
+5 77.8702 81.387\
+3 77.5392 81.578\
+1C77.1218 81.818\
+7 76.7044 82.059\
+3 76.2869 82.299\
+8C76.0967 82.409\
+4 75.9066 82.519\
+ 75.7106 82.632C\
+75.5441 82.728 7\
+5.3775 82.824 75\
+.2059 82.9228C74\
+.7277 83.1914 74\
+.7277 83.1914 74\
+.279 83.5226C73.\
+6583 83.8266 73.\
+3509 83.7557 72.\
+6933 83.5685C72.\
+2376 83.3531 72.\
+2376 83.3531 71.\
+7866 83.0799C71.\
+6152 82.9777 71.\
+4437 82.8755 71.\
+2671 82.7702C70.\
+9915 82.6028 70.\
+9915 82.6028 70.\
+7103 82.432C70.3\
+088 82.1928 69.9\
+07 81.9541 69.50\
+49 81.7159C69.29\
+66 81.5923 69.08\
+84 81.4688 68.87\
+37 81.3415C67.85\
+28 80.7441 66.81\
+77 80.1731 65.78\
+17 79.6024C64.04\
+95 78.646 62.325\
+9 77.6762 60.609\
+6 76.6916C58.700\
+6 75.5965 56.785\
+4 74.5139 54.863\
+ 73.4427C54.6835\
+ 73.3426 54.504 \
+73.2425 54.3191 \
+73.1394C54.1627 \
+73.0524 54.0063 \
+72.9654 53.8451 \
+72.8757C53.3816 \
+72.6128 52.9246 \
+72.3405 52.4687 \
+72.0645C52.482 7\
+2.2813 52.4952 7\
+2.4981 52.5089 7\
+2.7214C52.6521 7\
+5.2102 52.6765 7\
+7.6899 52.6658 8\
+0.1822C52.6649 8\
+0.5676 52.6641 8\
+0.9529 52.6633 8\
+1.3383C52.6613 8\
+2.2672 52.6581 8\
+3.1962 52.6542 8\
+4.1251C52.4777 8\
+4.2133 52.3012 8\
+4.3015 52.1194 8\
+4.3923C50.9074 8\
+4.998 49.6956 85\
+.6041 48.4848 86\
+.2122C42.9047 89\
+.0145 42.9047 89\
+.0145 40.1075 90\
+.3385C38.926 90.\
+8978 37.7572 91.\
+4782 36.595 92.0\
+768C36.1406 92.2\
+892 36.1406 92.2\
+892 35.7695 92.2\
+892C35.7571 90.2\
+459 35.7922 88.2\
+081 35.8623 86.1\
+661C35.8712 85.8\
+936 35.8802 85.6\
+211 35.8891 85.3\
+485C35.9106 84.6\
+933 35.9326 84.0\
+381 35.955 83.38\
+29C35.8125 83.32\
+84 35.67 83.2739\
+ 35.5231 83.2178\
+C34.7713 82.9055\
+ 34.1399 82.4277\
+ 33.4726 81.9659\
+C33.023 81.6718 \
+33.023 81.6718 3\
+2.6272 81.7658C3\
+2.2342 81.902 31\
+.9183 82.066 31.\
+565 82.2848C31.4\
+346 82.365 31.30\
+43 82.4452 31.16\
+99 82.5278C31.03\
+07 82.6148 30.89\
+15 82.7018 30.74\
+81 82.7915C30.60\
+34 82.8808 30.45\
+87 82.9701 30.30\
+96 83.062C29.507\
+1 83.5588 28.709\
+3 84.0627 27.913\
+5 84.5701C27.753\
+3 84.6721 27.593\
+2 84.774 27.4283\
+ 84.879C27.1169 \
+85.0777 26.806 8\
+5.2773 26.4957 8\
+5.4778C26.3549 8\
+5.5679 26.214 85\
+.658 26.0689 85.\
+7508C25.9444 85.\
+8311 25.8199 85.\
+9114 25.6916 85.\
+9941C25.3789 86.\
+1661 25.3789 86.\
+1661 25.0078 86.\
+1661C25.0063 85.\
+9374 25.0048 85.\
+7087 25.0033 85.\
+473C24.9859 82.8\
+045 24.967 80.13\
+6 24.9474 77.467\
+6C24.9417 76.694\
+2 24.9361 75.920\
+9 24.9306 75.147\
+6C24.8834 68.518\
+1 24.8119 61.889\
+7 24.6962 55.261\
+C24.6405 52.0698\
+ 24.5886 48.8788\
+ 24.5532 45.6874\
+C24.5508 45.4705\
+ 24.5508 45.4705\
+ 24.5484 45.2492\
+C24.5323 43.7868\
+ 24.5173 42.3244\
+ 24.5035 40.8619\
+C24.4966 40.1296\
+ 24.4894 39.3973\
+ 24.4821 38.665C\
+24.4806 38.5197 \
+24.4792 38.3745 \
+24.4777 38.2248C\
+24.453 35.8184 2\
+4.4068 33.4128 2\
+4.3541 31.0069C2\
+4.2993 28.4832 2\
+4.2672 25.96 24.\
+256 23.4357C24.2\
+492 22.0386 24.2\
+324 20.6432 24.1\
+888 19.2467C23.9\
+286 10.6846 23.9\
+286 10.6846 25.3\
+934 8.93197C26.6\
+915 7.66196 28.3\
+127 7.02019 30.0\
+112 6.46665C31.1\
+967 6.06589 32.2\
+063 5.3733 33.25\
+3 4.69943C33.625\
+2 4.47606 33.998\
+1 4.25383 34.372\
+1 4.03335C35.031\
+5 3.63874 35.679\
+1 3.23197 36.320\
+3 2.80845C38.514\
+8 1.3819 38.5148\
+ 1.3819 39.608 1\
+.6843ZM37.7141 4\
+.61536C37.5549 4\
+.71247 37.3958 4\
+.80957 37.2318 4\
+.90962C37.0668 5\
+.01247 36.9019 5\
+.11532 36.732 5.\
+22128C36.4062 5.\
+42144 36.0802 5.\
+62148 35.7543 5.\
+82141C35.5994 5.\
+91697 35.4445 6.\
+01252 35.2849 6.\
+11097C34.7108 6.\
+46074 34.1289 6.\
+79378 33.5429 7.\
+12314C33.5429 7.\
+2456 33.5429 7.3\
+6806 33.5429 7.4\
+9423C34.245 7.86\
+996 34.9482 8.24\
+323 35.6527 8.61\
+426C35.8923 8.74\
+086 36.1315 8.86\
+811 36.3703 8.99\
+605C36.7134 9.17\
+972 37.0578 9.36\
+096 37.4024 9.54\
+177C37.7129 9.70\
+647 37.7129 9.70\
+647 38.0296 9.87\
+45C38.5534 10.15\
+93 38.5534 10.15\
+93 39.1093 9.906\
+34C39.1706 8.008\
+2 39.2318 6.1100\
+5 39.2949 4.1543\
+9C38.5202 4.1543\
+9 38.3439 4.2261\
+9 37.7141 4.6153\
+6ZM27.5044 10.38\
+89C25.7537 12.48\
+46 26.5199 16.84\
+18 26.5912 19.35\
+99C26.6186 20.50\
+35 26.6203 21.64\
+71 26.6249 22.79\
+09C26.6363 24.74\
+36 26.6634 26.69\
+56 26.7022 28.64\
+79C26.7424 30.67\
+07 26.7733 32.69\
+33 26.7917 34.71\
+64C26.7928 34.84\
+16 26.7939 34.96\
+68 26.7951 35.09\
+58C26.8008 35.72\
+84 26.8063 36.36\
+09 26.8117 36.99\
+35C26.8226 38.25\
+77 26.8347 39.52\
+18 26.8473 40.78\
+6C26.8485 40.910\
+8 26.8498 41.035\
+6 26.8511 41.164\
+3C26.88 44.0395 \
+26.9238 46.9144 \
+26.9682 49.7894C\
+27.0424 54.6093 \
+27.0862 59.4287 \
+27.1075 64.2491C\
+27.109 64.5757 2\
+7.1105 64.9022 2\
+7.112 65.2288C27\
+.1178 66.4601 27\
+.1234 67.6914 27\
+.1288 68.9227C27\
+.142 71.8813 27.\
+1665 74.8399 27.\
+1937 77.7984C27.\
+1958 78.0252 27.\
+1979 78.252 27.2\
+ 78.4856C27.2111\
+ 79.6851 27.2225\
+ 80.8846 27.2343\
+ 82.0841C27.8739\
+ 81.8349 28.4378\
+ 81.5651 29.0173\
+ 81.1962C29.2502\
+ 81.0486 29.2502\
+ 81.0486 29.4877\
+ 80.898C29.727 8\
+0.7446 29.727 80\
+.7446 29.9711 80\
+.5881C30.1335 80\
+.4851 30.296 80.\
+3822 30.4633 80.\
+2761C31.2058 79.\
+8374 31.2058 79.\
+8374 31.873 79.3\
+009C31.8911 78.8\
+893 31.8958 78.4\
+771 31.8955 78.0\
+651C31.8957 77.9\
+331 31.8959 77.8\
+012 31.8961 77.6\
+653C31.8964 77.2\
+151 31.8954 76.7\
+649 31.8944 76.3\
+148C31.8943 75.9\
+88 31.8943 75.66\
+12 31.8944 75.33\
+44C31.8943 74.42\
+22 31.8929 73.50\
+99 31.8913 72.59\
+77C31.8901 71.80\
+79 31.8895 71.01\
+81 31.8889 70.22\
+83C31.8797 58.97\
+02 31.8326 47.71\
+22 31.7904 36.45\
+43C31.7823 34.31\
+17 31.7745 32.16\
+91 31.7667 30.02\
+64C31.7662 29.87\
+32 31.7656 29.72\
+ 31.765 29.5621C\
+31.7623 28.7926 \
+31.7595 28.0231 \
+31.7567 27.2536C\
+31.734 20.9764 3\
+1.7109 14.6992 3\
+1.6875 8.42197C3\
+0.2299 8.42197 2\
+8.5147 9.40152 2\
+7.5044 10.3889ZM\
+33.914 10.2774C3\
+3.9083 16.6595 3\
+3.9045 23.0415 3\
+3.9024 29.4236C3\
+3.9023 29.6599 3\
+3.9023 29.8962 3\
+3.9022 30.1397C3\
+3.8979 42.9128 3\
+3.9104 55.6852 3\
+4.0068 68.458C34\
+.0079 68.6054 34\
+.009 68.7529 34.\
+0101 68.9048C34.\
+0372 72.4939 34.\
+0667 76.0829 34.\
+0996 79.672C34.6\
+506 79.9781 35.2\
+017 80.2843 35.7\
+695 80.5997C35.9\
+089 75.3611 35.9\
+728 70.1268 35.9\
+342 64.8866C35.9\
+333 64.7544 35.9\
+323 64.6222 35.9\
+313 64.4859C35.9\
+221 63.2431 35.9\
+124 62.0003 35.9\
+023 60.7575C35.8\
+859 58.6885 35.8\
+754 56.6195 35.8\
+683 54.5504C35.8\
+675 54.3227 35.8\
+675 54.3227 35.8\
+667 54.0903C35.8\
+618 52.6901 35.8\
+574 51.2899 35.8\
+533 49.8897C35.8\
+506 48.9429 35.8\
+476 47.9961 35.8\
+445 47.0493C35.8\
+439 46.8922 35.8\
+434 46.7352 35.8\
+429 46.5734C35.8\
+339 44.0078 35.8\
+124 41.4425 35.7\
+867 38.8771C35.7\
+604 36.2217 35.7\
+483 33.5665 35.7\
+49 30.911C35.749\
+1 29.2829 35.738\
+2 27.6557 35.712\
+7 26.0279C35.696\
+4 24.9169 35.693\
+8 23.8065 35.701\
+9 22.6955C35.706\
+1 22.0561 35.704\
+5 21.4182 35.686\
+4 20.7791C35.597\
+4 17.0378 35.597\
+4 17.0378 36.516\
+6 15.9593C37.408\
+2 15.2016 38.385\
+4 14.6591 39.454\
+6 14.1916C39.857\
+6 13.9853 40.109\
+1 13.7681 40.408\
+2 13.4317C39.543\
+4 12.9816 38.678\
+2 12.5324 37.812\
+5 12.0841C37.517\
+9 11.9314 37.223\
+5 11.7784 36.929\
+2 11.6251C36.506\
+7 11.4052 36.083\
+8 11.1862 35.660\
+8 10.9674C35.528\
+7 10.8984 35.396\
+7 10.8294 35.260\
+7 10.7584C34.620\
+8 10.4005 34.620\
+8 10.4005 33.914\
+ 10.2774ZM48.86 \
+10.958C48.6237 1\
+1.115 48.6237 11\
+.115 48.3827 11.\
+2751C48.1378 11.\
+4414 48.1378 11.\
+4414 47.888 11.6\
+111C45.0714 13.5\
+036 45.0714 13.5\
+036 43.8918 13.9\
+639C41.7576 14.8\
+343 38.8962 16.1\
+563 37.8789 18.3\
+53C37.4475 20.06\
+04 37.5028 21.80\
+02 37.5602 23.54\
+91C37.5802 24.33\
+63 37.5697 25.12\
+32 37.5631 25.91\
+05C37.5559 27.27\
+09 37.5674 28.63\
+ 37.5923 29.9902\
+C37.6281 31.9566\
+ 37.6351 33.9223\
+ 37.6354 35.8891\
+C37.6366 39.0807\
+ 37.661 42.2718 \
+37.7002 45.4632C\
+37.7381 48.5607 \
+37.7646 51.6579 \
+37.7759 54.7556C\
+37.7766 54.9469 \
+37.7773 55.1382 \
+37.7781 55.3352C\
+37.7816 56.295 3\
+7.7848 57.2548 3\
+7.788 58.2146C37\
+.808 64.0582 37.\
+8425 69.9016 37.\
+9047 75.745C37.9\
+095 76.2059 37.9\
+14 76.6667 37.91\
+84 77.1276C37.92\
+51 77.8357 37.93\
+28 78.5437 37.94\
+13 79.2518C37.94\
+43 79.509 37.947\
+ 79.7663 37.9493\
+ 80.0235C37.9525\
+ 80.3709 37.957 \
+80.7182 37.9616 \
+81.0656C37.9638 \
+81.2592 37.966 8\
+1.4528 37.9682 8\
+1.6523C37.9479 8\
+2.0767 37.9479 8\
+2.0767 38.1816 8\
+2.2696C38.198 82\
+.7374 38.203 83.\
+2 38.1997 83.667\
+7C38.1994 83.807\
+5 38.1992 83.947\
+3 38.1989 84.091\
+3C38.1979 84.539\
+4 38.1955 84.987\
+4 38.1932 85.435\
+5C38.1923 85.738\
+6 38.1914 86.041\
+7 38.1907 86.344\
+8C38.1886 87.089\
+3 38.1854 87.833\
+7 38.1816 88.578\
+2C39.0176 88.320\
+8 39.7727 87.988\
+7 40.5524 87.593\
+2C40.7305 87.503\
+4 40.7305 87.503\
+4 40.9123 87.411\
+7C41.1661 87.283\
+7 41.4197 87.155\
+3 41.6732 87.026\
+7C42.3379 86.689\
+4 43.0038 86.354\
+4 43.6697 86.019\
+7C43.8026 85.952\
+9 43.9354 85.886\
+1 44.0722 85.817\
+3C45.4392 85.131\
+6 46.818 84.4717\
+ 48.2022 83.8214\
+C48.3614 83.7463\
+ 48.5205 83.6712\
+ 48.6846 83.5938\
+C48.8207 83.5301\
+ 48.9568 83.4664\
+ 49.0971 83.4008\
+C49.23 83.3337 4\
+9.363 83.2665 49\
+.5 83.1974C49.75\
+18 83.0842 49.75\
+18 83.0842 50.00\
+87 82.9687C50.48\
+16 82.6717 50.48\
+16 82.6717 50.53\
+59 82.1067C50.53\
+04 81.7812 50.53\
+04 81.7812 50.52\
+48 81.4492C50.52\
+36 81.2697 50.52\
+36 81.2696 50.52\
+24 81.0865C50.51\
+85 80.6921 50.50\
+8 80.2982 50.497\
+3 79.9039C50.493\
+2 79.6309 50.489\
+4 79.3579 50.486\
+ 79.0849C50.4736\
+ 78.229 50.4513 \
+77.3734 50.4277 \
+76.5177C50.4202 \
+76.2336 50.4128 \
+75.9496 50.4054 \
+75.6656C50.3616 \
+74.0319 50.3067 \
+72.3988 50.2421 \
+70.7657C48.8836 \
+71.5324 47.5332 \
+72.3102 46.1992 \
+73.1191C46.0199 \
+73.2277 46.0199 \
+73.2277 45.837 7\
+3.3385C45.3475 7\
+3.6352 44.8582 7\
+3.9323 44.3696 7\
+4.2305C44.0059 7\
+4.4524 43.6414 7\
+4.673 43.2769 74\
+.8934C43.1122 74\
+.9946 43.1122 74\
+.9946 42.9442 75\
+.0978C42.4172 75\
+.4153 41.947 75.\
+6739 41.3359 75.\
+7755C41.1522 75.\
+4081 40.9685 75.\
+0407 40.7792 74.\
+6622C40.5343 74.\
+7234 40.2894 74.\
+7847 40.0371 74.\
+8477C40.0983 71.\
+2964 40.1595 67.\
+745 40.2226 64.0\
+86C40.4063 64.02\
+48 40.59 63.9636\
+ 40.7792 63.9005\
+C41.093 63.5959 \
+41.4015 63.2857 \
+41.707 62.9727C4\
+2.1094 62.6122 4\
+2.5223 62.2647 4\
+2.9362 61.9174C4\
+3.0424 61.8274 4\
+3.1486 61.7373 4\
+3.258 61.6446C43\
+.7185 61.2564 44\
+.1741 60.8951 44\
+.6757 60.5606C44\
+.7378 60.0897 44\
+.7632 59.6628 44\
+.7654 59.1906C44\
+.7682 59.0494 44\
+.771 58.9081 44.\
+7738 58.7626C44.\
+7819 58.2941 44.\
+7857 57.8256 44.\
+7888 57.3571C44.\
+792 57.0316 44.7\
+952 56.7062 44.7\
+984 56.3807C44.8\
+043 55.6975 44.8\
+075 55.0144 44.8\
+095 54.3311C44.8\
+125 53.4566 44.8\
+259 52.5826 44.8\
+417 51.7082C44.8\
+521 51.0355 44.8\
+55 50.3629 44.85\
+58 49.6901C44.85\
+75 49.3679 44.86\
+2 49.0456 44.869\
+3 48.7234C44.972\
+1 46.9898 44.972\
+1 46.9898 44.318\
+5 45.4667C43.888\
+4 45.1746 43.488\
+4 44.9789 43.005\
+8 44.7892C41.888\
+7 44.1713 40.827\
+6 43.537 40.2226\
+ 42.377C39.9777 \
+41.2496 40.0405 \
+40.0683 40.0487 \
+38.9212C40.0466 \
+38.5946 40.044 3\
+8.268 40.0408 37\
+.9414C40.0357 37\
+.2996 40.0341 36\
+.658 40.036 36.0\
+163C40.038 35.27\
+38 40.03 34.532 \
+40.0168 33.7897C\
+40.0117 33.4283 \
+40.0068 33.0668 \
+40.0023 32.7054C\
+39.9998 32.5467 \
+39.9973 32.388 3\
+9.9947 32.2244C3\
+9.994 31.435 40.\
+0398 30.8321 40.\
+4082 30.131C40.7\
+909 29.8503 40.7\
+909 29.8503 41.2\
+678 29.6168C41.5\
+353 29.4832 41.5\
+353 29.4832 41.8\
+081 29.3469C42.0\
+01 29.2543 42.19\
+39 29.1617 42.39\
+26 29.0662C42.68\
+84 28.9199 42.68\
+84 28.9199 42.99\
+01 28.7707C43.62\
+02 28.4598 44.25\
+23 28.1531 44.88\
+45 27.8464C45.31\
+2 27.6364 45.739\
+4 27.4261 46.166\
+6 27.2155C47.214\
+4 26.6998 48.263\
+7 26.1875 49.314\
+4 25.6778C49.222\
+6 26.0452 49.222\
+6 26.0452 49.128\
+9 26.42C49.7718 \
+26.3282 49.7718 \
+26.3282 50.4277 \
+26.2345C50.4277 \
+21.0299 50.4277 \
+15.8253 50.4277 \
+10.463C49.6361 1\
+0.463 49.4859 10\
+.5355 48.86 10.9\
+58ZM52.7405 41.4\
+421C52.5309 41.5\
+828 52.5309 41.5\
+828 52.317 41.72\
+64C52.0209 41.92\
+55 51.725 42.124\
+9 51.4293 42.324\
+5C50.9748 42.630\
+7 50.5192 42.935\
+2 50.0635 43.239\
+5C49.7767 43.432\
+7 49.4901 43.626\
+ 49.2035 43.8194\
+C49.0661 43.9108\
+ 48.9287 44.0022\
+ 48.7871 44.0965\
+C48.4614 44.3178\
+ 48.1446 44.5522\
+ 47.83 44.7892C4\
+7.83 44.9116 47.\
+83 45.0341 47.83\
+ 45.1602C48.1833\
+ 45.4185 48.1833\
+ 45.4185 48.6476\
+ 45.6734C48.8255\
+ 45.776 49.0033 \
+45.8785 49.1866 \
+45.9842C49.3819 \
+46.095 49.5771 4\
+6.2058 49.7783 4\
+6.3199C50.1912 4\
+6.5574 50.6041 4\
+6.7949 51.0169 4\
+7.0324C51.2288 4\
+7.1536 51.4406 4\
+7.2749 51.6588 4\
+7.3998C52.5927 4\
+7.9355 53.5222 4\
+8.4786 54.4517 4\
+9.0219C54.6327 4\
+9.1275 54.8136 4\
+9.233 55 49.3418\
+C56.5923 50.2705\
+ 58.1823 51.2028\
+ 59.7723 52.1354\
+C61.4718 53.1323\
+ 63.1729 54.1265\
+ 64.8753 55.1184\
+C65.9168 55.7256\
+ 66.9575 56.3341\
+ 67.9974 56.9439\
+C68.1796 57.0508\
+ 68.1796 57.0508\
+ 68.3655 57.1598\
+C69.0712 57.5737\
+ 69.7768 57.9878\
+ 70.4822 58.4021\
+C70.7927 58.5841\
+ 71.1038 58.7651\
+ 71.4149 58.946C\
+71.7336 59.1337 \
+72.0502 59.325 7\
+2.362 59.524C72.\
+982 59.922 72.98\
+2 59.922 73.6976\
+ 59.9483C74.4774\
+ 59.7374 75.1935\
+ 59.4072 75.9288\
+ 59.0763C76.0922\
+ 59.003 76.2556 \
+58.9297 76.424 5\
+8.8542C77.8692 5\
+8.1889 79.1851 5\
+7.3899 80.4863 5\
+6.4786C80.2632 5\
+5.8093 80.1273 5\
+5.7698 79.5281 5\
+5.4393C79.3673 5\
+5.3493 79.2066 5\
+5.2593 79.041 55\
+.1666C78.8673 55\
+.0714 78.6937 54\
+.9763 78.5148 54\
+.8783C78.1533 54\
+.676 77.7919 54.\
+4736 77.4306 54.\
+2709C77.2533 54.\
+1719 77.0761 54.\
+073 76.8935 53.9\
+71C76.2827 53.62\
+69 75.682 53.269\
+8 75.0822 52.906\
+8C73.8111 52.137\
+7 72.5338 51.379\
+2 71.2553 50.622\
+3C71.038 50.4936\
+ 70.8206 50.3649\
+ 70.6033 50.2362\
+C70.16 49.9737 6\
+9.7167 49.7112 6\
+9.2734 49.4488C6\
+8.0094 48.7004 6\
+6.7459 47.9515 6\
+5.4823 47.2024C6\
+4.5363 46.6416 6\
+3.5902 46.0811 6\
+2.6432 45.5219C6\
+0.2858 44.1297 5\
+7.9344 42.7293 5\
+5.6029 41.2941C5\
+5.4368 41.1923 5\
+5.2708 41.0904 5\
+5.0997 40.9854C5\
+4.9538 40.8955 5\
+4.8078 40.8056 5\
+4.6575 40.7129C5\
+3.93 40.2953 53.\
+3543 41.0291 52.\
+7405 41.4421ZM46\
+.9023 47.2013C46\
+.9023 51.5486 46\
+.9023 55.896 46.\
+9023 60.3751C48.\
+1881 61.018 48.1\
+881 61.018 49.5 \
+61.6739C50.2047 \
+62.0736 50.9034 \
+62.4768 51.5989 \
+62.8916C53.1462 \
+63.8044 54.7023 \
+64.6976 56.2724 \
+65.5704C57.9849 \
+66.5233 59.6814 \
+67.5005 61.3713 \
+68.4928C62.6933 \
+69.267 64.0256 7\
+0.0207 65.3642 7\
+0.7657C66.8972 7\
+1.619 68.4199 72\
+.4874 69.9333 73\
+.375C71.4618 74.\
+2712 72.9955 75.\
+1572 74.5372 76.\
+0306C74.722 76.1\
+356 74.9068 76.2\
+406 75.0972 76.3\
+488C75.2661 76.4\
+443 75.4351 76.5\
+397 75.6091 76.6\
+38C75.7586 76.72\
+25 75.9081 76.80\
+7 76.0621 76.894\
+1C76.3672 77.088\
+7 76.3672 77.088\
+7 76.5898 77.074\
+3C76.5898 71.869\
+7 76.5898 66.665\
+1 76.5898 61.302\
+8C75.6459 61.491\
+6 74.9582 61.810\
+6 74.1074 62.237\
+8C73.554 62.4407\
+ 73.422 62.4132 \
+72.8789 62.2306C\
+72.5869 62.0856 \
+72.2997 61.9308 \
+72.0164 61.7696C\
+71.8473 61.6738 \
+71.6782 61.578 7\
+1.504 61.4794C71\
+.3224 61.3752 71\
+.1409 61.271 70.\
+9538 61.1637C70.\
+6691 61.0015 70.\
+6691 61.0015 70.\
+3786 60.836C68.7\
+638 59.913 67.16\
+19 58.9687 65.56\
+28 58.0188C64.50\
+64 57.3916 63.44\
+56 56.7721 62.38\
+39 56.1539C60.71\
+62 55.1826 59.05\
+03 54.2081 57.38\
+57 53.2315C55.51\
+98 52.1369 53.65\
+24 51.0448 51.78\
+3 49.9561C50.944\
+5 49.4676 50.106\
+8 48.9776 49.271\
+6 48.4834C49.123\
+2 48.3956 48.974\
+7 48.3078 48.821\
+7 48.2174C48.547\
+2 48.0548 48.272\
+8 47.8919 47.998\
+7 47.7286C47.482\
+9 47.3636 47.482\
+9 47.3636 46.902\
+3 47.2013ZM44.75\
+69 63.2511C44.58\
+56 63.3971 44.58\
+56 63.3971 44.41\
+08 63.5461C44.12\
+77 63.7875 43.84\
+5 64.0295 43.562\
+5 64.2716C44.094\
+9 64.6881 44.638\
+1 65.0314 45.228\
+8 65.3595C45.503\
+3 65.5126 45.503\
+3 65.5126 45.783\
+4 65.6687C45.980\
+4 65.7779 46.177\
+4 65.887 46.3804\
+ 65.9995C46.8016\
+ 66.2341 47.2227\
+ 66.4687 47.6438\
+ 66.7033C47.8616\
+ 66.8244 48.0795\
+ 66.9455 48.2974\
+ 67.0667C51.369 \
+68.775 54.4296 7\
+0.5016 57.4785 7\
+2.2501C58.3287 7\
+2.7375 59.1791 7\
+3.2246 60.0297 7\
+3.7113C60.1398 7\
+3.7743 60.2498 7\
+3.8372 60.3632 7\
+3.9021C62.1049 7\
+4.8985 63.8542 7\
+5.8806 65.6072 7\
+6.8571C67.18 77.\
+7359 68.737 78.6\
+405 70.2879 79.5\
+575C71.8754 80.6\
+636 71.8754 80.6\
+636 73.6274 81.1\
+003C74.1773 80.9\
+05 74.6517 80.60\
+87 75.1518 80.30\
+98C75.3518 80.19\
+09 75.5517 80.07\
+2 75.7577 79.949\
+6C75.9099 79.858\
+ 76.062 79.7663 \
+76.2187 79.672C7\
+5.7803 79.1864 7\
+5.3217 78.8976 7\
+4.7495 78.5841C7\
+4.565 78.482 74.\
+3805 78.38 74.19\
+04 78.2749C73.89\
+13 78.1112 73.89\
+13 78.1112 73.58\
+63 77.9441C73.16\
+21 77.7093 72.73\
+81 77.4742 72.31\
+42 77.2388C72.20\
+62 77.1788 72.09\
+81 77.1189 71.98\
+68 77.057C70.914\
+2 76.46 69.8549 \
+75.8411 68.7968 \
+75.2188C67.2913 \
+74.3347 65.7765 \
+73.4702 64.2509 \
+72.6212C62.5385 \
+71.6682 60.842 7\
+0.6911 59.152 69\
+.6988C57.83 68.9\
+246 56.4978 68.1\
+709 55.1591 67.4\
+259C53.2303 66.3\
+521 51.3193 65.2\
+501 49.4151 64.1\
+331C49.2492 64.0\
+358 49.0833 63.9\
+385 48.9124 63.8\
+382C48.531 63.61\
+42 48.1498 63.38\
+96 47.7689 63.16\
+47C47.4651 62.98\
+61 47.4651 62.98\
+61 47.1552 62.80\
+39C46.9695 62.69\
+43 46.7837 62.58\
+48 46.5923 62.47\
+19C45.7584 62.00\
+63 45.3955 62.70\
+33 44.7569 63.25\
+11ZM78.8164 75.5\
+899C78.8164 76.3\
+859 78.8164 77.1\
+819 78.8164 78.0\
+02C79.8727 77.70\
+42 79.8727 77.70\
+42 80.4863 77.25\
+99C80.2008 76.40\
+33 79.5365 76.07\
+ 78.8164 75.5899\
+Z\x22 fill=\x22black\x22/\
+>\x0d\x0a<path d=\x22M48.\
+6856 26.5332C48.\
+7642 27.6814 48.\
+821 28.828 48.85\
+88 29.9782C48.87\
+46 30.3683 48.89\
+61 30.7581 48.92\
+35 31.1475C49.13\
+93 34.2873 49.13\
+93 34.2873 48.39\
+16 35.2687C47.64\
+81 35.9566 46.80\
+25 36.4432 45.90\
+75 36.9083C45.44\
+19 37.1571 45.03\
+36 37.4549 44.61\
+95 37.7813C44.50\
+16 37.8704 44.38\
+37 37.9594 44.26\
+22 38.0512C44.15\
+29 38.1346 44.04\
+36 38.218 43.930\
+9 38.3038C43.475\
+8 38.6492 43.019\
+9 38.9936 42.562\
+5 39.3359C42.443\
+5 39.4252 42.324\
+4 39.5144 42.201\
+8 39.6064C41.307\
+4 40.2637 41.307\
+4 40.2637 40.892\
+6 40.2637C40.839\
+1 39.1946 40.786\
+2 38.1256 40.734\
+1 37.0565C40.716\
+3 36.6937 40.698\
+3 36.3309 40.680\
+1 35.9682C40.486\
+4 32.1027 40.486\
+4 32.1027 40.521\
+5 30.2441C43.790\
+1 28.4203 43.790\
+1 28.4203 45.531\
+3 28.0176C45.531\
+3 27.8951 45.531\
+3 27.7727 45.531\
+3 27.6465C45.917\
+ 27.4592 46.3037\
+ 27.2741 46.6909\
+ 27.0898C46.9062\
+ 26.9865 47.1215\
+ 26.8832 47.3433\
+ 26.7767C47.9434\
+ 26.5332 47.9434\
+ 26.5332 48.6856\
+ 26.5332Z\x22 fill=\
+\x22#AFAFAF\x22/>\x0d\x0a<pa\
+th d=\x22M49.0531 3\
+5.4856C49.4276 3\
+5.6253 49.743 35\
+.786 50.0829 35.\
+9957C50.2028 36.\
+0688 50.3226 36.\
+1419 50.4461 36.\
+2172C50.5692 36.\
+2936 50.6924 36.\
+37 50.8193 36.44\
+87C51.8634 37.09\
+86 51.8634 37.09\
+86 52.9531 37.66\
+64C52.9531 37.85\
+01 52.9531 38.03\
+38 52.9531 38.22\
+3C52.7391 38.325\
+ 52.5251 38.427 \
+52.3046 38.5321C\
+51.4792 38.9453 \
+50.7286 39.4345 \
+49.9699 39.9582C\
+49.8337 40.051 4\
+9.6975 40.1438 4\
+9.5573 40.2394C4\
+9.1269 40.5328 4\
+8.6974 40.8274 4\
+8.2681 41.1222C4\
+7.8359 41.4181 4\
+7.4036 41.7138 4\
+6.9709 42.009C46\
+.7029 42.1919 46\
+.4353 42.3752 46\
+.168 42.5591C46.\
+0466 42.6421 45.\
+9251 42.7252 45.\
+8 42.8107C45.694\
+ 42.8834 45.5881\
+ 42.9562 45.4789\
+ 43.0311C45.1317\
+ 43.2508 44.7973\
+ 43.445 44.418 4\
+3.6039C44.0101 4\
+3.4475 44.0101 4\
+3.4475 43.5743 4\
+3.1661C43.4176 4\
+3.0661 43.261 42\
+.9662 43.0996 42\
+.8631C42.9376 42\
+.7555 42.7757 42\
+.6479 42.6089 42\
+.537C42.4441 42.\
+4322 42.2793 42.\
+3275 42.1095 42.\
+2195C41.2236 41.\
+6453 41.2236 41.\
+6453 40.8926 41.\
+3773C40.8926 41.\
+2549 40.8926 41.\
+1324 40.8926 41.\
+0062C41.3421 40.\
+662 41.7936 40.3\
+391 42.261 40.02\
+05C42.5501 39.82\
+02 42.839 39.619\
+6 43.1278 39.418\
+9C43.2786 39.314\
+5 43.4294 39.21 \
+43.5848 39.1024C\
+44.3405 38.5746 \
+45.0866 38.0336 \
+45.8328 37.4924C\
+46.6266 36.9173 \
+46.6266 36.9173 \
+47.0202 36.6351C\
+47.2654 36.4561 \
+47.5074 36.2726 \
+47.746 36.0848C4\
+8.5963 35.4287 4\
+8.5963 35.4287 4\
+9.0531 35.4856Z\x22\
+ fill=\x22#ACACAC\x22/\
+>\x0d\x0a<path d=\x22M40.\
+5215 64.0137C41.\
+1549 64.172 41.5\
+08 64.3169 42.05\
+22 64.6399C42.82\
+14 65.0799 43.58\
+12 65.3945 44.41\
+8 65.6836C44.418\
+ 65.8061 44.418 \
+65.9285 44.418 6\
+6.0547C44.5672 6\
+6.1006 44.7165 6\
+6.1465 44.8702 6\
+6.1938C45.7973 6\
+6.5191 46.6935 6\
+6.9141 47.5723 6\
+7.3535C47.5723 6\
+7.476 47.5723 67\
+.5984 47.5723 67\
+.7246C47.9396 67\
+.8471 48.307 67.\
+9695 48.6855 68.\
+0957C48.6855 68.\
+2794 48.6855 68.\
+4631 48.6855 68.\
+6523C48.3638 68.\
+9216 48.3638 68.\
+9216 47.91 69.20\
+32C47.7428 69.30\
+82 47.5755 69.41\
+33 47.4032 69.52\
+16C47.2217 69.63\
+27 47.0402 69.74\
+39 46.8533 69.85\
+84C46.67 69.9729\
+ 46.4868 70.0874\
+ 46.2979 70.2054\
+C45.4011 70.7642\
+ 44.4991 71.3143\
+ 43.5953 71.8617\
+C43.4421 71.9546\
+ 43.2889 72.0476\
+ 43.131 72.1433C\
+42.8416 72.3181 \
+42.5515 72.4919 \
+42.2607 72.6644C\
+41.5555 73.0478 \
+41.5555 73.0478 \
+41.0781 73.6621C\
+40.8944 73.6621 \
+40.7107 73.6621 \
+40.5215 73.6621C\
+40.5215 70.4781 \
+40.5215 67.2941 \
+40.5215 64.0137Z\
+\x22 fill=\x22#ADADAD\x22\
+/>\x0d\x0a<path d=\x22M40\
+.336 30.2441C40.\
+3972 30.2441 40.\
+4585 30.2441 40.\
+5216 30.2441C40.\
+8063 33.5909 40.\
+9475 36.9049 40.\
+8927 40.2637C41.\
+3453 39.9472 41.\
+7976 39.6302 42.\
+2495 39.3127C42.\
+4587 39.1659 42.\
+4587 39.1659 42.\
+6721 39.0161C43.\
+4634 38.458 44.2\
+468 37.8914 45.0\
+218 37.3109C45.1\
+804 37.1923 45.3\
+39 37.0737 45.50\
+25 36.9515C45.81\
+24 36.7189 46.12\
+14 36.4852 46.42\
+96 36.2504C46.57\
+08 36.1445 46.71\
+21 36.0386 46.85\
+77 35.9294C46.98\
+24 35.8348 47.10\
+71 35.7401 47.23\
+56 35.6426C47.57\
+23 35.4395 47.57\
+23 35.4395 48.12\
+9 35.4395C47.457\
+ 36.4906 46.7741\
+ 37.12 45.7401 3\
+7.8052C45.4604 3\
+7.9963 45.1808 3\
+8.1876 44.9015 3\
+8.3792C44.6896 3\
+8.5234 44.6896 3\
+8.5234 44.4734 3\
+8.6706C43.7914 3\
+9.1412 43.1246 3\
+9.6322 42.4582 4\
+0.1245C42.2776 4\
+0.2575 42.2776 4\
+0.2575 42.0934 4\
+0.3932C41.8166 4\
+0.5972 41.5402 4\
+0.8015 41.2637 4\
+1.0059C41.2025 4\
+0.8834 41.1413 4\
+0.7609 41.0782 4\
+0.6348C40.9557 4\
+0.6348 40.8333 4\
+0.6348 40.7071 4\
+0.6348C40.6535 3\
+9.5427 40.6007 3\
+8.4506 40.5486 3\
+7.3585C40.5308 3\
+6.988 40.5128 36\
+.6175 40.4946 36\
+.247C40.3963 34.\
+2449 40.3018 32.\
+2493 40.336 30.2\
+441Z\x22 fill=\x22#3B3\
+B3B\x22/>\x0d\x0a<path d=\
+\x22M47.7578 35.253\
+9C47.8803 35.315\
+1 48.0027 35.376\
+4 48.1289 35.439\
+5C47.5803 36.270\
+2 47.1903 36.849\
+6 46.2734 37.294\
+9C46.2734 37.172\
+5 46.2734 37.05 \
+46.2734 36.9238C\
+45.9673 37.0463 \
+45.6611 37.1688 \
+45.3457 37.2949C\
+46.0823 36.5123 \
+46.8873 35.8825 \
+47.7578 35.2539Z\
+\x22 fill=\x22#252525\x22\
+/>\x0d\x0a<path d=\x22M42\
+.1914 39.3359C42\
+.3139 39.3972 42\
+.4363 39.4584 42\
+.5625 39.5215C42\
+.1782 40.27 41.8\
+266 40.6215 41.0\
+781 41.0059C41.0\
+781 40.8834 41.0\
+781 40.7609 41.0\
+781 40.6348C40.9\
+557 40.5735 40.8\
+332 40.5123 40.7\
+07 40.4492C40.89\
+07 40.4492 41.07\
+44 40.4492 41.26\
+37 40.4492C41.32\
+49 40.2655 41.38\
+61 40.0818 41.44\
+92 39.8926C41.83\
+19 39.5795 41.83\
+19 39.5795 42.19\
+14 39.3359Z\x22 fil\
+l=\x22#262626\x22/>\x0d\x0a<\
+path d=\x22M42.748 \
+38.9648C42.993 3\
+8.9648 43.2379 3\
+8.9648 43.4902 3\
+8.9648C43.2792 3\
+9.5979 43.1111 3\
+9.729 42.5625 40\
+.0781C42.44 40.0\
+781 42.3176 40.0\
+781 42.1914 40.0\
+781C42.5393 39.1\
+736 42.5393 39.1\
+736 42.748 38.96\
+48Z\x22 fill=\x22#1919\
+19\x22/>\x0d\x0a</svg>\x0d\x0a\
+\x00\x003\xd7\
+<\
+svg width=\x2295\x22 h\
+eight=\x2295\x22 viewB\
+ox=\x220 0 95 95\x22 f\
+ill=\x22none\x22 xmlns\
+=\x22http://www.w3.\
+org/2000/svg\x22>\x0d\x0a\
+<path d=\x22M45.228\
+6 78.1756C45.137\
+7 79.4911 44.846\
+4 80.7899 44.922\
+5 82.1259C44.952\
+2 82.6361 45.089\
+5 82.8235 45.620\
+1 82.8124C47.071\
+1 82.7809 48.525\
+8 82.8328 49.976\
+8 82.7846C50.616\
+9 82.7642 50.997\
+3 82.9182 51.409\
+2 83.4804C52.611\
+6 85.1206 53.945\
+6 86.6644 55.212\
+9 88.2582C55.424\
+4 88.5235 55.914\
+3 88.8575 55.526\
+5 89.1767C55.057\
+1 89.5645 54.864\
+1 88.9429 54.641\
+4 88.6738C53.385\
+3 87.1505 52.153\
+3 85.6068 50.911\
+9 84.0704C50.704\
+1 83.8125 50.540\
+8 83.5138 50.121\
+5 83.5138C46.668\
+5 83.5249 43.215\
+5 83.5138 39.528\
+6 83.5138C39.910\
+9 83.9183 40.146\
+5 84.1762 40.393\
+3 84.423C41.723 \
+85.7552 43.0547 \
+87.0862 44.3881 \
+88.4159C44.5978 \
+88.6256 44.9448 \
+88.8742 44.6275 \
+89.1804C44.3102 \
+89.4865 44.0708 \
+89.121 43.8704 8\
+8.915C42.2488 87\
+.3064 40.6178 85\
+.7051 39.0258 84\
+.0686C38.8524 83\
+.8785 38.6384 83\
+.7298 38.3998 83\
+.6334C38.1612 83\
+.5371 37.904 83.\
+4955 37.6472 83.\
+5119C35.5153 83.\
+5416 33.3796 83.\
+5212 31.2514 83.\
+5323C30.9898 83.\
+5323 30.7059 83.\
+4414 30.3571 83.\
+6956L34.7415 88.\
+0634C34.9382 88.\
+2489 35.1386 88.\
+453 35.3204 88.6\
+627C35.3905 88.7\
+249 35.4344 88.8\
+114 35.4433 88.9\
+046C35.4523 88.9\
+979 35.4256 89.0\
+911 35.3687 89.1\
+655C35.1831 89.3\
+752 34.9753 89.3\
+047 34.812 89.13\
+77C32.9281 87.26\
+62 31.0485 85.39\
+09 29.1733 83.51\
+19C29.0397 83.38\
+02 28.9358 83.21\
+88 29.0471 83.01\
+84C29.1992 82.74\
+38 29.472 82.805\
+ 29.7095 82.8031\
+C31.3479 82.8031\
+ 32.9863 82.766 \
+34.6228 82.8031C\
+35.365 82.8235 3\
+5.6785 82.5953 3\
+5.647 81.8179C35\
+.6117 80.9273 35\
+.7045 80.0311 35\
+.7045 79.1386C35\
+.7045 64.2107 35\
+.7045 49.2835 35\
+.7045 34.3568C35\
+.7045 32.9819 35\
+.5858 33.2046 36\
+.8994 33.1879C37\
+.8457 33.1768 38\
+.7939 33.1879 39\
+.9016 33.1879C38\
+.2484 30.4307 36\
+.6768 27.807 35.\
+0143 25.0238C35.\
+8474 25.0238 36.\
+5413 24.9793 37.\
+226 25.0368C37.9\
+107 25.0943 38.0\
+535 24.8513 38.0\
+461 24.2074C38.0\
+109 20.3536 38.0\
+461 16.498 37.98\
+67 12.6442C37.97\
+56 11.8556 38.20\
+94 11.67 38.9646\
+ 11.6942C40.7662\
+ 11.7517 40.7662\
+ 11.7127 40.7662\
+ 13.4884C40.7662\
+ 17.036 40.7866 \
+20.5818 40.7495 \
+24.1295C40.7495 \
+24.8439 40.9499 \
+25.022 41.642 24\
+.9663C42.5512 24\
+.8921 43.4697 24\
+.9478 44.4883 24\
+.9478C43.0522 27\
+.6642 41.6327 30\
+.3435 40.1242 33\
+.1935H44.839C45.\
+0468 33.5052 44.\
+941 33.854 44.94\
+29 34.1824C44.95\
+03 38.7593 44.95\
+03 43.3416 44.94\
+29 47.9296C44.91\
+09 48.5736 45.01\
+45 49.2171 45.24\
+72 49.8185C45.33\
+81 50.0393 45.47\
+54 50.2489 45.43\
+27 50.5031C45.34\
+09 51.2982 45.3 \
+52.0983 45.3103 \
+52.8985C45.3103 \
+59.7019 45.3103 \
+66.5053 45.3103 \
+73.3087C45.3412 \
+74.512 45.2885 7\
+5.716 45.1526 76\
+.912C45.084 77.3\
+336 45.1099 77.7\
+652 45.2286 78.1\
+756Z\x22 fill=\x22blac\
+k\x22/>\x0d\x0a<path d=\x22M\
+45.2287 78.1756C\
+45.1359 78.2183 \
+44.9968 78.4094 \
+44.9597 78.2721C\
+44.9165 77.9991 \
+44.9078 77.7217 \
+44.9337 77.4464C\
+44.9337 69.0177 \
+44.9337 60.5883 \
+44.9337 52.1583C\
+44.9337 51.5775 \
+44.9894 50.9967 \
+45.019 50.4141C4\
+4.956 50.2675 45\
+.0302 50.0783 44\
+.8836 49.9558C44\
+.8836 44.7754 44\
+.8836 39.5937 44\
+.8836 34.4107C44\
+.8836 34.0118 44\
+.8576 33.611 44.\
+8428 33.2102C45.\
+2139 33.5646 45.\
+0599 34.0229 45.\
+0617 34.4348C45.\
+0729 39.2405 45.\
+0729 44.0517 45.\
+0617 48.8685C45.\
+405 48.7999 45.3\
+419 48.5104 45.4\
+458 48.3304C45.5\
+979 48.0466 45.6\
+907 47.7347 45.7\
+186 47.4138C45.8\
+299 47.1021 45.9\
+449 46.7923 46.0\
+488 46.4861C46.0\
+608 46.2245 46.1\
+646 45.9755 46.3\
+42 45.7829C46.13\
+23 45.5138 46.31\
+97 45.2596 46.37\
+17 44.9999C46.63\
+14 44.7475 46.57\
+02 44.3764 46.71\
+49 44.0833C46.80\
+59 43.7975 46.75\
+39 43.4468 47.08\
+6 43.2687C46.885\
+6 42.7622 47.271\
+6 42.3762 47.358\
+8 41.9272C47.453\
+4 41.5153 47.544\
+3 41.0997 47.828\
+2 40.7694C47.683\
+5 39.6691 48.366\
+3 38.784 48.6094\
+ 37.784C48.8524 \
+37.5483 48.8302 \
+37.1549 49.1178 \
+36.9471C49.1345 \
+36.7282 49.153 3\
+6.5074 49.1697 3\
+6.2866C49.4194 3\
+5.8841 49.6212 3\
+5.4538 49.7709 3\
+5.0045C49.9564 3\
+4.5462 50.1958 3\
+4.1138 50.4166 3\
+3.6741C50.5929 3\
+3.509 50.7265 33\
+.2789 51.0159 33\
+.2882C51.9437 33\
+.3976 52.825 33.\
+008 53.7472 33.1\
+026C55.4356 33.2\
+176 57.1278 33.1\
+954 58.8182 33.1\
+991C59.0594 33.1\
+991 59.3748 33.1\
+434 59.4843 33.3\
+995C59.5937 33.6\
+555 59.3247 33.8\
+374 59.1577 34.0\
+044C58.7439 34.4\
+144 58.358 34.85\
+05 57.9294 35.24\
+57L57.8162 35.62\
+79C57.5713 35.76\
+86 57.3578 35.95\
+81 57.1891 36.18\
+45C57.1223 36.55\
+56 56.6881 36.69\
+85 56.6139 37.06\
+96C56.4125 37.25\
+71 56.2722 37.50\
+08 56.2112 37.76\
+91L55.8401 38.18\
+47C55.5451 38.49\
+65 55.4208 38.89\
+35 55.2724 39.27\
+95L55.0775 39.38\
+34C54.7213 40.22\
+95 54.122 40.966\
+1 53.9643 41.895\
+7L53.5523 42.867\
+9C53.1818 43.568\
+6 52.8965 44.311\
+1 52.7025 45.079\
+7C52.6079 45.402\
+5 52.5318 45.734\
+6 52.2906 45.990\
+7C52.5374 46.985\
+2 52.0698 47.846\
+2 51.7674 48.733\
+1C51.5317 49.067\
+1 51.7247 49.555\
+ 51.3666 49.8464\
+C51.3666 49.9094\
+ 51.3666 49.9744\
+ 51.3666 50.0319\
+C51.3766 50.4145\
+ 51.3137 50.7955\
+ 51.181 51.1545V\
+51.1285C50.9955 \
+51.4773 51.1569 \
+51.9505 50.81 52\
+.2418C50.9102 52\
+.4273 51.0957 52\
+.5906 50.8563 52\
+.7984C50.591 53.\
+1213 50.8044 53.\
+6241 50.4389 53.\
+9117V54.1325C50.\
+3776 54.5129 50.\
+3925 54.9062 50.\
+2533 55.2717L50.\
+2199 55.8024C49.\
+9546 56.1308 50.\
+0344 56.565 49.8\
+6 56.9268L49.848\
+8 57.4723C49.583\
+5 57.8007 49.663\
+3 58.2349 49.488\
+9 58.5967L49.477\
+7 59.1423C49.193\
+8 59.582 49.205 \
+60.096 49.1066 6\
+0.5839V60.8122C4\
+8.6929 61.2111 4\
+8.9935 61.8754 4\
+8.563 62.2669C48\
+.897 62.6528 48.\
+55 63.0276 48.54\
+63 63.408C48.212\
+3 63.716 48.3607\
+ 64.1743 48.19 6\
+4.5324C48.19 64.\
+7179 48.1808 64.\
+8923 48.1771 65.\
+0723C47.9117 65.\
+4007 47.9915 65.\
+8349 47.8189 66.\
+1856L47.8078 66.\
+7274C47.5443 67.\
+015 47.5295 67.3\
+731 47.5258 67.7\
+349C47.2846 68.0\
+448 47.4441 68.4\
+549 47.2623 68.7\
+814L47.2493 69.3\
+214C46.9098 69.7\
+463 47.1064 70.3\
+697 46.7094 70.7\
+742C47.0434 71.1\
+583 46.6945 71.5\
+331 46.6927 71.9\
+116C46.3587 72.2\
+215 46.5071 72.6\
+816 46.3346 73.0\
+434L46.3234 73.5\
+778C46.0618 73.8\
+654 46.0451 74.2\
+235 46.0414 74.5\
+835C45.8002 74.8\
+933 45.9598 75.3\
+034 45.7779 75.6\
+281L45.7668 76.1\
+699C45.5816 76.4\
+711 45.4846 76.8\
+182 45.4866 77.1\
+718C45.2491 77.4\
+761 45.4031 77.8\
+788 45.225 78.19\
+79L45.2287 78.17\
+56Z\x22 fill=\x22#B2B2\
+B2\x22/>\x0d\x0a<path d=\x22\
+M51.7229 32.8576\
+L44.8242 32.377L\
+50.7877 23.8641C\
+51.3295 24.6731 \
+51.5763 25.5174 \
+51.9232 26.3078C\
+52.0902 26.6789 \
+52.2739 26.7958 \
+52.697 26.6678C5\
+5.1796 25.9256 5\
+7.4581 24.8123 5\
+9.436 23.1182C63\
+.0857 19.9918 62\
+.9447 16.1918 59\
+.0297 13.3919C56\
+.4005 11.5141 53\
+.3501 10.7441 50\
+.2181 10.258C48.\
+999 10.0724 47.7\
+633 9.99451 46.5\
+35 9.88689C45.62\
+76 9.80525 45.05\
+06 9.24861 45.05\
+06 8.43592C45.04\
+54 8.24083 45.08\
+12 8.04682 45.15\
+55 7.86636C45.22\
+98 7.68591 45.34\
+1 7.52299 45.482\
+ 7.38809C45.6231\
+ 7.25318 45.7907\
+ 7.14927 45.9743\
+ 7.08304C46.1579\
+ 7.0168 46.3533 \
+6.98971 46.5479 \
+7.0035C51.2497 7\
+.23914 55.816 8.\
+04256 59.924 10.\
+5159C61.902 11.7\
+053 63.4494 13.2\
+991 64.3308 15.4\
+811C65.4849 18.3\
+478 65.008 20.99\
+74 63.1266 23.38\
+54C60.8592 26.26\
+88 57.7457 27.96\
+29 54.4059 29.24\
+5C53.6433 29.536\
+3 53.4392 29.755\
+3 53.8808 30.506\
+7C54.3465 31.295\
+3 54.6638 32.176\
+6 55.046 33.0097\
+C54.8883 33.2046\
+ 54.6638 33.1823\
+ 54.4485 33.1953\
+C53.5275 33.2364\
+ 52.606 33.1222 \
+51.7229 32.8576Z\
+\x22 fill=\x22black\x22/>\
+\x0d\x0a<path d=\x22M54.4\
+597 33.0452L55.0\
+386 33.0173H59.9\
+742C60.0076 33.0\
+99 60.0391 33.18\
+06 60.0707 33.26\
+04C59.3285 33.90\
+05 58.8331 34.77\
+63 57.9257 35.25\
+13C58.2467 34.57\
+96 58.8999 34.17\
+14 59.4751 33.35\
+69H53.7435C53.72\
+14 33.3254 53.71\
+11 33.287 53.714\
+5 33.2487C53.717\
+9 33.2103 53.734\
+7 33.1744 53.762\
+1 33.1472C53.986\
+6 33.0544 54.242\
+6 33.1769 54.459\
+7 33.0452Z\x22 fill\
+=\x22#4C4C4C\x22/>\x0d\x0a<p\
+ath d=\x22M52.2795 \
+46.0019C52.6803 \
+44.9536 52.6952 \
+43.7494 53.5413 \
+42.8792C53.2462 \
+43.8069 52.9475 \
+44.7346 52.6581 \
+45.6716C52.6437 \
+45.7623 52.5979 \
+45.8451 52.5288 \
+45.9055C52.4596 \
+45.9659 52.3713 \
+46 52.2795 46.00\
+19Z\x22 fill=\x22#3A3A\
+3A\x22/>\x0d\x0a<path d=\x22\
+M54.4597 33.0451\
+L53.7472 33.2306\
+C53.2481 33.3215\
+ 52.749 33.4032 \
+52.2628 33.1787L\
+51.7229 32.8577C\
+52.6395 32.75 53\
+.5394 33.0525 54\
+.4597 33.0451Z\x22 \
+fill=\x22#B9B9B9\x22/>\
+\x0d\x0a<path d=\x22M53.9\
+495 41.9068C53.9\
+495 40.903 54.53\
+95 40.1627 55.06\
+27 39.3945C54.93\
+47 40.339 54.333\
+5 41.0756 53.949\
+5 41.9068Z\x22 fill\
+=\x22#3B3B3B\x22/>\x0d\x0a<p\
+ath d=\x22M52.2609 \
+33.1658L53.7452 \
+33.2177C53.7452 \
+33.2641 53.7452 \
+33.3086 53.7452 \
+33.3532L50.795 3\
+3.4255C50.7449 3\
+3.3791 50.7301 3\
+3.3346 50.7487 3\
+3.2938C50.7672 3\
+3.253 50.7876 33\
+.2307 50.8043 33\
+.2307L52.2609 33\
+.1658Z\x22 fill=\x22#1\
+41414\x22/>\x0d\x0a<path \
+d=\x22M49.7263 35.0\
+583C49.7412 35.5\
+612 49.6354 36.0\
+102 49.1697 36.2\
+941C49.2717 35.8\
+414 49.3552 35.3\
+775 49.7486 35.0\
+639L49.7263 35.0\
+583Z\x22 fill=\x22#434\
+343\x22/>\x0d\x0a<path d=\
+\x22M46.7131 70.774\
+1C46.9284 70.302\
+8 46.7335 69.679\
+4 47.2531 69.321\
+3C47.0842 69.807\
+4 47.2698 70.429\
+ 46.7131 70.7741\
+Z\x22 fill=\x22#181818\
+\x22/>\x0d\x0a<path d=\x22M4\
+9.1104 60.5801C4\
+8.9824 60.0346 4\
+9.038 59.5374 49\
+.4815 59.1384C49\
+.4278 59.6343 49\
+.3028 60.1199 49\
+.1104 60.5801Z\x22 \
+fill=\x22#181818\x22/>\
+\x0d\x0a<path d=\x22M49.7\
+263 35.0582H49.7\
+449C49.7152 34.5\
+424 50.0399 34.1\
+676 50.2681 33.7\
+594C50.2855 33.7\
+409 50.3064 33.7\
+261 50.3297 33.7\
+16C50.353 33.705\
+9 50.3782 33.700\
+7 50.4036 33.700\
+7C50.429 33.7007\
+ 50.4541 33.7059\
+ 50.4774 33.716C\
+50.5007 33.7261 \
+50.5217 33.7409 \
+50.539 33.7594C5\
+0.2718 34.2029 5\
+0.1512 34.7261 4\
+9.7263 35.0582Z\x22\
+ fill=\x22#3A3A3A\x22/\
+>\x0d\x0a<path d=\x22M47.\
+8265 40.7732L47.\
+4034 41.8995H47.\
+3125C47.3626 41.\
+4727 47.2698 40.\
+9754 47.8265 40.\
+7732Z\x22 fill=\x22#3A\
+3A3A\x22/>\x0d\x0a<path d\
+=\x22M48.5686 62.25\
+77C48.7913 61.78\
+82 48.602 61.166\
+7 49.1123 60.803\
+C48.7671 61.2297\
+ 49.1958 61.9404\
+ 48.5686 62.2577\
+Z\x22 fill=\x22#171717\
+\x22/>\x0d\x0a<path d=\x22M4\
+6.1287 46.5252C4\
+6.0452 46.848 46\
+.0526 47.2043 45\
+.7817 47.4529L45\
+.7223 47.605L45.\
+6462 47.4603C45.\
+6547 47.1245 45.\
+7618 46.7986 45.\
+9542 46.5233C46.\
+0099 46.3897 46.\
+0693 46.3897 46.\
+1287 46.5252Z\x22 f\
+ill=\x22#3B3B3B\x22/>\x0d\
+\x0a<path d=\x22M56.52\
+29 36.9917C56.66\
+77 36.6267 56.95\
+03 36.3335 57.30\
+97 36.1753L56.53\
+96 37.2886C56.51\
+9 37.2702 56.502\
+2 37.248 56.4901\
+ 37.2231C56.4781\
+ 37.1982 56.4711\
+ 37.1712 56.4696\
+ 37.1436C56.468 \
+37.116 56.4719 3\
+7.0884 56.4811 3\
+7.0623C56.4903 3\
+7.0363 56.5045 3\
+7.0123 56.5229 3\
+6.9917Z\x22 fill=\x22#\
+4F4F4F\x22/>\x0d\x0a<path\
+ d=\x22M49.1141 36.\
+9546C48.9879 37.\
+2607 49.0343 37.\
+6689 48.6057 37.\
+7914C48.6818 37.\
+4556 48.6094 37.\
+0307 49.1141 36.\
+9546Z\x22 fill=\x22#52\
+5252\x22/>\x0d\x0a<path d\
+=\x22M47.3106 41.90\
+31H47.4015C47.29\
+57 42.3614 47.18\
+81 42.8178 47.08\
+23 43.2761C46.69\
+08 42.7417 47.14\
+54 42.3465 47.31\
+06 41.9031Z\x22 fil\
+l=\x22#363636\x22/>\x0d\x0a<\
+path d=\x22M49.4963\
+ 58.5968C49.4963\
+ 58.1812 49.4202\
+ 57.7452 49.8563\
+ 57.4724C49.7728\
+ 57.8602 49.7839\
+ 58.2777 49.4963\
+ 58.5968Z\x22 fill=\
+\x22#191919\x22/>\x0d\x0a<pa\
+th d=\x22M55.2613 3\
+9.2888C55.1945 3\
+8.7916 55.4227 3\
+8.4464 55.829 38\
+.1941C55.7436 38\
+.6041 55.5472 38\
+.9828 55.2613 39\
+.2888Z\x22 fill=\x22#3\
+E3E3E\x22/>\x0d\x0a<path \
+d=\x22M47.8264 66.1\
+931C47.8264 65.7\
+793 47.7411 65.3\
+415 48.1845 65.0\
+798C48.0992 65.4\
+509 48.1159 65.8\
+684 47.8264 66.1\
+931Z\x22 fill=\x22#181\
+818\x22/>\x0d\x0a<path d=\
+\x22M51.1663 51.163\
+8C51.094 50.7667\
+ 51.2368 50.4068\
+ 51.3519 50.0413\
+C51.5931 50.4736\
+ 51.4094 50.828 \
+51.1663 51.1638Z\
+\x22 fill=\x22#1B1B1B\x22\
+/>\x0d\x0a<path d=\x22M49\
+.8674 56.9306C49\
+.8674 56.5149 49\
+.7913 56.0808 50\
+.2274 55.8062C50\
+.1439 56.1939 50\
+.155 56.6114 49.\
+8674 56.9306Z\x22 f\
+ill=\x22#191919\x22/>\x0d\
+\x0a<path d=\x22M50.42\
+41 53.9265C50.56\
+51 53.5554 50.51\
+13 53.1138 50.84\
+16 52.8132C50.70\
+98 53.1899 50.95\
+1 53.702 50.4241\
+ 53.9265Z\x22 fill=\
+\x22#181818\x22/>\x0d\x0a<pa\
+th d=\x22M50.2385 5\
+5.2625C50.1736 5\
+4.8618 50.3035 5\
+4.4925 50.4241 5\
+4.1233C50.491 54\
+.3135 50.5091 54\
+.5175 50.4767 54\
+.7166C50.4443 54\
+.9157 50.3624 55\
+.1034 50.2385 55\
+.2625Z\x22 fill=\x22#1\
+91919\x22/>\x0d\x0a<path \
+d=\x22M50.7952 52.2\
+603C50.9547 51.9\
+003 50.8935 51.4\
+643 51.1663 51.1\
+47C51.1106 51.53\
+48 51.3258 52.02\
+65 50.7952 52.26\
+03Z\x22 fill=\x22#1818\
+18\x22/>\x0d\x0a<path d=\x22\
+M45.6461 47.4622\
+C45.6911 47.4687\
+ 45.7367 47.4687\
+ 45.7816 47.4622\
+C45.8191 47.6246\
+ 45.8076 47.7946\
+ 45.7485 47.9505\
+C45.6893 48.1064\
+ 45.5853 48.2412\
+ 45.4495 48.3379\
+L45.6461 47.4622\
+Z\x22 fill=\x22#202020\
+\x22/>\x0d\x0a<path d=\x22M4\
+8.1976 64.5231C4\
+8.1976 64.1093 4\
+8.1049 63.6696 4\
+8.5539 63.3987C4\
+8.3832 63.7568 4\
+8.4852 64.204 48\
+.1976 64.5231Z\x22 \
+fill=\x22#171717\x22/>\
+\x0d\x0a<path d=\x22M47.2\
+698 68.7906C47.2\
+161 68.3963 47.2\
+861 67.995 47.47\
+02 67.6421C47.51\
+66 67.5122 47.56\
+48 67.5122 47.61\
+3 67.6421C47.473\
+9 68.0095 47.542\
+5 68.4474 47.269\
+8 68.7906Z\x22 fill\
+=\x22#171717\x22/>\x0d\x0a<p\
+ath d=\x22M46.342 7\
+3.0435C46.3308 7\
+2.626 46.2399 72\
+.1825 46.7001 71\
+.9116C46.5275 72\
+.2734 46.6314 72\
+.7225 46.342 73.\
+0435Z\x22 fill=\x22#20\
+2020\x22/>\x0d\x0a<path d\
+=\x22M51.3518 49.86\
+5C51.4965 49.493\
+9 51.4576 49.065\
+3 51.7526 48.751\
+7C51.6524 49.122\
+8 51.8806 49.627\
+5 51.3518 49.865\
+Z\x22 fill=\x22#191919\
+\x22/>\x0d\x0a<path d=\x22M4\
+5.7853 75.6282C4\
+5.7337 75.2345 4\
+5.8036 74.8344 4\
+5.9857 74.4815C4\
+6.034 74.3535 46\
+.0804 74.3535 46\
+.1286 74.4815C45\
+.9876 74.8582 46\
+.0618 75.2961 45\
+.7853 75.6282Z\x22 \
+fill=\x22#171717\x22/>\
+\x0d\x0a<path d=\x22M45.4\
+143 77.0717C45.4\
+143 76.7266 45.3\
+921 76.3722 45.7\
+631 76.1699L45.5\
+628 77.0717C45.5\
+201 77.1645 45.4\
+7 77.1645 45.414\
+3 77.0717Z\x22 fill\
+=\x22#171717\x22/>\x0d\x0a<p\
+ath d=\x22M45.4142 \
+77.0715H45.5626C\
+45.4532 77.4426 \
+45.5181 77.8768 \
+45.2212 78.1978C\
+45.1594 77.8114 \
+45.2273 77.4153 \
+45.4142 77.0715Z\
+\x22 fill=\x22#202020\x22\
+/>\x0d\x0a<path d=\x22M46\
+.7131 44.0906C46\
+.754 44.4617 46.\
+6964 44.7808 46.\
+3699 45.0072C46.\
+4033 44.6695 46.\
+4237 44.3318 46.\
+7131 44.0906Z\x22 f\
+ill=\x22#1F1F1F\x22/>\x0d\
+\x0a<path d=\x22M47.60\
+74 67.6328H47.46\
+46C47.4646 67.28\
+39 47.4442 66.93\
+33 47.8097 66.72\
+73L47.6074 67.63\
+28Z\x22 fill=\x22#1616\
+16\x22/>\x0d\x0a<path d=\x22\
+M57.317 36.1753C\
+57.215 35.7467 5\
+7.4803 35.6558 5\
+7.8199 35.6335C5\
+7.6789 35.8414 5\
+7.5675 36.0714 5\
+7.317 36.1753Z\x22 \
+fill=\x22#4E4E4E\x22/>\
+\x0d\x0a<path d=\x22M46.1\
+231 74.4815H45.9\
+802C45.9802 74.1\
+327 45.9598 73.7\
+838 46.3253 73.5\
+779C46.2585 73.8\
+785 46.1899 74.1\
+716 46.1231 74.4\
+815Z\x22 fill=\x22#161\
+616\x22/>\x0d\x0a<path d=\
+\x22M50.5392 33.770\
+7H50.2683C50.403\
+8 33.5517 50.453\
+9 33.253 50.799 \
+33.24V33.4348L50\
+.5392 33.7707Z\x22 \
+fill=\x22#474747\x22/>\
+\x0d\x0a<path d=\x22M46.1\
+288 46.5251H45.9\
+543C45.971 46.22\
+27 45.9321 45.89\
+06 46.3384 45.78\
+3C46.2698 46.035\
+3 46.1993 46.280\
+2 46.1288 46.525\
+1Z\x22 fill=\x22#21212\
+1\x22/>\x0d\x0a<path d=\x22M\
+56.523 36.9917L5\
+6.5471 37.2923L5\
+6.2075 37.7803C5\
+6.0851 37.4333 5\
+6.3207 37.2162 5\
+6.523 36.9917Z\x22 \
+fill=\x22#464646\x22/>\
+\x0d\x0a<path d=\x22M44.8\
+835 49.9559C45.0\
+097 49.9058 45.0\
+394 49.5848 45.1\
+507 49.7128C45.3\
+511 49.9355 45.1\
+099 50.1841 45.0\
+19 50.4142C44.97\
+45 50.262 44.928\
+1 50.1099 44.883\
+5 49.9559Z\x22 fill\
+=\x22#151515\x22/>\x0d\x0a</\
+svg>\x0d\x0a\
 \x00\x01\x97|\
 (\
 \xb5/\xfd\xa0\x00R\x06\x00$M\x01\xaa\x14j~2\
@@ -142615,6 +148111,10 @@ qt_resource_name = b"\
 \x02\xd3\xcd'\
 \x00F\
 \x00O\x00S\x00S\x00E\x00E\x00_\x00l\x00i\x00g\x00h\x00t\x00.\x00s\x00v\x00g\
+\x00\x07\
+\x08\xb9\xc5S\
+\x00r\
+\x00e\x00c\x00e\x00n\x00t\x00s\
 \x00\x12\
 \x0aDDG\
 \x00a\
@@ -143023,239 +148523,259 @@ qt_resource_name = b"\
 qt_resource_struct = b"\
 \x00\x00\x00\x00\x00\x02\x00\x00\x00\x05\x00\x00\x00\x01\
 \x00\x00\x00\x00\x00\x00\x00\x00\
-\x00\x00\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00\x92\
+\x00\x00\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00\x9c\
 \x00\x00\x00\x00\x00\x00\x00\x00\
-\x00\x00\x00R\x00\x02\x00\x00\x00\x04\x00\x00\x00u\
+\x00\x00\x00R\x00\x02\x00\x00\x00\x04\x00\x00\x00\x7f\
 \x00\x00\x00\x00\x00\x00\x00\x00\
-\x00\x00\x00@\x00\x02\x00\x00\x00\x02\x00\x00\x00s\
+\x00\x00\x00@\x00\x02\x00\x00\x00\x02\x00\x00\x00}\
 \x00\x00\x00\x00\x00\x00\x00\x00\
-\x00\x00\x00\x10\x00\x02\x00\x00\x00X\x00\x00\x00\x07\
+\x00\x00\x00\x10\x00\x02\x00\x00\x00Y\x00\x00\x00\x07\
 \x00\x00\x00\x00\x00\x00\x00\x00\
 \x00\x00\x00$\x00\x02\x00\x00\x00\x01\x00\x00\x00\x06\
 \x00\x00\x00\x00\x00\x00\x00\x00\
-\x00\x00\x07\xb6\x00\x04\x00\x00\x00\x01\x00\x03b\xe4\
+\x00\x00\x07\xb6\x00\x04\x00\x00\x00\x01\x00\x03b\xe7\
 \x00\x00\x01\x9c\x09\xd5[\xbd\
-\x00\x00\x0dL\x00\x00\x00\x00\x00\x01\x00\x0d\x82\x8b\
+\x00\x00\x0d`\x00\x00\x00\x00\x00\x01\x00\x0d\x82\x8e\
 \x00\x00\x01\x9c\x0ag\x1c\xd6\
-\x00\x00\x0a\xe8\x00\x00\x00\x00\x00\x01\x00\x0b%;\
+\x00\x00\x0a\xe8\x00\x00\x00\x00\x00\x01\x00\x0b%>\
 \x00\x00\x01\x9b\xf6J\x1cm\
-\x00\x00\x15F\x00\x00\x00\x00\x00\x01\x00\x1e\xee\x15\
+\x00\x00\x15Z\x00\x00\x00\x00\x00\x01\x00\x1e\xee\x18\
 \x00\x00\x01\x9b\xf6J\x1c\x98\
-\x00\x00\x15\xd6\x00\x00\x00\x00\x00\x01\x00\x1e\xf6\x0d\
+\x00\x00\x15\xea\x00\x00\x00\x00\x00\x01\x00\x1e\xf6\x10\
 \x00\x00\x01\x9c\x0ai\x1c.\
-\x00\x00\x0c\xb4\x00\x00\x00\x00\x00\x01\x00\x0dyz\
+\x00\x00\x0c\xc8\x00\x00\x00\x00\x00\x01\x00\x0dy}\
 \x00\x00\x01\x9c\x0ag\x1c\xd2\
-\x00\x00\x0cZ\x00\x00\x00\x00\x00\x01\x00\x0cu*\
+\x00\x00\x0cn\x00\x00\x00\x00\x00\x01\x00\x0cu-\
 \x00\x00\x01\x9c\x0ag\x1c\xc8\
-\x00\x00\x12:\x00\x00\x00\x00\x00\x01\x00\x1c{\xdd\
+\x00\x00\x12N\x00\x00\x00\x00\x00\x01\x00\x1c{\xe0\
 \x00\x00\x01\x9c\x0ag\x1c\xb3\
-\x00\x00\x14 \x00\x00\x00\x00\x00\x01\x00\x1e\x99\x8f\
+\x00\x00\x144\x00\x00\x00\x00\x00\x01\x00\x1e\x99\x92\
 \x00\x00\x01\x9c\x09\xed\xa4\xa1\
-\x00\x00\x09<\x00\x00\x00\x00\x00\x01\x00\x0a!D\
+\x00\x00\x09<\x00\x00\x00\x00\x00\x01\x00\x0a!G\
 \x00\x00\x01\x9c\x0ag\x1c\xb1\
-\x00\x00\x0e\xc8\x00\x00\x00\x00\x00\x01\x00\x16\x86\xb4\
+\x00\x00\x0e\xdc\x00\x00\x00\x00\x00\x01\x00\x16\x86\xb7\
 \x00\x00\x01\x9c\x0ai\x1b\xa2\
-\x00\x00\x15\xf2\x00\x00\x00\x00\x00\x01\x00\x1f!\x1b\
+\x00\x00\x16\x06\x00\x00\x00\x00\x00\x01\x00\x1f!\x1e\
 \x00\x00\x01\x9c\x0aj\x04\xe3\
-\x00\x00\x0e\x14\x00\x00\x00\x00\x00\x01\x00\x16\x82Y\
+\x00\x00\x0e(\x00\x00\x00\x00\x00\x01\x00\x16\x82\x5c\
 \x00\x00\x01\x9c\x0ag\x1c\xcf\
-\x00\x00\x102\x00\x00\x00\x00\x00\x01\x00\x18\x11\xc6\
+\x00\x00\x10F\x00\x00\x00\x00\x00\x01\x00\x18\x11\xc9\
 \x00\x00\x01\x9c\x09\xeb\xf5\xe2\
-\x00\x00\x12\xf2\x00\x00\x00\x00\x00\x01\x00\x1c\xa0\x9a\
+\x00\x00\x13\x06\x00\x00\x00\x00\x00\x01\x00\x1c\xa0\x9d\
 \x00\x00\x01\x9c\x0ag\x1c\xb9\
-\x00\x00\x10\xe8\x00\x00\x00\x00\x00\x01\x00\x18&W\
+\x00\x00\x10\xfc\x00\x00\x00\x00\x00\x01\x00\x18&Z\
 \x00\x00\x01\x9c\x0ag\x1c\xb9\
-\x00\x00\x17F\x00\x00\x00\x00\x00\x01\x00\x1f~\xc4\
+\x00\x00\x17Z\x00\x00\x00\x00\x00\x01\x00\x1f~\xc7\
 \x00\x00\x01\x9b\xf6J\x1ce\
-\x00\x00\x07\xd6\x00\x00\x00\x00\x00\x01\x00\x03f\x7f\
+\x00\x00\x07\xd6\x00\x00\x00\x00\x00\x01\x00\x03f\x82\
 \x00\x00\x01\x9c\x0ai\x1c)\
-\x00\x00\x11\xc2\x00\x00\x00\x00\x00\x01\x00\x18\xbc\xc9\
+\x00\x00\x11\xd6\x00\x00\x00\x00\x00\x01\x00\x18\xbc\xcc\
 \x00\x00\x01\x9c\x0ai\x1c\x1e\
-\x00\x00\x0b\xe6\x00\x00\x00\x00\x00\x01\x00\x0b+\xe0\
+\x00\x00\x0b\xe6\x00\x00\x00\x00\x00\x01\x00\x0b+\xe3\
 \x00\x00\x01\x9c\x0ai\x1b\xa2\
-\x00\x00\x13x\x00\x00\x00\x00\x00\x01\x00\x1e\x86\xdf\
+\x00\x00\x13\x8c\x00\x00\x00\x00\x00\x01\x00\x1e\x86\xe2\
 \x00\x00\x01\x9b\xf6J\x1c\x9a\
-\x00\x00\x0b|\x00\x00\x00\x00\x00\x01\x00\x0b\x229\
+\x00\x00\x0b|\x00\x00\x00\x00\x00\x01\x00\x0b\x22<\
 \x00\x00\x01\x9c\x0ak\x82\xf3\
-\x00\x00\x15l\x00\x00\x00\x00\x00\x01\x00\x1e\xf2\xb3\
+\x00\x00\x15\x80\x00\x00\x00\x00\x00\x01\x00\x1e\xf2\xb6\
 \x00\x00\x01\x9c\x0ag\x1c\xcd\
-\x00\x00\x0d\xc2\x00\x00\x00\x00\x00\x01\x00\x12\x02\x89\
+\x00\x00\x0d\xd6\x00\x00\x00\x00\x00\x01\x00\x12\x02\x8c\
 \x00\x00\x01\x9c\x0aj\x00\x1e\
-\x00\x00\x16\xb2\x00\x00\x00\x00\x00\x01\x00\x1fx\x85\
+\x00\x00\x16\xc6\x00\x00\x00\x00\x00\x01\x00\x1fx\x88\
 \x00\x00\x01\x9c\x0aj\x04\xe3\
-\x00\x00\x13\xda\x00\x00\x00\x00\x00\x01\x00\x1e\x91c\
+\x00\x00\x13\xee\x00\x00\x00\x00\x00\x01\x00\x1e\x91f\
 \x00\x00\x01\x9c\x0ag\x1c\xcf\
-\x00\x00\x0d\x96\x00\x00\x00\x00\x00\x01\x00\x0d\x85P\
+\x00\x00\x0d\xaa\x00\x00\x00\x00\x00\x01\x00\x0d\x85S\
 \x00\x00\x01\x9c\x0ag\x1c\xc4\
-\x00\x00\x12h\x00\x00\x00\x00\x00\x01\x00\x1c\x97\xee\
+\x00\x00\x12|\x00\x00\x00\x00\x00\x01\x00\x1c\x97\xf1\
 \x00\x00\x01\x9c\x0af\xe0\xdf\
-\x00\x00\x08\xbe\x00\x00\x00\x00\x00\x01\x00\x09\x9e\x95\
+\x00\x00\x08\xbe\x00\x00\x00\x00\x00\x01\x00\x09\x9e\x98\
 \x00\x00\x01\x9c\x0ag\x1c\xb5\
-\x00\x00\x09\x9c\x00\x00\x00\x00\x00\x01\x00\x0a\xd0\xf4\
+\x00\x00\x09\x9c\x00\x00\x00\x00\x00\x01\x00\x0a\xd0\xf7\
 \x00\x00\x01\x9b\xf6J\x1ce\
-\x00\x00\x09\x14\x00\x00\x00\x00\x00\x01\x00\x09\xe8D\
+\x00\x00\x09\x14\x00\x00\x00\x00\x00\x01\x00\x09\xe8G\
 \x00\x00\x01\x9b\xf6J\x1ca\
-\x00\x00\x10z\x00\x00\x00\x00\x00\x01\x00\x18!S\
+\x00\x00\x10\x8e\x00\x00\x00\x00\x00\x01\x00\x18!V\
 \x00\x00\x01\x9c\x0af\xe0\xdf\
-\x00\x00\x0f\xde\x00\x00\x00\x00\x00\x01\x00\x18\x05I\
+\x00\x00\x0f\xf2\x00\x00\x00\x00\x00\x01\x00\x18\x05L\
 \x00\x00\x01\x9b\xf6J\x1cm\
-\x00\x00\x0a\xba\x00\x00\x00\x00\x00\x01\x00\x0b\x229\
+\x00\x00\x0a\xba\x00\x00\x00\x00\x00\x01\x00\x0b\x22<\
 \x00\x00\x01\x9c\x0ak\x82\xf3\
-\x00\x00\x14|\x00\x00\x00\x00\x00\x01\x00\x1e\xdf\x9d\
+\x00\x00\x14\x90\x00\x00\x00\x00\x00\x01\x00\x1e\xdf\xa0\
 \x00\x00\x01\x9c\x0ag\x1c\xd6\
-\x00\x00\x0d(\x00\x00\x00\x00\x00\x01\x00\x0d|f\
+\x00\x00\x0d<\x00\x00\x00\x00\x00\x01\x00\x0d|i\
 \x00\x00\x01\x9c\x09\xeb\xf5\xe2\
-\x00\x00\x0d\xf0\x00\x00\x00\x00\x00\x01\x00\x16\x7f\xc0\
+\x00\x00\x0e\x04\x00\x00\x00\x00\x00\x01\x00\x16\x7f\xc3\
 \x00\x00\x01\x9c\x09\xeb\xf5\xe2\
-\x00\x00\x0f\xbc\x00\x00\x00\x00\x00\x01\x00\x17\xf7\x0a\
+\x00\x00\x0f\xd0\x00\x00\x00\x00\x00\x01\x00\x17\xf7\x0d\
 \x00\x00\x01\x9c\x09\xecd\x9f\
-\x00\x00\x13$\x00\x00\x00\x00\x00\x01\x00\x1c\xf5p\
+\x00\x00\x138\x00\x00\x00\x00\x00\x01\x00\x1c\xf5s\
 \x00\x00\x01\x9c\x09\xd5\x5c\xa9\
-\x00\x00\x09h\x00\x00\x00\x00\x00\x01\x00\x0a\xcf\xe0\
+\x00\x00\x09h\x00\x00\x00\x00\x00\x01\x00\x0a\xcf\xe3\
 \x00\x00\x01\x9c\x0ag\x1c\xdd\
-\x00\x00\x0c\xf0\x00\x00\x00\x00\x00\x01\x00\x0d{\xad\
+\x00\x00\x0d\x04\x00\x00\x00\x00\x00\x01\x00\x0d{\xb0\
 \x00\x00\x01\x9c\x0ag\x1c\xdb\
-\x00\x00\x0fZ\x00\x00\x00\x00\x00\x01\x00\x17=\xec\
+\x00\x00\x0fn\x00\x00\x00\x00\x00\x01\x00\x17=\xef\
 \x00\x00\x01\x9c\x0ag\x1c\xd6\
-\x00\x00\x13T\x00\x00\x00\x00\x00\x01\x00\x09\xb8\xc7\
+\x00\x00\x13h\x00\x00\x00\x00\x00\x01\x00\x09\xb8\xca\
 \x00\x00\x01\x9c\x0ak\x09\x13\
-\x00\x00\x11\x84\x00\x00\x00\x00\x00\x01\x00\x18\xbb3\
+\x00\x00\x11\x98\x00\x00\x00\x00\x00\x01\x00\x18\xbb6\
 \x00\x00\x01\x9c\x0af\xe0\xdf\
-\x00\x00\x0b\x0e\x00\x00\x00\x00\x00\x01\x00\x0b'^\
+\x00\x00\x0b\x0e\x00\x00\x00\x00\x00\x01\x00\x0b'a\
 \x00\x00\x01\x9c\x0ag\x1c\xd4\
-\x00\x00\x0c6\x00\x00\x00\x00\x00\x01\x00\x0b\xe6\xf9\
+\x00\x00\x0cJ\x00\x00\x00\x00\x00\x01\x00\x0b\xe6\xfc\
 \x00\x00\x01\x9c\x0ai\x1b\xa2\
-\x00\x00\x10\x00\x00\x00\x00\x00\x00\x01\x00\x18\x07l\
+\x00\x00\x10\x14\x00\x00\x00\x00\x00\x01\x00\x18\x07o\
 \x00\x00\x01\x9c\x0al?\xa6\
-\x00\x00\x10\xbe\x00\x00\x00\x00\x00\x01\x00\x18#u\
+\x00\x00\x10\xd2\x00\x00\x00\x00\x00\x01\x00\x18#x\
 \x00\x00\x01\x9c\x0ak\x82\xf7\
-\x00\x00\x17\x1e\x00\x00\x00\x00\x00\x01\x00\x1f|\x05\
+\x00\x00\x172\x00\x00\x00\x00\x00\x01\x00\x1f|\x08\
 \x00\x00\x01\x9b\xf6J\x1ce\
-\x00\x00\x16 \x00\x00\x00\x00\x00\x01\x00\x1f!\xb9\
+\x00\x00\x164\x00\x00\x00\x00\x00\x01\x00\x1f!\xbc\
 \x00\x00\x01\x9c\x0al?\xa2\
-\x00\x00\x17\xaa\x00\x00\x00\x00\x00\x01\x00\x1f\x87\xcd\
-\x00\x00\x01\x9b\xf6J\x1c\x9d\
-\x00\x00\x12\xca\x00\x04\x00\x00\x00\x01\x00\x1c\x9c\xe7\
-\x00\x00\x01\x9c\x09\xd5\x5c\xa4\
-\x00\x00\x12\x16\x00\x00\x00\x00\x00\x01\x00\x1b\xfe\xbc\
-\x00\x00\x01\x9c\x0ag\x1c\xb5\
-\x00\x00\x11N\x00\x00\x00\x00\x00\x01\x00\x18w\x1d\
-\x00\x00\x01\x9c\x0ai\x1b\xa2\
-\x00\x00\x14\xc8\x00\x00\x00\x00\x00\x01\x00\x1e\xe3\x99\
-\x00\x00\x01\x9b\xf6J\x1c\x98\
-\x00\x00\x0c\x94\x00\x04\x00\x00\x00\x01\x00\x0cw[\
-\x00\x00\x01\x9c\x0ai\x1c.\
-\x00\x00\x07\xf4\x00\x00\x00\x00\x00\x01\x00\x06\x15\xb5\
-\x00\x00\x01\x9c\x0ai\x1c'\
-\x00\x00\x14\xf2\x00\x00\x00\x00\x00\x01\x00\x1e\xe87\
-\x00\x00\x01\x9c\x0ag\x1c\xd6\
-\x00\x00\x11\xe0\x00\x00\x00\x00\x00\x01\x00\x1b\xfe\x03\
-\x00\x00\x01\x9c\x0ag\x1c\xdb\
-\x00\x00\x0c\x0c\x00\x00\x00\x00\x00\x01\x00\x0b\xe6[\
-\x00\x00\x01\x9c\x0aj\x04\xe6\
-\x00\x00\x15(\x00\x00\x00\x00\x00\x01\x00\x1e\xe8\xe4\
-\x00\x00\x01\x9c\x09\xeb\xf5\xe2\
-\x00\x00\x16\x84\x00\x00\x00\x00\x00\x01\x00\x1f4\x92\
-\x00\x00\x01\x9c\x0ag\x1c\xd2\
-\x00\x00\x0e\x92\x00\x00\x00\x00\x00\x01\x00\x16\x85\xa0\
-\x00\x00\x01\x9c\x0ag\x1c\xde\
-\x00\x00\x0e\xfc\x00\x00\x00\x00\x00\x01\x00\x16\xbe\xa9\
-\x00\x00\x01\x9c\x0ag\x1c\xc8\
-\x00\x00\x17l\x00\x00\x00\x00\x00\x01\x00\x1f\x85\x9a\
-\x00\x00\x01\x9c\x0ag\x1c\xd3\
-\x00\x00\x10X\x00\x00\x00\x00\x00\x01\x00\x18\x16\xf2\
-\x00\x00\x01\x9c\x0ag\x1c\xc4\
-\x00\x00\x0a\x1c\x00\x00\x00\x00\x00\x01\x00\x0b\x19\xc0\
-\x00\x00\x01\x9b\xf6J\x1c\x9d\
-\x00\x00\x0a\x80\x00\x00\x00\x00\x00\x01\x00\x0b .\
-\x00\x00\x01\x9c\x0ag\x1c\xcd\
-\x00\x00\x0f8\x00\x00\x00\x00\x00\x01\x00\x16\xc0\xda\
-\x00\x00\x01\x9c\x0ag\x1c\xb3\
-\x00\x00\x0bP\x00\x00\x00\x00\x00\x01\x00\x0b)\x06\
-\x00\x00\x01\x9c\x0aj\x04\xe3\
-\x00\x00\x16\xda\x00\x02\x00\x00\x00\x14\x00\x00\x00_\
+\x00\x00\x0c\x0c\x00\x02\x00\x00\x00\x09\x00\x00\x00t\
 \x00\x00\x00\x00\x00\x00\x00\x00\
-\x00\x00\x11\x1c\x00\x00\x00\x00\x00\x01\x00\x18u\xcc\
-\x00\x00\x01\x9b\xf6J\x1c\x9f\
-\x00\x00\x14P\x00\x00\x00\x00\x00\x01\x00\x1e\xddH\
+\x00\x00\x17\xbe\x00\x00\x00\x00\x00\x01\x00\x1f\x87\xd0\
 \x00\x00\x01\x9b\xf6J\x1c\x9d\
-\x00\x00\x09\xbe\x00\x00\x00\x00\x00\x01\x00\x0a\xd4C\
+\x00\x00\x12\xde\x00\x04\x00\x00\x00\x01\x00\x1c\x9c\xea\
+\x00\x00\x01\x9c\x09\xd5\x5c\xa4\
+\x00\x00\x12*\x00\x00\x00\x00\x00\x01\x00\x1b\xfe\xbf\
+\x00\x00\x01\x9c\x0ag\x1c\xb5\
+\x00\x00\x11b\x00\x00\x00\x00\x00\x01\x00\x18w \
+\x00\x00\x01\x9c\x0ai\x1b\xa2\
+\x00\x00\x14\xdc\x00\x00\x00\x00\x00\x01\x00\x1e\xe3\x9c\
+\x00\x00\x01\x9b\xf6J\x1c\x98\
+\x00\x00\x0c\xa8\x00\x04\x00\x00\x00\x01\x00\x0cw^\
+\x00\x00\x01\x9c\x0ai\x1c.\
+\x00\x00\x07\xf4\x00\x00\x00\x00\x00\x01\x00\x06\x15\xb8\
+\x00\x00\x01\x9c\x0ai\x1c'\
+\x00\x00\x15\x06\x00\x00\x00\x00\x00\x01\x00\x1e\xe8:\
 \x00\x00\x01\x9c\x0ag\x1c\xd6\
-\x00\x00\x15\xa4\x00\x00\x00\x00\x00\x01\x00\x1e\xf4\xbe\
-\x00\x00\x01\x9c\x0ag\x1c\xd6\
-\x00\x00\x0f\x92\x00\x00\x00\x00\x00\x01\x00\x17>\x99\
-\x00\x00\x01\x9b\xf6J\x1c3\
-\x00\x00\x08\xee\x00\x00\x00\x00\x00\x01\x00\x09\xb8\xc7\
-\x00\x00\x01\x9c\x0ak\x09\x15\
-\x00\x00\x16\xf2\x00\x00\x00\x00\x00\x01\x00\x1fy#\
-\x00\x00\x01\x9c\x0ak\x82\xf7\
-\x00\x00\x08\x14\x00\x00\x00\x00\x00\x01\x00\x09V\xef\
-\x00\x00\x01\x9c\x0ag\x1c\xcf\
-\x00\x00\x16P\x00\x00\x00\x00\x00\x01\x00\x1f*8\
-\x00\x00\x01\x9c\x0al?\xa7\
-\x00\x00\x09\xee\x00\x00\x00\x00\x00\x01\x00\x0a\xd5\x92\
-\x00\x00\x01\x9c\x09\xed\xa4\x9f\
-\x00\x00\x13\xa8\x00\x00\x00\x00\x00\x01\x00\x1e\x894\
-\x00\x00\x01\x9c\x0al?\xa2\
-\x00\x00\x0eR\x00\x00\x00\x00\x00\x01\x00\x16\x83\xfa\
-\x00\x00\x01\x9c\x0ag\x1c\xcb\
-\x00\x00\x0b\xa8\x00\x00\x00\x00\x00\x01\x00\x0b)\xa4\
-\x00\x00\x01\x9c\x0ag\x1c\xc8\
-\x00\x00\x08\x82\x00\x00\x00\x00\x00\x01\x00\x09\x9cY\
-\x00\x00\x01\x9c\x0ag\x1c\xcf\
-\x00\x00\x08@\x00\x00\x00\x00\x00\x01\x00\x09\x9a\xc1\
-\x00\x00\x01\x9c\x0af\xe0\xdf\
-\x00\x00\x0a@\x00\x00\x00\x00\x00\x01\x00\x0b\x1d\xf2\
-\x00\x00\x01\x9c\x0ag\x1c\xd4\
-\x00\x00\x12\xb0\x00\x00\x00\x00\x00\x01\x00\x1c\x9a\x10\
-\x00\x00\x01\x9b\xf6J\x1ca\
-\x00\x00\x14\x00\x00\x00\x00\x00\x00\x01\x00\x1e\x97\x18\
+\x00\x00\x11\xf4\x00\x00\x00\x00\x00\x01\x00\x1b\xfe\x06\
+\x00\x00\x01\x9c\x0ag\x1c\xdb\
+\x00\x00\x0c \x00\x00\x00\x00\x00\x01\x00\x0b\xe6^\
+\x00\x00\x01\x9c\x0aj\x04\xe6\
+\x00\x00\x15<\x00\x00\x00\x00\x00\x01\x00\x1e\xe8\xe7\
 \x00\x00\x01\x9c\x09\xeb\xf5\xe2\
-\x00\x00\x1a\x1a\x00\x04\x00\x00\x00\x01\x00\x1f\x8a\x06\
-\x00\x00\x01\x9c\x0at*\x9a\
-\x00\x00\x18\xaa\x00\x00\x00\x00\x00\x01\x00 /\xb1\
-\x00\x00\x01\x9c\x0at*\x90\
-\x00\x00\x18\xd8\x00\x00\x00\x00\x00\x01\x00\x1f\xdf\x87\
-\x00\x00\x01\x9c\x0at*\x92\
-\x00\x00\x19b\x00\x00\x00\x00\x00\x01\x00 q\xa0\
-\x00\x00\x01\x9c\x0at*\x8c\
-\x00\x00\x19,\x00\x00\x00\x00\x00\x01\x00\x1f\x99\x14\
-\x00\x00\x01\x9c\x0at*~\
-\x00\x00\x19\x80\x00\x00\x00\x00\x00\x01\x00  \x87\
-\x00\x00\x01\x9c\x0at*\x9e\
-\x00\x00\x1ap\x00\x00\x00\x00\x00\x01\x00 \xb06\
-\x00\x00\x01\x9c\x0at*\x98\
-\x00\x00\x18\x0e\x00\x00\x00\x00\x00\x01\x00\x1f\xb1\xe2\
-\x00\x00\x01\x9c\x0at*\x98\
-\x00\x00\x19\xaa\x00\x00\x00\x00\x00\x01\x00 \xb06\
-\x00\x00\x01\x9c\x0at*\x96\
-\x00\x00\x1aJ\x00\x00\x00\x00\x00\x01\x00!\x0e\xab\
-\x00\x00\x01\x9c\x0at*\x9c\
-\x00\x00\x17\xc0\x00\x04\x00\x00\x00\x01\x00\x1f\x8a\x06\
-\x00\x00\x01\x9c\x0at*\x9a\
-\x00\x00\x1a\xc0\x00\x00\x00\x00\x00\x01\x00\x1f\xb1\xe2\
-\x00\x00\x01\x9c\x0at*\x98\
-\x00\x00\x17\xe6\x00\x00\x00\x00\x00\x01\x00\x1f\x99\x14\
-\x00\x00\x01\x9c\x0at*\x8a\
-\x00\x00\x19\xcc\x00\x00\x00\x00\x00\x01\x00 q\xa0\
-\x00\x00\x01\x9c\x0at*\x8e\
-\x00\x00\x19\x0a\x00\x00\x00\x00\x00\x01\x00 f\xed\
-\x00\x00\x01\x9c\x0at*\xb2\
-\x00\x00\x1a\x9c\x00\x00\x00\x00\x00\x01\x00 /\xb1\
-\x00\x00\x01\x9c\x0at*\x90\
-\x00\x00\x19J\x00\x00\x00\x00\x00\x01\x00 f\xed\
-\x00\x00\x01\x9c\x0at*\x9e\
-\x00\x00\x18:\x00\x00\x00\x00\x00\x01\x00\x1f\xdf\x87\
-\x00\x00\x01\x9c\x0at*\x94\
-\x00\x00\x18v\x00\x00\x00\x00\x00\x01\x00  \x87\
-\x00\x00\x01\x9c\x0at*\x9e\
-\x00\x00\x19\xf4\x00\x00\x00\x00\x00\x01\x00!\x0e\xab\
-\x00\x00\x01\x9c\x0at*\x9c\
+\x00\x00\x16\x98\x00\x00\x00\x00\x00\x01\x00\x1f4\x95\
+\x00\x00\x01\x9c\x0ag\x1c\xd2\
+\x00\x00\x0e\xa6\x00\x00\x00\x00\x00\x01\x00\x16\x85\xa3\
+\x00\x00\x01\x9c\x0ag\x1c\xde\
+\x00\x00\x0f\x10\x00\x00\x00\x00\x00\x01\x00\x16\xbe\xac\
+\x00\x00\x01\x9c\x0ag\x1c\xc8\
+\x00\x00\x17\x80\x00\x00\x00\x00\x00\x01\x00\x1f\x85\x9d\
+\x00\x00\x01\x9c\x0ag\x1c\xd3\
+\x00\x00\x10l\x00\x00\x00\x00\x00\x01\x00\x18\x16\xf5\
+\x00\x00\x01\x9c\x0ag\x1c\xc4\
+\x00\x00\x0a\x1c\x00\x00\x00\x00\x00\x01\x00\x0b\x19\xc3\
+\x00\x00\x01\x9b\xf6J\x1c\x9d\
+\x00\x00\x0a\x80\x00\x00\x00\x00\x00\x01\x00\x0b 1\
+\x00\x00\x01\x9c\x0ag\x1c\xcd\
+\x00\x00\x0fL\x00\x00\x00\x00\x00\x01\x00\x16\xc0\xdd\
+\x00\x00\x01\x9c\x0ag\x1c\xb3\
+\x00\x00\x0bP\x00\x00\x00\x00\x00\x01\x00\x0b)\x09\
+\x00\x00\x01\x9c\x0aj\x04\xe3\
+\x00\x00\x16\xee\x00\x02\x00\x00\x00\x14\x00\x00\x00`\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x110\x00\x00\x00\x00\x00\x01\x00\x18u\xcf\
+\x00\x00\x01\x9b\xf6J\x1c\x9f\
+\x00\x00\x14d\x00\x00\x00\x00\x00\x01\x00\x1e\xddK\
+\x00\x00\x01\x9b\xf6J\x1c\x9d\
+\x00\x00\x09\xbe\x00\x00\x00\x00\x00\x01\x00\x0a\xd4F\
+\x00\x00\x01\x9c\x0ag\x1c\xd6\
+\x00\x00\x15\xb8\x00\x00\x00\x00\x00\x01\x00\x1e\xf4\xc1\
+\x00\x00\x01\x9c\x0ag\x1c\xd6\
+\x00\x00\x0f\xa6\x00\x00\x00\x00\x00\x01\x00\x17>\x9c\
+\x00\x00\x01\x9b\xf6J\x1c3\
+\x00\x00\x08\xee\x00\x00\x00\x00\x00\x01\x00\x09\xb8\xca\
+\x00\x00\x01\x9c\x0ak\x09\x15\
+\x00\x00\x17\x06\x00\x00\x00\x00\x00\x01\x00\x1fy&\
+\x00\x00\x01\x9c\x0ak\x82\xf7\
+\x00\x00\x08\x14\x00\x00\x00\x00\x00\x01\x00\x09V\xf2\
+\x00\x00\x01\x9c\x0ag\x1c\xcf\
+\x00\x00\x16d\x00\x00\x00\x00\x00\x01\x00\x1f*;\
+\x00\x00\x01\x9c\x0al?\xa7\
+\x00\x00\x09\xee\x00\x00\x00\x00\x00\x01\x00\x0a\xd5\x95\
+\x00\x00\x01\x9c\x09\xed\xa4\x9f\
+\x00\x00\x13\xbc\x00\x00\x00\x00\x00\x01\x00\x1e\x897\
+\x00\x00\x01\x9c\x0al?\xa2\
+\x00\x00\x0ef\x00\x00\x00\x00\x00\x01\x00\x16\x83\xfd\
+\x00\x00\x01\x9c\x0ag\x1c\xcb\
+\x00\x00\x0b\xa8\x00\x00\x00\x00\x00\x01\x00\x0b)\xa7\
+\x00\x00\x01\x9c\x0ag\x1c\xc8\
+\x00\x00\x08\x82\x00\x00\x00\x00\x00\x01\x00\x09\x9c\x5c\
+\x00\x00\x01\x9c\x0ag\x1c\xcf\
+\x00\x00\x08@\x00\x00\x00\x00\x00\x01\x00\x09\x9a\xc4\
+\x00\x00\x01\x9c\x0af\xe0\xdf\
+\x00\x00\x0a@\x00\x00\x00\x00\x00\x01\x00\x0b\x1d\xf5\
+\x00\x00\x01\x9c\x0ag\x1c\xd4\
+\x00\x00\x12\xc4\x00\x00\x00\x00\x00\x01\x00\x1c\x9a\x13\
+\x00\x00\x01\x9b\xf6J\x1ca\
+\x00\x00\x14\x14\x00\x00\x00\x00\x00\x01\x00\x1e\x97\x1b\
+\x00\x00\x01\x9c\x09\xeb\xf5\xe2\
+\x00\x00\x1a.\x00\x04\x00\x00\x00\x01\x00\x1f\x8a\x09\
+\x00\x00\x01\x9c\x0au\x18\xed\
+\x00\x00\x18\xbe\x00\x00\x00\x00\x00\x01\x00 'M\
+\x00\x00\x01\x9c\x0au\x18\x90\
+\x00\x00\x18\xec\x00\x00\x00\x00\x00\x01\x00\x1f\xda\xff\
+\x00\x00\x01\x9c\x0au\x18\x96\
+\x00\x00\x19v\x00\x00\x00\x00\x00\x01\x00 ed\
+\x00\x00\x01\x9c\x0au\x18\x8d\
+\x00\x00\x19@\x00\x00\x00\x00\x00\x01\x00\x1f\x98_\
+\x00\x00\x01\x9c\x0au\x18\x8a\
+\x00\x00\x19\x94\x00\x00\x00\x00\x00\x01\x00 \x1a\x10\
+\x00\x00\x01\x9c\x0au\x18\xf0\
+\x00\x00\x1a\x84\x00\x00\x00\x00\x00\x01\x00 \xa2\x11\
+\x00\x00\x01\x9c\x0au\x18\xe3\
+\x00\x00\x18\x22\x00\x00\x00\x00\x00\x01\x00\x1f\xafE\
+\x00\x00\x01\x9c\x0au\x18\xe5\
+\x00\x00\x19\xbe\x00\x00\x00\x00\x00\x01\x00 \xa2\x11\
+\x00\x00\x01\x9c\x0au\x18\xe1\
+\x00\x00\x1a^\x00\x00\x00\x00\x00\x01\x00 \xfe\x98\
+\x00\x00\x01\x9c\x0au\x18\xed\
+\x00\x00\x17\xd4\x00\x04\x00\x00\x00\x01\x00\x1f\x8a\x09\
+\x00\x00\x01\x9c\x0au\x18\xeb\
+\x00\x00\x1a\xd4\x00\x00\x00\x00\x00\x01\x00\x1f\xafE\
+\x00\x00\x01\x9c\x0au\x18\xe9\
+\x00\x00\x17\xfa\x00\x00\x00\x00\x00\x01\x00\x1f\x98_\
+\x00\x00\x01\x9c\x0au\x18\x8c\
+\x00\x00\x19\xe0\x00\x00\x00\x00\x00\x01\x00 ed\
+\x00\x00\x01\x9c\x0au\x18\x8e\
+\x00\x00\x19\x1e\x00\x00\x00\x00\x00\x01\x00 \x5c\x9a\
+\x00\x00\x01\x9c\x0au\x18\xf2\
+\x00\x00\x1a\xb0\x00\x00\x00\x00\x00\x01\x00 'M\
+\x00\x00\x01\x9c\x0au\x18\x90\
+\x00\x00\x19^\x00\x00\x00\x00\x00\x01\x00 \x5c\x9a\
+\x00\x00\x01\x9c\x0au\x18\xf2\
+\x00\x00\x18N\x00\x00\x00\x00\x00\x01\x00\x1f\xda\xff\
+\x00\x00\x01\x9c\x0au\x18\x96\
+\x00\x00\x18\x8a\x00\x00\x00\x00\x00\x01\x00 \x1a\x10\
+\x00\x00\x01\x9c\x0au\x18\xf0\
+\x00\x00\x1a\x08\x00\x00\x00\x00\x00\x01\x00 \xfe\x98\
+\x00\x00\x01\x9c\x0au\x18\xef\
+\x00\x00\x18\xec\x00\x00\x00\x00\x00\x01\x00!<9\
+\x00\x00\x01\x9c\x0au\x19\x14\
+\x00\x00\x19v\x00\x00\x00\x00\x00\x01\x00!\x96\xa0\
+\x00\x00\x01\x9c\x0au\x19\x10\
+\x00\x00\x19@\x00\x00\x00\x00\x00\x01\x00!y\xd8\
+\x00\x00\x01\x9c\x0au\x19\x10\
+\x00\x00\x19\x94\x00\x00\x00\x00\x00\x01\x00!\xd1\xd9\
+\x00\x00\x01\x9c\x0au\x19\x18\
+\x00\x00\x18\x22\x00\x00\x00\x00\x00\x01\x00!\x11\xf1\
+\x00\x00\x01\x9c\x0au\x19\x16\
+\x00\x00\x19\xbe\x00\x00\x00\x00\x00\x01\x00!\xdd\xa4\
+\x00\x00\x01\x9c\x0au\x19\x14\
+\x00\x00\x17\xd4\x00\x04\x00\x00\x00\x01\x00!\x04T\
+\x00\x00\x01\x9c\x0au\x19\x18\
+\x00\x00\x1a\xb0\x00\x00\x00\x00\x00\x01\x00\x228\xb8\
+\x00\x00\x01\x9c\x0au\x19\x12\
+\x00\x00\x19^\x00\x00\x00\x00\x00\x01\x00!\x8fJ\
+\x00\x00\x01\x9c\x0au\x19\x1a\
 \x00\x00\x07\x94\x00\x04\x00\x00\x00\x01\x00\x03L\xda\
-\x00\x00\x01\x9c\x0at\xbb\xb5\
+\x00\x00\x01\x9c\x0au\x18\x88\
 \x00\x00\x07t\x00\x04\x00\x00\x00\x01\x00\x0372\
 \x00\x00\x01\x9c\x0ao\x93m\
-\x00\x00\x00d\x00\x02\x00\x00\x00\x19\x00\x00\x00y\
+\x00\x00\x00d\x00\x02\x00\x00\x00\x19\x00\x00\x00\x83\
 \x00\x00\x00\x00\x00\x00\x00\x00\
 \x00\x00\x00\xc6\x00\x00\x00\x00\x00\x01\x00\x00\x05\x98\
 \x00\x00\x01\x9c\x0ag\x1cZ\
@@ -143313,7 +148833,7 @@ qt_resource_struct = b"\
 \x00\x00\x01\x9c\x0as\xa2\xc5\
 \x00\x00\x07\x06\x00\x00\x00\x00\x00\x01\x00\x02\xe1\xae\
 \x00\x00\x01\x9c\x0at\x8aS\
-\x00\x00\x1a\xf6\x00\x04\x00\x00\x00\x01\x00!\x16T\
+\x00\x00\x1b\x0a\x00\x04\x00\x00\x00\x01\x00\x22l\x93\
 \x00\x00\x01\x9c\x0a\x0a\xf0\x16\
 "
 
