@@ -476,15 +476,24 @@ class MainWindow(QMainWindow):
             pos = self.mapFromGlobal(global_pos)
             
             # Check if in title bar area
-            if pos.y() <= self.title_bar.height() and pos.y() >= 0:
-                widget_at_pos = self.childAt(pos)
-                
-                # Exclude window control buttons from dragging
-                if isinstance(widget_at_pos, QPushButton):
-                    if (widget_at_pos == self.minimize_button or 
-                        widget_at_pos == self.maximize_button or 
-                        widget_at_pos == self.close_button):
-                        return False, 0
+            if pos.y() <= self.title_bar.height() and pos.y() >= 0:                
+                widget_at_pos = QApplication.widgetAt(QCursor.pos())
+
+                # If cursor is over ANY interactive widget, don't treat as caption
+                if widget_at_pos is not None:
+
+                    # Allow dragging only on empty title bar areas
+                    allowed_drag_widgets = {
+                        self.title_bar,
+                        self.icon_label_widget,
+                        self.svg_widget
+                    }
+
+                    if widget_at_pos in allowed_drag_widgets:
+                        return True, HTCAPTION
+
+                    # Everything else (tabs, tab close buttons, labels, etc.)
+                    return False, 0
                 
                 # For tab bar, check if over actual tab
                 if widget_at_pos == self.tab_bar:
