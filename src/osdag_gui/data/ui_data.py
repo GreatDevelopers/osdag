@@ -56,7 +56,7 @@ class Data:
                 },
             "Base Plate":
             [
-                (KEY_DISP_BASE_PLATE, "Gusseted", ":/images/modules/base_plate_connec.png")
+                (KEY_DISP_BASE_PLATE, "Slab and Gusseted Bases", ":/images/modules/base_plate_connec.png")
             ],
             "Truss Connection": [""]
         },

@@ -222,7 +222,7 @@ QPushButton#menu_button:pressed {
 QPushButton#menu_button:disabled {
     background-color: #E5E5E5;
     border: 2px solid #E5E5E5;
-    color: black;
+    color: #817d86;
 }
 QPushButton#menu_button[selected="true"] {
     color: white;

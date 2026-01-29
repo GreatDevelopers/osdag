@@ -51,14 +51,14 @@ class B2BCoverPlateDetails(QMainWindow):
             self.plate_width=dict1['flange_plate.Length']
             self.bolt_diameter=dict1['Bolt.Diameter']
             flange_capcity=dict1['Flange_plate.spacing'][1]
-            data2=flange_capcity(main,True)
+            data2=flange_capcity(True)
             self.pitch=data2[2][3]
             self.End=data2[3][3]
             self.Gauge=data2[4][3]
             self.Edge=data2[5][3]
             bolt_cap=dict1['Bolt.Capacities'][1]
-            print(bolt_cap(main,True))
-            bolt_cap=bolt_cap(main,True)
+            print(bolt_cap(True))
+            bolt_cap=bolt_cap(True)
         self.cols=bolt_cap[1][3]
         self.rows=bolt_cap[2][3]/self.cols
         self.initUI()
