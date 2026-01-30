@@ -805,73 +805,19 @@ class MainWindow(QMainWindow):
     
     # It is triggered by quit and close button of main window
     def close_osdag(self):
-        """Close Osdag - user-led sequential approach.
-        
-        If only Home tab: confirm and close.
-        If multiple tabs with designs: inform user to close tabs individually.
-        If multiple tabs without designs: confirm and close all.
-        """
-        tab_count = self.tab_bar.count()
-        
-        # Check if only Home tab is open (no unsaved designs possible)
-        if tab_count == 1:
-            tab_title = self.tab_bar.tabText(0)
-            if tab_title == "Home" or not self._check_design_done(0):
-                # Simple confirmation - no design to save
-                result = CustomMessageBox(
-                    title="Exit Osdag",
-                    text="Are you sure you want to close Osdag?",
-                    buttons=["Yes", "No"],
-                    dialogType=MessageBoxType.Warning,
-                ).exec()
-                
-                if result == "Yes":
-                    self._closing_tabs = True
-                    self._close_tab(0)
-                    self.close()
+        # Close all tabs one by one
+        while self.tab_bar.count() > 0:
+            current_index = self.tab_bar.currentIndex()
+            close = self.handle_close_tab(current_index)
+            if close is False:
+                # If someone cancel to save while closing tabs, then stop closing further tabs
                 return
+            # Cleanup Coordinator takes some time
+            # All tabs closed
+            if current_index == 0:
+                return
+        # Finally the main window closed
         
-        # Multiple tabs open - check for tabs with potential unsaved work
-        design_tabs = []
-        for i in range(tab_count):
-            title = self.tab_bar.tabText(i)
-            if title != "Home" and self._check_design_done(i):
-                design_tabs.append(title)
-        
-        if design_tabs:
-            # There are tabs with potential unsaved designs
-            CustomMessageBox(
-                title="Save Your Designs",
-                text=(
-                    "You have designs open that may need to be saved:\n"
-                    f"{', '.join(design_tabs)}\n\n"
-                    "Please close each tab individually to save or discard your work."
-                ),
-                buttons=["OK"],
-                dialogType=MessageBoxType.Warning,
-            ).exec()
-            
-            # Switch to first design tab so user can act
-            for i in range(tab_count):
-                if self.tab_bar.tabText(i) != "Home":
-                    self.tab_bar.setCurrentIndex(i)
-                    break
-        else:
-            # No designs to save - confirm and close all
-            result = CustomMessageBox(
-                title="Exit Osdag",
-                text=f"Close all {tab_count} tabs and exit Osdag?",
-                buttons=["Yes", "No"],
-                dialogType=MessageBoxType.Warning,
-            ).exec()
-            
-            if result == "Yes":
-                self._closing_tabs = True
-                # Close tabs one by one (no save prompts needed)
-                while self.tab_bar.count() > 0:
-                    self._close_tab(0)
-                self.close()
-    
     def _get_template_instance(self, index) -> object:
         return self.tab_widget_content[index].layout().itemAt(0).widget()
 
