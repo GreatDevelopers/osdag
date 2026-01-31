@@ -811,7 +811,7 @@ class CustomWindow(QWidget):
 
         database_menu.addAction(input_csv_action)
 
-        output_csv_action = QAction("Save Outputs (.csv)", self)
+        output_csv_action = QAction("Save Output (.csv)", self)
         output_csv_action.triggered.connect(lambda: self.output_dock.save_output_to_csv(self.backend, "Outputs"))
         database_menu.addAction(output_csv_action)
 

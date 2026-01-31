@@ -736,7 +736,7 @@ class MainWindow(QMainWindow):
                          "Closing it will exit Osdag.\n"
                         f"Do you want to save your '{tab_title}' design before closing?"
                     ),
-                    buttons=["Save and Exit", "Exit Without Saving", "Cancel"]
+                    buttons=["Go to Home", "Save and Exit", "Exit Without Saving", "Cancel"]
                 ).exec()
                 
                 if result == "Save and Exit":
@@ -749,6 +749,10 @@ class MainWindow(QMainWindow):
                     # Close tab first, then exit Osdag
                     self._close_tab(index)
                     self.close()
+                elif result == "Go to Home":
+                    # Open New Tab & Close This Tab
+                    self.handle_add_tab("Home")
+                    self._close_tab(index)
                 elif result == "Cancel":
                     return False
         
@@ -775,11 +779,14 @@ class MainWindow(QMainWindow):
             if getattr(self, '_closing_tabs', False):
                 self._close_tab(index)
             else:
+                options = ["Yes", "No"]
+                if tab_title != "Home":
+                    options.insert(0, "Go to Home") # Insert at beginning
                 # User clicked X on the last tab - ask confirmation
                 result = CustomMessageBox(
                     title="Confirm Exit",
                     text=f"'{tab_title}' is the last tab.\nClosing it will exit Osdag.\nDo you really want to close this tab?",
-                    buttons=["Yes", "No"],
+                    buttons=options,
                     dialogType=MessageBoxType.Warning,
                 ).exec()
 
@@ -788,6 +795,10 @@ class MainWindow(QMainWindow):
                     # CRITICAL: Close the tab FIRST to cleanup CAD, then exit app
                     self._close_tab(index)
                     self.close()  # Close the main window (exit Osdag)
+                elif result == "Go to Home":
+                    # Open New Tab & Close This Tab
+                    self.handle_add_tab("Home")
+                    self._close_tab(index)
                 elif result == "No":
                     return False
                 elif result == "Cancel":
