@@ -78,6 +78,9 @@ if IS_WINDOWS:
     HTBOTTOMRIGHT = 17
     HTCAPTION = 2
 
+    DWMWA_USE_IMMERSIVE_DARK_MODE = 20
+    DWMWA_CAPTION_COLOR = 35
+
 BORDER_WIDTH = 8
 TITLEBAR_HEIGHT = 40
 SNAP_THRESHOLD = 20  # Pixels from edge to trigger snap (Linux only)
@@ -1196,15 +1199,39 @@ class MainWindow(QMainWindow):
                     return True
         return super().eventFilter(obj, event)
 
+    def configure_dwm_rendering(self, hwnd, background_color_rgb):
+        if IS_WINDOWS:
+            margins = ctypes.c_int * 4
+            m = margins(-1, -1, -1, -1)
+            ctypes.windll.dwmapi.DwmExtendFrameIntoClientArea(hwnd, ctypes.byref(m))
+            
+            r, g, b = background_color_rgb
+            
+            # Set dark/light mode
+            is_dark = (r + g + b) < 382
+            ctypes.windll.dwmapi.DwmSetWindowAttribute(
+                hwnd, 20, ctypes.byref(ctypes.c_int(1 if is_dark else 0)), 4
+            )
+            
+            # Set frame color (Windows 11)
+            colorref = (b << 16) | (g << 8) | r  # BGR format
+            try:
+                ctypes.windll.dwmapi.DwmSetWindowAttribute(
+                    hwnd, 35, ctypes.byref(ctypes.c_int(colorref)), 4
+                )
+            except: pass
+
     # Show window cleanly with proper style and shadow
     def show(self):
         if IS_WINDOWS:
             hwnd = int(self.winId())
             apply_window_style(hwnd)
-            apply_dwm_shadow(hwnd)
+            bg_rgb = (255, 255, 255)  # BG Color for Windows Wrapper
+            self.configure_dwm_rendering(hwnd, bg_rgb)
             self.setAttribute(Qt.WA_DontShowOnScreen, False)
         
         super().show()
+
     # ============= Resize implementation ends ===============
 
     def handle_card_open_clicked(self, card_title):
