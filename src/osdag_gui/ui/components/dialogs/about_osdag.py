@@ -47,7 +47,8 @@ class AboutOsdagDialog(QDialog):
         self.tabs.addTab(self._create_contributors_tab(), "Contributors")
         self.tabs.addTab(self._create_acknowledgements_tab(), "Acknowledgements")
         self.tabs.addTab(self._create_license_tab(), "License")
-        self.tabs.addTab(self._create_privacy_tab(), "Privacy Policy and Caveats")
+        self.tabs.addTab(self._create_privacy_tab(), "Privacy Policy")
+        self.tabs.addTab(self._create_caveats_tab(), "Caveats")
 
         # Footer with buttons
         footer_widget = self._create_footer()
@@ -148,7 +149,7 @@ class AboutOsdagDialog(QDialog):
                 <p>
                     Osdag contains open-source software packages from third parties. These are available on an
                     &ldquo;as is&rdquo; basis and subject to their individual license agreements.
-                    These licenses are available in <strong>License-dependencies.txt</strong>.
+                    These licenses are available in <strong>‘license-dependencies.txt’</strong>.
                     These third party tools are subject to their individual licenses as well as the Osdag license.
                 </p>
 
@@ -314,7 +315,25 @@ additional permissions listed below.
         Osdag acknowledges the support and contributions of the following organizations:
         </p>
 
-        <div style="margin: 30px 0; text-align: left;">
+        <div style="margin: 30px 5px; text-align: left;">
+            <h3 style="color: #91b014;">
+                <a href="https://www.civil.iitb.ac.in/" style="text-decoration: none; color: #91b014;">Civil Engineering Department, IIT Bombay</a>
+            </h3>
+            <div style="margin: 15px 0;">
+                <img src=":/images/iitb_logo.png" alt="IIT Bombay Civil Engineering Logo"">
+            </div>
+        </div>
+                        
+        <div style="margin: 30px 5px; text-align: left;">
+            <h3 style="color: #91b014;">
+                <a href="https://constructsteel.org/" style="text-decoration: none; color: #91b014;">Constructsteel</a>
+            </h3>
+            <div style="margin: 15px 0;">
+                <img src=":/images/constructsteel_logo.png" alt="Constructsteel Logo"">
+            </div>
+        </div>
+                        
+        <div style="margin: 30px 5px; text-align: left;">
             <h3 style="color: #91b014;">
                 <a href="https://fossee.in/" style="text-decoration: none; color: #91b014;">FOSSEE</a>
             </h3>
@@ -323,7 +342,7 @@ additional permissions listed below.
             </div>
         </div>
 
-        <div style="margin: 30px 0; text-align: left;">
+        <div style="margin: 30px 5px; text-align: left;">
             <h3 style="color: #91b014;">
                 <a href="https://insdag.com/" style="text-decoration: none; color: #91b014;">INSDAG</a>
             </h3>
@@ -332,16 +351,8 @@ additional permissions listed below.
             </div>
         </div>
 
-        <div style="margin: 30px 0; text-align: left;">
-            <h3 style="color: #91b014;">
-                <a href="https://constructsteel.org/" style="text-decoration: none; color: #91b014;">Constructsteel</a>
-            </h3>
-            <div style="margin: 15px 0;">
-                <img src=":/images/constructsteel_logo.png" alt="Constructsteel Logo"">
-            </div>
-        </div>
 
-        <div style="margin: 30px 0; text-align: left;">
+        <div style="margin: 30px 5px; text-align: left;">
             <h3 style="color: #91b014;">
                 <a href="https://steel.gov.in/" style="text-decoration: none; color: #91b014;">Ministry of Steel</a>
             </h3>
@@ -350,14 +361,6 @@ additional permissions listed below.
             </div>
         </div>
 
-        <div style="margin: 30px 0; text-align: left;">
-            <h3 style="color: #91b014;">
-                <a href="https://www.civil.iitb.ac.in/" style="text-decoration: none; color: #91b014;">Civil Engineering Department, IIT Bombay</a>
-            </h3>
-            <div style="margin: 15px 0;">
-                <img src=":/images/iitb_logo.png" alt="IIT Bombay Civil Engineering Logo"">
-            </div>
-        </div>
         """)
         
         layout.addWidget(browser)
@@ -380,20 +383,28 @@ additional permissions listed below.
                 </p>
 
                 <p>
-                    The Osdag developers’ community does not condone any unauthorised usage of private data,
-                    so our software does not gather or send personal data.
+                    The Osdag developers’ community does not condone any unauthorised usage of private data, so our software does not gather or send personal data.
                 </p>
 
                 <p>
-                    The Osdag website
-                    <a href="https://osdag.fossee.in" target="_blank" rel="noopener noreferrer">
-                        osdag.fossee.in
-                    </a>
-                    is mostly static; it does not contain any trackers, neither ours nor third-party.
-                    The website does not contain advertisements.
-                    The software does not contain advertisements or trackers either.
+                    The Osdag software does not contain any trackers or advertisements.
                 </p>
+            </section>
+        """)
+        
+        layout.addWidget(browser)
+        return widget
 
+    def _create_caveats_tab(self):
+        """Create the Caveats tab."""
+        widget = QWidget()
+        layout = QVBoxLayout(widget)
+        layout.setContentsMargins(15, 15, 15, 15)
+
+        browser = QTextBrowser()
+        browser.setOpenExternalLinks(True)
+        browser.setHtml("""
+            <section>
                 <h2>Caveats</h2>
 
                 <p>
@@ -423,6 +434,7 @@ additional permissions listed below.
         
         layout.addWidget(browser)
         return widget
+
 
     def _get_about_html(self):
         """Generate HTML content for About tab."""
