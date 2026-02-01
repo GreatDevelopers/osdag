@@ -555,17 +555,17 @@ class CustomWindow(QWidget):
         control_button_layout.addWidget(self.input_dock_control)
 
         self.log_dock_control = ClickableSvgWidget()
-        self.log_dock_control.load(":/vectors/logs_dock_inactive_light.svg")
+        self.log_dock_control.load(":/vectors/logs_dock_active_light.svg")
         self.log_dock_control.setFixedSize(18, 18)
         self.log_dock_control.clicked.connect(self.logs_dock_toggle)
-        self.log_dock_active = False
+        self.log_dock_active = True
         control_button_layout.addWidget(self.log_dock_control)
 
         self.output_dock_control = ClickableSvgWidget()
-        self.output_dock_control.load(":/vectors/output_dock_inactive_light.svg")
+        self.output_dock_control.load(":/vectors/output_dock_active_light.svg")
         self.output_dock_control.setFixedSize(18, 18)
         self.output_dock_control.clicked.connect(self.output_dock_toggle)
-        self.output_dock_active = False
+        self.output_dock_active = True
         control_button_layout.addWidget(self.output_dock_control)
 
         menu_h_layout.addWidget(control_btn_widget)
@@ -581,10 +581,8 @@ class CustomWindow(QWidget):
         self.splitter = QSplitter(Qt.Horizontal, self.body_widget)
         self.splitter.setHandleWidth(2)
         self.input_dock = InputDock(backend=self.backend, parent=self)
-        input_dock_width = self.input_dock.sizeHint().width()
-        self._input_dock_default_width = input_dock_width
+        self._input_dock_default_width = self.input_dock.sizeHint().width()
         self.splitter.addWidget(self.input_dock)
-
 
         central_widget = QWidget()
         central_H_layout = QHBoxLayout(central_widget)
@@ -612,7 +610,7 @@ class CustomWindow(QWidget):
         self.cad_log_splitter.addWidget(self.cad_widget)
 
         self.logs_dock = LogDock(parent=self)
-        self.logs_dock.setVisible(False)
+        self.logs_dock.setVisible(True)
         # log text
         self.textEdit = self.logs_dock.log_display
         self.backend.set_osdaglogger(self.textEdit, id)
@@ -629,25 +627,15 @@ class CustomWindow(QWidget):
 
         # Add output dock indicator label
         self.output_dock_label = OutputDockIndicator(parent=self)
-        self.output_dock_label.setVisible(True)
+        self.output_dock_label.setVisible(False)
         central_H_layout.addWidget(self.output_dock_label, 1)
         self.splitter.addWidget(central_widget)
 
         # root is the greatest level of parent that is the MainWindow
         self.output_dock = OutputDock(backend=self.backend, parent=self)
         self.splitter.addWidget(self.output_dock)
-        self.output_dock.hide()
 
         self.layout.addWidget(self.splitter)
-
-        total_width = self.width() - self.splitter.contentsMargins().left() - self.splitter.contentsMargins().right()
-        target_sizes = [0] * self.splitter.count()
-        target_sizes[0] = input_dock_width
-        target_sizes[2] = 0
-        remaining_width = total_width - input_dock_width
-        target_sizes[1] = max(0, remaining_width)
-        self.splitter.setSizes(target_sizes)
-        self.layout.activate()
         main_v_layout.addWidget(self.body_widget)
 
     # To set the initial sizes correctly when the widgets are loaded
@@ -801,7 +789,6 @@ class CustomWindow(QWidget):
         graphics_menu.addAction(self.toggle_opt_action)
 
         graphics_menu.addSeparator()
-
 
         # Database Menu
         database_menu = self.menu_bar.addMenu("Database")
@@ -1611,43 +1598,9 @@ class CustomWindow(QWidget):
                 except Exception as e:
                     print(f"Error setting camera view: {e}")
 
-                def show_logs():
-                    try:
-                        self.toggle_animate(True, 'log', on_finished=self.finished_loading)
-                        self.log_dock_active = True
-                    except Exception:
-                        if hasattr(self, 'logs_dock'):
-                            self.logs_dock.setVisible(True)
-                    
-                    # Update logs dock control icon
-                    self.update_docking_icons(log_is_active=True)
-
-                def hide_input():
-                    self.initial_view()
-                    try:
-                        self.toggle_animate(False, 'input', on_finished=show_logs)
-                        self.input_dock_active = False
-                        # Lock Basic Inputs
-                        self.input_dock.toggle_lock(set_locked_state=True)
-                    except Exception:
-                        input_widget = self.splitter.widget(0)
-                        if input_widget:
-                            input_widget.hide()
-                        show_logs()
-
-                try:
-                    self.toggle_animate(True, 'output', on_finished=hide_input)
-                    self.output_dock_active = True
-                except Exception:
-                    self.output_dock.show()
-                    sizes = self.splitter.sizes()
-                    if len(sizes) >= 3 and sizes[2] == 0:
-                        total_width = self.width() - self.splitter.contentsMargins().left() - self.splitter.contentsMargins().right()
-                        left_width = self.splitter.widget(0).sizeHint().width()
-                        right_width = self.output_dock.sizeHint().width()
-                        center_width = max(0, total_width - left_width - right_width)
-                        self.splitter.setSizes([left_width, center_width, right_width])
-                    hide_input()
+                self.initial_view()
+                self.input_dock.toggle_lock(set_locked_state=True)
+                self.finished_loading()
 
             # Update Output Dock fields wrt Input Dock fields
             self.output_dock.output_title_change(main)
