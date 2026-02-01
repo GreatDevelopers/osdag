@@ -249,7 +249,7 @@ class MainWindow(QMainWindow):
         # ============= Resize implementation ends ===============
            
         self.current_tab_index = 0 # To keep track of the next tab index
-        self.btn_size = QSize(46, 30)
+        self.btn_size = QSize(30, 30)
 
         # Initialize UI first, as sidebar will overlay it
         self.init_ui() # Call init_ui before sidebar creation to ensure main content exists
@@ -276,6 +276,7 @@ class MainWindow(QMainWindow):
         top_h_layout.setContentsMargins(0, 0, 0, 0)
         top_h_layout.setSpacing(0)
 
+        #------- Title bar Icons Start----------------------
         icon_label_widget = QWidget()
         icon_label_h_layout = QHBoxLayout(icon_label_widget)
         icon_label_h_layout.setContentsMargins(5, 0, 5, 0)
@@ -285,12 +286,11 @@ class MainWindow(QMainWindow):
         self.svg_widget = QSvgWidget()
         self.svg_widget.load(":/vectors/Osdag_logo.svg")
         self.svg_widget.setFixedSize(18, 18)
-
         icon_label_h_layout.addWidget(self.svg_widget)
-        top_h_layout.addWidget(icon_label_widget)
-        
+
         # Keep a reference for event filtering (double-click to maximize/restore)
         self.icon_label_widget = icon_label_widget
+        #------- Title bar Icons End----------------------
 
         # ============= Resize implementation start ===============
         # Linux: Enable mouse tracking
@@ -298,6 +298,7 @@ class MainWindow(QMainWindow):
             self.title_bar.setMouseTracking(True)
         # ============= Resize implementation ends ===============
 
+        #------- Tabs layout Start ----------------------
         tabs_h_layout = QHBoxLayout()
         tabs_h_layout.setSpacing(0)
         tabs_h_layout.setContentsMargins(0, 2, 0, 0)
@@ -309,22 +310,13 @@ class MainWindow(QMainWindow):
         self.tab_bar.setTabsClosable(True)
         self.tab_bar.setMovable(False)
         self.tab_bar.tabCloseRequested.connect(self.handle_close_tab)
-
         # ============= Resize implementation start ===============
         # Linux: Enable mouse tracking
         if IS_LINUX:
             self.tab_bar.setMouseTracking(True)
         # ============= Resize implementation ends ===============
-        
         tabs_h_layout.addWidget(self.tab_bar)
-        top_h_layout.addLayout(tabs_h_layout)
-        
-        # Install event filters for double-click maximize/restore on title widgets
-        self.tab_bar.installEventFilter(self)
-        self.icon_label_widget.installEventFilter(self)
-
-        # Stretch to push buttons to the right
-        top_h_layout.addStretch(1)
+        #------- Tabs layout End ----------------------
 
         # Helper function to create a styled button
         def create_button(icon_svg, is_close=False):
@@ -337,18 +329,46 @@ class MainWindow(QMainWindow):
             else:
                 btn.setObjectName("window_control_button")
             return btn
-
+        
+        #------- Control buttons Start ----------------------
         self.minimize_button = create_button(":/vectors/window_minimize_light.svg")
         self.minimize_button.clicked.connect(self.showMinimized)
-        top_h_layout.addWidget(self.minimize_button)
-
+        
         self.maximize_button = create_button(":/vectors/window_maximize_light.svg")
         self.maximize_button.clicked.connect(self.toggle_maximize_restore)
-        top_h_layout.addWidget(self.maximize_button)
-
+        
         self.close_button = create_button(":/vectors/window_close_light.svg", is_close=True)
         self.close_button.clicked.connect(self.close_osdag)
-        top_h_layout.addWidget(self.close_button)
+        #------- Control buttons Start ----------------------
+
+        # Arrange widgets in title bar layout
+        window_control_btn_left = False
+        if window_control_btn_left:
+            top_h_layout.addWidget(self.close_button)
+            top_h_layout.addWidget(self.minimize_button)
+            top_h_layout.addWidget(self.maximize_button)
+            
+            top_h_layout.addLayout(tabs_h_layout)
+            
+            # Stretch to push Icon to the right
+            top_h_layout.addStretch(1)
+            top_h_layout.addWidget(icon_label_widget)
+
+
+        else:
+            top_h_layout.addWidget(icon_label_widget)
+            top_h_layout.addLayout(tabs_h_layout)
+
+            # Stretch to push buttons to the right
+            top_h_layout.addStretch(1)
+
+            top_h_layout.addWidget(self.minimize_button)
+            top_h_layout.addWidget(self.maximize_button)
+            top_h_layout.addWidget(self.close_button)
+        
+        # Install event filters for double-click maximize/restore on title widgets
+        self.tab_bar.installEventFilter(self)
+        self.icon_label_widget.installEventFilter(self)
 
         self.start_pos = None
         self.start_geometry = None

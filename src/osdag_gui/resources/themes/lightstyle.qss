@@ -101,15 +101,16 @@ QPushButton:pressed {
 /* Window Control Buttons */
 QPushButton#window_control_button,
 QPushButton#close_button {
-    background-color: #f4f4f4;
+    background-color: #D0D0D0;
     color: white;
-    border-radius: 0px;
+    border-radius: 13px;
     border: none;
     padding: 0px;
+    margin: 2px;
 }
 
 QPushButton#window_control_button:hover {
-    background-color: #d9d7d7;
+    background-color: #dad9d9;
 }
 
 QPushButton#window_control_button:pressed {
