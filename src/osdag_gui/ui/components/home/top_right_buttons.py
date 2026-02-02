@@ -343,18 +343,31 @@ class DropDownButton(TopButton1):
         for text in menu_items:
             if text == "Databases (IS 808:2021)":
                 # Create a submenu
-                db_menu = QMenu("Databases (IS 808:2021)", self)
+                db_menu = QMenu(text, self)
                 sub_items = ["Column", "Beam", "Channel", "Angle"]
                 for sub in sub_items:
                     sub_action = QAction(sub, self)
                     if sub == "Column":
-                        sub_action.triggered.connect(lambda table="Columns", call_type="database": self.downloadDatabase.emit(table, call_type))
+                        sub_action.triggered.connect(lambda _, table="Columns", call_type="database": self.downloadDatabase.emit(table, call_type))
                     elif sub == "Beam":
-                        sub_action.triggered.connect(lambda table="Beams", call_type="database": self.downloadDatabase.emit(table, call_type))
+                        sub_action.triggered.connect(lambda _, table="Beams", call_type="database": self.downloadDatabase.emit(table, call_type))
                     elif sub == "Channel":
-                        sub_action.triggered.connect(lambda table="Channels", call_type="database": self.downloadDatabase.emit(table, call_type))
+                        sub_action.triggered.connect(lambda _, table="Channels", call_type="database": self.downloadDatabase.emit(table, call_type))
                     elif sub == "Angle":
-                        sub_action.triggered.connect(lambda table="Angles", call_type="database": self.downloadDatabase.emit(table, call_type))
+                        sub_action.triggered.connect(lambda _, table="Angles", call_type="database": self.downloadDatabase.emit(table, call_type))
+                    db_menu.addAction(sub_action)
+                self.menu.addMenu(db_menu)
+
+            elif text == "Databases (IS 4923:2017)":
+                # Create a submenu
+                db_menu = QMenu(text, self)
+                sub_items = ["SHS", "RHS"]
+                for sub in sub_items:
+                    sub_action = QAction(sub, self)
+                    if sub == "SHS":
+                        sub_action.triggered.connect(lambda _, table="SHS", call_type="database": self.downloadDatabase.emit(table, call_type))
+                    elif sub == "RHS":
+                        sub_action.triggered.connect(lambda _, table="RHS", call_type="database": self.downloadDatabase.emit(table, call_type))
                     db_menu.addAction(sub_action)
                 self.menu.addMenu(db_menu)
 
@@ -381,6 +394,8 @@ class DropDownButton(TopButton1):
                     action.triggered.connect(lambda: AboutOsdagDialog().exec())
                 elif text == "Check For Update":
                     action.triggered.connect(lambda: UpdateDialog().exec())
+                elif text == "Database (CHS)":
+                    action.triggered.connect(lambda _, table="CHS", call_type="database": self.downloadDatabase.emit(table, call_type))
                 self.menu.addAction(action)
         # Set the menu to the button
         self.set_submenu(self.menu)

@@ -1693,7 +1693,7 @@ class MainWindow(QMainWindow):
     #----------------------------Download-Database/Excel-END-----------------------------------------
     def download_Database(self, table, call_type="database"):
 
-        default_dir = os.path.join(get_documents_folder(), str(table+"_Details.xlsx"))
+        default_dir = os.path.join(get_documents_folder(), f"{table}_Details.xlsx")
         fileName, _ = QFileDialog.getSaveFileName(  QFileDialog(), 
                                                     "Download File",
                                                     default_dir,
