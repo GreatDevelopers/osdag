@@ -769,7 +769,8 @@ class MainWindow(QMainWindow):
                          "Closing it will exit Osdag.\n"
                         f"Do you want to save your '{tab_title}' design before closing?"
                     ),
-                    buttons=["Go to Home", "Save and Exit", "Exit Without Saving", "Cancel"]
+                    buttons=["Go to Home", "Save and Exit", "Exit Without Saving", "Cancel"],
+                    dialogType=MessageBoxType.Warning
                 ).exec()
                 
                 if result == "Save and Exit":

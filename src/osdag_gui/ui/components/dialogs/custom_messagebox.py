@@ -111,34 +111,42 @@ class CustomMessageBox(QDialog):
         style_map = {
             MessageBoxType.Information: """
                 QPushButton {
-                    background-color: #2196F3;
-                    color: white;
-                    border: none;
+                    background-color: white;
+                    color: black;
+                    border: 1px solid black;
                     border-radius: 5px;
                     padding: 5px 15px;
                     font-size: 12px;
                 }
                 QPushButton:hover {
-                    background-color: #1E88E5;
+                    background-color: #91b014;
+                    border: 1px solid #91b014;
+                    color: white;
                 }
                 QPushButton:pressed {
-                    background-color: #1976D2;
+                    color: black;
+                    background-color: white;
+                    border: 1px solid black;
                 }
             """,
             MessageBoxType.Warning: """
                 QPushButton {
-                    background-color: #FF9800;
-                    color: white;
-                    border: none;
+                    background-color: white;
+                    color: black;
+                    border: 1px solid black;
                     border-radius: 5px;
                     padding: 5px 15px;
                     font-size: 12px;
                 }
                 QPushButton:hover {
-                    background-color: #FB8C00;
+                    background-color: #91b014;
+                    border: 1px solid #91b014;
+                    color: white;
                 }
                 QPushButton:pressed {
-                    background-color: #F57C00;
+                    color: black;
+                    background-color: white;
+                    border: 1px solid black;
                 }
             """,
             MessageBoxType.Critical: """
