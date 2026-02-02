@@ -345,6 +345,13 @@ class InputDock(QWidget):
                 right.setDisabled(True)
                 cur_box_form.addRow(left, right_aligned_widget(right))
             
+            elif type == TYPE_HEADING:
+                left = QLabel(label)
+                left.setObjectName(field[0] + "_label")
+                left.setMinimumWidth(label_width)
+                right = QLabel()
+                cur_box_form.addRow(left, right_aligned_widget(right))
+            
             if index == len(field_list):
                 # Last Data tupple
                 # Must add group_box with form

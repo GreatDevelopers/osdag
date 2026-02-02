@@ -106,7 +106,7 @@ class Data:
             ":/vectors/info_default.svg",
             ":/vectors/info_hover.svg",
             "   Info",
-            ["About Osdag", "Ask Us a Question", "Check for Update"]
+            ["About Osdag", "Ask us a question", "Check for Update"]
         ),
         (
             ":/vectors/resources_default.svg",
