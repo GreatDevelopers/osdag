@@ -41,6 +41,7 @@ from ctypes import wintypes
 # Detect OS
 IS_WINDOWS = platform.system() == "Windows"
 IS_LINUX = platform.system() == "Linux"
+IS_MAC = platform.system() == "Darwin"
 
 # ---------------- DPI AWARENESS (Windows only) ----------------
 if IS_WINDOWS:
@@ -343,6 +344,10 @@ class MainWindow(QMainWindow):
 
         # Arrange widgets in title bar layout
         window_control_btn_left = False
+
+        if IS_MAC:
+            window_control_btn_left = True
+            
         if window_control_btn_left:
             top_h_layout.addWidget(self.close_button)
             top_h_layout.addWidget(self.minimize_button)
