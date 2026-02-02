@@ -1313,7 +1313,8 @@ QDialog#UpdateDialog,
 QDialog#CustomDialog,
 QDialog#design_report_popup,
 QDialog#customized_input,
-QDialog#spacing_dialog{
+QDialog#spacing_dialog,
+QDialog#win_control_btn_dialog{
     background-color: #FFFFFF;
     border: 1px solid #91b014;
 }

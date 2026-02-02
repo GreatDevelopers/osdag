@@ -18,6 +18,7 @@ from PySide6.QtGui import QIcon, QGuiApplication, QPixmap, QPainter, QColor
 from osdag_gui.ui.windows.home_window import HomeWindow
 from osdag_gui.ui.windows.template_page import CustomWindow
 from osdag_gui.ui.components.dialogs.custom_messagebox import CustomMessageBox, MessageBoxType
+from osdag_gui.ui.components.dialogs.control_btn_pos import ControlButtonPositionDialog
 
 from osdag_gui.data.database.database_config import PROJECT_PATH, ID, update_project_path, delete_project_record
 from osdag_gui.data.database.database_config import get_module_function
@@ -334,21 +335,19 @@ class MainWindow(QMainWindow):
         #------- Control buttons Start ----------------------
         self.minimize_button = create_button(":/vectors/window_minimize_light.svg")
         self.minimize_button.clicked.connect(self.showMinimized)
+        self.minimize_button.setContextMenuPolicy(Qt.CustomContextMenu)
+        self.minimize_button.customContextMenuRequested.connect(self.show_button_position_dialog)
         
         self.maximize_button = create_button(":/vectors/window_maximize_light.svg")
         self.maximize_button.clicked.connect(self.toggle_maximize_restore)
+        self.maximize_button.setContextMenuPolicy(Qt.CustomContextMenu)
+        self.maximize_button.customContextMenuRequested.connect(self.show_button_position_dialog)
         
         self.close_button = create_button(":/vectors/window_close_light.svg", is_close=True)
         self.close_button.clicked.connect(self.close_osdag)
         #------- Control buttons Start ----------------------
-
-        # Arrange widgets in title bar layout
-        window_control_btn_left = False
-
-        if IS_MAC:
-            window_control_btn_left = True
             
-        if window_control_btn_left:
+        if self.theme.is_control_btn_left():
             top_h_layout.addWidget(self.close_button)
             top_h_layout.addWidget(self.minimize_button)
             top_h_layout.addWidget(self.maximize_button)
@@ -402,6 +401,15 @@ class MainWindow(QMainWindow):
         # Ensure initial synchronization
         if self.tab_bar.count() > 0:
             self.tab_widget.setCurrentIndex(self.tab_bar.currentIndex())
+
+    # Show the control button location popup
+    def show_button_position_dialog(self):
+        """Show dialog to change control button position"""
+        dialog = ControlButtonPositionDialog(
+            current_position=self.theme.control_btn_pos,
+            parent=self
+        )
+        dialog.exec()
 
     # ============= Resize implementation start ===============
     # WINDOWS: WIN32 NATIVE EVENT PROCESSING - FINAL FIX FOR AERO SNAP

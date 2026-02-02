@@ -15,12 +15,28 @@ class ThemeManager(QObject):
         self.app = app
         self.settings = QSettings("Osdag", "Osdag-Desktop")
         self.current_theme = self.settings.value("theme", "light")
+        self.control_btn_pos = self.settings.value("control_btn_pos", "right")
         self.themes = {
             "light": ":/themes/lightstyle.qss",
             "dark": ":/themes/darkstyle.qss"
         }
         self.theme_cache = {}
         self._preload_themes()
+    
+    def set_control_btn_pos(self, position):
+        """Set control button position ('left' or 'right')."""
+        if position not in ["left", "right"]:
+            print(f"Invalid button position: {position}")
+            return False
+        
+        self.control_btn_pos = position
+        self.settings.setValue("control_btn_pos", position)
+        print(f"Button position changed to: {position}")
+        return True
+    
+    def is_control_btn_left(self):
+        """Check if buttons are on the left."""
+        return self.control_btn_pos == "left"
     
     def _preload_themes(self):
         """Read and cache theme stylesheets."""
