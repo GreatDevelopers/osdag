@@ -1371,6 +1371,7 @@ class Window(QDialog):
 class AdditionalInputs(QObject):
     def __init__(self, main, module_window, input_dictionary, parent=None):
         self.ui = Window(main, input_dictionary, parent=parent)
+        # print(f"@@input_dictionary: {input_dictionary}\n\n")
         self.main = main
         self.main_controller = parent
         self.module_window = module_window
@@ -1405,14 +1406,31 @@ class AdditionalInputs(QObject):
         tab_Weld = self.ui.tabWidget.tabs.findChild(QWidget, "Weld")
         tab_Detailing = self.ui.tabWidget.tabs.findChild(QWidget, "Detailing")
         tab_Design = self.ui.tabWidget.tabs.findChild(QWidget, "Design")
+        # For Base Plate Connection
+        tab_anchor_bolt = self.ui.tabWidget.tabs.findChild(QWidget, "Anchor Bolt")
+        # For Column Design, Simply Supported, Cantiliver, Plate Girder
+        tab_optimization = self.ui.tabWidget.tabs.findChild(QWidget, "Optimization")
+        # For Plate Girder
+        tab_stiffeners = self.ui.tabWidget.tabs.findChild(QWidget, "Stiffeners")
+        tab_additional_pg = self.ui.tabWidget.tabs.findChild(QWidget, "Additional Girder Data")
+        tab_deflection = self.ui.tabWidget.tabs.findChild(QWidget, "Deflection")
 
         bolt_values_dictionary = {}
         weld_values_dictionary = {}
         design_values_dictionary = {}
         detailing_values_dictionary = {}
+        # For Base Plate Connection
+        base_anchor_bolt_dictionary = {}
+        # For Column Design, Simply Supported, Cantiliver, Plate Girder
+        optimization_dictionary = {}
+        # For Plate Girder
+        stiffeners_dictionary = {}
+        additional_pg_dictionary = {}
+        deflection_dictionary = {}
 
         if tab_Bolt is not None:
-            for i in main.bolt_values(input_dictionary):
+            f = self.find_function_reference(main.tab_list(), "Bolt")
+            for i in f(input_dictionary):
                 if i[2] in [TYPE_TEXTBOX, TYPE_COMBOBOX]:
                     bolt_values_dictionary.update(
                         {i[0]: str(main.get_values_for_design_pref(i[0], input_dictionary))})
@@ -1430,7 +1448,8 @@ class AdditionalInputs(QObject):
                         pass
 
         if tab_Weld is not None:
-            for i in main.weld_values(input_dictionary):
+            f = self.find_function_reference(main.tab_list(), "Weld")
+            for i in f(input_dictionary):
                 if i[2] in [TYPE_TEXTBOX, TYPE_COMBOBOX]:
                     weld_values_dictionary.update(
                         {i[0]: str(main.get_values_for_design_pref(i[0], input_dictionary))})
@@ -1445,7 +1464,8 @@ class AdditionalInputs(QObject):
                         pass
 
         if tab_Detailing is not None:
-            for i in main.detailing_values(input_dictionary):
+            f = self.find_function_reference(main.tab_list(), "Detailing")
+            for i in f(input_dictionary):
                 if i[2] in [TYPE_TEXTBOX, TYPE_COMBOBOX]:
                     detailing_values_dictionary.update(
                         {i[0]: str(main.get_values_for_design_pref(i[0], input_dictionary))})
@@ -1460,7 +1480,8 @@ class AdditionalInputs(QObject):
                         pass
 
         if tab_Design is not None:
-            for i in main.design_values(input_dictionary):
+            f = self.find_function_reference(main.tab_list(), "Design")
+            for i in f(input_dictionary):
                 if i[2] in [TYPE_TEXTBOX, TYPE_COMBOBOX]:
                     design_values_dictionary.update(
                         {i[0]: str(main.get_values_for_design_pref(i[0], input_dictionary))})
@@ -1473,6 +1494,112 @@ class AdditionalInputs(QObject):
                         children.setCurrentText(design_values_dictionary[children.objectName()])
                     else:
                         pass
+        
+        # For Base Plate Connection
+        if tab_anchor_bolt is not None:
+            f = self.find_function_reference(main.tab_list(), "Anchor Bolt")
+            for i in f(input_dictionary):
+                if i[2] in [TYPE_TEXTBOX, TYPE_COMBOBOX]:
+                    try:
+                        val = str(main.get_values_for_design_pref(i[0], input_dictionary))
+                    except KeyError:
+                        val = str(i[4]) if i[4] is not None else ''
+                    base_anchor_bolt_dictionary.update({i[0]: val})
+
+            for children in tab_anchor_bolt.findChildren(QWidget):
+                if children.objectName() in base_anchor_bolt_dictionary.keys():
+                    if type(children) == QLineEdit:
+                        children.setText(base_anchor_bolt_dictionary[children.objectName()])
+                    elif type(children) == QComboBox:
+                        children.setCurrentText(base_anchor_bolt_dictionary[children.objectName()])
+                    else:
+                        pass
+        
+        # For Column Design, Simply Supported, Cantiliver, Plate Girder
+        if tab_optimization is not None:
+            f = self.find_function_reference(main.tab_list(), "Optimization")
+            for i in f(input_dictionary):
+                if i[2] in [TYPE_TEXTBOX, TYPE_COMBOBOX]:
+                    try:
+                        val = str(main.get_values_for_design_pref(i[0], input_dictionary))
+                    except KeyError:
+                        val = str(i[4]) if i[4] is not None else ''
+                    optimization_dictionary.update({i[0]: val})
+
+            for children in tab_optimization.findChildren(QWidget):
+                if children.objectName() in optimization_dictionary.keys():
+                    if type(children) == QLineEdit:
+                        children.setText(optimization_dictionary[children.objectName()])
+                    elif type(children) == QComboBox:
+                        children.setCurrentText(optimization_dictionary[children.objectName()])
+                    else:
+                        pass
+        
+        # For Plate Girder
+        if tab_stiffeners is not None:
+            f = self.find_function_reference(main.tab_list(), "Stiffeners")
+            for i in f(input_dictionary):
+                if i[2] in [TYPE_TEXTBOX, TYPE_COMBOBOX]:
+                    try:
+                        val = str(main.get_values_for_design_pref(i[0], input_dictionary))
+                    except KeyError:
+                        val = str(i[4]) if i[4] is not None else ''
+                    stiffeners_dictionary.update({i[0]: val})
+
+            for children in tab_stiffeners.findChildren(QWidget):
+                if children.objectName() in stiffeners_dictionary.keys():
+                    if type(children) == QLineEdit:
+                        children.setText(stiffeners_dictionary[children.objectName()])
+                    elif type(children) == QComboBox:
+                        children.setCurrentText(stiffeners_dictionary[children.objectName()])
+                    else:
+                        pass
+        
+        # For Plate Girder
+        if tab_additional_pg is not None:
+            f = self.find_function_reference(main.tab_list(), "Additional Girder Data")
+            for i in f(input_dictionary):
+                if i[2] in [TYPE_TEXTBOX, TYPE_COMBOBOX]:
+                    try:
+                        val = str(main.get_values_for_design_pref(i[0], input_dictionary))
+                    except KeyError:
+                        val = str(i[4]) if i[4] is not None else ''
+                    additional_pg_dictionary.update({i[0]: val})
+
+            for children in tab_additional_pg.findChildren(QWidget):
+                if children.objectName() in additional_pg_dictionary.keys():
+                    if type(children) == QLineEdit:
+                        children.setText(additional_pg_dictionary[children.objectName()])
+                    elif type(children) == QComboBox:
+                        children.setCurrentText(additional_pg_dictionary[children.objectName()])
+                    else:
+                        pass
+        
+        # For Plate Girder
+        if tab_deflection is not None:
+            f = self.find_function_reference(main.tab_list(), "Deflection")
+            for i in f(input_dictionary):
+                if i[2] in [TYPE_TEXTBOX, TYPE_COMBOBOX]:
+                    try:
+                        val = str(main.get_values_for_design_pref(i[0], input_dictionary))
+                    except KeyError:
+                        val = str(i[4]) if i[4] is not None else ''
+                    deflection_dictionary.update({i[0]: val})
+
+            for children in tab_deflection.findChildren(QWidget):
+                if children.objectName() in deflection_dictionary.keys():
+                    if type(children) == QLineEdit:
+                        children.setText(deflection_dictionary[children.objectName()])
+                    elif type(children) == QComboBox:
+                        children.setCurrentText(deflection_dictionary[children.objectName()])
+                    else:
+                        pass
+
+    # find function reference
+    def find_function_reference(self, list, tab_name):
+        for i in list:
+            if i[0] == tab_name:
+                return i[2]
 
     def highlight_slipfactor_description(self):
         """Highlight the description of currosponding slipfactor on selection of inputs
