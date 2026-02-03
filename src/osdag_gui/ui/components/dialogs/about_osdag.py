@@ -133,39 +133,32 @@ class AboutOsdagDialog(QDialog):
         browser = CustomTextBrowser()
         browser.setOpenExternalLinks(True)
         browser.setHtml("""
-            <section>
-                <p>
-                    Osdag is licensed under the terms of the LGPL v3 license, as stated below.
-                </p>
-                <p>
-                    Osdag is a free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, version 3 of the License.
-                </p>
+<pre>
+Osdag is licensed under the terms of the LGPL v3 license, as stated below.
 
-                <p>
-                    This programme is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-                    See the GNU Lesser General Public License for more details.
-                </p>
+Osdag is a free software: you can redistribute it and/or modify it under the
+terms of the GNU Lesser General Public License as published by the Free Software 
+Foundation, version 3 of the License.
 
-                <p>
-                    You should have received a copy of the GNU Lesser General Public License along with this program.
-                    If not, see
-                    <a href="http://www.gnu.org/licenses/" target="_blank" rel="noopener noreferrer">
-                        http://www.gnu.org/licenses/
-                    </a>.
-                </p>
+This programme is distributed in the hope that it will be useful, but WITHOUT 
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS 
+FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more 
+details.
+                        
+You should have received a copy of the GNU Lesser General Public License along 
+with this program. If not, see &lt;http://www.gnu.org/licenses/&gt;
+                        
+Notice of Third Party Software Licenses
 
-                <h3>Notice of Third Party Software Licenses</h3>
+Osdag contains open-source software packages from third parties. These are 
+available on an "as is" basis and subject to their individual license agreements.
+These licenses are available in ‘license-dependencies.txt’. These third party tools 
+are subject to their individual licenses as well as the Osdag license.
+</pre>
 
-                <p>
-                    Osdag contains open-source software packages from third parties. These are available on an
-                    &ldquo;as is&rdquo; basis and subject to their individual license agreements.
-                    These licenses are available in <strong>‘license-dependencies.txt’</strong>.
-                    These third party tools are subject to their individual licenses as well as the Osdag license.
-                </p>
+<hr />
 
-                <hr />
-
-                <pre>
+<pre>
 GNU LESSER GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
@@ -327,7 +320,7 @@ additional permissions listed below.
 
         <div style="margin: 30px 5px; text-align: left;">
             <h3 style="color: #91b014;">
-                <a href="https://www.civil.iitb.ac.in/" style="text-decoration: none; color: #91b014;">Civil Engineering Department, IIT Bombay</a>
+                <a href="https://www.civil.iitb.ac.in/" style="text-decoration: none; color: #91b014;">Department of Civil Engineering, IIT Bombay</a>
             </h3>
             <div style="margin: 15px 0;">
                 <img src=":/images/iitb_logo.png" alt="IIT Bombay Civil Engineering Logo"">
@@ -336,7 +329,7 @@ additional permissions listed below.
                         
         <div style="margin: 30px 5px; text-align: left;">
             <h3 style="color: #91b014;">
-                <a href="https://constructsteel.org/" style="text-decoration: none; color: #91b014;">Constructsteel</a>
+                <a href="https://constructsteel.org/" style="text-decoration: none; color: #91b014;">constructsteel</a>
             </h3>
             <div style="margin: 15px 0;">
                 <img src=":/images/constructsteel_logo.png" alt="Constructsteel Logo"">

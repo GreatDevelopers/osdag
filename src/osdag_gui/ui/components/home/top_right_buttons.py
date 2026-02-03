@@ -370,6 +370,17 @@ class DropDownButton(TopButton1):
                         sub_action.triggered.connect(lambda _, table="RHS", call_type="database": self.downloadDatabase.emit(table, call_type))
                     db_menu.addAction(sub_action)
                 self.menu.addMenu(db_menu)
+            
+            elif text == "Databases (IS 1161:2014)":
+                # Create a submenu
+                db_menu = QMenu(text, self)
+                sub_items = ["CHS"]
+                for sub in sub_items:
+                    sub_action = QAction(sub, self)
+                    if text == "CHS":
+                        sub_action.triggered.connect(lambda _, table="CHS", call_type="database": self.downloadDatabase.emit(table, call_type))
+                    db_menu.addAction(sub_action)
+                self.menu.addMenu(db_menu)
 
             elif text == "Custom Database":
                 # Create a submenu
@@ -394,8 +405,6 @@ class DropDownButton(TopButton1):
                     action.triggered.connect(lambda: AboutOsdagDialog().exec())
                 elif text == "Check For Update":
                     action.triggered.connect(lambda: UpdateDialog().exec())
-                elif text == "Database (CHS)":
-                    action.triggered.connect(lambda _, table="CHS", call_type="database": self.downloadDatabase.emit(table, call_type))
                 self.menu.addAction(action)
         # Set the menu to the button
         self.set_submenu(self.menu)

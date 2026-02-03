@@ -112,7 +112,7 @@ class Data:
             ":/vectors/resources_default.svg",
             ":/vectors/resources_hover.svg",
             "Resources",
-            ["Design Examples", "Databases (IS 808:2021)", "Databases (IS 4923:2017)", "Database (CHS)", "Custom Database"]
+            ["Design Examples", "Databases (IS 808:2021)", "Databases (IS 4923:2017)", "Databases (IS 1161:2014)", "Custom Database"]
         ),
         (
             ":/vectors/plugin_default.svg",
