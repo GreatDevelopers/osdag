@@ -137,7 +137,7 @@ class FinPlateCapacityDetails(QDialog):
         for key, value in self.dict_shear_failure.items():
             param_layout = QHBoxLayout()
             param_layout.setContentsMargins(0, 2, 0, 2)  # Minimal margins
-            param_label = QLabel(key.title())
+            param_label = QLabel(key)
             param_label.setStyleSheet("font-size: 12px;")
             value_label = QLabel(f'{value}')
             value_label.setStyleSheet("font-size: 12px; font-weight: bold;")
@@ -153,7 +153,7 @@ class FinPlateCapacityDetails(QDialog):
         for key, value in self.dict_tension_failure.items():
             param_layout = QHBoxLayout()
             param_layout.setContentsMargins(0, 2, 0, 2)
-            param_label = QLabel(key.title())
+            param_label = QLabel(key)
             param_label.setStyleSheet("font-size: 12px;")
             value_label = QLabel(f'{value}')
             value_label.setStyleSheet("font-size: 12px; font-weight: bold;")
@@ -162,21 +162,21 @@ class FinPlateCapacityDetails(QDialog):
             param_layout.addWidget(value_label)
             left_layout.addLayout(param_layout)
 
-        sub_heading_label3 = QLabel("Section 3")
-        sub_heading_label3.setStyleSheet("font-size: 14px; font-weight: bold; margin-top: 15px; margin-bottom: 5px;")
-        left_layout.addWidget(sub_heading_label3)
+        # sub_heading_label3 = QLabel("Section 3")
+        # sub_heading_label3.setStyleSheet("font-size: 14px; font-weight: bold; margin-top: 15px; margin-bottom: 5px;")
+        # left_layout.addWidget(sub_heading_label3)
 
-        for key, value in self.dict_section_3.items():
-            param_layout = QHBoxLayout()
-            param_layout.setContentsMargins(0, 2, 0, 2)
-            param_label = QLabel(key.title())
-            param_label.setStyleSheet("font-size: 12px;")
-            value_label = QLabel(f'{value}')
-            value_label.setStyleSheet("font-size: 12px; font-weight: bold;")
-            param_layout.addWidget(param_label)
-            param_layout.addStretch()
-            param_layout.addWidget(value_label)
-            left_layout.addLayout(param_layout)
+        # for key, value in self.dict_section_3.items():
+        #     param_layout = QHBoxLayout()
+        #     param_layout.setContentsMargins(0, 2, 0, 2)
+        #     param_label = QLabel(key)
+        #     param_label.setStyleSheet("font-size: 12px;")
+        #     value_label = QLabel(f'{value}')
+        #     value_label.setStyleSheet("font-size: 12px; font-weight: bold;")
+        #     param_layout.addWidget(param_label)
+        #     param_layout.addStretch()
+        #     param_layout.addWidget(value_label)
+        #     left_layout.addLayout(param_layout)
 
         left_layout.addStretch()
         left_panel.setLayout(left_layout)
