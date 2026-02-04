@@ -379,9 +379,11 @@ class FinPlateCapacityDetails(QDialog):
         segments.append(('edge', x_start-edge, x_start))
         x_start -= edge
         segments.append(('edge', 0, x_start))
+        
         for label, x1, x2 in segments:
             value = x2 - x1
             self.addHorizontalDimension(scene, x1, -h_offset, x2, -h_offset, f"{value:.1f}", pen)
+
         # Add vertical dimensions
         self.addVerticalDimension(scene, width + v_offset, 0, width + v_offset, end, str(end), pen)
         for i in range(self.rows - 1):
