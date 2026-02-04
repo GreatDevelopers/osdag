@@ -1,20 +1,14 @@
 import sys
-from PySide6.QtWidgets import (
-    QApplication, QMainWindow, QWidget, QVBoxLayout,
-    QHBoxLayout, QLabel, QGraphicsView,
-    QGraphicsScene, QGraphicsRectItem, QFrame
-)
-
-from PySide6.QtGui import (
-    QPixmap, QPainter, QPen, QFont, QColor,
-    QPolygonF, QBrush
-)
-
-from PySide6.QtCore import (
-    Qt, QRectF, QPointF
-)
+from PySide6.QtWidgets import (QApplication, QDialog, QWidget, QVBoxLayout, 
+                             QHBoxLayout, QLabel, QGraphicsView, QSizeGrip,
+                             QGraphicsScene, QGraphicsRectItem, QFrame)
+from PySide6.QtGui import QPixmap
+from PySide6.QtCore import Qt, QRectF
+from PySide6.QtGui import QPainter, QPen, QFont, QColor
+from PySide6.QtGui import QPolygonF, QBrush
+from PySide6.QtCore import QPointF
+from osdag_gui.ui.components.dialogs.custom_titlebar import CustomTitleBar
 from osdag_core.Common import *
-
 try:
     pen_style_dash = Qt.PenStyle.DashLine
 except AttributeError:
@@ -22,7 +16,7 @@ except AttributeError:
         "Your PySide6 version does not support dashed lines via Qt.PenStyle.DashLine. Please update PySide6.")
 
 
-class B2BCoverPlateCapacityDetails(QMainWindow):
+class B2BCoverPlateCapacityDetails(QDialog):
     def __init__(self, connection_obj, rows=3, cols=2, main=None):
         print(main)
 
@@ -46,8 +40,8 @@ class B2BCoverPlateCapacityDetails(QMainWindow):
             self.plate_width = dict1['Web_Plate.Width']
             self.bolt_diameter = dict1['Bolt.Diameter']
             web_capcity = dict1['Web_plate.spacing'][1]
-            print(web_capcity(main, True))
-            data2 = web_capcity(main, True)
+            print(web_capcity(True))
+            data2 = web_capcity(True)
             for i in range(len(data2)):
                 print(f"{i} : {data2[i]}")
             self.pitch = data2[2][3]
@@ -55,27 +49,27 @@ class B2BCoverPlateCapacityDetails(QMainWindow):
             self.Gauge = data2[4][3]
             self.Edge = data2[5][3]
             bolt_cap = dict1['Web Bolt.Capacities'][1]
-            print(bolt_cap(main, True))
+            print(bolt_cap(True))
             bolt_cap = bolt_cap(True)
         elif web == False:
             self.plate_length = dict1['Flange_Plate.Width (mm)']
             self.plate_width = dict1['flange_plate.Length']
             self.bolt_diameter = dict1['Bolt.Diameter']
             flange_capcity = dict1['Flange_plate.spacing'][1]
-            data2 = flange_capcity(main, True)
+            data2 = flange_capcity(True)
             self.pitch = data2[2][3]
             self.End = data2[3][3]
             self.Gauge = data2[4][3]
             self.Edge = data2[5][3]
             bolt_cap = dict1['Bolt.Capacities'][1]
-            print(bolt_cap(main, True))
-            bolt_cap = bolt_cap(main, True)
+            print(bolt_cap(True))
+            bolt_cap = bolt_cap(True)
 
         # capacity
         if web == True and self.drawing_type == "capacity":
             # web capacity details
             web_capacity_fnc = dict1['section.web_capacities'][1]
-            web_capacity_val = web_capacity_fnc(main, True)
+            web_capacity_val = web_capacity_fnc(True)
             self.web_capacity_details = {item[1]: float(
                 item[3]) for item in web_capacity_val if item[2] == 'TextBox'}
 
@@ -83,7 +77,7 @@ class B2BCoverPlateCapacityDetails(QMainWindow):
         elif web == False and self.drawing_type == "capacity":
             # flange capacity details
             flange_capacity_fnc = dict1['section.flange_capacity'][1]
-            flange_capacity_val = flange_capacity_fnc(main, True)
+            flange_capacity_val = flange_capacity_fnc(True)
             self.flange_capacity_details = {item[1]: float(
                 item[3]) for item in flange_capacity_val if item[2] == 'TextBox'}
 
@@ -91,8 +85,27 @@ class B2BCoverPlateCapacityDetails(QMainWindow):
         self.rows = bolt_cap[2][3]/self.cols
         self.initUI()
 
+    def setupWrapper(self):
+        self.setWindowFlags(Qt.FramelessWindowHint | Qt.WindowSystemMenuHint)
+        self.setObjectName("spacing_capacity_details")
+        main_layout = QVBoxLayout(self)
+        main_layout.setContentsMargins(1, 1, 1, 1)
+        main_layout.setSpacing(0)
+        self.title_bar = CustomTitleBar()
+        self.title_bar.setTitle("Bolt Pattern")
+        main_layout.addWidget(self.title_bar)
+        self.content_widget = QWidget(self)
+        main_layout.addWidget(self.content_widget, 1)
+        size_grip = QSizeGrip(self)
+        size_grip.setFixedSize(16, 16)
+        overlay = QHBoxLayout()
+        overlay.setContentsMargins(0, 0, 4, 4)
+        overlay.addStretch(1)
+        overlay.addWidget(size_grip, 0, Qt.AlignBottom | Qt.AlignRight)
+        main_layout.addLayout(overlay)
+
     def initUI(self):
-        self.setWindowTitle('Bolt Pattern Generator')
+        self.setupWrapper()
         self.setGeometry(100, 100, 1050, 500)
 
         # Print summary (optional debug/log info)
@@ -247,9 +260,7 @@ class B2BCoverPlateCapacityDetails(QMainWindow):
             self.view1.setMaximumWidth(400)
             self.view2.setMaximumWidth(400)
 
-            main_widget = QWidget()
-            main_widget.setLayout(main_vlayout)
-            self.setCentralWidget(main_widget)
+            self.content_widget.setLayout(main_vlayout)
         else:
             # Only one drawing (original layout)
             left_panel = QWidget()
@@ -290,9 +301,7 @@ class B2BCoverPlateCapacityDetails(QMainWindow):
             main_layout = QHBoxLayout()
             main_layout.addWidget(left_panel, 1)
             main_layout.addWidget(self.view, 3)
-            main_widget = QWidget()
-            main_widget.setLayout(main_layout)
-            self.setCentralWidget(main_widget)
+            self.content_widget.setLayout(main_layout)
 
         # Automatically adjust view to fit scene
     def get_parameters(self, type_):

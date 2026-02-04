@@ -723,20 +723,19 @@ class OutputDock(QWidget):
                     break    
 
                 elif op[0].startswith('SeatedAngle') or op[0].startswith('TopAngle'):
-                            if op[0]==KEY_OUT_SEATED_ANGLE_BOLT_COL:
-                                val=3
-                            elif op[0]==KEY_OUT_SEATED_ANGLE_BOLT_BEAM:
-                                val=4
-                            elif op[0]==KEY_OUT_TOP_ANGLE_BOLT_COL:
-                                val=1
-                            else:
-                                val=2
-                            self.run_spacing_script(None,val,SeatedAngleDetails,main)
-                            return
+                    if op[0]==KEY_OUT_SEATED_ANGLE_BOLT_COL:
+                        val=3
+                    elif op[0]==KEY_OUT_SEATED_ANGLE_BOLT_BEAM:
+                        val=4
+                    elif op[0]==KEY_OUT_TOP_ANGLE_BOLT_COL:
+                        val=1
+                    else:
+                        val=2
+                    self.run_spacing_script(None,val,SeatedAngleDetails,main)
+                    return
                 elif op[0]==KEY_OUT_DISP_BP_DETAILING_SKETCH and op[1]==KEY_OUT_DISP_BP_DETAILING:
-                            # print(f"[INFO] rows: {self.backend.bolt_row} , cols : {self.backend.bolt_column} , {self.backend.bolt_row_web}")
-                            self.run_spacing_script(0,0,B2CEndPlateDetails,main)
-                            return
+                    self.run_spacing_script(0,0,B2CEndPlateDetails,main)
+                    return
                
                 # Stiffener Sketch
                 elif op[0] == KEY_OUT_STIFFENER_SKETCH and main.module_name() == KEY_DISP_BCENDPLATE:
@@ -762,17 +761,14 @@ class OutputDock(QWidget):
                     self.run_spacing_script(0,0,B2BCoverPlateWeldedDetails,(main,False))
                     return   
 
-                #im working here
                 elif op[0]==KEY_WEB_CAPACITY and main.module_name()==KEY_DISP_BEAMCOVERPLATE:  
                     self.run_capacity_details(0,0,B2BCoverPlateCapacityDetails,(main,True,"capacity"))
                     return
                 
-                #im working here
                 elif op[0]==KEY_FLANGE_CAPACITY and main.module_name()==KEY_DISP_BEAMCOVERPLATE:
                     self.run_capacity_details(0,0,B2BCoverPlateCapacityDetails,(main,False,"capacity"))
                     return
                 
-                #im working here
                 elif op[0]==KEY_OUT_STIFFENER_SKETCH and op[1]==KEY_OUT_DISP_STIFFENER_SKETCH:
                     self.run_spacing_script(0,0,B2BEndPlateSketch,main)
                     return

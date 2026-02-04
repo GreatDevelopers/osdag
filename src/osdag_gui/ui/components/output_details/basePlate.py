@@ -1,15 +1,16 @@
 import sys
-from PySide6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
-                             QHBoxLayout, QLabel, QGraphicsView,
-                             QGraphicsScene,QGraphicsRectItem)
+from PySide6.QtWidgets import (QGraphicsRectItem, QDialog, QWidget, QVBoxLayout, 
+                             QHBoxLayout, QLabel, QGraphicsView, QSizeGrip,
+                             QGraphicsScene)
 from PySide6.QtGui import QPixmap
 from PySide6.QtCore import Qt, QRectF
-from PySide6.QtGui import QPainter, QPen, QFont,QColor
+from PySide6.QtGui import QPainter, QPen, QFont, QColor
 from PySide6.QtGui import QPolygonF, QBrush
 from PySide6.QtCore import QPointF
+from osdag_gui.ui.components.dialogs.custom_titlebar import CustomTitleBar
 from osdag_core.Common import *
 
-class BasePlateDetails(QMainWindow):
+class BasePlateDetails(QDialog):
     def __init__(self, connection_obj, rows=3, cols=2 , main = None):
         super().__init__()
         self.connection = connection_obj
@@ -79,11 +80,31 @@ class BasePlateDetails(QMainWindow):
         self.rows = rows
         self.cols = cols
         self.initUI()
-        
+
+    def setupWrapper(self):
+        self.setWindowFlags(Qt.FramelessWindowHint | Qt.WindowSystemMenuHint)
+        self.setObjectName("spacing_capacity_details")
+        main_layout = QVBoxLayout(self)
+        main_layout.setContentsMargins(1, 1, 1, 1)
+        main_layout.setSpacing(0)
+        self.title_bar = CustomTitleBar()
+        self.title_bar.setTitle("Bolt Pattern")
+        main_layout.addWidget(self.title_bar)
+        self.content_widget = QWidget(self)
+        main_layout.addWidget(self.content_widget, 1)
+        size_grip = QSizeGrip(self)
+        size_grip.setFixedSize(16, 16)
+        overlay = QHBoxLayout()
+        overlay.setContentsMargins(0, 0, 4, 4)
+        overlay.addStretch(1)
+        overlay.addWidget(size_grip, 0, Qt.AlignBottom | Qt.AlignRight)
+        main_layout.addLayout(overlay)
+
     def initUI(self):
+        self.setupWrapper()
+
         if self.stiff_along_length!='N/A':
             self.column_len=(self.plate_length-2*self.column_thickness-2*self.stiff_along_length)
-        self.setWindowTitle('Bolt Pattern Generator')
         print(f"""
         Base Plate & Bolt Details:
         --------------------------
@@ -103,13 +124,9 @@ class BasePlateDetails(QMainWindow):
         Flange     - Length: {self.stiff_flange_length}, Thickness: {self.stiff_flange_thickness}
         """)
         self.setGeometry(100, 100, 800, 500)
-        # Step 1: Create a central widget
-        central_widget = QWidget()
-        self.setCentralWidget(central_widget)
 
         # Step 2: Create main layout
         main_layout = QHBoxLayout()
-        central_widget.setLayout(main_layout)
 
         # Step 3: Left panel for selected labels only
         left_panel = QWidget()
@@ -140,6 +157,9 @@ class BasePlateDetails(QMainWindow):
         if self.plate_length>700:
             self.view.resetTransform()
             self.view.scale(0.5, 0.5)
+        
+        self.content_widget.setLayout(main_layout)
+
     def createDrawing(self):
         from PySide6.QtGui import QColor
         try:

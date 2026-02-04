@@ -1,15 +1,16 @@
 import sys
-from PySide6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
-                             QHBoxLayout, QLabel, QGraphicsView,
-                             QGraphicsScene,QGraphicsRectItem)
+from PySide6.QtWidgets import (QApplication, QDialog, QWidget, QVBoxLayout, 
+                             QHBoxLayout, QLabel, QGraphicsView, QSizeGrip,
+                             QGraphicsScene, QGraphicsRectItem)
 from PySide6.QtGui import QPixmap
 from PySide6.QtCore import Qt, QRectF
-from PySide6.QtGui import QPainter, QPen, QFont , QColor
+from PySide6.QtGui import QPainter, QPen, QFont, QColor
 from PySide6.QtGui import QPolygonF, QBrush
 from PySide6.QtCore import QPointF
+from osdag_gui.ui.components.dialogs.custom_titlebar import CustomTitleBar
 from osdag_core.Common import *
 
-class B2BCoverPlateDetails(QMainWindow):
+class B2BCoverPlateDetails(QDialog):
     def __init__(self, connection_obj, rows=3, cols=2 , main = None):
         # print(main)
         
@@ -62,9 +63,28 @@ class B2BCoverPlateDetails(QMainWindow):
         self.cols=bolt_cap[1][3]
         self.rows=bolt_cap[2][3]/self.cols
         self.initUI()
+    
+    def setupWrapper(self):
+        self.setWindowFlags(Qt.FramelessWindowHint | Qt.WindowSystemMenuHint)
+        self.setObjectName("spacing_capacity_details")
+        main_layout = QVBoxLayout(self)
+        main_layout.setContentsMargins(1, 1, 1, 1)
+        main_layout.setSpacing(0)
+        self.title_bar = CustomTitleBar()
+        self.title_bar.setTitle("Bolt Pattern")
+        main_layout.addWidget(self.title_bar)
+        self.content_widget = QWidget(self)
+        main_layout.addWidget(self.content_widget, 1)
+        size_grip = QSizeGrip(self)
+        size_grip.setFixedSize(16, 16)
+        overlay = QHBoxLayout()
+        overlay.setContentsMargins(0, 0, 4, 4)
+        overlay.addStretch(1)
+        overlay.addWidget(size_grip, 0, Qt.AlignBottom | Qt.AlignRight)
+        main_layout.addLayout(overlay)
         
     def initUI(self):
-        self.setWindowTitle('Bolt Pattern Generator')
+        self.setupWrapper()
         self.setGeometry(100, 100, 800, 500)
 
         # Print summary (optional debug/log info)
@@ -137,10 +157,7 @@ class B2BCoverPlateDetails(QMainWindow):
         main_layout.addWidget(left_panel, 1)
         main_layout.addWidget(self.view, 3)
 
-        # Set central widget with main layout
-        main_widget = QWidget()
-        main_widget.setLayout(main_layout)
-        self.setCentralWidget(main_widget)
+        self.content_widget.setLayout(main_layout)
 
         # Automatically adjust view to fit scene
     def get_parameters(self):
