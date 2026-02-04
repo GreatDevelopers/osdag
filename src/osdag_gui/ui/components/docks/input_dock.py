@@ -93,10 +93,11 @@ class InputDock(QWidget):
         self.left_container = QWidget()
         self.original_width = int(self.width())
 
-        # To connect input dock options with additional inputs
+        # To Trigger the cleanup of input dict for any additional inputs
+        # When Material is changed in input dock
         input_dp_conn_list = self.backend.input_dictionary_without_design_pref()
         input_dp_conn_list = [i[0] for i in input_dp_conn_list if i[2] == "Input Dock"]
-        print(f'input_dp_conn_list {input_dp_conn_list}')
+        # print(f'input_dp_conn_list {input_dp_conn_list}')
 
         # Bring the data instance from `design_type` folder
         input_field_list = self.backend.input_values()

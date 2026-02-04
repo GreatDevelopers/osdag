@@ -639,6 +639,10 @@ class CustomWindow(QWidget):
         self.layout.addWidget(self.splitter)
         main_v_layout.addWidget(self.body_widget)
 
+        # UI Loaded, Now Enabling design dict cleanup for any additional inputs
+        # When Material is changed in input dock
+        self.ui_loaded = True
+
     # To set the initial sizes correctly when the widgets are loaded
     def showEvent(self, event):
         super().showEvent(event)
