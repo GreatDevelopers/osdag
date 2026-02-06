@@ -16,58 +16,63 @@ from PySide6.QtCore import Qt
 from PySide6.QtGui import QCursor, QPixmap, QPainter, QColor
 
 
-def _create_pointing_hand_pixmap(size: int = 32) -> QPixmap:
+def _create_pointing_hand_pixmap(size: int = 40) -> QPixmap:
     """
     Create a classic pixelated upright pointing hand cursor.
     
     This creates the classic hand cursor with index finger pointing up,
-    white fill with black border - matching the Windows/web cursor style.
+    black fill with white border - matching the Windows/web cursor style.
     
     Args:
-        size: Size of the cursor in pixels (default 32)
+        size: Size of the cursor in pixels (default 40)
         
     Returns:
         QPixmap with transparent background and hand cursor drawn
     """
-    # Exact match to user's pixel art reference
-    # 0 = transparent, 1 = black (outline), 2 = white (fill)
+    # Larger 40x40 cursor design (no scaling, native size)
+    # 0 = transparent, 1 = white (outline), 2 = black (fill)
     cursor_data = [
-        "00000000000111100000000000000000",
-        "00000000001222100000000000000000",
-        "00000000001222100000000000000000",
-        "00000000001222100000000000000000",
-        "00000000001222100000000000000000",
-        "00000000001222100000000000000000",
-        "00000000001222111100000000000000",
-        "00000000001222222100000000000000",
-        "00000000001222222111100000000000",
-        "00000001111222222222100000000000",
-        "00000012221222222222111000000000",
-        "00000012222222222222221000000000",
-        "00000001222222222222221000000000",
-        "00000000122222222222221000000000",
-        "00000000122222222222221000000000",
-        "00000000012222222222221000000000",
-        "00000000012222222222221000000000",
-        "00000000001222222222221000000000",
-        "00000000001222222222221000000000",
-        "00000000000122222222210000000000",
-        "00000000000122222222210000000000",
-        "00000000000111111111100000000000",
-        "00000000000000000000000000000000",
-        "00000000000000000000000000000000",
-        "00000000000000000000000000000000",
-        "00000000000000000000000000000000",
-        "00000000000000000000000000000000",
-        "00000000000000000000000000000000",
-        "00000000000000000000000000000000",
-        "00000000000000000000000000000000",
-        "00000000000000000000000000000000",
-        "00000000000000000000000000000000",
+        "0000000000001111110000000000000000000000",
+        "0000000000001222210000000000000000000000",
+        "0000000000001222210000000000000000000000",
+        "0000000000001222210000000000000000000000",
+        "0000000000001222210000000000000000000000",
+        "0000000000001222210000000000000000000000",
+        "0000000000001222210000000000000000000000",
+        "0000000000001222210000000000000000000000",
+        "0000000000001222211111000000000000000000",
+        "0000000000001222222221000000000000000000",
+        "0000000000001222222221111100000000000000",
+        "0000000011111222222222222100000000000000",
+        "0000000122221222222222222111100000000000",
+        "0000000122222222222222222222100000000000",
+        "0000000012222222222222222222100000000000",
+        "0000000001222222222222222222100000000000",
+        "0000000001222222222222222222100000000000",
+        "0000000001222222222222222222100000000000",
+        "0000000000122222222222222222100000000000",
+        "0000000000122222222222222222100000000000",
+        "0000000000012222222222222222100000000000",
+        "0000000000012222222222222222100000000000",
+        "0000000000001222222222222222100000000000",
+        "0000000000001222222222222221000000000000",
+        "0000000000000122222222222221000000000000",
+        "0000000000000122222222222221000000000000",
+        "0000000000000011111111111110000000000000",
+        "0000000000000000000000000000000000000000",
+        "0000000000000000000000000000000000000000",
+        "0000000000000000000000000000000000000000",
+        "0000000000000000000000000000000000000000",
+        "0000000000000000000000000000000000000000",
+        "0000000000000000000000000000000000000000",
+        "0000000000000000000000000000000000000000",
+        "0000000000000000000000000000000000000000",
+        "0000000000000000000000000000000000000000",
+        "0000000000000000000000000000000000000000",
+        "0000000000000000000000000000000000000000",
+        "0000000000000000000000000000000000000000",
+        "0000000000000000000000000000000000000000",
     ]
-    
-    # Scale factor for different cursor sizes
-    scale = size / 32.0
     
     pixmap = QPixmap(size, size)
     pixmap.fill(Qt.transparent)
@@ -75,24 +80,16 @@ def _create_pointing_hand_pixmap(size: int = 32) -> QPixmap:
     painter = QPainter(pixmap)
     painter.setRenderHint(QPainter.Antialiasing, False)  # Keep pixelated look
     
-    # Colors: White outline, Black fill (Inverted as per request)
+    # Colors: White outline, Black fill
     outline_color = QColor(255, 255, 255, 255)  # White outline
-    fill_color = QColor(0, 0, 0, 255)      # Black fill
+    fill_color = QColor(0, 0, 0, 255)           # Black fill
     
     for y, row in enumerate(cursor_data):
         for x, pixel in enumerate(row):
             if pixel == '1':  # Outline
-                painter.fillRect(
-                    int(x * scale), int(y * scale),
-                    max(1, int(scale + 0.5)), max(1, int(scale + 0.5)),
-                    outline_color
-                )
+                painter.fillRect(x, y, 1, 1, outline_color)
             elif pixel == '2':  # Fill
-                painter.fillRect(
-                    int(x * scale), int(y * scale),
-                    max(1, int(scale + 0.5)), max(1, int(scale + 0.5)),
-                    fill_color
-                )
+                painter.fillRect(x, y, 1, 1, fill_color)
     
     painter.end()
     
@@ -100,7 +97,7 @@ def _create_pointing_hand_pixmap(size: int = 32) -> QPixmap:
 
 
 @lru_cache(maxsize=4)
-def get_pointing_hand_cursor(size: int = 32) -> QCursor:
+def get_pointing_hand_cursor(size: int = 40) -> QCursor:
     """
     Get a custom pointing hand cursor.
     
@@ -111,14 +108,14 @@ def get_pointing_hand_cursor(size: int = 32) -> QCursor:
     The cursor is cached for performance.
     
     Args:
-        size: Cursor size in pixels (default 32)
+        size: Cursor size in pixels (default 40)
         
     Returns:
         QCursor with upright pointing hand
     """
     # The hotspot is at the tip of the pointing finger
-    hotspot_x = int(size * 10 / 32)  # Centered on finger tip
-    hotspot_y = 0  # At the very top
+    hotspot_x = 13  # Centered on finger tip (proportional to 40x40)
+    hotspot_y = 0   # At the very top
     
     pixmap = _create_pointing_hand_pixmap(size)
     return QCursor(pixmap, hotspot_x, hotspot_y)
@@ -147,9 +144,8 @@ def get_cursor(cursor_shape: Qt.CursorShape) -> QCursor:
         QCursor for the requested shape
     """
     if cursor_shape == Qt.CursorShape.PointingHandCursor and should_use_custom_cursor():
-        # Get cursor size from environment or use default
-        size = int(os.environ.get("XCURSOR_SIZE", "32"))
-        return get_pointing_hand_cursor(size)
+        # Use fixed size of 40 for crisp rendering
+        return get_pointing_hand_cursor(40)
     
     return QCursor(cursor_shape)
 
